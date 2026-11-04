@@ -1,5 +1,5 @@
 @use './styles/fonts';
-@use './styles/variables' as *;
+@use './styles/theme';
 
 *,
 *::before,
@@ -10,7 +10,8 @@
 body {
   margin: 0;
   font-family: Mont, sans-serif;
-  color: $color-primary;
+  color: var(--color-primary);
+  background-color: var(--color-background);
 }
 
 .visually-hidden {
