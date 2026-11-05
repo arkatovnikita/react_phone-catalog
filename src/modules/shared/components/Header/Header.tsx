@@ -4,6 +4,7 @@ import styles from './Header.module.scss';
 import logo from '../../../../assets/images/logo.svg';
 import HeartIcon from '../../../../assets/icons/heart.svg?react';
 import CartIcon from '../../../../assets/icons/cart.svg?react';
+import MenuIcon from '../../../../assets/icons/menu.svg?react';
 
 const navItems = [
   { title: 'Home', path: '/' },
@@ -49,5 +50,9 @@ export const Header = () => (
         <CartIcon />
       </NavLink>
     </div>
+
+    <button type="button" className={styles.menuButton} aria-label="Open menu">
+      <MenuIcon />
+    </button>
   </header>
 );

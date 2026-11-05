@@ -39,7 +39,12 @@
 }
 
 .nav {
+  display: none;
   align-self: stretch;
+
+  @include on-tablet {
+    display: block;
+  }
 }
 
 .navList {
@@ -91,8 +96,31 @@
 }
 
 .actions {
-  display: flex;
+  display: none;
   margin-left: auto;
+
+  @include on-tablet {
+    display: flex;
+  }
+}
+
+.menuButton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  margin-left: auto;
+  padding: 0;
+  border: none;
+  color: var(--color-primary);
+  background-color: transparent;
+  box-shadow: -1px 0 0 var(--color-elements);
+  cursor: pointer;
+
+  @include on-tablet {
+    display: none;
+  }
 }
 
 .active {
