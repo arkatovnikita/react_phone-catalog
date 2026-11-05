@@ -1,0 +1,83 @@
+@use '../../../../styles/variables' as *;
+@use '../../../../styles/mixins' as *;
+
+.menu {
+  position: fixed;
+  inset: 48px 0 0;
+  z-index: 9;
+  display: flex;
+  flex-direction: column;
+  background-color: var(--color-background);
+
+  @include on-tablet {
+    display: none;
+  }
+}
+
+.nav {
+  flex-grow: 1;
+  overflow-y: auto;
+  padding: 24px 16px;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.link {
+  @include uppercase;
+
+  position: relative;
+  display: block;
+  padding: 8px 0;
+  text-decoration: none;
+  color: var(--color-secondary);
+  transition: color $transition-duration;
+
+  &:hover {
+    color: var(--color-primary);
+  }
+}
+
+.actions {
+  display: flex;
+  box-shadow: 0 -1px 0 var(--color-elements);
+}
+
+.iconLink {
+  position: relative;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+  justify-content: center;
+  height: 64px;
+  color: var(--color-primary);
+
+  & + & {
+    box-shadow: -1px 0 0 var(--color-elements);
+  }
+
+  &.active::after {
+    height: 3px;
+  }
+}
+
+.active {
+  color: var(--color-primary);
+
+  &::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 2px;
+    background-color: var(--color-primary);
+  }
+}
