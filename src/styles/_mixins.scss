@@ -11,3 +11,11 @@
     @content;
   }
 }
+
+@mixin uppercase {
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 11px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}

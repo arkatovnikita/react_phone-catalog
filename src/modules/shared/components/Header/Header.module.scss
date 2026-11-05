@@ -61,15 +61,12 @@
 }
 
 .navLink {
+  @include uppercase;
+
   position: relative;
   display: flex;
   align-items: center;
   height: 100%;
-  font-size: 12px;
-  font-weight: 700;
-  line-height: 11px;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
   text-decoration: none;
   color: var(--color-secondary);
   transition: color $transition-duration;
