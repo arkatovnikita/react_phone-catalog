@@ -1,11 +1,86 @@
+@use '../../../../styles/variables' as *;
+
 .header {
+  position: sticky;
+  top: 0;
+  z-index: 10;
   display: flex;
+  gap: 24px;
   align-items: center;
+  height: 64px;
+  background-color: var(--color-background);
+  box-shadow: 0 1px 0 var(--color-elements);
+}
+
+.logo {
+  display: flex;
+  padding: 0 24px;
+
+  img {
+    display: block;
+    width: 80px;
+    height: 28px;
+  }
+}
+
+.nav {
+  align-self: stretch;
 }
 
 .navList {
   display: flex;
+  gap: 64px;
+  height: 100%;
   margin: 0;
   padding: 0;
   list-style: none;
+}
+
+.navLink {
+  position: relative;
+  display: flex;
+  align-items: center;
+  height: 100%;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 11px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: var(--color-secondary);
+  transition: color $transition-duration;
+
+  &:hover {
+    color: var(--color-primary);
+  }
+}
+
+.iconLink {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 64px;
+  height: 64px;
+  color: var(--color-primary);
+  box-shadow: -1px 0 0 var(--color-elements);
+}
+
+.actions {
+  display: flex;
+  margin-left: auto;
+}
+
+.active {
+  color: var(--color-primary);
+
+  &::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 3px;
+    background-color: var(--color-primary);
+  }
 }
