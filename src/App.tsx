@@ -1,5 +1,6 @@
 import { Outlet } from 'react-router-dom';
 import { Header } from './modules/shared/components/Header';
+import { Footer } from './modules/shared/components/Footer';
 import './App.scss';
 
 export const App = () => (
@@ -12,6 +13,6 @@ export const App = () => (
       <Outlet />
     </main>
 
-    <footer>Footer</footer>
+    <Footer />
   </div>
 );
