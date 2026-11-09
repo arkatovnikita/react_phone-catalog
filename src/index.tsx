@@ -7,20 +7,26 @@ import { ProductDetailsPage } from './modules/ProductDetailsPage';
 import { FavoritesPage } from './modules/FavoritesPage';
 import { CartPage } from './modules/CartPage';
 import { NotFoundPage } from './modules/NotFoundPage';
+import { CartProvider } from './modules/shared/context/CartContext';
+import { FavoritesProvider } from './modules/shared/context/FavoritesContext';
 
 createRoot(document.getElementById('root') as HTMLElement).render(
-  <HashRouter>
-    <Routes>
-      <Route path="/" element={<App />}>
-        <Route index element={<HomePage />} />
-        <Route path="phones" element={<CatalogPage />} />
-        <Route path="tablets" element={<CatalogPage />} />
-        <Route path="accessories" element={<CatalogPage />} />
-        <Route path="product/:productId" element={<ProductDetailsPage />} />
-        <Route path="favorites" element={<FavoritesPage />} />
-        <Route path="cart" element={<CartPage />} />
-        <Route path="*" element={<NotFoundPage />} />
-      </Route>
-    </Routes>
-  </HashRouter>,
+  <CartProvider>
+    <FavoritesProvider>
+      <HashRouter>
+        <Routes>
+          <Route path="/" element={<App />}>
+            <Route index element={<HomePage />} />
+            <Route path="phones" element={<CatalogPage />} />
+            <Route path="tablets" element={<CatalogPage />} />
+            <Route path="accessories" element={<CatalogPage />} />
+            <Route path="product/:productId" element={<ProductDetailsPage />} />
+            <Route path="favorites" element={<FavoritesPage />} />
+            <Route path="cart" element={<CartPage />} />
+            <Route path="*" element={<NotFoundPage />} />
+          </Route>
+        </Routes>
+      </HashRouter>
+    </FavoritesProvider>
+  </CartProvider>,
 );
