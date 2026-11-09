@@ -128,3 +128,19 @@
     border-color: var(--color-primary);
   }
 }
+
+.addButtonActive {
+  border: 1px solid var(--color-elements);
+  color: var(--color-green);
+  background-color: var(--color-background);
+  cursor: default;
+
+  &:hover {
+    box-shadow: none;
+  }
+}
+
+.favoriteButtonActive {
+  border-color: var(--color-elements);
+  color: var(--color-red);
+}
