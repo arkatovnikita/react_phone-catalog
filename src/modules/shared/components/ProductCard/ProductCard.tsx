@@ -1,7 +1,11 @@
 import { Link } from 'react-router-dom';
+import classNames from 'classnames';
 import styles from './ProductCard.module.scss';
 import { Product } from '../../types/Product';
+import { useCart } from '../../context/CartContext';
+import { useFavorites } from '../../context/FavoritesContext';
 import HeartIcon from '../../../../assets/icons/heart.svg?react';
+import HeartFilledIcon from '../../../../assets/icons/heart-filled.svg?react';
 
 type Props = {
   product: Product;
@@ -12,6 +16,11 @@ export const ProductCard = ({ product, showFullPrice = true }: Props) => {
   const { itemId, name, image, price, fullPrice, screen, capacity, ram } =
     product;
 
+  const { addToCart, isInCart } = useCart();
+  const { toggleFavorite, isFavorite } = useFavorites();
+
+  const inCart = isInCart(itemId);
+  const favorite = isFavorite(itemId);
   const productLink = `/product/${itemId}`;
 
   const specs = [
@@ -52,16 +61,25 @@ export const ProductCard = ({ product, showFullPrice = true }: Props) => {
       </dl>
 
       <div className={styles.buttons}>
-        <button type="button" className={styles.addButton}>
-          Add to cart
+        <button
+          type="button"
+          className={classNames(styles.addButton, {
+            [styles.addButtonActive]: inCart,
+          })}
+          onClick={() => addToCart(product)}
+        >
+          {inCart ? 'Added to cart' : 'Add to cart'}
         </button>
 
         <button
           type="button"
-          className={styles.favoriteButton}
-          aria-label="Add to favorites"
+          className={classNames(styles.favoriteButton, {
+            [styles.favoriteButtonActive]: favorite,
+          })}
+          aria-label={favorite ? 'Remove from favorites' : 'Add to favorites'}
+          onClick={() => toggleFavorite(product)}
         >
-          <HeartIcon />
+          {favorite ? <HeartFilledIcon /> : <HeartIcon />}
         </button>
       </div>
     </article>
