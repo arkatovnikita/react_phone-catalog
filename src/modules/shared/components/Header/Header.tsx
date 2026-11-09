@@ -9,6 +9,9 @@ import CartIcon from '../../../../assets/icons/cart.svg?react';
 import MenuIcon from '../../../../assets/icons/menu.svg?react';
 import CloseIcon from '../../../../assets/icons/close.svg?react';
 import { BurgerMenu } from '../BurgerMenu';
+import { IconCounter } from '../IconCounter';
+import { useCart } from '../../context/CartContext';
+import { useFavorites } from '../../context/FavoritesContext';
 
 const getNavLinkClass = ({ isActive }: { isActive: boolean }) =>
   classNames(styles.navLink, { [styles.active]: isActive });
@@ -18,6 +21,9 @@ const getIconLinkClass = ({ isActive }: { isActive: boolean }) =>
 
 export const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
+
+  const { totalQuantity } = useCart();
+  const { favorites } = useFavorites();
 
   const toggleMenu = () => {
     setIsMenuOpen(prev => !prev);
@@ -52,11 +58,11 @@ export const Header = () => {
             className={getIconLinkClass}
             aria-label="Favorites"
           >
-            <HeartIcon />
+            <IconCounter icon={<HeartIcon />} count={favorites.length} />
           </NavLink>
 
           <NavLink to="/cart" className={getIconLinkClass} aria-label="Cart">
-            <CartIcon />
+            <IconCounter icon={<CartIcon />} count={totalQuantity} />
           </NavLink>
         </div>
 
