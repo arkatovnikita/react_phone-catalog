@@ -1,0 +1,29 @@
+@use '../../styles/mixins' as *;
+
+.page {
+  @include page-padding;
+
+  padding-block: 24px 56px;
+
+  @include on-desktop {
+    padding-block: 40px 80px;
+  }
+}
+
+.title {
+  @include page-title;
+}
+
+.count {
+  margin: 8px 0 32px;
+  font-size: 14px;
+  line-height: 21px;
+  color: var(--color-secondary);
+}
+
+.empty {
+  margin: 0;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 31px;
+}
