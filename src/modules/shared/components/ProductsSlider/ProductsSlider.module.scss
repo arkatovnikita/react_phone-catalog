@@ -1,0 +1,68 @@
+@use '../../../../styles/variables' as *;
+@use '../../../../styles/mixins' as *;
+
+.header {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 24px;
+}
+
+.title {
+  @include section-title;
+}
+
+.buttons {
+  display: flex;
+  gap: 16px;
+}
+
+.button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--color-icons);
+  color: var(--color-primary);
+  background-color: transparent;
+  cursor: pointer;
+  transition: border-color $transition-duration;
+
+  &:disabled {
+    border-color: var(--color-elements);
+    color: var(--color-icons);
+    cursor: default;
+  }
+
+  &:hover:not(:disabled) {
+    border-color: var(--color-primary);
+  }
+}
+
+.list {
+  display: flex;
+  gap: 16px;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scrollbar-width: none;
+
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+.item {
+  flex: 0 0 212px;
+  scroll-snap-align: start;
+
+  @include on-tablet {
+    flex-basis: 237px;
+  }
+
+  @include on-desktop {
+    flex-basis: 272px;
+  }
+}
