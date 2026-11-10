@@ -1,0 +1,66 @@
+@use '../../../../styles/variables' as *;
+@use '../../../../styles/mixins' as *;
+
+.title {
+  @include section-title;
+
+  margin-bottom: 24px;
+}
+
+.list {
+  display: grid;
+  gap: 32px;
+
+  @include on-tablet {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+  }
+}
+
+.link {
+  text-decoration: none;
+  color: var(--color-primary);
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform $transition-duration;
+}
+
+.imageWrapper {
+  aspect-ratio: 1;
+  overflow: hidden;
+}
+
+.link:hover .image {
+  transform: scale(1.1);
+}
+
+.phones {
+  background-color: #6d6474;
+}
+
+.tablets {
+  background-color: #8d8d92;
+}
+
+.accessories {
+  background-color: #973d5f;
+}
+
+.name {
+  margin: 24px 0 4px;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 26px;
+}
+
+.count {
+  margin: 0;
+  font-size: 14px;
+  line-height: 21px;
+  color: var(--color-secondary);
+}
