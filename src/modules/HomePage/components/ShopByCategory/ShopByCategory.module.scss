@@ -1,0 +1,78 @@
+@use '../../../../styles/variables' as *;
+@use '../../../../styles/mixins' as *;
+
+.title {
+  @include section-title;
+
+  margin-bottom: 24px;
+}
+
+.list {
+  display: grid;
+  gap: 32px;
+
+  @include on-tablet {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+  }
+}
+
+.link {
+  text-decoration: none;
+  color: var(--color-primary);
+}
+
+.imageWrapper {
+  position: relative;
+  aspect-ratio: 1;
+  overflow: hidden;
+}
+
+.image {
+  position: absolute;
+  top: 16%;
+  left: 20%;
+  width: 110%;
+  transition: transform $transition-duration;
+}
+
+.phones {
+  background-color: #6d6474;
+}
+
+.tablets {
+  background-color: #8d8d92;
+
+  .image {
+    top: 10%;
+    left: 18%;
+  }
+}
+
+.accessories {
+  background-color: #973d5f;
+
+  .image {
+    top: 22%;
+    left: 18%;
+    width: 180%;
+  }
+}
+
+.link:hover .image {
+  transform: scale(1.1);
+}
+
+.name {
+  margin: 24px 0 4px;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 26px;
+}
+
+.count {
+  margin: 0;
+  font-size: 14px;
+  line-height: 21px;
+  color: var(--color-secondary);
+}
