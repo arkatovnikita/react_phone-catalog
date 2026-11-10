@@ -28,7 +28,7 @@ export const ShopByCategory = ({ products }: Props) => (
           <Link key={category} to={`/${category}`} className={styles.link}>
             <div className={classNames(styles.imageWrapper, styles[category])}>
               <img
-                src={`${import.meta.env.BASE_URL}img/category-${category}.webp`}
+                src={`${import.meta.env.BASE_URL}img/category-${category}.png`}
                 alt={title}
                 className={styles.image}
               />
