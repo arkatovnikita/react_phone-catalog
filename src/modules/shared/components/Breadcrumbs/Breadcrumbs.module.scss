@@ -1,0 +1,56 @@
+@use '../../../../styles/variables' as *;
+
+.breadcrumbs {
+  margin-bottom: 24px;
+
+  @media (min-width: $desktop-min-width) {
+    margin-bottom: 40px;
+  }
+}
+
+.list {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.item {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  min-width: 0;
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 15px;
+}
+
+.home {
+  display: flex;
+  color: var(--color-primary);
+}
+
+.separator {
+  flex-shrink: 0;
+  color: var(--color-icons);
+}
+
+.link {
+  white-space: nowrap;
+  text-decoration: none;
+  color: var(--color-primary);
+  transition: color $transition-duration;
+
+  &:hover {
+    color: var(--color-secondary);
+  }
+}
+
+.current {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  color: var(--color-secondary);
+}
