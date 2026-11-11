@@ -16,15 +16,6 @@
 .main {
   display: flex;
   gap: 16px;
-  height: 320px;
-
-  @include on-tablet {
-    height: 189px;
-  }
-
-  @include on-desktop {
-    height: 400px;
-  }
 }
 
 .arrow {
@@ -51,7 +42,12 @@
 
 .viewport {
   flex-grow: 1;
+  aspect-ratio: 16 / 9;
   overflow: hidden;
+
+  @include on-tablet {
+    aspect-ratio: 1040 / 400;
+  }
 }
 
 .track {
