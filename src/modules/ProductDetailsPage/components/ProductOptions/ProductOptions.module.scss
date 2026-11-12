@@ -1,0 +1,197 @@
+@use '../../../../styles/variables' as *;
+@use '../../../../styles/mixins' as *;
+
+.options {
+  display: flex;
+  flex-direction: column;
+
+  @include on-desktop {
+    max-width: 320px;
+  }
+}
+
+.group {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-bottom: 24px;
+  padding-bottom: 24px;
+  border-bottom: 1px solid var(--color-elements);
+}
+
+.groupHeader {
+  display: flex;
+  justify-content: space-between;
+}
+
+.label,
+.id {
+  margin: 0;
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 15px;
+  color: var(--color-secondary);
+}
+
+.id {
+  color: var(--color-icons);
+}
+
+.colors,
+.capacities {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.color {
+  display: flex;
+  padding: 2px;
+  border: 1px solid var(--color-elements);
+  border-radius: 50%;
+  cursor: pointer;
+  transition: border-color $transition-duration;
+
+  &:hover,
+  &:focus-within {
+    border-color: var(--color-icons);
+  }
+}
+
+.colorActive,
+.colorActive:hover {
+  border-color: var(--color-primary);
+}
+
+.swatch {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+}
+
+.capacity {
+  display: flex;
+  align-items: center;
+  height: 32px;
+  padding-inline: 8px;
+  border: 1px solid var(--color-icons);
+  font-size: 14px;
+  line-height: 21px;
+  color: var(--color-primary);
+  cursor: pointer;
+  transition: border-color $transition-duration;
+
+  &:hover,
+  &:focus-within {
+    border-color: var(--color-primary);
+  }
+}
+
+.capacityActive {
+  border-color: var(--color-primary);
+  color: var(--color-white);
+  background-color: var(--color-primary);
+}
+
+.prices {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  margin: 0 0 16px;
+}
+
+.price {
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 41px;
+}
+
+.fullPrice {
+  font-size: 22px;
+  font-weight: 500;
+  line-height: 28px;
+  text-decoration: line-through;
+  color: var(--color-secondary);
+}
+
+.buttons {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 32px;
+}
+
+.addButton {
+  flex-grow: 1;
+  height: 48px;
+  border: none;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 21px;
+  color: var(--color-white);
+  background-color: var(--color-primary);
+  cursor: pointer;
+  transition: box-shadow $transition-duration;
+
+  &:hover {
+    box-shadow: 0 3px 13px rgb(23 32 49 / 26%);
+  }
+}
+
+.favoriteButton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  padding: 0;
+  border: 1px solid var(--color-icons);
+  color: var(--color-primary);
+  background-color: transparent;
+  cursor: pointer;
+  transition: border-color $transition-duration;
+
+  &:hover {
+    border-color: var(--color-primary);
+  }
+}
+
+.addButtonActive {
+  border: 1px solid var(--color-elements);
+  color: var(--color-green);
+  background-color: var(--color-background);
+  cursor: default;
+
+  &:hover {
+    box-shadow: none;
+  }
+}
+
+.favoriteButtonActive {
+  border-color: var(--color-elements);
+  color: var(--color-red);
+}
+
+.specs {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin: 0;
+}
+
+.spec {
+  display: flex;
+  gap: 16px;
+  justify-content: space-between;
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 15px;
+}
+
+.specLabel {
+  color: var(--color-secondary);
+}
+
+.specValue {
+  margin: 0;
+  text-align: right;
+}
