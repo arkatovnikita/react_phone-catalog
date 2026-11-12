@@ -22,13 +22,21 @@ export const getProductsByCategory = async (category: Category) => {
   return products.filter(product => product.category === category);
 };
 
-export const getProductDetails = async (
-  category: Category,
-  productId: string,
-) => {
-  const items = await get<ProductDetails[]>(`${category}.json`);
+export const getCategoryDetails = (category: Category) =>
+  get<ProductDetails[]>(`${category}.json`);
 
-  return items.find(item => item.id === productId) ?? null;
+export const getProductData = async (productId: string) => {
+  const products = await getProducts();
+  const product = products.find(item => item.itemId === productId);
+
+  if (!product) {
+    return null;
+  }
+
+  const variants = await getCategoryDetails(product.category);
+  const details = variants.find(item => item.id === productId);
+
+  return details ? { product, details, variants } : null;
 };
 
 export const getSuggestedProducts = async (count: number) => {
