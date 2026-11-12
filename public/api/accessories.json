@@ -6,8 +6,8 @@
     "name": "Apple Watch Series 3 38mm Space Gray",
     "capacityAvailable": ["38mm", "42mm"],
     "capacity": "38mm",
-    "priceRegular": 199,
-    "priceDiscount": 169,
+    "priceRegular": 329,
+    "priceDiscount": 179,
     "colorsAvailable": ["space gray", "silver", "gold"],
     "color": "space gray",
     "images": [
@@ -48,8 +48,8 @@
     "name": "Apple Watch Series 3 42mm Space Gray",
     "capacityAvailable": ["38mm", "42mm"],
     "capacity": "42mm",
-    "priceRegular": 250,
-    "priceDiscount": 219,
+    "priceRegular": 359,
+    "priceDiscount": 199,
     "colorsAvailable": ["space gray", "silver", "gold"],
     "color": "space gray",
     "images": [
@@ -77,8 +77,8 @@
         ]
       }
     ],
-    "screen": "1.3' OLED",
-    "resolution": "272x340",
+    "screen": "1.5' OLED",
+    "resolution": "312x390",
     "processor": "Apple S3",
     "ram": "768MB",
     "cell": ["Wi-Fi", "Bluetooth", "LTE"]
@@ -90,8 +90,8 @@
     "name": "Apple Watch Series 3 38mm Gold",
     "capacityAvailable": ["38mm", "42mm"],
     "capacity": "38mm",
-    "priceRegular": 199,
-    "priceDiscount": 169,
+    "priceRegular": 329,
+    "priceDiscount": 179,
     "colorsAvailable": ["space gray", "silver", "gold"],
     "color": "gold",
     "images": [
@@ -132,8 +132,8 @@
     "name": "Apple Watch Series 3 42mm Gold",
     "capacityAvailable": ["38mm", "42mm"],
     "capacity": "42mm",
-    "priceRegular": 250,
-    "priceDiscount": 219,
+    "priceRegular": 359,
+    "priceDiscount": 199,
     "colorsAvailable": ["space gray", "silver", "gold"],
     "color": "gold",
     "images": [
@@ -161,8 +161,8 @@
         ]
       }
     ],
-    "screen": "1.3' OLED",
-    "resolution": "272x340",
+    "screen": "1.5' OLED",
+    "resolution": "312x390",
     "processor": "Apple S3",
     "ram": "768MB",
     "cell": ["Wi-Fi", "Bluetooth", "LTE"]
@@ -174,8 +174,8 @@
     "name": "Apple Watch Series 3 38mm Silver",
     "capacityAvailable": ["38mm", "42mm"],
     "capacity": "38mm",
-    "priceRegular": 199,
-    "priceDiscount": 169,
+    "priceRegular": 329,
+    "priceDiscount": 179,
     "colorsAvailable": ["space gray", "silver", "gold"],
     "color": "silver",
     "images": [
@@ -216,8 +216,8 @@
     "name": "Apple Watch Series 3 42mm Silver",
     "capacityAvailable": ["38mm", "42mm"],
     "capacity": "42mm",
-    "priceRegular": 250,
-    "priceDiscount": 219,
+    "priceRegular": 359,
+    "priceDiscount": 199,
     "colorsAvailable": ["space gray", "silver", "gold"],
     "color": "silver",
     "images": [
@@ -245,8 +245,8 @@
         ]
       }
     ],
-    "screen": "1.3' OLED",
-    "resolution": "272x340",
+    "screen": "1.5' OLED",
+    "resolution": "312x390",
     "processor": "Apple S3",
     "ram": "768MB",
     "cell": ["Wi-Fi", "Bluetooth", "LTE"]
@@ -259,7 +259,7 @@
     "capacityAvailable": ["40mm", "44mm"],
     "capacity": "40mm",
     "priceRegular": 399,
-    "priceDiscount": 329,
+    "priceDiscount": 339,
     "colorsAvailable": ["space gray", "silver", "gold", "blue", "red"],
     "color": "space gray",
     "images": [
@@ -287,7 +287,7 @@
         ]
       }
     ],
-    "screen": "1.57' OLED",
+    "screen": "1.57' LTPO OLED",
     "resolution": "324x394",
     "processor": "Apple S6",
     "ram": "1GB",
@@ -329,8 +329,8 @@
         ]
       }
     ],
-    "screen": "1.57' OLED",
-    "resolution": "324x394",
+    "screen": "1.78' LTPO OLED",
+    "resolution": "368x448",
     "processor": "Apple S6",
     "ram": "1GB",
     "cell": ["Wi-Fi", "Bluetooth", "LTE"]
@@ -343,7 +343,7 @@
     "capacityAvailable": ["40mm", "44mm"],
     "capacity": "40mm",
     "priceRegular": 399,
-    "priceDiscount": 329,
+    "priceDiscount": 339,
     "colorsAvailable": ["space gray", "silver", "gold", "blue", "red"],
     "color": "silver",
     "images": [
@@ -371,7 +371,7 @@
         ]
       }
     ],
-    "screen": "1.57' OLED",
+    "screen": "1.57' LTPO OLED",
     "resolution": "324x394",
     "processor": "Apple S6",
     "ram": "1GB",
@@ -413,8 +413,8 @@
         ]
       }
     ],
-    "screen": "1.57' OLED",
-    "resolution": "324x394",
+    "screen": "1.78' LTPO OLED",
+    "resolution": "368x448",
     "processor": "Apple S6",
     "ram": "1GB",
     "cell": ["Wi-Fi", "Bluetooth", "LTE"]
@@ -427,7 +427,7 @@
     "capacityAvailable": ["40mm", "44mm"],
     "capacity": "40mm",
     "priceRegular": 399,
-    "priceDiscount": 329,
+    "priceDiscount": 339,
     "colorsAvailable": ["space gray", "silver", "gold", "blue", "red"],
     "color": "gold",
     "images": [
@@ -455,7 +455,7 @@
         ]
       }
     ],
-    "screen": "1.57' OLED",
+    "screen": "1.57' LTPO OLED",
     "resolution": "324x394",
     "processor": "Apple S6",
     "ram": "1GB",
@@ -497,8 +497,8 @@
         ]
       }
     ],
-    "screen": "1.57' OLED",
-    "resolution": "324x394",
+    "screen": "1.78' LTPO OLED",
+    "resolution": "368x448",
     "processor": "Apple S6",
     "ram": "1GB",
     "cell": ["Wi-Fi", "Bluetooth", "LTE"]
@@ -511,7 +511,7 @@
     "capacityAvailable": ["40mm", "44mm"],
     "capacity": "40mm",
     "priceRegular": 399,
-    "priceDiscount": 329,
+    "priceDiscount": 339,
     "colorsAvailable": ["space gray", "silver", "gold", "blue", "red"],
     "color": "blue",
     "images": [
@@ -539,7 +539,7 @@
         ]
       }
     ],
-    "screen": "1.57' OLED",
+    "screen": "1.57' LTPO OLED",
     "resolution": "324x394",
     "processor": "Apple S6",
     "ram": "1GB",
@@ -581,8 +581,8 @@
         ]
       }
     ],
-    "screen": "1.57' OLED",
-    "resolution": "324x394",
+    "screen": "1.78' LTPO OLED",
+    "resolution": "368x448",
     "processor": "Apple S6",
     "ram": "1GB",
     "cell": ["Wi-Fi", "Bluetooth", "LTE"]
@@ -595,7 +595,7 @@
     "capacityAvailable": ["40mm", "44mm"],
     "capacity": "40mm",
     "priceRegular": 399,
-    "priceDiscount": 329,
+    "priceDiscount": 339,
     "colorsAvailable": ["space gray", "silver", "gold", "blue", "red"],
     "color": "red",
     "images": [
@@ -623,7 +623,7 @@
         ]
       }
     ],
-    "screen": "1.57' OLED",
+    "screen": "1.57' LTPO OLED",
     "resolution": "324x394",
     "processor": "Apple S6",
     "ram": "1GB",
@@ -665,8 +665,8 @@
         ]
       }
     ],
-    "screen": "1.57' OLED",
-    "resolution": "324x394",
+    "screen": "1.78' LTPO OLED",
+    "resolution": "368x448",
     "processor": "Apple S6",
     "ram": "1GB",
     "cell": ["Wi-Fi", "Bluetooth", "LTE"]
@@ -707,7 +707,7 @@
         ]
       }
     ],
-    "screen": "1.57' OLED",
+    "screen": "1.57' LTPO OLED",
     "resolution": "324x394",
     "processor": "Apple S5",
     "ram": "1GB",
@@ -721,7 +721,7 @@
     "capacityAvailable": ["40mm", "44mm"],
     "capacity": "44mm",
     "priceRegular": 429,
-    "priceDiscount": 399,
+    "priceDiscount": 319,
     "colorsAvailable": ["space gray", "silver", "gold"],
     "color": "silver",
     "images": [
@@ -791,7 +791,7 @@
         ]
       }
     ],
-    "screen": "1.57' OLED",
+    "screen": "1.57' LTPO OLED",
     "resolution": "324x394",
     "processor": "Apple S5",
     "ram": "1GB",
@@ -805,7 +805,7 @@
     "capacityAvailable": ["40mm", "44mm"],
     "capacity": "44mm",
     "priceRegular": 429,
-    "priceDiscount": 399,
+    "priceDiscount": 319,
     "colorsAvailable": ["space gray", "silver", "gold"],
     "color": "gold",
     "images": [
@@ -849,7 +849,7 @@
     "priceRegular": 399,
     "priceDiscount": 299,
     "colorsAvailable": ["silver", "gold", "space gray"],
-    "color": "space-gray",
+    "color": "space gray",
     "images": [
       "img/accessories/apple-watch-series-5/space-gray/00.webp",
       "img/accessories/apple-watch-series-5/space-gray/01.webp",
@@ -875,7 +875,7 @@
         ]
       }
     ],
-    "screen": "1.57' OLED",
+    "screen": "1.57' LTPO OLED",
     "resolution": "324x394",
     "processor": "Apple S5",
     "ram": "1GB",
@@ -889,9 +889,9 @@
     "capacityAvailable": ["40mm", "44mm"],
     "capacity": "44mm",
     "priceRegular": 429,
-    "priceDiscount": 399,
+    "priceDiscount": 319,
     "colorsAvailable": ["space gray", "silver", "gold"],
-    "color": "space-gray",
+    "color": "space gray",
     "images": [
       "img/accessories/apple-watch-series-5/space-gray/00.webp",
       "img/accessories/apple-watch-series-5/space-gray/01.webp",
@@ -931,7 +931,7 @@
     "capacityAvailable": ["40mm", "44mm"],
     "capacity": "40mm",
     "priceRegular": 399,
-    "priceDiscount": 349,
+    "priceDiscount": 259,
     "colorsAvailable": ["silver", "gold", "space gray"],
     "color": "silver",
     "images": [
@@ -959,10 +959,10 @@
         ]
       }
     ],
-    "screen": "1.57' OLED",
+    "screen": "1.57' LTPO OLED",
     "resolution": "324x394",
     "processor": "Apple S4",
-    "ram": "0.75GB",
+    "ram": "1GB",
     "cell": ["Wi-Fi", "Bluetooth", "LTE"]
   },
   {
@@ -973,7 +973,7 @@
     "capacityAvailable": ["40mm", "44mm"],
     "capacity": "44mm",
     "priceRegular": 429,
-    "priceDiscount": 379,
+    "priceDiscount": 279,
     "colorsAvailable": ["silver", "gold", "space gray"],
     "color": "silver",
     "images": [
@@ -1001,10 +1001,10 @@
         ]
       }
     ],
-    "screen": "1.78' OLED",
+    "screen": "1.78' LTPO OLED",
     "resolution": "368x448",
     "processor": "Apple S4",
-    "ram": "0.75GB",
+    "ram": "1GB",
     "cell": ["Wi-Fi", "Bluetooth", "LTE"]
   },
   {
@@ -1015,7 +1015,7 @@
     "capacityAvailable": ["40mm", "44mm"],
     "capacity": "40mm",
     "priceRegular": 399,
-    "priceDiscount": 349,
+    "priceDiscount": 259,
     "colorsAvailable": ["silver", "gold", "space gray"],
     "color": "gold",
     "images": [
@@ -1043,10 +1043,10 @@
         ]
       }
     ],
-    "screen": "1.57' OLED",
+    "screen": "1.57' LTPO OLED",
     "resolution": "324x394",
     "processor": "Apple S4",
-    "ram": "0.75GB",
+    "ram": "1GB",
     "cell": ["Wi-Fi", "Bluetooth", "LTE"]
   },
   {
@@ -1057,7 +1057,7 @@
     "capacityAvailable": ["40mm", "44mm"],
     "capacity": "44mm",
     "priceRegular": 429,
-    "priceDiscount": 379,
+    "priceDiscount": 279,
     "colorsAvailable": ["silver", "gold", "space gray"],
     "color": "gold",
     "images": [
@@ -1085,10 +1085,10 @@
         ]
       }
     ],
-    "screen": "1.78' OLED",
+    "screen": "1.78' LTPO OLED",
     "resolution": "368x448",
     "processor": "Apple S4",
-    "ram": "0.75GB",
+    "ram": "1GB",
     "cell": ["Wi-Fi", "Bluetooth", "LTE"]
   },
   {
@@ -1099,9 +1099,9 @@
     "capacityAvailable": ["40mm", "44mm"],
     "capacity": "40mm",
     "priceRegular": 399,
-    "priceDiscount": 349,
+    "priceDiscount": 259,
     "colorsAvailable": ["silver", "gold", "space gray"],
-    "color": "space-gray",
+    "color": "space gray",
     "images": [
       "img/accessories/apple-watch-series-4/space-gray/00.webp",
       "img/accessories/apple-watch-series-4/space-gray/01.webp",
@@ -1127,10 +1127,10 @@
         ]
       }
     ],
-    "screen": "1.57' OLED",
+    "screen": "1.57' LTPO OLED",
     "resolution": "324x394",
     "processor": "Apple S4",
-    "ram": "0.75GB",
+    "ram": "1GB",
     "cell": ["Wi-Fi", "Bluetooth", "LTE"]
   },
   {
@@ -1141,9 +1141,9 @@
     "capacityAvailable": ["40mm", "44mm"],
     "capacity": "44mm",
     "priceRegular": 429,
-    "priceDiscount": 379,
+    "priceDiscount": 279,
     "colorsAvailable": ["silver", "gold", "space gray"],
-    "color": "space-gray",
+    "color": "space gray",
     "images": [
       "img/accessories/apple-watch-series-4/space-gray/00.webp",
       "img/accessories/apple-watch-series-4/space-gray/01.webp",
@@ -1169,10 +1169,10 @@
         ]
       }
     ],
-    "screen": "1.78' OLED",
+    "screen": "1.78' LTPO OLED",
     "resolution": "368x448",
     "processor": "Apple S4",
-    "ram": "0.75GB",
+    "ram": "1GB",
     "cell": ["Wi-Fi", "Bluetooth", "LTE"]
   },
   {
@@ -1183,7 +1183,7 @@
     "capacityAvailable": ["40mm", "44mm"],
     "capacity": "40mm",
     "priceRegular": 279,
-    "priceDiscount": 249,
+    "priceDiscount": 239,
     "colorsAvailable": ["silver", "gold", "space gray"],
     "color": "silver",
     "images": [
@@ -1211,7 +1211,7 @@
         ]
       }
     ],
-    "screen": "1.57' OLED",
+    "screen": "1.57' LTPO OLED",
     "resolution": "324x394",
     "processor": "Apple S5",
     "ram": "1GB",
@@ -1225,7 +1225,7 @@
     "capacityAvailable": ["40mm", "44mm"],
     "capacity": "44mm",
     "priceRegular": 309,
-    "priceDiscount": 279,
+    "priceDiscount": 259,
     "colorsAvailable": ["silver", "gold", "space gray"],
     "color": "silver",
     "images": [
@@ -1253,7 +1253,7 @@
         ]
       }
     ],
-    "screen": "1.78' OLED",
+    "screen": "1.78' LTPO OLED",
     "resolution": "368x448",
     "processor": "Apple S5",
     "ram": "1GB",
@@ -1267,7 +1267,7 @@
     "capacityAvailable": ["40mm", "44mm"],
     "capacity": "40mm",
     "priceRegular": 279,
-    "priceDiscount": 259,
+    "priceDiscount": 239,
     "colorsAvailable": ["silver", "space gray", "gold"],
     "color": "gold",
     "images": [
@@ -1295,7 +1295,7 @@
         ]
       }
     ],
-    "screen": "1.57' OLED",
+    "screen": "1.57' LTPO OLED",
     "resolution": "324x394",
     "processor": "Apple S5",
     "ram": "1GB",
@@ -1309,7 +1309,7 @@
     "capacityAvailable": ["40mm", "44mm"],
     "capacity": "44mm",
     "priceRegular": 309,
-    "priceDiscount": 289,
+    "priceDiscount": 259,
     "colorsAvailable": ["space gray", "silver", "gold"],
     "color": "gold",
     "images": [
@@ -1337,7 +1337,7 @@
         ]
       }
     ],
-    "screen": "1.78' OLED",
+    "screen": "1.78' LTPO OLED",
     "resolution": "368x448",
     "processor": "Apple S5",
     "ram": "1GB",
@@ -1351,6 +1351,48 @@
     "capacityAvailable": ["40mm", "44mm"],
     "capacity": "40mm",
     "priceRegular": 279,
+    "priceDiscount": 239,
+    "colorsAvailable": ["silver", "space gray", "gold"],
+    "color": "space gray",
+    "images": [
+      "img/accessories/apple-watch-se/space-gray/00.webp",
+      "img/accessories/apple-watch-se/space-gray/01.webp",
+      "img/accessories/apple-watch-se/space-gray/02.webp"
+    ],
+    "description": [
+      {
+        "title": "Retina display",
+        "text": [
+          "The Apple Watch SE features a stunning Retina display that is always on, providing clear and vibrant visuals for easy readability."
+        ]
+      },
+      {
+        "title": "Fitness and health tracking",
+        "text": [
+          "The Apple Watch SE helps you stay active and monitors your health with features like heart rate monitoring, activity tracking, and built-in GPS for tracking your outdoor workouts."
+        ]
+      },
+      {
+        "title": "Stay connected",
+        "text": [
+          "With cellular and Wi-Fi connectivity, you can stay connected on the go. Make and receive calls, send messages, stream music, and access Siri right from your wrist."
+        ]
+      }
+    ],
+    "screen": "1.57' LTPO OLED",
+    "resolution": "324x394",
+    "processor": "Apple S5",
+    "ram": "1GB",
+    "cell": ["Wi-Fi", "Bluetooth", "LTE"]
+  },
+  {
+    "id": "apple-watch-se-44mm-space-gray",
+    "category": "accessories",
+    "namespaceId": "apple-watch-se",
+    "name": "Apple Watch SE 44mm Space Gray",
+    "capacityAvailable": ["40mm", "44mm"],
+    "capacity": "44mm",
+    "priceRegular": 309,
     "priceDiscount": 259,
     "colorsAvailable": ["silver", "space gray", "gold"],
     "color": "space gray",
@@ -1379,49 +1421,7 @@
         ]
       }
     ],
-    "screen": "1.57' OLED",
-    "resolution": "324x394",
-    "processor": "Apple S5",
-    "ram": "1GB",
-    "cell": ["Wi-Fi", "Bluetooth", "LTE"]
-  },
-  {
-    "id": "apple-watch-se-44mm-space-gray",
-    "category": "accessories",
-    "namespaceId": "apple-watch-se",
-    "name": "Apple Watch SE 44mm Space Gray",
-    "capacityAvailable": ["40mm", "44mm"],
-    "capacity": "44mm",
-    "priceRegular": 309,
-    "priceDiscount": 289,
-    "colorsAvailable": ["silver", "space gray", "gold"],
-    "color": "space gray",
-    "images": [
-      "img/accessories/apple-watch-se/space-gray/00.webp",
-      "img/accessories/apple-watch-se/space-gray/01.webp",
-      "img/accessories/apple-watch-se/space-gray/02.webp"
-    ],
-    "description": [
-      {
-        "title": "Retina display",
-        "text": [
-          "The Apple Watch SE features a stunning Retina display that is always on, providing clear and vibrant visuals for easy readability."
-        ]
-      },
-      {
-        "title": "Fitness and health tracking",
-        "text": [
-          "The Apple Watch SE helps you stay active and monitors your health with features like heart rate monitoring, activity tracking, and built-in GPS for tracking your outdoor workouts."
-        ]
-      },
-      {
-        "title": "Stay connected",
-        "text": [
-          "With cellular and Wi-Fi connectivity, you can stay connected on the go. Make and receive calls, send messages, stream music, and access Siri right from your wrist."
-        ]
-      }
-    ],
-    "screen": "1.78' OLED",
+    "screen": "1.78' LTPO OLED",
     "resolution": "368x448",
     "processor": "Apple S5",
     "ram": "1GB",
