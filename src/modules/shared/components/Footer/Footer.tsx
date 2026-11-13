@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom';
 import styles from './Footer.module.scss';
-import logo from '../../../../assets/images/logo.svg';
+import Logo from '../../../../assets/images/logo.svg?react';
 import ArrowUpIcon from '../../../../assets/icons/arrow-up.svg?react';
 
 const REPO_URL = 'https://github.com/arkatovnikita/react_phone-catalog';
@@ -18,8 +18,8 @@ const scrollToTop = () => {
 export const Footer = () => (
   <footer className={styles.footer}>
     <div className={styles.content}>
-      <Link to="/" className={styles.logo}>
-        <img src={logo} alt="Nice Gadgets" />
+      <Link to="/" className={styles.logo} aria-label="Nice Gadgets">
+        <Logo />
       </Link>
 
       <ul className={styles.links}>

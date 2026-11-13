@@ -73,8 +73,8 @@
   font-size: 14px;
   font-weight: 700;
   line-height: 21px;
-  color: var(--color-background);
-  background-color: var(--color-primary);
+  color: var(--color-white);
+  background-color: var(--color-accent);
   cursor: pointer;
   transition: box-shadow $transition-duration;
 
@@ -101,4 +101,5 @@
 .emptyImage {
   width: 100%;
   max-width: 400px;
+  filter: var(--illustration-filter);
 }

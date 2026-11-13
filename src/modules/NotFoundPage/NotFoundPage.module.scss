@@ -22,6 +22,7 @@
 .image {
   width: 100%;
   max-width: 400px;
+  filter: var(--illustration-filter);
 }
 
 .link {
@@ -30,8 +31,8 @@
   font-weight: 700;
   line-height: 21px;
   text-decoration: none;
-  color: var(--color-background);
-  background-color: var(--color-primary);
+  color: var(--color-white);
+  background-color: var(--color-accent);
   transition: box-shadow $transition-duration;
 
   &:hover {
