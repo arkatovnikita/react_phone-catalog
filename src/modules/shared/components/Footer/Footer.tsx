@@ -18,7 +18,7 @@ const scrollToTop = () => {
 export const Footer = () => (
   <footer className={styles.footer}>
     <div className={styles.content}>
-      <Link to="/" className={styles.logo} aria-label="Nice Gadgets">
+      <Link to="/" className={styles.logo} aria-label="Orchard">
         <Logo />
       </Link>
 
@@ -44,5 +44,10 @@ export const Footer = () => (
         </span>
       </button>
     </div>
+
+    <p className={styles.note}>
+      Orchard is a portfolio project and is not affiliated with Apple Inc.
+      Product names and images belong to Apple Inc.
+    </p>
   </footer>
 );
