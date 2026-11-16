@@ -40,7 +40,7 @@ export const Header = () => {
   return (
     <>
       <header className={styles.header}>
-        <Link to="/" className={styles.logo} aria-label="Nice Gadgets">
+        <Link to="/" className={styles.logo} aria-label="Orchard">
           <Logo />
         </Link>
 
