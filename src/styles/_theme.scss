@@ -1,26 +1,46 @@
 :root {
-  --color-primary: #313237;
-  --color-secondary: #89939a;
-  --color-icons: #b4bdc4;
-  --color-elements: #e2e6e9;
+  --color-primary: #1d1d1f;
+  --color-secondary: #6e6e73;
+  --color-icons: #aeaeb2;
+  --color-elements: #e5e5ea;
   --color-background: #fff;
-  --color-surface: #fff;
-  --color-accent: #313237;
+  --color-surface: #f5f5f7;
+  --color-card: #fff;
+  --color-accent: #1d1d1f;
+  --color-on-accent: #fff;
+  --color-brand: #2e9e5b;
+  --color-brand-soft: #e7f5ec;
   --color-white: #fff;
-  --color-red: #eb5757;
-  --color-green: #27ae60;
+  --color-red: #e5484d;
+  --color-green: #2e9e5b;
+  --color-header: rgb(255 255 255 / 80%);
+  --shadow-card: 0 12px 32px rgb(0 0 0 / 8%);
   --illustration-filter: none;
+  --tint-phones: #f6ede2;
+  --tint-tablets: #eeebfa;
+  --tint-accessories: #fbf5e2;
 }
 
 [data-theme='dark'] {
-  --color-primary: #f1f2f9;
-  --color-secondary: #75767f;
-  --color-icons: #4a4d58;
-  --color-elements: #3b3e4a;
-  --color-background: #0f1121;
-  --color-surface: #161827;
-  --color-accent: #905bff;
+  --color-primary: #f5f5f7;
+  --color-secondary: #98989d;
+  --color-icons: #636366;
+  --color-elements: #2c2c2e;
+  --color-background: #000;
+  --color-surface: #161618;
+  --color-card: #1c1c1e;
+  --color-accent: #f5f5f7;
+  --color-on-accent: #1d1d1f;
+  --color-brand: #3ddc84;
+  --color-brand-soft: #0f2e1c;
+  --color-red: #ff6369;
+  --color-green: #3ddc84;
+  --color-header: rgb(0 0 0 / 72%);
+  --shadow-card: 0 12px 32px rgb(0 0 0 / 50%);
   --illustration-filter: invert(1);
+  --tint-phones: #221c15;
+  --tint-tablets: #1c1a2b;
+  --tint-accessories: #221e10;
 
   color-scheme: dark;
 }

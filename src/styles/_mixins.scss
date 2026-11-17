@@ -12,14 +12,6 @@
   }
 }
 
-@mixin uppercase {
-  font-size: 12px;
-  font-weight: 700;
-  line-height: 11px;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
-}
-
 @mixin page-padding {
   padding-inline: 16px;
 
@@ -38,24 +30,103 @@
   margin: 0;
   font-size: 32px;
   font-weight: 700;
-  line-height: 41px;
-  letter-spacing: -0.01em;
+  line-height: 1.15;
+  letter-spacing: -0.03em;
 
   @include on-tablet {
-    font-size: 48px;
-    line-height: 56px;
+    font-size: 44px;
+  }
+
+  @include on-desktop {
+    font-size: 56px;
   }
 }
 
 @mixin section-title {
   margin: 0;
-  font-size: 22px;
+  font-size: 24px;
   font-weight: 700;
-  line-height: 31px;
+  line-height: 1.2;
+  letter-spacing: -0.02em;
 
   @include on-tablet {
     font-size: 32px;
-    line-height: 41px;
-    letter-spacing: -0.01em;
+  }
+
+  @include on-desktop {
+    font-size: 36px;
+  }
+}
+
+@mixin button-primary {
+  display: inline-flex;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  height: 48px;
+  padding-inline: 24px;
+  border: none;
+  border-radius: $radius-pill;
+  font-family: inherit;
+  font-size: 15px;
+  font-weight: 600;
+  text-decoration: none;
+  color: var(--color-on-accent);
+  background-color: var(--color-accent);
+  cursor: pointer;
+  transition:
+    opacity $transition-duration,
+    transform $transition-duration;
+
+  &:hover {
+    opacity: 0.88;
+  }
+
+  &:active {
+    transform: scale(0.98);
+  }
+}
+
+@mixin icon-button($size: 40px) {
+  display: flex;
+  flex-shrink: 0;
+  align-items: center;
+  justify-content: center;
+  width: $size;
+  height: $size;
+  padding: 0;
+  border: none;
+  border-radius: 50%;
+  color: var(--color-primary);
+  background-color: var(--color-surface);
+  cursor: pointer;
+  transition:
+    background-color $transition-duration,
+    color $transition-duration,
+    transform $transition-duration;
+
+  &:disabled {
+    color: var(--color-icons);
+    cursor: default;
+    opacity: 0.5;
+  }
+
+  &:hover:not(:disabled) {
+    background-color: var(--color-elements);
+  }
+
+  &:active:not(:disabled) {
+    transform: scale(0.94);
+  }
+}
+
+@mixin hover-lift {
+  transition:
+    transform 0.35s,
+    box-shadow 0.35s;
+
+  &:hover {
+    box-shadow: var(--shadow-card);
+    transform: translateY(-4px);
   }
 }
