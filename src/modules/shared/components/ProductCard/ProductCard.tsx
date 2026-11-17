@@ -2,8 +2,7 @@ import { Link } from 'react-router-dom';
 import classNames from 'classnames';
 import styles from './ProductCard.module.scss';
 import { Product } from '../../types/Product';
-import { useCart } from '../../context/CartContext';
-import { useFavorites } from '../../context/FavoritesContext';
+import { useProductActions } from '../../hooks/useProductActions';
 import HeartIcon from '../../../../assets/icons/heart.svg?react';
 import HeartFilledIcon from '../../../../assets/icons/heart-filled.svg?react';
 import PlusIcon from '../../../../assets/icons/plus.svg?react';
@@ -18,11 +17,9 @@ export const ProductCard = ({ product, showFullPrice = true }: Props) => {
   const { itemId, name, image, price, fullPrice, screen, capacity, ram } =
     product;
 
-  const { addToCart, isInCart } = useCart();
-  const { toggleFavorite, isFavorite } = useFavorites();
+  const { inCart, favorite, handleAddToCart, handleToggleFavorite } =
+    useProductActions(product);
 
-  const inCart = isInCart(itemId);
-  const favorite = isFavorite(itemId);
   const productLink = `/product/${itemId}`;
   const hasDiscount = showFullPrice && fullPrice > price;
   const discount = Math.round(((fullPrice - price) / fullPrice) * 100);
@@ -48,7 +45,7 @@ export const ProductCard = ({ product, showFullPrice = true }: Props) => {
             [styles.favoriteButtonActive]: favorite,
           })}
           aria-label={favorite ? 'Remove from favorites' : 'Add to favorites'}
-          onClick={() => toggleFavorite(product)}
+          onClick={handleToggleFavorite}
         >
           {favorite ? <HeartFilledIcon /> : <HeartIcon />}
         </button>
@@ -77,7 +74,7 @@ export const ProductCard = ({ product, showFullPrice = true }: Props) => {
             })}
             aria-label={inCart ? 'Added to cart' : 'Add to cart'}
             title={inCart ? 'Added to cart' : 'Add to cart'}
-            onClick={() => addToCart(product)}
+            onClick={handleAddToCart}
           >
             {inCart ? <CheckIcon /> : <PlusIcon />}
           </button>

@@ -1,0 +1,89 @@
+@use '../../../../styles/variables' as *;
+@use '../../../../styles/mixins' as *;
+
+.toaster {
+  position: fixed;
+  right: 16px;
+  bottom: 16px;
+  left: 16px;
+  z-index: 30;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  pointer-events: none;
+
+  @include on-tablet {
+    right: 24px;
+    bottom: 24px;
+    left: auto;
+    align-items: flex-end;
+  }
+}
+
+.toast {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  width: 100%;
+  max-width: 400px;
+  padding: 10px 10px 10px 12px;
+  border-radius: 18px;
+  color: var(--color-on-accent);
+  background-color: var(--color-accent);
+  box-shadow: var(--shadow-card);
+  pointer-events: auto;
+  animation: slide-up 0.3s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.icon {
+  display: flex;
+  flex-shrink: 0;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  color: var(--color-white);
+  background-color: var(--color-brand);
+}
+
+.message {
+  flex-grow: 1;
+  margin: 0;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+}
+
+.link {
+  flex-shrink: 0;
+  font-size: 14px;
+  font-weight: 600;
+  text-decoration: none;
+  color: var(--color-brand);
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.close {
+  @include icon-button(28px);
+
+  color: inherit;
+  background-color: transparent;
+  opacity: 0.6;
+
+  &:hover:not(:disabled) {
+    background-color: transparent;
+    opacity: 1;
+  }
+}
+
+@keyframes slide-up {
+  from {
+    opacity: 0;
+    transform: translateY(16px) scale(0.98);
+  }
+}
