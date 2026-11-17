@@ -37,9 +37,7 @@ export const HomePage = () => {
 
   return (
     <div className={styles.page}>
-      <h1 className="visually-hidden">Product Catalog</h1>
-
-      <h2 className={styles.title}>Welcome to Orchard</h2>
+      <h1 className="visually-hidden">Orchard — Apple devices store</h1>
 
       <PicturesSlider />
 

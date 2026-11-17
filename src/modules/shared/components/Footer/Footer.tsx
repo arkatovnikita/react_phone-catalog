@@ -6,7 +6,7 @@ import ArrowUpIcon from '../../../../assets/icons/arrow-up.svg?react';
 const REPO_URL = 'https://github.com/arkatovnikita/react_phone-catalog';
 
 const footerLinks = [
-  { title: 'Github', href: REPO_URL },
+  { title: 'GitHub', href: REPO_URL },
   { title: 'Contacts', href: 'https://github.com/arkatovnikita' },
   { title: 'Rights', href: `${REPO_URL}/blob/master/LICENSE` },
 ];

@@ -7,23 +7,28 @@
   padding-block: 24px 56px;
 
   @include on-desktop {
-    padding-block: 40px 80px;
+    padding-block: 32px 80px;
   }
 }
 
 .title {
   @include page-title;
 
-  margin-block: 16px 32px;
+  margin-block: 16px 28px;
+
+  @include on-desktop {
+    margin-bottom: 40px;
+  }
 }
 
 .content {
   display: flex;
   flex-direction: column;
-  gap: 32px;
+  gap: 24px;
 
   @include on-desktop {
     flex-direction: row;
+    gap: 32px;
     align-items: flex-start;
   }
 }
@@ -32,55 +37,83 @@
   display: flex;
   flex-direction: column;
   flex-grow: 1;
-  gap: 16px;
+  gap: 12px;
 }
 
 .summary {
   display: flex;
   flex-direction: column;
-  align-items: center;
+  gap: 20px;
   padding: 24px;
-  border: 1px solid var(--color-elements);
+  border-radius: 24px;
+  background-color: var(--color-surface);
 
   @include on-desktop {
+    position: sticky;
+    top: 96px;
     flex-shrink: 0;
-    width: 368px;
+    width: 380px;
   }
+}
+
+.summaryTitle {
+  margin: 0;
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+.rows {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin: 0;
+
+  dd {
+    margin: 0;
+    font-weight: 500;
+  }
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  font-size: 15px;
+  color: var(--color-secondary);
+
+  dd {
+    color: var(--color-primary);
+  }
+}
+
+.rowDiscount,
+.rowDiscount dd,
+.row .free {
+  color: var(--color-green);
 }
 
 .total {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
   margin: 0;
-  font-size: 32px;
-  font-weight: 700;
-  line-height: 41px;
+  padding-top: 20px;
+  border-top: 1px solid var(--color-elements);
+  font-size: 17px;
+  font-weight: 600;
 }
 
-.totalLabel {
-  width: 100%;
-  margin: 0 0 24px;
-  padding-bottom: 24px;
-  border-bottom: 1px solid var(--color-elements);
-  font-size: 14px;
-  line-height: 21px;
-  text-align: center;
-  color: var(--color-secondary);
+.totalValue {
+  font-size: 32px;
+  font-weight: 700;
+  letter-spacing: -0.02em;
 }
 
 .checkout {
-  width: 100%;
-  height: 48px;
-  border: none;
-  font-size: 14px;
-  font-weight: 700;
-  line-height: 21px;
-  color: var(--color-white);
-  background-color: var(--color-accent);
-  cursor: pointer;
-  transition: box-shadow $transition-duration;
+  @include button-primary;
 
-  &:hover {
-    box-shadow: 0 3px 13px rgb(23 32 49 / 26%);
-  }
+  width: 100%;
+  height: 52px;
 }
 
 .empty {
@@ -94,12 +127,16 @@
 .emptyText {
   margin: 0;
   font-size: 22px;
-  font-weight: 700;
-  line-height: 31px;
+  font-weight: 600;
+  letter-spacing: -0.01em;
 }
 
 .emptyImage {
   width: 100%;
-  max-width: 400px;
+  max-width: 360px;
   filter: var(--illustration-filter);
+}
+
+.emptyLink {
+  @include button-primary;
 }

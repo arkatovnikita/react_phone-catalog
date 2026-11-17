@@ -59,7 +59,7 @@ export const PicturesSlider = () => {
       <div className={styles.main}>
         <button
           type="button"
-          className={styles.arrow}
+          className={classNames(styles.arrow, styles.arrowPrev)}
           aria-label="Previous picture"
           onClick={showPrev}
         >
@@ -89,7 +89,7 @@ export const PicturesSlider = () => {
 
         <button
           type="button"
-          className={styles.arrow}
+          className={classNames(styles.arrow, styles.arrowNext)}
           aria-label="Next picture"
           onClick={showNext}
         >

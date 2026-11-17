@@ -2,11 +2,17 @@ import { createContext, ReactNode, useContext, useMemo } from 'react';
 import { CartItem } from '../types/CartItem';
 import { Product } from '../types/Product';
 import { useLocalStorage } from '../hooks/useLocalStorage';
+import { PROMO_CODES } from '../constants/promoCodes';
 
 type CartContextValue = {
   cartItems: CartItem[];
   totalQuantity: number;
   totalPrice: number;
+  promoCode: string;
+  discount: number;
+  finalPrice: number;
+  applyPromoCode: (code: string) => boolean;
+  removePromoCode: () => void;
   addToCart: (product: Product) => void;
   removeFromCart: (id: string) => void;
   changeQuantity: (id: string, delta: number) => void;
@@ -22,6 +28,7 @@ type Props = {
 
 export const CartProvider = ({ children }: Props) => {
   const [cartItems, setCartItems] = useLocalStorage<CartItem[]>('cart', []);
+  const [promoCode, setPromoCode] = useLocalStorage('promoCode', '');
 
   const value = useMemo(() => {
     const addToCart = (product: Product) => {
@@ -48,6 +55,23 @@ export const CartProvider = ({ children }: Props) => {
 
     const clearCart = () => {
       setCartItems([]);
+      setPromoCode('');
+    };
+
+    const applyPromoCode = (code: string) => {
+      const normalizedCode = code.trim().toUpperCase();
+
+      if (!PROMO_CODES[normalizedCode]) {
+        return false;
+      }
+
+      setPromoCode(normalizedCode);
+
+      return true;
+    };
+
+    const removePromoCode = () => {
+      setPromoCode('');
     };
 
     const isInCart = (id: string) => cartItems.some(item => item.id === id);
@@ -62,17 +86,26 @@ export const CartProvider = ({ children }: Props) => {
       0,
     );
 
+    const discountPercent = PROMO_CODES[promoCode] ?? 0;
+    const discount = Math.round((totalPrice * discountPercent) / 100);
+    const finalPrice = totalPrice - discount;
+
     return {
       cartItems,
       totalQuantity,
       totalPrice,
+      promoCode,
+      discount,
+      finalPrice,
+      applyPromoCode,
+      removePromoCode,
       addToCart,
       removeFromCart,
       changeQuantity,
       clearCart,
       isInCart,
     };
-  }, [cartItems, setCartItems]);
+  }, [cartItems, setCartItems, promoCode, setPromoCode]);
 
   return <CartContext.Provider value={value}>{children}</CartContext.Provider>;
 };

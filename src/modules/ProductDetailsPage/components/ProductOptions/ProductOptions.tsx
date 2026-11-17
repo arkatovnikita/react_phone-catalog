@@ -3,8 +3,7 @@ import classNames from 'classnames';
 import styles from './ProductOptions.module.scss';
 import { Product } from '../../../shared/types/Product';
 import { ProductDetails } from '../../../shared/types/ProductDetails';
-import { useCart } from '../../../shared/context/CartContext';
-import { useFavorites } from '../../../shared/context/FavoritesContext';
+import { useProductActions } from '../../../shared/hooks/useProductActions';
 import { COLORS } from '../../../shared/constants/colors';
 import HeartIcon from '../../../../assets/icons/heart.svg?react';
 import HeartFilledIcon from '../../../../assets/icons/heart-filled.svg?react';
@@ -20,11 +19,8 @@ const formatCapacity = (capacity: string) =>
 
 export const ProductOptions = ({ product, details, variants }: Props) => {
   const navigate = useNavigate();
-  const { addToCart, isInCart } = useCart();
-  const { toggleFavorite, isFavorite } = useFavorites();
-
-  const inCart = isInCart(product.itemId);
-  const favorite = isFavorite(product.itemId);
+  const { inCart, favorite, handleAddToCart, handleToggleFavorite } =
+    useProductActions(product);
 
   const specs = [
     { label: 'Screen', value: details.screen },
@@ -120,7 +116,7 @@ export const ProductOptions = ({ product, details, variants }: Props) => {
           className={classNames(styles.addButton, {
             [styles.addButtonActive]: inCart,
           })}
-          onClick={() => addToCart(product)}
+          onClick={handleAddToCart}
         >
           {inCart ? 'Added to cart' : 'Add to cart'}
         </button>
@@ -131,7 +127,7 @@ export const ProductOptions = ({ product, details, variants }: Props) => {
             [styles.favoriteButtonActive]: favorite,
           })}
           aria-label={favorite ? 'Remove from favorites' : 'Add to favorites'}
-          onClick={() => toggleFavorite(product)}
+          onClick={handleToggleFavorite}
         >
           {favorite ? <HeartFilledIcon /> : <HeartIcon />}
         </button>

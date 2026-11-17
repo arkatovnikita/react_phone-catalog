@@ -1,5 +1,5 @@
-import { useState } from 'react';
-import { Link, NavLink } from 'react-router-dom';
+import { useCallback, useEffect, useState } from 'react';
+import { Link, NavLink, useLocation } from 'react-router-dom';
 import classNames from 'classnames';
 import styles from './Header.module.scss';
 import { navItems } from '../../constants/navItems';
@@ -11,19 +11,27 @@ import CloseIcon from '../../../../assets/icons/close.svg?react';
 import SunIcon from '../../../../assets/icons/sun.svg?react';
 import MoonIcon from '../../../../assets/icons/moon.svg?react';
 import { BurgerMenu } from '../BurgerMenu';
+import { CartDrawer } from '../CartDrawer';
 import { IconCounter } from '../IconCounter';
 import { useCart } from '../../context/CartContext';
 import { useFavorites } from '../../context/FavoritesContext';
 import { useTheme } from '../../context/ThemeContext';
 
 const getNavLinkClass = ({ isActive }: { isActive: boolean }) =>
-  classNames(styles.navLink, { [styles.active]: isActive });
+  classNames(styles.navLink, { [styles.navLinkActive]: isActive });
 
 const getIconLinkClass = ({ isActive }: { isActive: boolean }) =>
-  classNames(styles.iconLink, { [styles.active]: isActive });
+  classNames(styles.iconButton, { [styles.iconButtonActive]: isActive });
 
 export const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
+  const [isCartOpen, setIsCartOpen] = useState(false);
+  const { pathname } = useLocation();
+
+  useEffect(() => {
+    setIsMenuOpen(false);
+    setIsCartOpen(false);
+  }, [pathname]);
 
   const { totalQuantity } = useCart();
   const { favorites } = useFavorites();
@@ -37,66 +45,87 @@ export const Header = () => {
     setIsMenuOpen(false);
   };
 
+  const closeCart = useCallback(() => {
+    setIsCartOpen(false);
+  }, []);
+
   return (
     <>
       <header className={styles.header}>
-        <Link to="/" className={styles.logo} aria-label="Orchard">
-          <Logo />
-        </Link>
-
-        <nav className={styles.nav}>
-          <ul className={styles.navList}>
-            {navItems.map(({ title, path }) => (
-              <li key={path}>
-                <NavLink to={path} className={getNavLinkClass}>
-                  {title}
-                </NavLink>
-              </li>
-            ))}
-          </ul>
-        </nav>
-
-        <div className={styles.controls}>
-          <button
-            type="button"
-            className={styles.themeButton}
-            aria-label={
-              theme === 'light'
-                ? 'Switch to dark theme'
-                : 'Switch to light theme'
-            }
-            onClick={toggleTheme}
+        <div className={styles.content}>
+          <Link
+            to="/"
+            className={styles.logo}
+            aria-label="Orchard"
+            onClick={closeMenu}
           >
-            {theme === 'light' ? <MoonIcon /> : <SunIcon />}
-          </button>
+            <Logo />
+          </Link>
 
-          <div className={styles.actions}>
-            <NavLink
-              to="/favorites"
-              className={getIconLinkClass}
-              aria-label="Favorites"
+          <nav className={styles.nav}>
+            <ul className={styles.navList}>
+              {navItems.map(({ title, path }) => (
+                <li key={path}>
+                  <NavLink to={path} className={getNavLinkClass}>
+                    {title}
+                  </NavLink>
+                </li>
+              ))}
+            </ul>
+          </nav>
+
+          <div className={styles.controls}>
+            <button
+              type="button"
+              className={styles.iconButton}
+              aria-label={
+                theme === 'light'
+                  ? 'Switch to dark theme'
+                  : 'Switch to light theme'
+              }
+              onClick={toggleTheme}
             >
-              <IconCounter icon={<HeartIcon />} count={favorites.length} />
-            </NavLink>
+              {theme === 'light' ? <MoonIcon /> : <SunIcon />}
+            </button>
 
-            <NavLink to="/cart" className={getIconLinkClass} aria-label="Cart">
-              <IconCounter icon={<CartIcon />} count={totalQuantity} />
-            </NavLink>
+            <div className={styles.actions}>
+              <NavLink
+                to="/favorites"
+                className={getIconLinkClass}
+                aria-label="Favorites"
+              >
+                <IconCounter icon={<HeartIcon />} count={favorites.length} />
+              </NavLink>
+
+              <button
+                type="button"
+                className={classNames(styles.iconButton, {
+                  [styles.iconButtonActive]: pathname === '/cart',
+                })}
+                aria-label="Open cart"
+                aria-haspopup="dialog"
+                onClick={() => setIsCartOpen(true)}
+              >
+                <IconCounter icon={<CartIcon />} count={totalQuantity} />
+              </button>
+            </div>
+
+            <button
+              type="button"
+              className={classNames(styles.iconButton, styles.menuButton)}
+              aria-label={isMenuOpen ? 'Close menu' : 'Open menu'}
+              aria-expanded={isMenuOpen}
+              onClick={toggleMenu}
+            >
+              {isMenuOpen ? <CloseIcon /> : <MenuIcon />}
+            </button>
           </div>
-
-          <button
-            type="button"
-            className={styles.menuButton}
-            aria-label={isMenuOpen ? 'Close menu' : 'Open menu'}
-            aria-expanded={isMenuOpen}
-            onClick={toggleMenu}
-          >
-            {isMenuOpen ? <CloseIcon /> : <MenuIcon />}
-          </button>
         </div>
       </header>
 
       {isMenuOpen && <BurgerMenu onClose={closeMenu} />}
+
+      {isCartOpen && <CartDrawer onClose={closeCart} />}
     </>
   );
 };

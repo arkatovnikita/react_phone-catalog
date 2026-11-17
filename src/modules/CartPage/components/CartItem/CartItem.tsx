@@ -18,15 +18,6 @@ export const CartItem = ({ item }: Props) => {
   return (
     <article className={styles.item}>
       <div className={styles.info}>
-        <button
-          type="button"
-          className={styles.remove}
-          aria-label="Remove from cart"
-          onClick={() => removeFromCart(id)}
-        >
-          <CloseIcon />
-        </button>
-
         <Link to={productLink} className={styles.imageLink}>
           <img
             src={`${import.meta.env.BASE_URL}${product.image}`}
@@ -65,6 +56,15 @@ export const CartItem = ({ item }: Props) => {
         </div>
 
         <p className={styles.price}>${product.price * quantity}</p>
+
+        <button
+          type="button"
+          className={styles.remove}
+          aria-label="Remove from cart"
+          onClick={() => removeFromCart(id)}
+        >
+          <CloseIcon />
+        </button>
       </div>
     </article>
   );

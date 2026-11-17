@@ -12,11 +12,14 @@ export const ProductGallery = ({ images, name }: Props) => {
 
   return (
     <div className={styles.gallery}>
-      <img
-        src={`${import.meta.env.BASE_URL}${images[activeIndex]}`}
-        alt={name}
-        className={styles.mainImage}
-      />
+      <div className={styles.main}>
+        <img
+          key={images[activeIndex]}
+          src={`${import.meta.env.BASE_URL}${images[activeIndex]}`}
+          alt={name}
+          className={styles.mainImage}
+        />
+      </div>
 
       <ul className={styles.thumbs}>
         {images.map((image, index) => (

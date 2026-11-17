@@ -1,3 +1,4 @@
+import '@fontsource-variable/inter';
 import { createRoot } from 'react-dom/client';
 import { HashRouter, Routes, Route } from 'react-router-dom';
 import { App } from './App';
