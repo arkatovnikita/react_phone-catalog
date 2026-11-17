@@ -5,12 +5,18 @@
   position: sticky;
   top: 0;
   z-index: 10;
+  border-bottom: 1px solid var(--color-elements);
+  background-color: var(--color-header);
+  backdrop-filter: saturate(180%) blur(20px);
+}
+
+.content {
+  @include page-padding;
+
   display: flex;
   gap: 16px;
   align-items: center;
-  height: 48px;
-  background-color: var(--color-background);
-  box-shadow: 0 1px 0 var(--color-elements);
+  height: 56px;
 
   @include on-desktop {
     gap: 24px;
@@ -20,20 +26,22 @@
 
 .logo {
   display: flex;
-  padding: 0 16px;
+  flex-shrink: 0;
   color: var(--color-primary);
+  transition: opacity $transition-duration;
 
   svg {
     display: block;
     width: auto;
-    height: 22px;
+    height: 24px;
+  }
+
+  &:hover {
+    opacity: 0.7;
   }
 
   @include on-desktop {
-    padding: 0 24px;
-
     svg {
-      width: auto;
       height: 26px;
     }
   }
@@ -41,7 +49,7 @@
 
 .nav {
   display: none;
-  align-self: stretch;
+  margin-inline: auto;
 
   @include on-tablet {
     display: block;
@@ -50,109 +58,74 @@
 
 .navList {
   display: flex;
-  gap: 32px;
-  height: 100%;
+  gap: 4px;
   margin: 0;
   padding: 0;
   list-style: none;
-
-  @include on-desktop {
-    gap: 64px;
-  }
 }
 
 .navLink {
-  @include uppercase;
-
-  position: relative;
-  display: flex;
-  align-items: center;
-  height: 100%;
+  display: block;
+  padding: 8px 14px;
+  border-radius: $radius-pill;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
   text-decoration: none;
   color: var(--color-secondary);
-  transition: color $transition-duration;
+  transition:
+    color $transition-duration,
+    background-color $transition-duration;
 
   &:hover {
     color: var(--color-primary);
+    background-color: var(--color-surface);
   }
 }
 
-.iconLink {
-  position: relative;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 48px;
-  height: 48px;
+.navLinkActive {
   color: var(--color-primary);
-  box-shadow: -1px 0 0 var(--color-elements);
-
-  @include on-desktop {
-    width: 64px;
-    height: 64px;
-  }
+  background-color: var(--color-surface);
 }
 
 .controls {
   display: flex;
-  margin-left: auto;
-}
-
-.themeButton {
-  display: flex;
+  gap: 4px;
   align-items: center;
-  justify-content: center;
-  width: 48px;
-  height: 48px;
-  padding: 0;
-  border: none;
-  color: var(--color-primary);
-  background-color: transparent;
-  box-shadow: -1px 0 0 var(--color-elements);
-  cursor: pointer;
+  margin-left: auto;
 
-  @include on-desktop {
-    width: 64px;
-    height: 64px;
+  @include on-tablet {
+    margin-left: 0;
   }
 }
 
 .actions {
   display: none;
+  gap: 4px;
 
   @include on-tablet {
     display: flex;
   }
 }
 
-.menuButton {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 48px;
-  height: 48px;
-  padding: 0;
-  border: none;
+.iconButton {
+  @include icon-button;
+
   color: var(--color-primary);
   background-color: transparent;
-  box-shadow: -1px 0 0 var(--color-elements);
-  cursor: pointer;
 
-  @include on-tablet {
-    display: none;
+  svg {
+    width: 20px;
+    height: 20px;
   }
 }
 
-.active {
-  color: var(--color-primary);
+.iconButtonActive {
+  background-color: var(--color-surface);
+}
 
-  &::after {
-    content: '';
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    height: 3px;
-    background-color: var(--color-primary);
+.menuButton {
+  @include on-tablet {
+    display: none;
   }
 }
