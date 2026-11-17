@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom';
 import styles from './CartPage.module.scss';
 import { useCart } from '../shared/context/CartContext';
 import { BackButton } from '../shared/components/BackButton';
@@ -30,6 +31,10 @@ export const CartPage = () => {
             alt="Empty cart"
             className={styles.emptyImage}
           />
+
+          <Link to="/" className={styles.emptyLink}>
+            Continue shopping
+          </Link>
         </div>
       ) : (
         <div className={styles.content}>
@@ -40,11 +45,11 @@ export const CartPage = () => {
           </div>
 
           <div className={styles.summary}>
-            <p className={styles.total}>${totalPrice}</p>
-
             <p className={styles.totalLabel}>
               Total for {totalQuantity} {totalQuantity === 1 ? 'item' : 'items'}
             </p>
+
+            <p className={styles.total}>${totalPrice}</p>
 
             <button
               type="button"

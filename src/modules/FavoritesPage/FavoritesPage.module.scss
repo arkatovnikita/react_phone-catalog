@@ -3,7 +3,7 @@
 .page {
   @include page-padding;
 
-  padding-block: 24px 56px;
+  padding-block: 32px 56px;
 
   @include on-desktop {
     padding-block: 40px 80px;
@@ -15,15 +15,18 @@
 }
 
 .count {
-  margin: 8px 0 32px;
-  font-size: 14px;
-  line-height: 21px;
+  margin: 8px 0 28px;
+  font-size: 15px;
   color: var(--color-secondary);
+
+  @include on-desktop {
+    margin-bottom: 36px;
+  }
 }
 
 .empty {
   margin: 0;
   font-size: 22px;
-  font-weight: 700;
-  line-height: 31px;
+  font-weight: 600;
+  letter-spacing: -0.01em;
 }

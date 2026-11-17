@@ -6,36 +6,22 @@
 
   display: flex;
   flex-direction: column;
-  gap: 32px;
+  gap: 28px;
   align-items: center;
-  padding-block: 40px;
+  padding-block: 48px 64px;
   text-align: center;
 }
 
 .title {
-  margin: 0;
-  font-size: 32px;
-  font-weight: 700;
-  line-height: 41px;
+  @include page-title;
 }
 
 .image {
   width: 100%;
-  max-width: 400px;
+  max-width: 360px;
   filter: var(--illustration-filter);
 }
 
 .link {
-  padding: 12px 32px;
-  font-size: 14px;
-  font-weight: 700;
-  line-height: 21px;
-  text-decoration: none;
-  color: var(--color-white);
-  background-color: var(--color-accent);
-  transition: box-shadow $transition-duration;
-
-  &:hover {
-    box-shadow: 0 3px 13px rgb(23 32 49 / 26%);
-  }
+  @include button-primary;
 }

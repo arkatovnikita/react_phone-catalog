@@ -6,14 +6,14 @@
   padding-block: 24px 56px;
 
   @include on-desktop {
-    padding-block: 24px 80px;
+    padding-block: 32px 80px;
   }
 }
 
 .title {
   @include section-title;
 
-  margin-block: 16px 32px;
+  margin-block: 16px 28px;
 
   @include on-desktop {
     margin-bottom: 40px;
@@ -22,12 +22,13 @@
 
 .top {
   display: grid;
-  gap: 40px;
+  gap: 32px;
   margin-bottom: 56px;
 
   @include on-tablet {
     grid-template-columns: 7fr 5fr;
     gap: 32px;
+    align-items: start;
     margin-bottom: 64px;
   }
 
