@@ -1,5 +1,11 @@
+@use '../../../../styles/mixins' as *;
+
 .list {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(229px, 1fr));
-  gap: 40px 16px;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 16px;
+
+  @include on-desktop {
+    gap: 24px 16px;
+  }
 }
