@@ -1,14 +1,23 @@
 import { Link } from 'react-router-dom';
+import classNames from 'classnames';
 import styles from './CartPage.module.scss';
 import { useCart } from '../shared/context/CartContext';
 import { BackButton } from '../shared/components/BackButton';
 import { CartItem } from './components/CartItem';
+import { PromoCode } from './components/PromoCode';
 
 const CHECKOUT_MESSAGE =
   'Checkout is not implemented yet. Do you want to clear the Cart?';
 
 export const CartPage = () => {
-  const { cartItems, totalPrice, totalQuantity, clearCart } = useCart();
+  const {
+    cartItems,
+    totalPrice,
+    totalQuantity,
+    discount,
+    finalPrice,
+    clearCart,
+  } = useCart();
 
   const handleCheckout = () => {
     if (window.confirm(CHECKOUT_MESSAGE)) {
@@ -45,11 +54,36 @@ export const CartPage = () => {
           </div>
 
           <div className={styles.summary}>
-            <p className={styles.totalLabel}>
-              Total for {totalQuantity} {totalQuantity === 1 ? 'item' : 'items'}
-            </p>
+            <h2 className={styles.summaryTitle}>Order summary</h2>
 
-            <p className={styles.total}>${totalPrice}</p>
+            <dl className={styles.rows}>
+              <div className={styles.row}>
+                <dt>
+                  Subtotal ({totalQuantity}{' '}
+                  {totalQuantity === 1 ? 'item' : 'items'})
+                </dt>
+                <dd>${totalPrice}</dd>
+              </div>
+
+              {discount > 0 && (
+                <div className={classNames(styles.row, styles.rowDiscount)}>
+                  <dt>Discount</dt>
+                  <dd>−${discount}</dd>
+                </div>
+              )}
+
+              <div className={styles.row}>
+                <dt>Delivery</dt>
+                <dd className={styles.free}>Free</dd>
+              </div>
+            </dl>
+
+            <PromoCode />
+
+            <p className={styles.total}>
+              <span>Total</span>
+              <span className={styles.totalValue}>${finalPrice}</span>
+            </p>
 
             <button
               type="button"
