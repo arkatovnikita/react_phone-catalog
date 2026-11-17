@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import { useCallback, useEffect, useState } from 'react';
 import { Link, NavLink, useLocation } from 'react-router-dom';
 import classNames from 'classnames';
 import styles from './Header.module.scss';
@@ -11,6 +11,7 @@ import CloseIcon from '../../../../assets/icons/close.svg?react';
 import SunIcon from '../../../../assets/icons/sun.svg?react';
 import MoonIcon from '../../../../assets/icons/moon.svg?react';
 import { BurgerMenu } from '../BurgerMenu';
+import { CartDrawer } from '../CartDrawer';
 import { IconCounter } from '../IconCounter';
 import { useCart } from '../../context/CartContext';
 import { useFavorites } from '../../context/FavoritesContext';
@@ -24,10 +25,12 @@ const getIconLinkClass = ({ isActive }: { isActive: boolean }) =>
 
 export const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
+  const [isCartOpen, setIsCartOpen] = useState(false);
   const { pathname } = useLocation();
 
   useEffect(() => {
     setIsMenuOpen(false);
+    setIsCartOpen(false);
   }, [pathname]);
 
   const { totalQuantity } = useCart();
@@ -41,6 +44,10 @@ export const Header = () => {
   const closeMenu = () => {
     setIsMenuOpen(false);
   };
+
+  const closeCart = useCallback(() => {
+    setIsCartOpen(false);
+  }, []);
 
   return (
     <>
@@ -90,13 +97,17 @@ export const Header = () => {
                 <IconCounter icon={<HeartIcon />} count={favorites.length} />
               </NavLink>
 
-              <NavLink
-                to="/cart"
-                className={getIconLinkClass}
-                aria-label="Cart"
+              <button
+                type="button"
+                className={classNames(styles.iconButton, {
+                  [styles.iconButtonActive]: pathname === '/cart',
+                })}
+                aria-label="Open cart"
+                aria-haspopup="dialog"
+                onClick={() => setIsCartOpen(true)}
               >
                 <IconCounter icon={<CartIcon />} count={totalQuantity} />
-              </NavLink>
+              </button>
             </div>
 
             <button
@@ -113,6 +124,8 @@ export const Header = () => {
       </header>
 
       {isMenuOpen && <BurgerMenu onClose={closeMenu} />}
+
+      {isCartOpen && <CartDrawer onClose={closeCart} />}
     </>
   );
 };
