@@ -24,8 +24,9 @@ const BREADCRUMB_TITLES: Record<Category, string> = {
 
 const SORT_OPTIONS = [
   { value: 'age', label: 'Newest' },
-  { value: 'title', label: 'Alphabetically' },
-  { value: 'price', label: 'Cheapest' },
+  { value: 'price', label: 'Price: low to high' },
+  { value: 'price-desc', label: 'Price: high to low' },
+  { value: 'discount', label: 'Biggest discount' },
 ];
 
 const PER_PAGE_OPTIONS = [
@@ -39,11 +40,18 @@ const sortProducts = (products: Product[], sort: string) => {
   const sorted = [...products];
 
   switch (sort) {
-    case 'title':
-      return sorted.sort((a, b) => a.name.localeCompare(b.name));
-
     case 'price':
       return sorted.sort((a, b) => a.price - b.price);
+
+    case 'price-desc':
+      return sorted.sort((a, b) => b.price - a.price);
+
+    case 'discount':
+      return sorted.sort(
+        (a, b) =>
+          (b.fullPrice - b.price) / b.fullPrice -
+          (a.fullPrice - a.price) / a.fullPrice,
+      );
 
     default:
       return sorted.sort((a, b) => b.year - a.year);

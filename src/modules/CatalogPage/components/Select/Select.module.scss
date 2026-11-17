@@ -1,50 +1,109 @@
 @use '../../../../styles/variables' as *;
 
 .field {
+  position: relative;
   display: flex;
   flex-direction: column;
-  gap: 4px;
+  gap: 6px;
 }
 
 .label {
+  padding-left: 4px;
   font-size: 12px;
-  font-weight: 600;
-  line-height: 15px;
+  font-weight: 500;
   color: var(--color-secondary);
 }
 
-.wrapper {
-  position: relative;
+.trigger {
   display: flex;
-}
-
-.select {
+  gap: 8px;
+  align-items: center;
+  justify-content: space-between;
   width: 100%;
-  height: 40px;
-  padding: 0 36px 0 12px;
-  border: 1px solid var(--color-icons);
+  height: 44px;
+  padding: 0 14px 0 16px;
+  border: none;
+  border-radius: $radius-pill;
   font-family: inherit;
   font-size: 14px;
-  font-weight: 600;
-  line-height: 21px;
+  font-weight: 500;
+  white-space: nowrap;
   color: var(--color-primary);
-  background-color: var(--color-background);
+  background-color: var(--color-surface);
   cursor: pointer;
-  transition: border-color $transition-duration;
-  appearance: none;
+  transition: background-color $transition-duration;
 
-  &:hover,
-  &:focus {
-    border-color: var(--color-primary);
-    outline: none;
+  &:hover {
+    background-color: var(--color-elements);
   }
 }
 
+.value {
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.triggerOpen {
+  background-color: var(--color-elements);
+}
+
 .icon {
-  position: absolute;
-  top: 50%;
-  right: 12px;
+  flex-shrink: 0;
   color: var(--color-secondary);
-  transform: translateY(-50%);
-  pointer-events: none;
+  transition: transform $transition-duration;
+
+  .triggerOpen & {
+    transform: rotate(180deg);
+  }
+}
+
+.list {
+  position: absolute;
+  top: calc(100% + 8px);
+  left: 0;
+  z-index: 5;
+  min-width: 100%;
+  margin: 0;
+  padding: 6px;
+  border-radius: 16px;
+  list-style: none;
+  background-color: var(--color-card);
+  box-shadow:
+    inset 0 0 0 1px var(--color-elements),
+    var(--shadow-card);
+  transform-origin: top;
+  animation: drop 0.18s ease-out;
+}
+
+.option {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 12px;
+  border-radius: 10px;
+  font-size: 14px;
+  white-space: nowrap;
+  color: var(--color-primary);
+  cursor: pointer;
+}
+
+.optionActive {
+  background-color: var(--color-surface);
+}
+
+.optionSelected {
+  font-weight: 600;
+}
+
+.check {
+  flex-shrink: 0;
+  color: var(--color-brand);
+}
+
+@keyframes drop {
+  from {
+    opacity: 0;
+    transform: translateY(-4px) scale(0.98);
+  }
 }
