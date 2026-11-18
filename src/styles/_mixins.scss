@@ -87,6 +87,18 @@
   }
 }
 
+@mixin button-secondary {
+  @include button-primary;
+
+  color: var(--color-primary);
+  background-color: var(--color-surface);
+
+  &:hover {
+    opacity: 1;
+    background-color: var(--color-elements);
+  }
+}
+
 @mixin icon-button($size: 40px) {
   display: flex;
   flex-shrink: 0;

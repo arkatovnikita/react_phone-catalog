@@ -5,6 +5,12 @@ import { useCart } from '../shared/context/CartContext';
 import { BackButton } from '../shared/components/BackButton';
 import { CartItem } from './components/CartItem';
 import { PromoCode } from './components/PromoCode';
+import { EmptyState } from '../shared/components/EmptyState';
+import CartIcon from '../../assets/icons/cart.svg?react';
+
+const EMPTY_CART_TEXT =
+  "Looks like you haven't added anything yet. Explore the latest " +
+  'Apple devices and find something you love.';
 
 const CHECKOUT_MESSAGE =
   'Checkout is not implemented yet. Do you want to clear the Cart?';
@@ -32,19 +38,15 @@ export const CartPage = () => {
       <h1 className={styles.title}>Cart</h1>
 
       {cartItems.length === 0 ? (
-        <div className={styles.empty}>
-          <p className={styles.emptyText}>Your cart is empty</p>
-
-          <img
-            src={`${import.meta.env.BASE_URL}img/cart-is-empty.png`}
-            alt="Empty cart"
-            className={styles.emptyImage}
-          />
-
+        <EmptyState
+          icon={<CartIcon />}
+          title="Your cart is empty"
+          text={EMPTY_CART_TEXT}
+        >
           <Link to="/" className={styles.emptyLink}>
             Continue shopping
           </Link>
-        </div>
+        </EmptyState>
       ) : (
         <div className={styles.content}>
           <div className={styles.list}>

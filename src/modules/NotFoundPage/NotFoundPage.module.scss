@@ -1,27 +1,37 @@
-@use '../../styles/variables' as *;
 @use '../../styles/mixins' as *;
 
 .page {
   @include page-padding;
 
+  padding-block: 32px 56px;
+
+  @include on-desktop {
+    padding-block: 48px 80px;
+  }
+}
+
+.code {
   display: flex;
-  flex-direction: column;
-  gap: 28px;
+  gap: 8px;
   align-items: center;
-  padding-block: 48px 64px;
-  text-align: center;
+  font-size: 120px;
+  font-weight: 700;
+  line-height: 1;
+  letter-spacing: -0.06em;
+  color: var(--color-primary);
+
+  @include on-tablet {
+    gap: 12px;
+    font-size: 168px;
+  }
 }
 
-.title {
-  @include page-title;
+.mark {
+  width: 0.62em;
+  height: auto;
+  margin-top: 0.08em;
 }
 
-.image {
-  width: 100%;
-  max-width: 360px;
-  filter: var(--illustration-filter);
-}
-
-.link {
+.primary {
   @include button-primary;
 }

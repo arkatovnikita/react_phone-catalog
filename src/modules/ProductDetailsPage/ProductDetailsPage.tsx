@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { useParams } from 'react-router-dom';
+import { Link, useParams } from 'react-router-dom';
 import styles from './ProductDetailsPage.module.scss';
 import { getProductData, getSuggestedProducts } from '../shared/api/products';
 import { Product } from '../shared/types/Product';
@@ -11,6 +11,8 @@ import { ProductsSlider } from '../shared/components/ProductsSlider';
 import { ProductGallery } from './components/ProductGallery';
 import { ProductOptions } from './components/ProductOptions';
 import { ProductInfo } from './components/ProductInfo';
+import { EmptyState } from '../shared/components/EmptyState';
+import SearchIcon from '../../assets/icons/search.svg?react';
 
 type ProductData = {
   product: Product;
@@ -19,6 +21,10 @@ type ProductData = {
 };
 
 const SUGGESTED_COUNT = 12;
+
+const NOT_FOUND_TEXT =
+  'This product may no longer be available, or the link is incorrect. ' +
+  'Try browsing the catalog instead.';
 
 export const ProductDetailsPage = () => {
   const { productId = '' } = useParams();
@@ -73,13 +79,20 @@ export const ProductDetailsPage = () => {
       <section className={styles.page}>
         <BackButton />
 
-        <h1 className={styles.title}>Product was not found</h1>
+        <EmptyState
+          isPageTitle
+          icon={<SearchIcon />}
+          title="Product not found"
+          text={NOT_FOUND_TEXT}
+        >
+          <Link to="/" className={styles.primary}>
+            Go to home
+          </Link>
 
-        <img
-          src={`${import.meta.env.BASE_URL}img/product-not-found.png`}
-          alt="Product not found"
-          className={styles.notFoundImage}
-        />
+          <Link to="/phones" className={styles.secondary}>
+            Browse phones
+          </Link>
+        </EmptyState>
       </section>
     );
   }

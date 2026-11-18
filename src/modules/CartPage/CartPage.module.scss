@@ -116,27 +116,6 @@
   height: 52px;
 }
 
-.empty {
-  display: flex;
-  flex-direction: column;
-  gap: 24px;
-  align-items: center;
-  text-align: center;
-}
-
-.emptyText {
-  margin: 0;
-  font-size: 22px;
-  font-weight: 600;
-  letter-spacing: -0.01em;
-}
-
-.emptyImage {
-  width: 100%;
-  max-width: 360px;
-  filter: var(--illustration-filter);
-}
-
 .emptyLink {
   @include button-primary;
 }

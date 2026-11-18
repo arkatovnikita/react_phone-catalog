@@ -50,9 +50,10 @@
   }
 }
 
-.notFoundImage {
-  display: block;
-  width: 100%;
-  max-width: 400px;
-  filter: var(--illustration-filter);
+.primary {
+  @include button-primary;
+}
+
+.secondary {
+  @include button-secondary;
 }
