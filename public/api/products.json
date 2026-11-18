@@ -2,38 +2,29 @@
   {
     "id": 1,
     "category": "iphone",
-    "itemId": "iphone-18-pro-256gb-burgundy",
-    "namespaceId": "iphone-18-pro",
-    "name": "iPhone 18 Pro 256GB Burgundy",
-    "modelName": "iPhone 18 Pro",
-    "fullPrice": 1199,
-    "price": 1199,
-    "color": "Burgundy",
+    "itemId": "iphone-duo-256gb-night-sky",
+    "namespaceId": "iphone-duo",
+    "name": "iPhone Duo 256GB Night Sky",
+    "modelName": "iPhone Duo",
+    "fullPrice": 1999,
+    "price": 1999,
+    "color": "Night Sky",
     "capacity": "256GB",
     "year": 2026,
-    "image": "img/products/iphone-18-pro/burgundy-0.webp",
-    "imageCover": false,
-    "summary": "6.3\" OLED · A20 Pro",
+    "image": "img/products/iphone-duo/night-sky-0.webp",
+    "summary": "7.6\" foldable OLED · A20 Pro",
     "colors": [
       {
-        "name": "Burgundy",
-        "hex": "#6e2b33"
+        "name": "Night Sky",
+        "hex": "#22283a"
       },
       {
-        "name": "Black",
-        "hex": "#3b3b3d"
-      },
-      {
-        "name": "Glacier",
-        "hex": "#c9dbe3"
-      },
-      {
-        "name": "Silver",
-        "hex": "#e3e4e5"
+        "name": "Star White",
+        "hex": "#efeee9"
       }
     ],
-    "rating": 4.6,
-    "reviewsCount": 260,
+    "rating": 4.5,
+    "reviewsCount": 595,
     "inStock": true,
     "isNew": true
   },
@@ -50,7 +41,6 @@
     "capacity": "256GB",
     "year": 2026,
     "image": "img/products/iphone-18-pro-max/glacier-0.webp",
-    "imageCover": false,
     "summary": "6.9\" OLED · A20 Pro",
     "colors": [
       {
@@ -78,35 +68,141 @@
   {
     "id": 3,
     "category": "iphone",
-    "itemId": "iphone-duo-256gb-night-sky",
-    "namespaceId": "iphone-duo",
-    "name": "iPhone Duo 256GB Night Sky",
-    "modelName": "iPhone Duo",
-    "fullPrice": 1999,
-    "price": 1999,
-    "color": "Night Sky",
+    "itemId": "iphone-18-pro-256gb-burgundy",
+    "namespaceId": "iphone-18-pro",
+    "name": "iPhone 18 Pro 256GB Burgundy",
+    "modelName": "iPhone 18 Pro",
+    "fullPrice": 1199,
+    "price": 1199,
+    "color": "Burgundy",
     "capacity": "256GB",
     "year": 2026,
-    "image": "img/products/iphone-duo/night-sky-0.webp",
-    "imageCover": false,
-    "summary": "7.6\" foldable OLED · A20 Pro",
+    "image": "img/products/iphone-18-pro/burgundy-0.webp",
+    "summary": "6.3\" OLED · A20 Pro",
     "colors": [
       {
-        "name": "Night Sky",
-        "hex": "#22283a"
+        "name": "Burgundy",
+        "hex": "#6e2b33"
       },
       {
-        "name": "Star White",
-        "hex": "#efeee9"
+        "name": "Black",
+        "hex": "#3b3b3d"
+      },
+      {
+        "name": "Glacier",
+        "hex": "#c9dbe3"
+      },
+      {
+        "name": "Silver",
+        "hex": "#e3e4e5"
       }
     ],
-    "rating": 4.5,
-    "reviewsCount": 595,
+    "rating": 4.6,
+    "reviewsCount": 260,
     "inStock": true,
     "isNew": true
   },
   {
     "id": 4,
+    "category": "iphone",
+    "itemId": "iphone-17e-256gb-softpink",
+    "namespaceId": "iphone-17e",
+    "name": "iPhone 17e 256GB Soft Pink",
+    "modelName": "iPhone 17e",
+    "fullPrice": 699,
+    "price": 699,
+    "color": "Soft Pink",
+    "capacity": "256GB",
+    "year": 2026,
+    "image": "img/products/iphone-17e/softpink-0.webp",
+    "summary": "6.1\" OLED · A19",
+    "colors": [
+      {
+        "name": "Soft Pink",
+        "hex": "#f2d8d8"
+      },
+      {
+        "name": "Black",
+        "hex": "#3b3b3d"
+      },
+      {
+        "name": "White",
+        "hex": "#f2f2f0"
+      }
+    ],
+    "rating": 4.6,
+    "reviewsCount": 782,
+    "inStock": true,
+    "isNew": true
+  },
+  {
+    "id": 5,
+    "category": "iphone",
+    "itemId": "iphone-17-pro-max-256gb-deepblue",
+    "namespaceId": "iphone-17-pro-max",
+    "name": "iPhone 17 Pro Max 256GB Deep Blue",
+    "modelName": "iPhone 17 Pro Max",
+    "fullPrice": 1199,
+    "price": 1059,
+    "color": "Deep Blue",
+    "capacity": "256GB",
+    "year": 2025,
+    "image": "img/products/iphone-17-pro-max/deepblue-0.webp",
+    "summary": "6.9\" OLED · A19 Pro",
+    "colors": [
+      {
+        "name": "Deep Blue",
+        "hex": "#2c3a5a"
+      },
+      {
+        "name": "Cosmic Orange",
+        "hex": "#e8742d"
+      },
+      {
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "rating": 4.5,
+    "reviewsCount": 820,
+    "inStock": true,
+    "isNew": false
+  },
+  {
+    "id": 6,
+    "category": "iphone",
+    "itemId": "iphone-17-pro-256gb-cosmicorange",
+    "namespaceId": "iphone-17-pro",
+    "name": "iPhone 17 Pro 256GB Cosmic Orange",
+    "modelName": "iPhone 17 Pro",
+    "fullPrice": 1099,
+    "price": 969,
+    "color": "Cosmic Orange",
+    "capacity": "256GB",
+    "year": 2025,
+    "image": "img/products/iphone-17-pro/cosmicorange-0.webp",
+    "summary": "6.3\" OLED · A19 Pro",
+    "colors": [
+      {
+        "name": "Cosmic Orange",
+        "hex": "#e8742d"
+      },
+      {
+        "name": "Deep Blue",
+        "hex": "#2c3a5a"
+      },
+      {
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "rating": 4.7,
+    "reviewsCount": 115,
+    "inStock": true,
+    "isNew": false
+  },
+  {
+    "id": 7,
     "category": "iphone",
     "itemId": "iphone-air-256gb-skyblue",
     "namespaceId": "iphone-air",
@@ -118,7 +214,6 @@
     "capacity": "256GB",
     "year": 2025,
     "image": "img/products/iphone-air/skyblue-0.webp",
-    "imageCover": false,
     "summary": "6.5\" OLED · A19 Pro",
     "colors": [
       {
@@ -144,7 +239,7 @@
     "isNew": false
   },
   {
-    "id": 5,
+    "id": 8,
     "category": "iphone",
     "itemId": "iphone-17-256gb-lavender",
     "namespaceId": "iphone-17",
@@ -156,7 +251,6 @@
     "capacity": "256GB",
     "year": 2025,
     "image": "img/products/iphone-17/lavender-0.webp",
-    "imageCover": false,
     "summary": "6.3\" OLED · A19",
     "colors": [
       {
@@ -186,146 +280,39 @@
     "isNew": false
   },
   {
-    "id": 6,
-    "category": "iphone",
-    "itemId": "iphone-17e-256gb-softpink",
-    "namespaceId": "iphone-17e",
-    "name": "iPhone 17e 256GB Soft Pink",
-    "modelName": "iPhone 17e",
-    "fullPrice": 699,
-    "price": 699,
-    "color": "Soft Pink",
-    "capacity": "256GB",
-    "year": 2026,
-    "image": "img/products/iphone-17e/softpink-0.webp",
-    "imageCover": false,
-    "summary": "6.1\" OLED · A19",
-    "colors": [
-      {
-        "name": "Soft Pink",
-        "hex": "#f2d8d8"
-      },
-      {
-        "name": "Black",
-        "hex": "#3b3b3d"
-      },
-      {
-        "name": "White",
-        "hex": "#f2f2f0"
-      }
-    ],
-    "rating": 4.6,
-    "reviewsCount": 782,
-    "inStock": true,
-    "isNew": true
-  },
-  {
-    "id": 7,
-    "category": "iphone",
-    "itemId": "iphone-16-128gb-ultramarine",
-    "namespaceId": "iphone-16",
-    "name": "iPhone 16 128GB Ultramarine",
-    "modelName": "iPhone 16",
-    "fullPrice": 799,
-    "price": 639,
-    "color": "Ultramarine",
-    "capacity": "128GB",
-    "year": 2024,
-    "image": "img/products/iphone-16/ultramarine-0.webp",
-    "imageCover": false,
-    "summary": "6.1\" OLED · A18",
-    "colors": [
-      {
-        "name": "Ultramarine",
-        "hex": "#7a86e8"
-      },
-      {
-        "name": "Black",
-        "hex": "#3b3b3d"
-      },
-      {
-        "name": "White",
-        "hex": "#f2f2f0"
-      },
-      {
-        "name": "Pink",
-        "hex": "#f4c9d6"
-      },
-      {
-        "name": "Teal",
-        "hex": "#a7c7c3"
-      }
-    ],
-    "rating": 4.7,
-    "reviewsCount": 905,
-    "inStock": true,
-    "isNew": false
-  },
-  {
-    "id": 8,
-    "category": "iphone",
-    "itemId": "iphone-17-pro-256gb-cosmicorange",
-    "namespaceId": "iphone-17-pro",
-    "name": "iPhone 17 Pro 256GB Cosmic Orange",
-    "modelName": "iPhone 17 Pro",
-    "fullPrice": 1099,
-    "price": 969,
-    "color": "Cosmic Orange",
-    "capacity": "256GB",
-    "year": 2025,
-    "image": "img/products/iphone-17-pro/cosmicorange-0.webp",
-    "imageCover": false,
-    "summary": "6.3\" OLED · A19 Pro",
-    "colors": [
-      {
-        "name": "Cosmic Orange",
-        "hex": "#e8742d"
-      },
-      {
-        "name": "Deep Blue",
-        "hex": "#2c3a5a"
-      },
-      {
-        "name": "Silver",
-        "hex": "#e3e4e5"
-      }
-    ],
-    "rating": 4.7,
-    "reviewsCount": 115,
-    "inStock": true,
-    "isNew": false
-  },
-  {
     "id": 9,
     "category": "iphone",
-    "itemId": "iphone-17-pro-max-256gb-deepblue",
-    "namespaceId": "iphone-17-pro-max",
-    "name": "iPhone 17 Pro Max 256GB Deep Blue",
-    "modelName": "iPhone 17 Pro Max",
+    "itemId": "iphone-16-pro-max-256gb-deserttitanium",
+    "namespaceId": "iphone-16-pro-max",
+    "name": "iPhone 16 Pro Max 256GB Desert Titanium",
+    "modelName": "iPhone 16 Pro Max",
     "fullPrice": 1199,
-    "price": 1059,
-    "color": "Deep Blue",
+    "price": 959,
+    "color": "Desert Titanium",
     "capacity": "256GB",
-    "year": 2025,
-    "image": "img/products/iphone-17-pro-max/deepblue-0.webp",
-    "imageCover": false,
-    "summary": "6.9\" OLED · A19 Pro",
+    "year": 2024,
+    "image": "img/products/iphone-16-pro-max/deserttitanium-0.webp",
+    "summary": "6.9\" OLED · A18 Pro",
     "colors": [
       {
-        "name": "Deep Blue",
-        "hex": "#2c3a5a"
+        "name": "Desert Titanium",
+        "hex": "#bfa48f"
       },
       {
-        "name": "Cosmic Orange",
-        "hex": "#e8742d"
+        "name": "Natural Titanium",
+        "hex": "#c2bcb2"
       },
       {
-        "name": "Silver",
-        "hex": "#e3e4e5"
+        "name": "White Titanium",
+        "hex": "#f2f1ed"
+      },
+      {
+        "name": "Black Titanium",
+        "hex": "#3c3c3d"
       }
     ],
-    "rating": 4.5,
-    "reviewsCount": 820,
+    "rating": 4.7,
+    "reviewsCount": 493,
     "inStock": true,
     "isNew": false
   },
@@ -342,7 +329,6 @@
     "capacity": "128GB",
     "year": 2024,
     "image": "img/products/iphone-16-pro/deserttitanium-0.webp",
-    "imageCover": false,
     "summary": "6.3\" OLED · A18 Pro",
     "colors": [
       {
@@ -370,216 +356,6 @@
   {
     "id": 11,
     "category": "iphone",
-    "itemId": "iphone-16-pro-max-256gb-deserttitanium",
-    "namespaceId": "iphone-16-pro-max",
-    "name": "iPhone 16 Pro Max 256GB Desert Titanium",
-    "modelName": "iPhone 16 Pro Max",
-    "fullPrice": 1199,
-    "price": 959,
-    "color": "Desert Titanium",
-    "capacity": "256GB",
-    "year": 2024,
-    "image": "img/products/iphone-16-pro-max/deserttitanium-0.webp",
-    "imageCover": false,
-    "summary": "6.9\" OLED · A18 Pro",
-    "colors": [
-      {
-        "name": "Desert Titanium",
-        "hex": "#bfa48f"
-      },
-      {
-        "name": "Natural Titanium",
-        "hex": "#c2bcb2"
-      },
-      {
-        "name": "White Titanium",
-        "hex": "#f2f1ed"
-      },
-      {
-        "name": "Black Titanium",
-        "hex": "#3c3c3d"
-      }
-    ],
-    "rating": 4.7,
-    "reviewsCount": 493,
-    "inStock": true,
-    "isNew": false
-  },
-  {
-    "id": 12,
-    "category": "iphone",
-    "itemId": "iphone-15-pro-128gb-bluetitanium",
-    "namespaceId": "iphone-15-pro",
-    "name": "iPhone 15 Pro 128GB Blue Titanium",
-    "modelName": "iPhone 15 Pro",
-    "fullPrice": 999,
-    "price": 719,
-    "color": "Blue Titanium",
-    "capacity": "128GB",
-    "year": 2023,
-    "image": "img/products/iphone-15-pro/bluetitanium-0.webp",
-    "imageCover": false,
-    "summary": "6.1\" OLED · A17 Pro",
-    "colors": [
-      {
-        "name": "Blue Titanium",
-        "hex": "#3f4a58"
-      },
-      {
-        "name": "Natural Titanium",
-        "hex": "#c2bcb2"
-      },
-      {
-        "name": "White Titanium",
-        "hex": "#f2f1ed"
-      },
-      {
-        "name": "Black Titanium",
-        "hex": "#3c3c3d"
-      }
-    ],
-    "rating": 4.8,
-    "reviewsCount": 660,
-    "inStock": true,
-    "isNew": false
-  },
-  {
-    "id": 13,
-    "category": "iphone",
-    "itemId": "iphone-15-128gb-pink",
-    "namespaceId": "iphone-15",
-    "name": "iPhone 15 128GB Pink",
-    "modelName": "iPhone 15",
-    "fullPrice": 799,
-    "price": 579,
-    "color": "Pink",
-    "capacity": "128GB",
-    "year": 2023,
-    "image": "img/products/iphone-15/pink-0.webp",
-    "imageCover": false,
-    "summary": "6.1\" OLED · A16",
-    "colors": [
-      {
-        "name": "Pink",
-        "hex": "#f3dbe0"
-      },
-      {
-        "name": "Blue",
-        "hex": "#d5e0e6"
-      },
-      {
-        "name": "Yellow",
-        "hex": "#f5ecc9"
-      },
-      {
-        "name": "Green",
-        "hex": "#d5e0cf"
-      },
-      {
-        "name": "Black",
-        "hex": "#3a3c40"
-      }
-    ],
-    "rating": 4.6,
-    "reviewsCount": 413,
-    "inStock": true,
-    "isNew": false
-  },
-  {
-    "id": 14,
-    "category": "iphone",
-    "itemId": "iphone-14-128gb-purple",
-    "namespaceId": "iphone-14",
-    "name": "iPhone 14 128GB Purple",
-    "modelName": "iPhone 14",
-    "fullPrice": 799,
-    "price": 509,
-    "color": "Purple",
-    "capacity": "128GB",
-    "year": 2022,
-    "image": "img/products/iphone-14/purple-0.webp",
-    "imageCover": false,
-    "summary": "6.1\" OLED · A15 Bionic",
-    "colors": [
-      {
-        "name": "Purple",
-        "hex": "#e5ddea"
-      },
-      {
-        "name": "Midnight",
-        "hex": "#2e3641"
-      },
-      {
-        "name": "Starlight",
-        "hex": "#f9f3ee"
-      },
-      {
-        "name": "(PRODUCT)RED",
-        "hex": "#e11c2a"
-      },
-      {
-        "name": "Blue",
-        "hex": "#a7c1d9"
-      },
-      {
-        "name": "Yellow",
-        "hex": "#f9e479"
-      }
-    ],
-    "rating": 4.7,
-    "reviewsCount": 560,
-    "inStock": true,
-    "isNew": false
-  },
-  {
-    "id": 15,
-    "category": "iphone",
-    "itemId": "iphone-13-128gb-blue",
-    "namespaceId": "iphone-13",
-    "name": "iPhone 13 128GB Blue",
-    "modelName": "iPhone 13",
-    "fullPrice": 799,
-    "price": 439,
-    "color": "Blue",
-    "capacity": "128GB",
-    "year": 2021,
-    "image": "img/products/iphone-13/blue-0.webp",
-    "imageCover": false,
-    "summary": "6.1\" OLED · A15 Bionic",
-    "colors": [
-      {
-        "name": "Blue",
-        "hex": "#276787"
-      },
-      {
-        "name": "Pink",
-        "hex": "#fae0d8"
-      },
-      {
-        "name": "Midnight",
-        "hex": "#232a31"
-      },
-      {
-        "name": "Starlight",
-        "hex": "#faf6f2"
-      },
-      {
-        "name": "(PRODUCT)RED",
-        "hex": "#bf0013"
-      },
-      {
-        "name": "Green",
-        "hex": "#394c38"
-      }
-    ],
-    "rating": 4.4,
-    "reviewsCount": 99,
-    "inStock": true,
-    "isNew": false
-  },
-  {
-    "id": 16,
-    "category": "iphone",
     "itemId": "iphone-16-plus-128gb-teal",
     "namespaceId": "iphone-16-plus",
     "name": "iPhone 16 Plus 128GB Teal",
@@ -590,7 +366,6 @@
     "capacity": "128GB",
     "year": 2024,
     "image": "img/products/iphone-16-plus/teal-0.webp",
-    "imageCover": false,
     "summary": "6.7\" OLED · A18",
     "colors": [
       {
@@ -620,7 +395,48 @@
     "isNew": false
   },
   {
-    "id": 17,
+    "id": 12,
+    "category": "iphone",
+    "itemId": "iphone-16-128gb-ultramarine",
+    "namespaceId": "iphone-16",
+    "name": "iPhone 16 128GB Ultramarine",
+    "modelName": "iPhone 16",
+    "fullPrice": 799,
+    "price": 639,
+    "color": "Ultramarine",
+    "capacity": "128GB",
+    "year": 2024,
+    "image": "img/products/iphone-16/ultramarine-0.webp",
+    "summary": "6.1\" OLED · A18",
+    "colors": [
+      {
+        "name": "Ultramarine",
+        "hex": "#7a86e8"
+      },
+      {
+        "name": "Black",
+        "hex": "#3b3b3d"
+      },
+      {
+        "name": "White",
+        "hex": "#f2f2f0"
+      },
+      {
+        "name": "Pink",
+        "hex": "#f4c9d6"
+      },
+      {
+        "name": "Teal",
+        "hex": "#a7c7c3"
+      }
+    ],
+    "rating": 4.7,
+    "reviewsCount": 905,
+    "inStock": true,
+    "isNew": false
+  },
+  {
+    "id": 13,
     "category": "iphone",
     "itemId": "iphone-15-pro-max-256gb-naturaltitanium",
     "namespaceId": "iphone-15-pro-max",
@@ -632,7 +448,6 @@
     "capacity": "256GB",
     "year": 2023,
     "image": "img/products/iphone-15-pro-max/naturaltitanium-0.webp",
-    "imageCover": false,
     "summary": "6.7\" OLED · A17 Pro",
     "colors": [
       {
@@ -658,7 +473,44 @@
     "isNew": false
   },
   {
-    "id": 18,
+    "id": 14,
+    "category": "iphone",
+    "itemId": "iphone-15-pro-128gb-bluetitanium",
+    "namespaceId": "iphone-15-pro",
+    "name": "iPhone 15 Pro 128GB Blue Titanium",
+    "modelName": "iPhone 15 Pro",
+    "fullPrice": 999,
+    "price": 719,
+    "color": "Blue Titanium",
+    "capacity": "128GB",
+    "year": 2023,
+    "image": "img/products/iphone-15-pro/bluetitanium-0.webp",
+    "summary": "6.1\" OLED · A17 Pro",
+    "colors": [
+      {
+        "name": "Blue Titanium",
+        "hex": "#3f4a58"
+      },
+      {
+        "name": "Natural Titanium",
+        "hex": "#c2bcb2"
+      },
+      {
+        "name": "White Titanium",
+        "hex": "#f2f1ed"
+      },
+      {
+        "name": "Black Titanium",
+        "hex": "#3c3c3d"
+      }
+    ],
+    "rating": 4.8,
+    "reviewsCount": 660,
+    "inStock": true,
+    "isNew": false
+  },
+  {
+    "id": 15,
     "category": "iphone",
     "itemId": "iphone-15-plus-128gb-yellow",
     "namespaceId": "iphone-15-plus",
@@ -670,7 +522,6 @@
     "capacity": "128GB",
     "year": 2023,
     "image": "img/products/iphone-15-plus/yellow-0.webp",
-    "imageCover": false,
     "summary": "6.7\" OLED · A16",
     "colors": [
       {
@@ -700,45 +551,48 @@
     "isNew": false
   },
   {
-    "id": 19,
+    "id": 16,
     "category": "iphone",
-    "itemId": "iphone-14-pro-128gb-deeppurple",
-    "namespaceId": "iphone-14-pro",
-    "name": "iPhone 14 Pro 128GB Deep Purple",
-    "modelName": "iPhone 14 Pro",
-    "fullPrice": 999,
-    "price": 639,
-    "color": "Deep Purple",
+    "itemId": "iphone-15-128gb-pink",
+    "namespaceId": "iphone-15",
+    "name": "iPhone 15 128GB Pink",
+    "modelName": "iPhone 15",
+    "fullPrice": 799,
+    "price": 579,
+    "color": "Pink",
     "capacity": "128GB",
-    "year": 2022,
-    "image": "img/products/iphone-14-pro/deeppurple-0.webp",
-    "imageCover": false,
-    "summary": "6.1\" OLED · A16 Bionic",
+    "year": 2023,
+    "image": "img/products/iphone-15/pink-0.webp",
+    "summary": "6.1\" OLED · A16",
     "colors": [
       {
-        "name": "Deep Purple",
-        "hex": "#594f63"
+        "name": "Pink",
+        "hex": "#f3dbe0"
       },
       {
-        "name": "Gold",
-        "hex": "#f4e8ce"
+        "name": "Blue",
+        "hex": "#d5e0e6"
       },
       {
-        "name": "Silver",
-        "hex": "#e3e4e5"
+        "name": "Yellow",
+        "hex": "#f5ecc9"
       },
       {
-        "name": "Space Black",
-        "hex": "#403e3d"
+        "name": "Green",
+        "hex": "#d5e0cf"
+      },
+      {
+        "name": "Black",
+        "hex": "#3a3c40"
       }
     ],
-    "rating": 4.8,
-    "reviewsCount": 220,
+    "rating": 4.6,
+    "reviewsCount": 413,
     "inStock": true,
     "isNew": false
   },
   {
-    "id": 20,
+    "id": 17,
     "category": "iphone",
     "itemId": "iphone-14-pro-max-128gb-gold",
     "namespaceId": "iphone-14-pro-max",
@@ -750,7 +604,6 @@
     "capacity": "128GB",
     "year": 2022,
     "image": "img/products/iphone-14-pro-max/gold-0.webp",
-    "imageCover": false,
     "summary": "6.7\" OLED · A16 Bionic",
     "colors": [
       {
@@ -776,7 +629,44 @@
     "isNew": false
   },
   {
-    "id": 21,
+    "id": 18,
+    "category": "iphone",
+    "itemId": "iphone-14-pro-128gb-deeppurple",
+    "namespaceId": "iphone-14-pro",
+    "name": "iPhone 14 Pro 128GB Deep Purple",
+    "modelName": "iPhone 14 Pro",
+    "fullPrice": 999,
+    "price": 639,
+    "color": "Deep Purple",
+    "capacity": "128GB",
+    "year": 2022,
+    "image": "img/products/iphone-14-pro/deeppurple-0.webp",
+    "summary": "6.1\" OLED · A16 Bionic",
+    "colors": [
+      {
+        "name": "Deep Purple",
+        "hex": "#594f63"
+      },
+      {
+        "name": "Gold",
+        "hex": "#f4e8ce"
+      },
+      {
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "name": "Space Black",
+        "hex": "#403e3d"
+      }
+    ],
+    "rating": 4.8,
+    "reviewsCount": 220,
+    "inStock": true,
+    "isNew": false
+  },
+  {
+    "id": 19,
     "category": "iphone",
     "itemId": "iphone-14-plus-128gb-blue",
     "namespaceId": "iphone-14-plus",
@@ -788,7 +678,6 @@
     "capacity": "128GB",
     "year": 2022,
     "image": "img/products/iphone-14-plus/blue-0.webp",
-    "imageCover": false,
     "summary": "6.7\" OLED · A15 Bionic",
     "colors": [
       {
@@ -822,6 +711,92 @@
     "isNew": false
   },
   {
+    "id": 20,
+    "category": "iphone",
+    "itemId": "iphone-14-128gb-purple",
+    "namespaceId": "iphone-14",
+    "name": "iPhone 14 128GB Purple",
+    "modelName": "iPhone 14",
+    "fullPrice": 799,
+    "price": 509,
+    "color": "Purple",
+    "capacity": "128GB",
+    "year": 2022,
+    "image": "img/products/iphone-14/purple-0.webp",
+    "summary": "6.1\" OLED · A15 Bionic",
+    "colors": [
+      {
+        "name": "Purple",
+        "hex": "#e5ddea"
+      },
+      {
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "name": "Starlight",
+        "hex": "#f9f3ee"
+      },
+      {
+        "name": "(PRODUCT)RED",
+        "hex": "#e11c2a"
+      },
+      {
+        "name": "Blue",
+        "hex": "#a7c1d9"
+      },
+      {
+        "name": "Yellow",
+        "hex": "#f9e479"
+      }
+    ],
+    "rating": 4.7,
+    "reviewsCount": 560,
+    "inStock": true,
+    "isNew": false
+  },
+  {
+    "id": 21,
+    "category": "iphone",
+    "itemId": "iphone-13-pro-max-128gb-alpinegreen",
+    "namespaceId": "iphone-13-pro-max",
+    "name": "iPhone 13 Pro Max 128GB Alpine Green",
+    "modelName": "iPhone 13 Pro Max",
+    "fullPrice": 1099,
+    "price": 599,
+    "color": "Alpine Green",
+    "capacity": "128GB",
+    "year": 2021,
+    "image": "img/products/iphone-13-pro-max/alpinegreen-0.webp",
+    "summary": "6.7\" OLED · A15 Bionic",
+    "colors": [
+      {
+        "name": "Alpine Green",
+        "hex": "#576856"
+      },
+      {
+        "name": "Sierra Blue",
+        "hex": "#9bb5ce"
+      },
+      {
+        "name": "Graphite",
+        "hex": "#54524f"
+      },
+      {
+        "name": "Gold",
+        "hex": "#f9e5c9"
+      },
+      {
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "rating": 4.5,
+    "reviewsCount": 192,
+    "inStock": true,
+    "isNew": false
+  },
+  {
     "id": 22,
     "category": "iphone",
     "itemId": "iphone-13-pro-128gb-sierrablue",
@@ -834,7 +809,6 @@
     "capacity": "128GB",
     "year": 2021,
     "image": "img/products/iphone-13-pro/sierrablue-0.webp",
-    "imageCover": false,
     "summary": "6.1\" OLED · A15 Bionic",
     "colors": [
       {
@@ -866,42 +840,45 @@
   {
     "id": 23,
     "category": "iphone",
-    "itemId": "iphone-13-pro-max-128gb-alpinegreen",
-    "namespaceId": "iphone-13-pro-max",
-    "name": "iPhone 13 Pro Max 128GB Alpine Green",
-    "modelName": "iPhone 13 Pro Max",
-    "fullPrice": 1099,
-    "price": 599,
-    "color": "Alpine Green",
+    "itemId": "iphone-13-128gb-blue",
+    "namespaceId": "iphone-13",
+    "name": "iPhone 13 128GB Blue",
+    "modelName": "iPhone 13",
+    "fullPrice": 799,
+    "price": 439,
+    "color": "Blue",
     "capacity": "128GB",
     "year": 2021,
-    "image": "img/products/iphone-13-pro-max/alpinegreen-0.webp",
-    "imageCover": false,
-    "summary": "6.7\" OLED · A15 Bionic",
+    "image": "img/products/iphone-13/blue-0.webp",
+    "summary": "6.1\" OLED · A15 Bionic",
     "colors": [
       {
-        "name": "Alpine Green",
-        "hex": "#576856"
+        "name": "Blue",
+        "hex": "#276787"
       },
       {
-        "name": "Sierra Blue",
-        "hex": "#9bb5ce"
+        "name": "Pink",
+        "hex": "#fae0d8"
       },
       {
-        "name": "Graphite",
-        "hex": "#54524f"
+        "name": "Midnight",
+        "hex": "#232a31"
       },
       {
-        "name": "Gold",
-        "hex": "#f9e5c9"
+        "name": "Starlight",
+        "hex": "#faf6f2"
       },
       {
-        "name": "Silver",
-        "hex": "#e3e4e5"
+        "name": "(PRODUCT)RED",
+        "hex": "#bf0013"
+      },
+      {
+        "name": "Green",
+        "hex": "#394c38"
       }
     ],
-    "rating": 4.5,
-    "reviewsCount": 192,
+    "rating": 4.4,
+    "reviewsCount": 99,
     "inStock": true,
     "isNew": false
   },
@@ -918,7 +895,6 @@
     "capacity": "128GB",
     "year": 2025,
     "image": "img/products/ipad/yellow-0.webp",
-    "imageCover": false,
     "summary": "11\" Liquid Retina · A16",
     "colors": [
       {
@@ -956,7 +932,6 @@
     "capacity": "128GB",
     "year": 2026,
     "image": "img/products/ipad-mini/starlight-0.webp",
-    "imageCover": false,
     "summary": "8.5\" OLED · A20 Pro",
     "colors": [
       {
@@ -986,7 +961,6 @@
     "capacity": "128GB",
     "year": 2026,
     "image": "img/products/ipad-air-11/purple-0.webp",
-    "imageCover": false,
     "summary": "11\" Liquid Retina · M4",
     "colors": [
       {
@@ -1024,7 +998,6 @@
     "capacity": "128GB",
     "year": 2026,
     "image": "img/products/ipad-air-13/blue-0.webp",
-    "imageCover": false,
     "summary": "13\" Liquid Retina · M4",
     "colors": [
       {
@@ -1062,7 +1035,6 @@
     "capacity": "256GB",
     "year": 2025,
     "image": "img/products/ipad-pro-11/spaceblack-0.webp",
-    "imageCover": false,
     "summary": "11\" Ultra Retina XDR · M5",
     "colors": [
       {
@@ -1092,7 +1064,6 @@
     "capacity": "256GB",
     "year": 2025,
     "image": "img/products/ipad-pro-13/spaceblack-0.webp",
-    "imageCover": false,
     "summary": "13\" Ultra Retina XDR · M5",
     "colors": [
       {
@@ -1122,7 +1093,6 @@
     "capacity": "512GB",
     "year": 2026,
     "image": "img/products/macbook-air-13/skyblue-0.webp",
-    "imageCover": false,
     "summary": "13.6\" Liquid Retina · M5 · 16GB",
     "colors": [
       {
@@ -1160,7 +1130,6 @@
     "capacity": "512GB",
     "year": 2026,
     "image": "img/products/macbook-air-15/starlight-0.webp",
-    "imageCover": false,
     "summary": "15.3\" Liquid Retina · M5 · 16GB",
     "colors": [
       {
@@ -1198,7 +1167,6 @@
     "capacity": "512GB",
     "year": 2026,
     "image": "img/products/macbook-pro-14/spaceblack-0.webp",
-    "imageCover": false,
     "summary": "14.2\" Liquid Retina XDR · M6 · 16GB",
     "colors": [
       {
@@ -1228,7 +1196,6 @@
     "capacity": "1TB",
     "year": 2026,
     "image": "img/products/macbook-pro-14-oled/spaceblack-0.webp",
-    "imageCover": false,
     "summary": "14.2\" PROLED XDR touch · M5 Pro · 24GB",
     "colors": [
       {
@@ -1258,7 +1225,6 @@
     "capacity": "1TB",
     "year": 2026,
     "image": "img/products/macbook-pro-16-oled/spaceblack-0.webp",
-    "imageCover": false,
     "summary": "16.2\" PROLED XDR touch · M5 Pro · 24GB",
     "colors": [
       {
@@ -1288,7 +1254,6 @@
     "capacity": "256GB",
     "year": 2026,
     "image": "img/products/imac/blue-0.webp",
-    "imageCover": false,
     "summary": "24\" 4.5K Retina · M6 · 16GB",
     "colors": [
       {
@@ -1333,8 +1298,7 @@
     "color": "Dark Bronze",
     "capacity": "42mm",
     "year": 2026,
-    "image": "img/products/apple-watch-series-12/tile.webp",
-    "imageCover": true,
+    "image": "img/products/apple-watch-series-12/darkbronze-0.webp",
     "summary": "Aluminum · S11 chip · GPS",
     "colors": [
       {
@@ -1371,8 +1335,7 @@
     "color": "Natural Titanium",
     "capacity": "49mm",
     "year": 2026,
-    "image": "img/products/apple-watch-ultra-4/tile.webp",
-    "imageCover": true,
+    "image": "img/products/apple-watch-ultra-4/natural-0.webp",
     "summary": "Titanium · 49mm · up to 50 hours",
     "colors": [
       {
@@ -1392,6 +1355,72 @@
   {
     "id": 38,
     "category": "watch",
+    "itemId": "apple-watch-series-11-42mm-rosegold",
+    "namespaceId": "apple-watch-series-11",
+    "name": "Apple Watch Series 11 42mm Rose Gold",
+    "modelName": "Apple Watch Series 11",
+    "fullPrice": 399,
+    "price": 349,
+    "color": "Rose Gold",
+    "capacity": "42mm",
+    "year": 2025,
+    "image": "img/products/apple-watch-series-11/rosegold-0.webp",
+    "summary": "Aluminum · S10 chip · up to 24 hours",
+    "colors": [
+      {
+        "name": "Rose Gold",
+        "hex": "#e8c9b9"
+      },
+      {
+        "name": "Jet Black",
+        "hex": "#1f1f21"
+      },
+      {
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "name": "Space Gray",
+        "hex": "#5c5f63"
+      }
+    ],
+    "rating": 4.7,
+    "reviewsCount": 65,
+    "inStock": true,
+    "isNew": false
+  },
+  {
+    "id": 39,
+    "category": "watch",
+    "itemId": "apple-watch-ultra-3-49mm-natural",
+    "namespaceId": "apple-watch-ultra-3",
+    "name": "Apple Watch Ultra 3 49mm Natural Titanium",
+    "modelName": "Apple Watch Ultra 3",
+    "fullPrice": 799,
+    "price": 699,
+    "color": "Natural Titanium",
+    "capacity": "49mm",
+    "year": 2025,
+    "image": "img/products/apple-watch-ultra-3/natural-0.webp",
+    "summary": "Titanium · 49mm · up to 42 hours",
+    "colors": [
+      {
+        "name": "Natural Titanium",
+        "hex": "#c8c2b8"
+      },
+      {
+        "name": "Black Titanium",
+        "hex": "#2b2b2d"
+      }
+    ],
+    "rating": 4.9,
+    "reviewsCount": 417,
+    "inStock": true,
+    "isNew": false
+  },
+  {
+    "id": 40,
+    "category": "watch",
     "itemId": "apple-watch-se-3-40mm-midnight",
     "namespaceId": "apple-watch-se-3",
     "name": "Apple Watch SE 3 40mm Midnight",
@@ -1401,8 +1430,7 @@
     "color": "Midnight",
     "capacity": "40mm",
     "year": 2025,
-    "image": "img/products/apple-watch-se-3/tile.webp",
-    "imageCover": true,
+    "image": "img/products/apple-watch-se-3/midnight-0.webp",
     "summary": "Aluminum · S10 chip · GPS",
     "colors": [
       {
@@ -1420,7 +1448,143 @@
     "isNew": false
   },
   {
-    "id": 39,
+    "id": 41,
+    "category": "watch",
+    "itemId": "apple-watch-series-10-42mm-jetblack",
+    "namespaceId": "apple-watch-series-10",
+    "name": "Apple Watch Series 10 42mm Jet Black",
+    "modelName": "Apple Watch Series 10",
+    "fullPrice": 399,
+    "price": 319,
+    "color": "Jet Black",
+    "capacity": "42mm",
+    "year": 2024,
+    "image": "img/products/apple-watch-series-10/jetblack-0.webp",
+    "summary": "Aluminum · S10 chip · thinnest design",
+    "colors": [
+      {
+        "name": "Jet Black",
+        "hex": "#1f1f21"
+      },
+      {
+        "name": "Rose Gold",
+        "hex": "#e8c9b9"
+      },
+      {
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "rating": 4.8,
+    "reviewsCount": 769,
+    "inStock": true,
+    "isNew": false
+  },
+  {
+    "id": 42,
+    "category": "watch",
+    "itemId": "apple-watch-ultra-2-49mm-natural",
+    "namespaceId": "apple-watch-ultra-2",
+    "name": "Apple Watch Ultra 2 49mm Natural Titanium",
+    "modelName": "Apple Watch Ultra 2",
+    "fullPrice": 799,
+    "price": 579,
+    "color": "Natural Titanium",
+    "capacity": "49mm",
+    "year": 2023,
+    "image": "img/products/apple-watch-ultra-2/natural-0.webp",
+    "summary": "Titanium · 49mm · up to 36 hours",
+    "colors": [
+      {
+        "name": "Natural Titanium",
+        "hex": "#c8c2b8"
+      },
+      {
+        "name": "Black Titanium",
+        "hex": "#2b2b2d"
+      }
+    ],
+    "rating": 4.4,
+    "reviewsCount": 815,
+    "inStock": true,
+    "isNew": false
+  },
+  {
+    "id": 43,
+    "category": "watch",
+    "itemId": "apple-watch-series-9-41mm-pink",
+    "namespaceId": "apple-watch-series-9",
+    "name": "Apple Watch Series 9 41mm Pink",
+    "modelName": "Apple Watch Series 9",
+    "fullPrice": 399,
+    "price": 289,
+    "color": "Pink",
+    "capacity": "41mm",
+    "year": 2023,
+    "image": "img/products/apple-watch-series-9/pink-0.webp",
+    "summary": "Aluminum · S9 chip · double tap",
+    "colors": [
+      {
+        "name": "Pink",
+        "hex": "#f2c9d0"
+      },
+      {
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "name": "Starlight",
+        "hex": "#efe9df"
+      },
+      {
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "name": "(PRODUCT)RED",
+        "hex": "#c0172f"
+      }
+    ],
+    "rating": 4.7,
+    "reviewsCount": 725,
+    "inStock": true,
+    "isNew": false
+  },
+  {
+    "id": 44,
+    "category": "watch",
+    "itemId": "apple-watch-se-2-40mm-midnight",
+    "namespaceId": "apple-watch-se-2",
+    "name": "Apple Watch SE (2nd generation) 40mm Midnight",
+    "modelName": "Apple Watch SE (2nd generation)",
+    "fullPrice": 249,
+    "price": 159,
+    "color": "Midnight",
+    "capacity": "40mm",
+    "year": 2022,
+    "image": "img/products/apple-watch-se-2/midnight-0.webp",
+    "summary": "Aluminum · S8 chip · GPS",
+    "colors": [
+      {
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "name": "Starlight",
+        "hex": "#efe9df"
+      },
+      {
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "rating": 4.5,
+    "reviewsCount": 477,
+    "inStock": true,
+    "isNew": false
+  },
+  {
+    "id": 45,
     "category": "airpods",
     "itemId": "airpods-pro-3",
     "namespaceId": "airpods-pro-3",
@@ -1432,7 +1596,6 @@
     "capacity": "",
     "year": 2025,
     "image": "img/products/airpods-pro-3/white-0.webp",
-    "imageCover": false,
     "summary": "Active Noise Cancellation · H2",
     "colors": [
       {
@@ -1446,7 +1609,7 @@
     "isNew": false
   },
   {
-    "id": 40,
+    "id": 46,
     "category": "airpods",
     "itemId": "airpods-5-usb-c-case",
     "namespaceId": "airpods-5",
@@ -1458,7 +1621,6 @@
     "capacity": "USB-C case",
     "year": 2026,
     "image": "img/products/airpods-5/white-0.webp",
-    "imageCover": false,
     "summary": "Active Noise Cancellation · H2",
     "colors": [
       {
@@ -1472,7 +1634,7 @@
     "isNew": true
   },
   {
-    "id": 41,
+    "id": 47,
     "category": "airpods",
     "itemId": "airpods-4",
     "namespaceId": "airpods-4",
@@ -1484,7 +1646,6 @@
     "capacity": "",
     "year": 2024,
     "image": "img/products/airpods-4/white-0.webp",
-    "imageCover": false,
     "summary": "Open-ear · H2",
     "colors": [
       {
@@ -1498,7 +1659,7 @@
     "isNew": false
   },
   {
-    "id": 42,
+    "id": 48,
     "category": "airpods",
     "itemId": "airpods-max-2-orange",
     "namespaceId": "airpods-max-2",
@@ -1510,7 +1671,6 @@
     "capacity": "",
     "year": 2026,
     "image": "img/products/airpods-max-2/orange-0.webp",
-    "imageCover": false,
     "summary": "Over-ear · H2 · Active Noise Cancellation",
     "colors": [
       {
@@ -1540,7 +1700,7 @@
     "isNew": true
   },
   {
-    "id": 43,
+    "id": 49,
     "category": "accessories",
     "itemId": "apple-pencil-pro",
     "namespaceId": "apple-pencil-pro",
@@ -1552,7 +1712,6 @@
     "capacity": "",
     "year": 2024,
     "image": "img/products/apple-pencil-pro/default-0.webp",
-    "imageCover": false,
     "summary": "Squeeze, barrel roll, haptics",
     "colors": [
       {
@@ -1566,7 +1725,7 @@
     "isNew": false
   },
   {
-    "id": 44,
+    "id": 50,
     "category": "accessories",
     "itemId": "magsafe-charger",
     "namespaceId": "magsafe-charger",
@@ -1578,7 +1737,6 @@
     "capacity": "",
     "year": 2025,
     "image": "img/products/magsafe-charger/default-0.webp",
-    "imageCover": false,
     "summary": "Up to 25W wireless",
     "colors": [
       {
@@ -1592,7 +1750,7 @@
     "isNew": false
   },
   {
-    "id": 45,
+    "id": 51,
     "category": "accessories",
     "itemId": "iphone-air-magsafe-battery",
     "namespaceId": "iphone-air-magsafe-battery",
@@ -1604,7 +1762,6 @@
     "capacity": "",
     "year": 2025,
     "image": "img/products/iphone-air-magsafe-battery/default-0.webp",
-    "imageCover": false,
     "summary": "Snap-on battery for iPhone Air",
     "colors": [
       {
@@ -1618,7 +1775,7 @@
     "isNew": false
   },
   {
-    "id": 46,
+    "id": 52,
     "category": "accessories",
     "itemId": "40w-dynamic-power-adapter",
     "namespaceId": "40w-dynamic-power-adapter",
@@ -1630,7 +1787,6 @@
     "capacity": "",
     "year": 2025,
     "image": "img/products/40w-dynamic-power-adapter/default-0.webp",
-    "imageCover": false,
     "summary": "Up to 60W max, USB-C",
     "colors": [
       {
@@ -1644,7 +1800,7 @@
     "isNew": false
   },
   {
-    "id": 47,
+    "id": 53,
     "category": "accessories",
     "itemId": "20w-usb-c-power-adapter",
     "namespaceId": "20w-usb-c-power-adapter",
@@ -1656,7 +1812,6 @@
     "capacity": "",
     "year": 2024,
     "image": "img/products/20w-usb-c-power-adapter/default-0.webp",
-    "imageCover": false,
     "summary": "Fast charging, USB-C",
     "colors": [
       {
@@ -1670,7 +1825,7 @@
     "isNew": false
   },
   {
-    "id": 48,
+    "id": 54,
     "category": "accessories",
     "itemId": "usb-c-to-magsafe-3-cable",
     "namespaceId": "usb-c-to-magsafe-3-cable",
@@ -1682,7 +1837,6 @@
     "capacity": "",
     "year": 2024,
     "image": "img/products/usb-c-to-magsafe-3-cable/default-0.webp",
-    "imageCover": false,
     "summary": "Braided, Space Black",
     "colors": [
       {
@@ -1696,7 +1850,7 @@
     "isNew": false
   },
   {
-    "id": 49,
+    "id": 55,
     "category": "accessories",
     "itemId": "airtag-4-pack",
     "namespaceId": "airtag-4-pack",
@@ -1708,7 +1862,6 @@
     "capacity": "",
     "year": 2026,
     "image": "img/products/airtag-4-pack/default-0.webp",
-    "imageCover": false,
     "summary": "Find your things with Find My",
     "colors": [
       {
@@ -1722,7 +1875,7 @@
     "isNew": true
   },
   {
-    "id": 50,
+    "id": 56,
     "category": "accessories",
     "itemId": "airtag-finewoven-key-ring-burgundy",
     "namespaceId": "airtag-finewoven-key-ring",
@@ -1734,7 +1887,6 @@
     "capacity": "",
     "year": 2026,
     "image": "img/products/airtag-finewoven-key-ring/burgundy-0.webp",
-    "imageCover": false,
     "summary": "FineWoven, two colors",
     "colors": [
       {
@@ -1752,7 +1904,7 @@
     "isNew": true
   },
   {
-    "id": 51,
+    "id": 57,
     "category": "accessories",
     "itemId": "iphone-18-pro-max-silicone-case",
     "namespaceId": "iphone-18-pro-max-silicone-case",
@@ -1764,7 +1916,6 @@
     "capacity": "",
     "year": 2026,
     "image": "img/products/iphone-18-pro-max-silicone-case/default-0.webp",
-    "imageCover": false,
     "summary": "Crisp Blue, MagSafe",
     "colors": [
       {
@@ -1778,7 +1929,7 @@
     "isNew": true
   },
   {
-    "id": 52,
+    "id": 58,
     "category": "accessories",
     "itemId": "iphone-finewoven-wallet",
     "namespaceId": "iphone-finewoven-wallet",
@@ -1790,7 +1941,6 @@
     "capacity": "",
     "year": 2026,
     "image": "img/products/iphone-finewoven-wallet/default-0.webp",
-    "imageCover": false,
     "summary": "Wildflower Blue, Find My",
     "colors": [
       {
@@ -1804,7 +1954,7 @@
     "isNew": true
   },
   {
-    "id": 53,
+    "id": 59,
     "category": "accessories",
     "itemId": "iphone-duo-case",
     "namespaceId": "iphone-duo-case",
@@ -1816,7 +1966,6 @@
     "capacity": "",
     "year": 2026,
     "image": "img/products/iphone-duo-case/default-0.webp",
-    "imageCover": false,
     "summary": "Navy Blue, with kickstand",
     "colors": [
       {

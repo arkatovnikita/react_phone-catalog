@@ -38,8 +38,7 @@
     ],
     "color": "darkbronze",
     "images": [
-      "img/products/apple-watch-series-12/darkbronze-0.webp",
-      "img/products/apple-watch-series-12/tile.webp"
+      "img/products/apple-watch-series-12/darkbronze-0.webp"
     ],
     "description": [
       {
@@ -85,10 +84,6 @@
       {
         "label": "Water resistance",
         "value": "WR50, IP6X"
-      },
-      {
-        "label": "Connectivity",
-        "value": "GPS, Wi-Fi, Bluetooth, Ultra Wideband"
       }
     ],
     "rating": 4.5,
@@ -157,8 +152,7 @@
     ],
     "color": "darkbronze",
     "images": [
-      "img/products/apple-watch-series-12/darkbronze-0.webp",
-      "img/products/apple-watch-series-12/tile.webp"
+      "img/products/apple-watch-series-12/darkbronze-0.webp"
     ],
     "description": [
       {
@@ -204,10 +198,6 @@
       {
         "label": "Water resistance",
         "value": "WR50, IP6X"
-      },
-      {
-        "label": "Connectivity",
-        "value": "GPS, Wi-Fi, Bluetooth, Ultra Wideband"
       }
     ],
     "rating": 4.5,
@@ -276,8 +266,7 @@
     ],
     "color": "black",
     "images": [
-      "img/products/apple-watch-series-12/black-0.webp",
-      "img/products/apple-watch-series-12/tile.webp"
+      "img/products/apple-watch-series-12/black-0.webp"
     ],
     "description": [
       {
@@ -323,10 +312,6 @@
       {
         "label": "Water resistance",
         "value": "WR50, IP6X"
-      },
-      {
-        "label": "Connectivity",
-        "value": "GPS, Wi-Fi, Bluetooth, Ultra Wideband"
       }
     ],
     "rating": 4.5,
@@ -395,8 +380,7 @@
     ],
     "color": "black",
     "images": [
-      "img/products/apple-watch-series-12/black-0.webp",
-      "img/products/apple-watch-series-12/tile.webp"
+      "img/products/apple-watch-series-12/black-0.webp"
     ],
     "description": [
       {
@@ -442,10 +426,6 @@
       {
         "label": "Water resistance",
         "value": "WR50, IP6X"
-      },
-      {
-        "label": "Connectivity",
-        "value": "GPS, Wi-Fi, Bluetooth, Ultra Wideband"
       }
     ],
     "rating": 4.5,
@@ -514,8 +494,7 @@
     ],
     "color": "lightgold",
     "images": [
-      "img/products/apple-watch-series-12/lightgold-0.webp",
-      "img/products/apple-watch-series-12/tile.webp"
+      "img/products/apple-watch-series-12/lightgold-0.webp"
     ],
     "description": [
       {
@@ -561,10 +540,6 @@
       {
         "label": "Water resistance",
         "value": "WR50, IP6X"
-      },
-      {
-        "label": "Connectivity",
-        "value": "GPS, Wi-Fi, Bluetooth, Ultra Wideband"
       }
     ],
     "rating": 4.5,
@@ -633,8 +608,7 @@
     ],
     "color": "lightgold",
     "images": [
-      "img/products/apple-watch-series-12/lightgold-0.webp",
-      "img/products/apple-watch-series-12/tile.webp"
+      "img/products/apple-watch-series-12/lightgold-0.webp"
     ],
     "description": [
       {
@@ -680,10 +654,6 @@
       {
         "label": "Water resistance",
         "value": "WR50, IP6X"
-      },
-      {
-        "label": "Connectivity",
-        "value": "GPS, Wi-Fi, Bluetooth, Ultra Wideband"
       }
     ],
     "rating": 4.5,
@@ -752,8 +722,7 @@
     ],
     "color": "spacegray",
     "images": [
-      "img/products/apple-watch-series-12/spacegray-0.webp",
-      "img/products/apple-watch-series-12/tile.webp"
+      "img/products/apple-watch-series-12/spacegray-0.webp"
     ],
     "description": [
       {
@@ -799,10 +768,6 @@
       {
         "label": "Water resistance",
         "value": "WR50, IP6X"
-      },
-      {
-        "label": "Connectivity",
-        "value": "GPS, Wi-Fi, Bluetooth, Ultra Wideband"
       }
     ],
     "rating": 4.5,
@@ -871,8 +836,7 @@
     ],
     "color": "spacegray",
     "images": [
-      "img/products/apple-watch-series-12/spacegray-0.webp",
-      "img/products/apple-watch-series-12/tile.webp"
+      "img/products/apple-watch-series-12/spacegray-0.webp"
     ],
     "description": [
       {
@@ -918,10 +882,6 @@
       {
         "label": "Water resistance",
         "value": "WR50, IP6X"
-      },
-      {
-        "label": "Connectivity",
-        "value": "GPS, Wi-Fi, Bluetooth, Ultra Wideband"
       }
     ],
     "rating": 4.5,
@@ -979,8 +939,7 @@
     ],
     "color": "natural",
     "images": [
-      "img/products/apple-watch-ultra-4/natural-0.webp",
-      "img/products/apple-watch-ultra-4/tile.webp"
+      "img/products/apple-watch-ultra-4/natural-0.webp"
     ],
     "description": [
       {
@@ -1020,8 +979,8 @@
         "value": "Up to 50 hours, 84 hours in Low Power Mode"
       },
       {
-        "label": "Navigation",
-        "value": "Precision dual-frequency GPS"
+        "label": "Health",
+        "value": "ECG, blood oxygen, sleep score"
       },
       {
         "label": "Water resistance",
@@ -1087,8 +1046,7 @@
     ],
     "color": "black",
     "images": [
-      "img/products/apple-watch-ultra-4/black-0.webp",
-      "img/products/apple-watch-ultra-4/tile.webp"
+      "img/products/apple-watch-ultra-4/black-0.webp"
     ],
     "description": [
       {
@@ -1128,8 +1086,8 @@
         "value": "Up to 50 hours, 84 hours in Low Power Mode"
       },
       {
-        "label": "Navigation",
-        "value": "Precision dual-frequency GPS"
+        "label": "Health",
+        "value": "ECG, blood oxygen, sleep score"
       },
       {
         "label": "Water resistance",
@@ -1168,6 +1126,1132 @@
     "inStock": true
   },
   {
+    "id": "apple-watch-series-11-42mm-rosegold",
+    "category": "watch",
+    "namespaceId": "apple-watch-series-11",
+    "name": "Apple Watch Series 11 42mm Rose Gold",
+    "modelName": "Apple Watch Series 11",
+    "year": 2025,
+    "capacityAvailable": [
+      "42mm",
+      "46mm"
+    ],
+    "capacity": "42mm",
+    "capacityLabel": "Case size",
+    "priceRegular": 399,
+    "priceDiscount": 349,
+    "colors": [
+      {
+        "slug": "rosegold",
+        "name": "Rose Gold",
+        "hex": "#e8c9b9"
+      },
+      {
+        "slug": "jetblack",
+        "name": "Jet Black",
+        "hex": "#1f1f21"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "slug": "spacegray",
+        "name": "Space Gray",
+        "hex": "#5c5f63"
+      }
+    ],
+    "color": "rosegold",
+    "images": [
+      "img/products/apple-watch-series-11/rosegold-0.webp"
+    ],
+    "description": [
+      {
+        "title": "All-day battery",
+        "text": [
+          "Up to 24 hours of battery life, the most in a Series model of its time."
+        ]
+      },
+      {
+        "title": "Sleep score",
+        "text": [
+          "Understand the quality of your sleep each morning."
+        ]
+      },
+      {
+        "title": "Previous generation, great price",
+        "text": [
+          "A modern Apple Watch for less."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Case",
+        "value": "Aluminum"
+      },
+      {
+        "label": "Display",
+        "value": "Always-On Retina with wide-angle OLED"
+      },
+      {
+        "label": "Chip",
+        "value": "S10 SiP"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 24 hours"
+      },
+      {
+        "label": "Health",
+        "value": "ECG, blood oxygen, sleep score, hypertension notifications"
+      },
+      {
+        "label": "Water resistance",
+        "value": "WR50, IP6X"
+      }
+    ],
+    "rating": 4.7,
+    "reviewsCount": 65,
+    "reviews": [
+      {
+        "author": "Olivia M.",
+        "rating": 5,
+        "date": "2026-10-02",
+        "title": "Super useful",
+        "text": "Notifications and Apple Pay on my wrist changed my routine."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Battery is fine",
+        "text": "Easily gets through the day with a workout."
+      },
+      {
+        "author": "Sofia R.",
+        "rating": 5,
+        "date": "2026-05-21",
+        "title": "Love the design",
+        "text": "Comfortable to wear all day and night."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "apple-watch-series-11-46mm-rosegold",
+    "category": "watch",
+    "namespaceId": "apple-watch-series-11",
+    "name": "Apple Watch Series 11 46mm Rose Gold",
+    "modelName": "Apple Watch Series 11",
+    "year": 2025,
+    "capacityAvailable": [
+      "42mm",
+      "46mm"
+    ],
+    "capacity": "46mm",
+    "capacityLabel": "Case size",
+    "priceRegular": 429,
+    "priceDiscount": 379,
+    "colors": [
+      {
+        "slug": "rosegold",
+        "name": "Rose Gold",
+        "hex": "#e8c9b9"
+      },
+      {
+        "slug": "jetblack",
+        "name": "Jet Black",
+        "hex": "#1f1f21"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "slug": "spacegray",
+        "name": "Space Gray",
+        "hex": "#5c5f63"
+      }
+    ],
+    "color": "rosegold",
+    "images": [
+      "img/products/apple-watch-series-11/rosegold-0.webp"
+    ],
+    "description": [
+      {
+        "title": "All-day battery",
+        "text": [
+          "Up to 24 hours of battery life, the most in a Series model of its time."
+        ]
+      },
+      {
+        "title": "Sleep score",
+        "text": [
+          "Understand the quality of your sleep each morning."
+        ]
+      },
+      {
+        "title": "Previous generation, great price",
+        "text": [
+          "A modern Apple Watch for less."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Case",
+        "value": "Aluminum"
+      },
+      {
+        "label": "Display",
+        "value": "Always-On Retina with wide-angle OLED"
+      },
+      {
+        "label": "Chip",
+        "value": "S10 SiP"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 24 hours"
+      },
+      {
+        "label": "Health",
+        "value": "ECG, blood oxygen, sleep score, hypertension notifications"
+      },
+      {
+        "label": "Water resistance",
+        "value": "WR50, IP6X"
+      }
+    ],
+    "rating": 4.7,
+    "reviewsCount": 65,
+    "reviews": [
+      {
+        "author": "Olivia M.",
+        "rating": 5,
+        "date": "2026-10-02",
+        "title": "Super useful",
+        "text": "Notifications and Apple Pay on my wrist changed my routine."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Battery is fine",
+        "text": "Easily gets through the day with a workout."
+      },
+      {
+        "author": "Sofia R.",
+        "rating": 5,
+        "date": "2026-05-21",
+        "title": "Love the design",
+        "text": "Comfortable to wear all day and night."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "apple-watch-series-11-42mm-jetblack",
+    "category": "watch",
+    "namespaceId": "apple-watch-series-11",
+    "name": "Apple Watch Series 11 42mm Jet Black",
+    "modelName": "Apple Watch Series 11",
+    "year": 2025,
+    "capacityAvailable": [
+      "42mm",
+      "46mm"
+    ],
+    "capacity": "42mm",
+    "capacityLabel": "Case size",
+    "priceRegular": 399,
+    "priceDiscount": 349,
+    "colors": [
+      {
+        "slug": "rosegold",
+        "name": "Rose Gold",
+        "hex": "#e8c9b9"
+      },
+      {
+        "slug": "jetblack",
+        "name": "Jet Black",
+        "hex": "#1f1f21"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "slug": "spacegray",
+        "name": "Space Gray",
+        "hex": "#5c5f63"
+      }
+    ],
+    "color": "jetblack",
+    "images": [
+      "img/products/apple-watch-series-11/jetblack-0.webp"
+    ],
+    "description": [
+      {
+        "title": "All-day battery",
+        "text": [
+          "Up to 24 hours of battery life, the most in a Series model of its time."
+        ]
+      },
+      {
+        "title": "Sleep score",
+        "text": [
+          "Understand the quality of your sleep each morning."
+        ]
+      },
+      {
+        "title": "Previous generation, great price",
+        "text": [
+          "A modern Apple Watch for less."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Case",
+        "value": "Aluminum"
+      },
+      {
+        "label": "Display",
+        "value": "Always-On Retina with wide-angle OLED"
+      },
+      {
+        "label": "Chip",
+        "value": "S10 SiP"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 24 hours"
+      },
+      {
+        "label": "Health",
+        "value": "ECG, blood oxygen, sleep score, hypertension notifications"
+      },
+      {
+        "label": "Water resistance",
+        "value": "WR50, IP6X"
+      }
+    ],
+    "rating": 4.7,
+    "reviewsCount": 65,
+    "reviews": [
+      {
+        "author": "Olivia M.",
+        "rating": 5,
+        "date": "2026-10-02",
+        "title": "Super useful",
+        "text": "Notifications and Apple Pay on my wrist changed my routine."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Battery is fine",
+        "text": "Easily gets through the day with a workout."
+      },
+      {
+        "author": "Sofia R.",
+        "rating": 5,
+        "date": "2026-05-21",
+        "title": "Love the design",
+        "text": "Comfortable to wear all day and night."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "apple-watch-series-11-46mm-jetblack",
+    "category": "watch",
+    "namespaceId": "apple-watch-series-11",
+    "name": "Apple Watch Series 11 46mm Jet Black",
+    "modelName": "Apple Watch Series 11",
+    "year": 2025,
+    "capacityAvailable": [
+      "42mm",
+      "46mm"
+    ],
+    "capacity": "46mm",
+    "capacityLabel": "Case size",
+    "priceRegular": 429,
+    "priceDiscount": 379,
+    "colors": [
+      {
+        "slug": "rosegold",
+        "name": "Rose Gold",
+        "hex": "#e8c9b9"
+      },
+      {
+        "slug": "jetblack",
+        "name": "Jet Black",
+        "hex": "#1f1f21"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "slug": "spacegray",
+        "name": "Space Gray",
+        "hex": "#5c5f63"
+      }
+    ],
+    "color": "jetblack",
+    "images": [
+      "img/products/apple-watch-series-11/jetblack-0.webp"
+    ],
+    "description": [
+      {
+        "title": "All-day battery",
+        "text": [
+          "Up to 24 hours of battery life, the most in a Series model of its time."
+        ]
+      },
+      {
+        "title": "Sleep score",
+        "text": [
+          "Understand the quality of your sleep each morning."
+        ]
+      },
+      {
+        "title": "Previous generation, great price",
+        "text": [
+          "A modern Apple Watch for less."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Case",
+        "value": "Aluminum"
+      },
+      {
+        "label": "Display",
+        "value": "Always-On Retina with wide-angle OLED"
+      },
+      {
+        "label": "Chip",
+        "value": "S10 SiP"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 24 hours"
+      },
+      {
+        "label": "Health",
+        "value": "ECG, blood oxygen, sleep score, hypertension notifications"
+      },
+      {
+        "label": "Water resistance",
+        "value": "WR50, IP6X"
+      }
+    ],
+    "rating": 4.7,
+    "reviewsCount": 65,
+    "reviews": [
+      {
+        "author": "Olivia M.",
+        "rating": 5,
+        "date": "2026-10-02",
+        "title": "Super useful",
+        "text": "Notifications and Apple Pay on my wrist changed my routine."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Battery is fine",
+        "text": "Easily gets through the day with a workout."
+      },
+      {
+        "author": "Sofia R.",
+        "rating": 5,
+        "date": "2026-05-21",
+        "title": "Love the design",
+        "text": "Comfortable to wear all day and night."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "apple-watch-series-11-42mm-silver",
+    "category": "watch",
+    "namespaceId": "apple-watch-series-11",
+    "name": "Apple Watch Series 11 42mm Silver",
+    "modelName": "Apple Watch Series 11",
+    "year": 2025,
+    "capacityAvailable": [
+      "42mm",
+      "46mm"
+    ],
+    "capacity": "42mm",
+    "capacityLabel": "Case size",
+    "priceRegular": 399,
+    "priceDiscount": 349,
+    "colors": [
+      {
+        "slug": "rosegold",
+        "name": "Rose Gold",
+        "hex": "#e8c9b9"
+      },
+      {
+        "slug": "jetblack",
+        "name": "Jet Black",
+        "hex": "#1f1f21"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "slug": "spacegray",
+        "name": "Space Gray",
+        "hex": "#5c5f63"
+      }
+    ],
+    "color": "silver",
+    "images": [
+      "img/products/apple-watch-series-11/silver-0.webp"
+    ],
+    "description": [
+      {
+        "title": "All-day battery",
+        "text": [
+          "Up to 24 hours of battery life, the most in a Series model of its time."
+        ]
+      },
+      {
+        "title": "Sleep score",
+        "text": [
+          "Understand the quality of your sleep each morning."
+        ]
+      },
+      {
+        "title": "Previous generation, great price",
+        "text": [
+          "A modern Apple Watch for less."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Case",
+        "value": "Aluminum"
+      },
+      {
+        "label": "Display",
+        "value": "Always-On Retina with wide-angle OLED"
+      },
+      {
+        "label": "Chip",
+        "value": "S10 SiP"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 24 hours"
+      },
+      {
+        "label": "Health",
+        "value": "ECG, blood oxygen, sleep score, hypertension notifications"
+      },
+      {
+        "label": "Water resistance",
+        "value": "WR50, IP6X"
+      }
+    ],
+    "rating": 4.7,
+    "reviewsCount": 65,
+    "reviews": [
+      {
+        "author": "Olivia M.",
+        "rating": 5,
+        "date": "2026-10-02",
+        "title": "Super useful",
+        "text": "Notifications and Apple Pay on my wrist changed my routine."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Battery is fine",
+        "text": "Easily gets through the day with a workout."
+      },
+      {
+        "author": "Sofia R.",
+        "rating": 5,
+        "date": "2026-05-21",
+        "title": "Love the design",
+        "text": "Comfortable to wear all day and night."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "apple-watch-series-11-46mm-silver",
+    "category": "watch",
+    "namespaceId": "apple-watch-series-11",
+    "name": "Apple Watch Series 11 46mm Silver",
+    "modelName": "Apple Watch Series 11",
+    "year": 2025,
+    "capacityAvailable": [
+      "42mm",
+      "46mm"
+    ],
+    "capacity": "46mm",
+    "capacityLabel": "Case size",
+    "priceRegular": 429,
+    "priceDiscount": 379,
+    "colors": [
+      {
+        "slug": "rosegold",
+        "name": "Rose Gold",
+        "hex": "#e8c9b9"
+      },
+      {
+        "slug": "jetblack",
+        "name": "Jet Black",
+        "hex": "#1f1f21"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "slug": "spacegray",
+        "name": "Space Gray",
+        "hex": "#5c5f63"
+      }
+    ],
+    "color": "silver",
+    "images": [
+      "img/products/apple-watch-series-11/silver-0.webp"
+    ],
+    "description": [
+      {
+        "title": "All-day battery",
+        "text": [
+          "Up to 24 hours of battery life, the most in a Series model of its time."
+        ]
+      },
+      {
+        "title": "Sleep score",
+        "text": [
+          "Understand the quality of your sleep each morning."
+        ]
+      },
+      {
+        "title": "Previous generation, great price",
+        "text": [
+          "A modern Apple Watch for less."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Case",
+        "value": "Aluminum"
+      },
+      {
+        "label": "Display",
+        "value": "Always-On Retina with wide-angle OLED"
+      },
+      {
+        "label": "Chip",
+        "value": "S10 SiP"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 24 hours"
+      },
+      {
+        "label": "Health",
+        "value": "ECG, blood oxygen, sleep score, hypertension notifications"
+      },
+      {
+        "label": "Water resistance",
+        "value": "WR50, IP6X"
+      }
+    ],
+    "rating": 4.7,
+    "reviewsCount": 65,
+    "reviews": [
+      {
+        "author": "Olivia M.",
+        "rating": 5,
+        "date": "2026-10-02",
+        "title": "Super useful",
+        "text": "Notifications and Apple Pay on my wrist changed my routine."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Battery is fine",
+        "text": "Easily gets through the day with a workout."
+      },
+      {
+        "author": "Sofia R.",
+        "rating": 5,
+        "date": "2026-05-21",
+        "title": "Love the design",
+        "text": "Comfortable to wear all day and night."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "apple-watch-series-11-42mm-spacegray",
+    "category": "watch",
+    "namespaceId": "apple-watch-series-11",
+    "name": "Apple Watch Series 11 42mm Space Gray",
+    "modelName": "Apple Watch Series 11",
+    "year": 2025,
+    "capacityAvailable": [
+      "42mm",
+      "46mm"
+    ],
+    "capacity": "42mm",
+    "capacityLabel": "Case size",
+    "priceRegular": 399,
+    "priceDiscount": 349,
+    "colors": [
+      {
+        "slug": "rosegold",
+        "name": "Rose Gold",
+        "hex": "#e8c9b9"
+      },
+      {
+        "slug": "jetblack",
+        "name": "Jet Black",
+        "hex": "#1f1f21"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "slug": "spacegray",
+        "name": "Space Gray",
+        "hex": "#5c5f63"
+      }
+    ],
+    "color": "spacegray",
+    "images": [
+      "img/products/apple-watch-series-11/spacegray-0.webp"
+    ],
+    "description": [
+      {
+        "title": "All-day battery",
+        "text": [
+          "Up to 24 hours of battery life, the most in a Series model of its time."
+        ]
+      },
+      {
+        "title": "Sleep score",
+        "text": [
+          "Understand the quality of your sleep each morning."
+        ]
+      },
+      {
+        "title": "Previous generation, great price",
+        "text": [
+          "A modern Apple Watch for less."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Case",
+        "value": "Aluminum"
+      },
+      {
+        "label": "Display",
+        "value": "Always-On Retina with wide-angle OLED"
+      },
+      {
+        "label": "Chip",
+        "value": "S10 SiP"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 24 hours"
+      },
+      {
+        "label": "Health",
+        "value": "ECG, blood oxygen, sleep score, hypertension notifications"
+      },
+      {
+        "label": "Water resistance",
+        "value": "WR50, IP6X"
+      }
+    ],
+    "rating": 4.7,
+    "reviewsCount": 65,
+    "reviews": [
+      {
+        "author": "Olivia M.",
+        "rating": 5,
+        "date": "2026-10-02",
+        "title": "Super useful",
+        "text": "Notifications and Apple Pay on my wrist changed my routine."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Battery is fine",
+        "text": "Easily gets through the day with a workout."
+      },
+      {
+        "author": "Sofia R.",
+        "rating": 5,
+        "date": "2026-05-21",
+        "title": "Love the design",
+        "text": "Comfortable to wear all day and night."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "apple-watch-series-11-46mm-spacegray",
+    "category": "watch",
+    "namespaceId": "apple-watch-series-11",
+    "name": "Apple Watch Series 11 46mm Space Gray",
+    "modelName": "Apple Watch Series 11",
+    "year": 2025,
+    "capacityAvailable": [
+      "42mm",
+      "46mm"
+    ],
+    "capacity": "46mm",
+    "capacityLabel": "Case size",
+    "priceRegular": 429,
+    "priceDiscount": 379,
+    "colors": [
+      {
+        "slug": "rosegold",
+        "name": "Rose Gold",
+        "hex": "#e8c9b9"
+      },
+      {
+        "slug": "jetblack",
+        "name": "Jet Black",
+        "hex": "#1f1f21"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "slug": "spacegray",
+        "name": "Space Gray",
+        "hex": "#5c5f63"
+      }
+    ],
+    "color": "spacegray",
+    "images": [
+      "img/products/apple-watch-series-11/spacegray-0.webp"
+    ],
+    "description": [
+      {
+        "title": "All-day battery",
+        "text": [
+          "Up to 24 hours of battery life, the most in a Series model of its time."
+        ]
+      },
+      {
+        "title": "Sleep score",
+        "text": [
+          "Understand the quality of your sleep each morning."
+        ]
+      },
+      {
+        "title": "Previous generation, great price",
+        "text": [
+          "A modern Apple Watch for less."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Case",
+        "value": "Aluminum"
+      },
+      {
+        "label": "Display",
+        "value": "Always-On Retina with wide-angle OLED"
+      },
+      {
+        "label": "Chip",
+        "value": "S10 SiP"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 24 hours"
+      },
+      {
+        "label": "Health",
+        "value": "ECG, blood oxygen, sleep score, hypertension notifications"
+      },
+      {
+        "label": "Water resistance",
+        "value": "WR50, IP6X"
+      }
+    ],
+    "rating": 4.7,
+    "reviewsCount": 65,
+    "reviews": [
+      {
+        "author": "Olivia M.",
+        "rating": 5,
+        "date": "2026-10-02",
+        "title": "Super useful",
+        "text": "Notifications and Apple Pay on my wrist changed my routine."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Battery is fine",
+        "text": "Easily gets through the day with a workout."
+      },
+      {
+        "author": "Sofia R.",
+        "rating": 5,
+        "date": "2026-05-21",
+        "title": "Love the design",
+        "text": "Comfortable to wear all day and night."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "apple-watch-ultra-3-49mm-natural",
+    "category": "watch",
+    "namespaceId": "apple-watch-ultra-3",
+    "name": "Apple Watch Ultra 3 49mm Natural Titanium",
+    "modelName": "Apple Watch Ultra 3",
+    "year": 2025,
+    "capacityAvailable": [
+      "49mm"
+    ],
+    "capacity": "49mm",
+    "capacityLabel": "Case size",
+    "priceRegular": 799,
+    "priceDiscount": 699,
+    "colors": [
+      {
+        "slug": "natural",
+        "name": "Natural Titanium",
+        "hex": "#c8c2b8"
+      },
+      {
+        "slug": "black",
+        "name": "Black Titanium",
+        "hex": "#2b2b2d"
+      }
+    ],
+    "color": "natural",
+    "images": [
+      "img/products/apple-watch-ultra-3/natural-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Satellite connectivity",
+        "text": [
+          "Send messages and call for help via satellite."
+        ]
+      },
+      {
+        "title": "Larger display",
+        "text": [
+          "A wide-angle OLED display that is easier to read."
+        ]
+      },
+      {
+        "title": "Previous generation, great price",
+        "text": [
+          "Ultra durability for less."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Case",
+        "value": "49mm titanium"
+      },
+      {
+        "label": "Display",
+        "value": "Always-On Retina, wide-angle OLED"
+      },
+      {
+        "label": "Chip",
+        "value": "S10 SiP"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 42 hours, 72 hours in Low Power Mode"
+      },
+      {
+        "label": "Health",
+        "value": "ECG, blood oxygen, sleep score"
+      },
+      {
+        "label": "Water resistance",
+        "value": "WR100, dive to 40 m"
+      },
+      {
+        "label": "Connectivity",
+        "value": "GPS + Cellular, satellite SOS"
+      }
+    ],
+    "rating": 4.9,
+    "reviewsCount": 417,
+    "reviews": [
+      {
+        "author": "Ava C.",
+        "rating": 5,
+        "date": "2026-10-02",
+        "title": "Great fitness tracker",
+        "text": "Accurate workouts and sleep tracking. Motivates me to move."
+      },
+      {
+        "author": "Leo F.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Super useful",
+        "text": "Notifications and Apple Pay on my wrist changed my routine."
+      },
+      {
+        "author": "Olivia M.",
+        "rating": 4,
+        "date": "2026-08-27",
+        "title": "Love the design",
+        "text": "Comfortable to wear all day and night."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "apple-watch-ultra-3-49mm-black",
+    "category": "watch",
+    "namespaceId": "apple-watch-ultra-3",
+    "name": "Apple Watch Ultra 3 49mm Black Titanium",
+    "modelName": "Apple Watch Ultra 3",
+    "year": 2025,
+    "capacityAvailable": [
+      "49mm"
+    ],
+    "capacity": "49mm",
+    "capacityLabel": "Case size",
+    "priceRegular": 799,
+    "priceDiscount": 699,
+    "colors": [
+      {
+        "slug": "natural",
+        "name": "Natural Titanium",
+        "hex": "#c8c2b8"
+      },
+      {
+        "slug": "black",
+        "name": "Black Titanium",
+        "hex": "#2b2b2d"
+      }
+    ],
+    "color": "black",
+    "images": [
+      "img/products/apple-watch-ultra-3/black-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Satellite connectivity",
+        "text": [
+          "Send messages and call for help via satellite."
+        ]
+      },
+      {
+        "title": "Larger display",
+        "text": [
+          "A wide-angle OLED display that is easier to read."
+        ]
+      },
+      {
+        "title": "Previous generation, great price",
+        "text": [
+          "Ultra durability for less."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Case",
+        "value": "49mm titanium"
+      },
+      {
+        "label": "Display",
+        "value": "Always-On Retina, wide-angle OLED"
+      },
+      {
+        "label": "Chip",
+        "value": "S10 SiP"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 42 hours, 72 hours in Low Power Mode"
+      },
+      {
+        "label": "Health",
+        "value": "ECG, blood oxygen, sleep score"
+      },
+      {
+        "label": "Water resistance",
+        "value": "WR100, dive to 40 m"
+      },
+      {
+        "label": "Connectivity",
+        "value": "GPS + Cellular, satellite SOS"
+      }
+    ],
+    "rating": 4.9,
+    "reviewsCount": 417,
+    "reviews": [
+      {
+        "author": "Ava C.",
+        "rating": 5,
+        "date": "2026-10-02",
+        "title": "Great fitness tracker",
+        "text": "Accurate workouts and sleep tracking. Motivates me to move."
+      },
+      {
+        "author": "Leo F.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Super useful",
+        "text": "Notifications and Apple Pay on my wrist changed my routine."
+      },
+      {
+        "author": "Olivia M.",
+        "rating": 4,
+        "date": "2026-08-27",
+        "title": "Love the design",
+        "text": "Comfortable to wear all day and night."
+      }
+    ],
+    "inStock": true
+  },
+  {
     "id": "apple-watch-se-3-40mm-midnight",
     "category": "watch",
     "namespaceId": "apple-watch-se-3",
@@ -1196,8 +2280,7 @@
     ],
     "color": "midnight",
     "images": [
-      "img/products/apple-watch-se-3/midnight-0.webp",
-      "img/products/apple-watch-se-3/tile.webp"
+      "img/products/apple-watch-se-3/midnight-0.webp"
     ],
     "description": [
       {
@@ -1243,10 +2326,6 @@
       {
         "label": "Water resistance",
         "value": "WR50"
-      },
-      {
-        "label": "Storage",
-        "value": "64GB"
       }
     ],
     "rating": 4.4,
@@ -1305,8 +2384,7 @@
     ],
     "color": "midnight",
     "images": [
-      "img/products/apple-watch-se-3/midnight-0.webp",
-      "img/products/apple-watch-se-3/tile.webp"
+      "img/products/apple-watch-se-3/midnight-0.webp"
     ],
     "description": [
       {
@@ -1352,10 +2430,6 @@
       {
         "label": "Water resistance",
         "value": "WR50"
-      },
-      {
-        "label": "Storage",
-        "value": "64GB"
       }
     ],
     "rating": 4.4,
@@ -1414,8 +2488,7 @@
     ],
     "color": "starlight",
     "images": [
-      "img/products/apple-watch-se-3/starlight-0.webp",
-      "img/products/apple-watch-se-3/tile.webp"
+      "img/products/apple-watch-se-3/starlight-0.webp"
     ],
     "description": [
       {
@@ -1461,10 +2534,6 @@
       {
         "label": "Water resistance",
         "value": "WR50"
-      },
-      {
-        "label": "Storage",
-        "value": "64GB"
       }
     ],
     "rating": 4.4,
@@ -1523,8 +2592,7 @@
     ],
     "color": "starlight",
     "images": [
-      "img/products/apple-watch-se-3/starlight-0.webp",
-      "img/products/apple-watch-se-3/tile.webp"
+      "img/products/apple-watch-se-3/starlight-0.webp"
     ],
     "description": [
       {
@@ -1570,10 +2638,6 @@
       {
         "label": "Water resistance",
         "value": "WR50"
-      },
-      {
-        "label": "Storage",
-        "value": "64GB"
       }
     ],
     "rating": 4.4,
@@ -1599,6 +2663,2718 @@
         "date": "2026-05-21",
         "title": "Love the design",
         "text": "Comfortable to wear all day and night."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "apple-watch-series-10-42mm-jetblack",
+    "category": "watch",
+    "namespaceId": "apple-watch-series-10",
+    "name": "Apple Watch Series 10 42mm Jet Black",
+    "modelName": "Apple Watch Series 10",
+    "year": 2024,
+    "capacityAvailable": [
+      "42mm",
+      "46mm"
+    ],
+    "capacity": "42mm",
+    "capacityLabel": "Case size",
+    "priceRegular": 399,
+    "priceDiscount": 319,
+    "colors": [
+      {
+        "slug": "jetblack",
+        "name": "Jet Black",
+        "hex": "#1f1f21"
+      },
+      {
+        "slug": "rosegold",
+        "name": "Rose Gold",
+        "hex": "#e8c9b9"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "color": "jetblack",
+    "images": [
+      "img/products/apple-watch-series-10/jetblack-0.webp"
+    ],
+    "description": [
+      {
+        "title": "The thinnest Apple Watch",
+        "text": [
+          "A thinner design with the biggest display of its time."
+        ]
+      },
+      {
+        "title": "Sleep apnea notifications",
+        "text": [
+          "Get notified about signs of breathing disturbances."
+        ]
+      },
+      {
+        "title": "Previous generation, great price",
+        "text": [
+          "A big display for less."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Case",
+        "value": "Aluminum"
+      },
+      {
+        "label": "Display",
+        "value": "Always-On wide-angle OLED"
+      },
+      {
+        "label": "Chip",
+        "value": "S10 SiP"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 18 hours"
+      },
+      {
+        "label": "Health",
+        "value": "ECG, blood oxygen, sleep apnea notifications"
+      },
+      {
+        "label": "Water resistance",
+        "value": "WR50"
+      }
+    ],
+    "rating": 4.8,
+    "reviewsCount": 769,
+    "reviews": [
+      {
+        "author": "Chloe D.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Battery is fine",
+        "text": "Easily gets through the day with a workout."
+      },
+      {
+        "author": "Grace H.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Love the design",
+        "text": "Comfortable to wear all day and night."
+      },
+      {
+        "author": "Chloe D.",
+        "rating": 4,
+        "date": "2026-08-27",
+        "title": "Great fitness tracker",
+        "text": "Accurate workouts and sleep tracking. Motivates me to move."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "apple-watch-series-10-46mm-jetblack",
+    "category": "watch",
+    "namespaceId": "apple-watch-series-10",
+    "name": "Apple Watch Series 10 46mm Jet Black",
+    "modelName": "Apple Watch Series 10",
+    "year": 2024,
+    "capacityAvailable": [
+      "42mm",
+      "46mm"
+    ],
+    "capacity": "46mm",
+    "capacityLabel": "Case size",
+    "priceRegular": 429,
+    "priceDiscount": 339,
+    "colors": [
+      {
+        "slug": "jetblack",
+        "name": "Jet Black",
+        "hex": "#1f1f21"
+      },
+      {
+        "slug": "rosegold",
+        "name": "Rose Gold",
+        "hex": "#e8c9b9"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "color": "jetblack",
+    "images": [
+      "img/products/apple-watch-series-10/jetblack-0.webp"
+    ],
+    "description": [
+      {
+        "title": "The thinnest Apple Watch",
+        "text": [
+          "A thinner design with the biggest display of its time."
+        ]
+      },
+      {
+        "title": "Sleep apnea notifications",
+        "text": [
+          "Get notified about signs of breathing disturbances."
+        ]
+      },
+      {
+        "title": "Previous generation, great price",
+        "text": [
+          "A big display for less."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Case",
+        "value": "Aluminum"
+      },
+      {
+        "label": "Display",
+        "value": "Always-On wide-angle OLED"
+      },
+      {
+        "label": "Chip",
+        "value": "S10 SiP"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 18 hours"
+      },
+      {
+        "label": "Health",
+        "value": "ECG, blood oxygen, sleep apnea notifications"
+      },
+      {
+        "label": "Water resistance",
+        "value": "WR50"
+      }
+    ],
+    "rating": 4.8,
+    "reviewsCount": 769,
+    "reviews": [
+      {
+        "author": "Chloe D.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Battery is fine",
+        "text": "Easily gets through the day with a workout."
+      },
+      {
+        "author": "Grace H.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Love the design",
+        "text": "Comfortable to wear all day and night."
+      },
+      {
+        "author": "Chloe D.",
+        "rating": 4,
+        "date": "2026-08-27",
+        "title": "Great fitness tracker",
+        "text": "Accurate workouts and sleep tracking. Motivates me to move."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "apple-watch-series-10-42mm-rosegold",
+    "category": "watch",
+    "namespaceId": "apple-watch-series-10",
+    "name": "Apple Watch Series 10 42mm Rose Gold",
+    "modelName": "Apple Watch Series 10",
+    "year": 2024,
+    "capacityAvailable": [
+      "42mm",
+      "46mm"
+    ],
+    "capacity": "42mm",
+    "capacityLabel": "Case size",
+    "priceRegular": 399,
+    "priceDiscount": 319,
+    "colors": [
+      {
+        "slug": "jetblack",
+        "name": "Jet Black",
+        "hex": "#1f1f21"
+      },
+      {
+        "slug": "rosegold",
+        "name": "Rose Gold",
+        "hex": "#e8c9b9"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "color": "rosegold",
+    "images": [
+      "img/products/apple-watch-series-10/rosegold-0.webp"
+    ],
+    "description": [
+      {
+        "title": "The thinnest Apple Watch",
+        "text": [
+          "A thinner design with the biggest display of its time."
+        ]
+      },
+      {
+        "title": "Sleep apnea notifications",
+        "text": [
+          "Get notified about signs of breathing disturbances."
+        ]
+      },
+      {
+        "title": "Previous generation, great price",
+        "text": [
+          "A big display for less."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Case",
+        "value": "Aluminum"
+      },
+      {
+        "label": "Display",
+        "value": "Always-On wide-angle OLED"
+      },
+      {
+        "label": "Chip",
+        "value": "S10 SiP"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 18 hours"
+      },
+      {
+        "label": "Health",
+        "value": "ECG, blood oxygen, sleep apnea notifications"
+      },
+      {
+        "label": "Water resistance",
+        "value": "WR50"
+      }
+    ],
+    "rating": 4.8,
+    "reviewsCount": 769,
+    "reviews": [
+      {
+        "author": "Chloe D.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Battery is fine",
+        "text": "Easily gets through the day with a workout."
+      },
+      {
+        "author": "Grace H.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Love the design",
+        "text": "Comfortable to wear all day and night."
+      },
+      {
+        "author": "Chloe D.",
+        "rating": 4,
+        "date": "2026-08-27",
+        "title": "Great fitness tracker",
+        "text": "Accurate workouts and sleep tracking. Motivates me to move."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "apple-watch-series-10-46mm-rosegold",
+    "category": "watch",
+    "namespaceId": "apple-watch-series-10",
+    "name": "Apple Watch Series 10 46mm Rose Gold",
+    "modelName": "Apple Watch Series 10",
+    "year": 2024,
+    "capacityAvailable": [
+      "42mm",
+      "46mm"
+    ],
+    "capacity": "46mm",
+    "capacityLabel": "Case size",
+    "priceRegular": 429,
+    "priceDiscount": 339,
+    "colors": [
+      {
+        "slug": "jetblack",
+        "name": "Jet Black",
+        "hex": "#1f1f21"
+      },
+      {
+        "slug": "rosegold",
+        "name": "Rose Gold",
+        "hex": "#e8c9b9"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "color": "rosegold",
+    "images": [
+      "img/products/apple-watch-series-10/rosegold-0.webp"
+    ],
+    "description": [
+      {
+        "title": "The thinnest Apple Watch",
+        "text": [
+          "A thinner design with the biggest display of its time."
+        ]
+      },
+      {
+        "title": "Sleep apnea notifications",
+        "text": [
+          "Get notified about signs of breathing disturbances."
+        ]
+      },
+      {
+        "title": "Previous generation, great price",
+        "text": [
+          "A big display for less."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Case",
+        "value": "Aluminum"
+      },
+      {
+        "label": "Display",
+        "value": "Always-On wide-angle OLED"
+      },
+      {
+        "label": "Chip",
+        "value": "S10 SiP"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 18 hours"
+      },
+      {
+        "label": "Health",
+        "value": "ECG, blood oxygen, sleep apnea notifications"
+      },
+      {
+        "label": "Water resistance",
+        "value": "WR50"
+      }
+    ],
+    "rating": 4.8,
+    "reviewsCount": 769,
+    "reviews": [
+      {
+        "author": "Chloe D.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Battery is fine",
+        "text": "Easily gets through the day with a workout."
+      },
+      {
+        "author": "Grace H.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Love the design",
+        "text": "Comfortable to wear all day and night."
+      },
+      {
+        "author": "Chloe D.",
+        "rating": 4,
+        "date": "2026-08-27",
+        "title": "Great fitness tracker",
+        "text": "Accurate workouts and sleep tracking. Motivates me to move."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "apple-watch-series-10-42mm-silver",
+    "category": "watch",
+    "namespaceId": "apple-watch-series-10",
+    "name": "Apple Watch Series 10 42mm Silver",
+    "modelName": "Apple Watch Series 10",
+    "year": 2024,
+    "capacityAvailable": [
+      "42mm",
+      "46mm"
+    ],
+    "capacity": "42mm",
+    "capacityLabel": "Case size",
+    "priceRegular": 399,
+    "priceDiscount": 319,
+    "colors": [
+      {
+        "slug": "jetblack",
+        "name": "Jet Black",
+        "hex": "#1f1f21"
+      },
+      {
+        "slug": "rosegold",
+        "name": "Rose Gold",
+        "hex": "#e8c9b9"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "color": "silver",
+    "images": [
+      "img/products/apple-watch-series-10/silver-0.webp"
+    ],
+    "description": [
+      {
+        "title": "The thinnest Apple Watch",
+        "text": [
+          "A thinner design with the biggest display of its time."
+        ]
+      },
+      {
+        "title": "Sleep apnea notifications",
+        "text": [
+          "Get notified about signs of breathing disturbances."
+        ]
+      },
+      {
+        "title": "Previous generation, great price",
+        "text": [
+          "A big display for less."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Case",
+        "value": "Aluminum"
+      },
+      {
+        "label": "Display",
+        "value": "Always-On wide-angle OLED"
+      },
+      {
+        "label": "Chip",
+        "value": "S10 SiP"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 18 hours"
+      },
+      {
+        "label": "Health",
+        "value": "ECG, blood oxygen, sleep apnea notifications"
+      },
+      {
+        "label": "Water resistance",
+        "value": "WR50"
+      }
+    ],
+    "rating": 4.8,
+    "reviewsCount": 769,
+    "reviews": [
+      {
+        "author": "Chloe D.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Battery is fine",
+        "text": "Easily gets through the day with a workout."
+      },
+      {
+        "author": "Grace H.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Love the design",
+        "text": "Comfortable to wear all day and night."
+      },
+      {
+        "author": "Chloe D.",
+        "rating": 4,
+        "date": "2026-08-27",
+        "title": "Great fitness tracker",
+        "text": "Accurate workouts and sleep tracking. Motivates me to move."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "apple-watch-series-10-46mm-silver",
+    "category": "watch",
+    "namespaceId": "apple-watch-series-10",
+    "name": "Apple Watch Series 10 46mm Silver",
+    "modelName": "Apple Watch Series 10",
+    "year": 2024,
+    "capacityAvailable": [
+      "42mm",
+      "46mm"
+    ],
+    "capacity": "46mm",
+    "capacityLabel": "Case size",
+    "priceRegular": 429,
+    "priceDiscount": 339,
+    "colors": [
+      {
+        "slug": "jetblack",
+        "name": "Jet Black",
+        "hex": "#1f1f21"
+      },
+      {
+        "slug": "rosegold",
+        "name": "Rose Gold",
+        "hex": "#e8c9b9"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "color": "silver",
+    "images": [
+      "img/products/apple-watch-series-10/silver-0.webp"
+    ],
+    "description": [
+      {
+        "title": "The thinnest Apple Watch",
+        "text": [
+          "A thinner design with the biggest display of its time."
+        ]
+      },
+      {
+        "title": "Sleep apnea notifications",
+        "text": [
+          "Get notified about signs of breathing disturbances."
+        ]
+      },
+      {
+        "title": "Previous generation, great price",
+        "text": [
+          "A big display for less."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Case",
+        "value": "Aluminum"
+      },
+      {
+        "label": "Display",
+        "value": "Always-On wide-angle OLED"
+      },
+      {
+        "label": "Chip",
+        "value": "S10 SiP"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 18 hours"
+      },
+      {
+        "label": "Health",
+        "value": "ECG, blood oxygen, sleep apnea notifications"
+      },
+      {
+        "label": "Water resistance",
+        "value": "WR50"
+      }
+    ],
+    "rating": 4.8,
+    "reviewsCount": 769,
+    "reviews": [
+      {
+        "author": "Chloe D.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Battery is fine",
+        "text": "Easily gets through the day with a workout."
+      },
+      {
+        "author": "Grace H.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Love the design",
+        "text": "Comfortable to wear all day and night."
+      },
+      {
+        "author": "Chloe D.",
+        "rating": 4,
+        "date": "2026-08-27",
+        "title": "Great fitness tracker",
+        "text": "Accurate workouts and sleep tracking. Motivates me to move."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "apple-watch-ultra-2-49mm-natural",
+    "category": "watch",
+    "namespaceId": "apple-watch-ultra-2",
+    "name": "Apple Watch Ultra 2 49mm Natural Titanium",
+    "modelName": "Apple Watch Ultra 2",
+    "year": 2023,
+    "capacityAvailable": [
+      "49mm"
+    ],
+    "capacity": "49mm",
+    "capacityLabel": "Case size",
+    "priceRegular": 799,
+    "priceDiscount": 579,
+    "colors": [
+      {
+        "slug": "natural",
+        "name": "Natural Titanium",
+        "hex": "#c8c2b8"
+      },
+      {
+        "slug": "black",
+        "name": "Black Titanium",
+        "hex": "#2b2b2d"
+      }
+    ],
+    "color": "natural",
+    "images": [
+      "img/products/apple-watch-ultra-2/natural-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Double tap",
+        "text": [
+          "Control your watch with a simple tap of two fingers."
+        ]
+      },
+      {
+        "title": "Precision dual-frequency GPS",
+        "text": [
+          "Accurate tracking in cities and on trails."
+        ]
+      },
+      {
+        "title": "Previous generation, great price",
+        "text": [
+          "A legendary adventure watch for less."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Case",
+        "value": "49mm titanium"
+      },
+      {
+        "label": "Display",
+        "value": "Always-On Retina, up to 3000 nits"
+      },
+      {
+        "label": "Chip",
+        "value": "S9 SiP"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 36 hours, 72 hours in Low Power Mode"
+      },
+      {
+        "label": "Health",
+        "value": "ECG, blood oxygen"
+      },
+      {
+        "label": "Water resistance",
+        "value": "WR100, dive to 40 m"
+      },
+      {
+        "label": "Connectivity",
+        "value": "GPS + Cellular"
+      }
+    ],
+    "rating": 4.4,
+    "reviewsCount": 815,
+    "reviews": [
+      {
+        "author": "Ava C.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Super useful",
+        "text": "Notifications and Apple Pay on my wrist changed my routine."
+      },
+      {
+        "author": "Daniel K.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Battery is fine",
+        "text": "Easily gets through the day with a workout."
+      },
+      {
+        "author": "Emma L.",
+        "rating": 4,
+        "date": "2026-06-03",
+        "title": "Love the design",
+        "text": "Comfortable to wear all day and night."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "apple-watch-ultra-2-49mm-black",
+    "category": "watch",
+    "namespaceId": "apple-watch-ultra-2",
+    "name": "Apple Watch Ultra 2 49mm Black Titanium",
+    "modelName": "Apple Watch Ultra 2",
+    "year": 2023,
+    "capacityAvailable": [
+      "49mm"
+    ],
+    "capacity": "49mm",
+    "capacityLabel": "Case size",
+    "priceRegular": 799,
+    "priceDiscount": 579,
+    "colors": [
+      {
+        "slug": "natural",
+        "name": "Natural Titanium",
+        "hex": "#c8c2b8"
+      },
+      {
+        "slug": "black",
+        "name": "Black Titanium",
+        "hex": "#2b2b2d"
+      }
+    ],
+    "color": "black",
+    "images": [
+      "img/products/apple-watch-ultra-2/black-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Double tap",
+        "text": [
+          "Control your watch with a simple tap of two fingers."
+        ]
+      },
+      {
+        "title": "Precision dual-frequency GPS",
+        "text": [
+          "Accurate tracking in cities and on trails."
+        ]
+      },
+      {
+        "title": "Previous generation, great price",
+        "text": [
+          "A legendary adventure watch for less."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Case",
+        "value": "49mm titanium"
+      },
+      {
+        "label": "Display",
+        "value": "Always-On Retina, up to 3000 nits"
+      },
+      {
+        "label": "Chip",
+        "value": "S9 SiP"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 36 hours, 72 hours in Low Power Mode"
+      },
+      {
+        "label": "Health",
+        "value": "ECG, blood oxygen"
+      },
+      {
+        "label": "Water resistance",
+        "value": "WR100, dive to 40 m"
+      },
+      {
+        "label": "Connectivity",
+        "value": "GPS + Cellular"
+      }
+    ],
+    "rating": 4.4,
+    "reviewsCount": 815,
+    "reviews": [
+      {
+        "author": "Ava C.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Super useful",
+        "text": "Notifications and Apple Pay on my wrist changed my routine."
+      },
+      {
+        "author": "Daniel K.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Battery is fine",
+        "text": "Easily gets through the day with a workout."
+      },
+      {
+        "author": "Emma L.",
+        "rating": 4,
+        "date": "2026-06-03",
+        "title": "Love the design",
+        "text": "Comfortable to wear all day and night."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "apple-watch-series-9-41mm-pink",
+    "category": "watch",
+    "namespaceId": "apple-watch-series-9",
+    "name": "Apple Watch Series 9 41mm Pink",
+    "modelName": "Apple Watch Series 9",
+    "year": 2023,
+    "capacityAvailable": [
+      "41mm",
+      "45mm"
+    ],
+    "capacity": "41mm",
+    "capacityLabel": "Case size",
+    "priceRegular": 399,
+    "priceDiscount": 289,
+    "colors": [
+      {
+        "slug": "pink",
+        "name": "Pink",
+        "hex": "#f2c9d0"
+      },
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "slug": "red",
+        "name": "(PRODUCT)RED",
+        "hex": "#c0172f"
+      }
+    ],
+    "color": "pink",
+    "images": [
+      "img/products/apple-watch-series-9/pink-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Double tap",
+        "text": [
+          "A magical new way to use Apple Watch without touching the screen."
+        ]
+      },
+      {
+        "title": "Brighter display",
+        "text": [
+          "Up to 2000 nits, twice as bright as before."
+        ]
+      },
+      {
+        "title": "Previous generation, great price",
+        "text": [
+          "A powerful watch at a lower price."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Case",
+        "value": "Aluminum"
+      },
+      {
+        "label": "Display",
+        "value": "Always-On Retina, up to 2000 nits"
+      },
+      {
+        "label": "Chip",
+        "value": "S9 SiP"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 18 hours"
+      },
+      {
+        "label": "Health",
+        "value": "ECG, blood oxygen"
+      },
+      {
+        "label": "Water resistance",
+        "value": "WR50"
+      }
+    ],
+    "rating": 4.7,
+    "reviewsCount": 725,
+    "reviews": [
+      {
+        "author": "Noah B.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Battery is fine",
+        "text": "Easily gets through the day with a workout."
+      },
+      {
+        "author": "Leo F.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Great fitness tracker",
+        "text": "Accurate workouts and sleep tracking. Motivates me to move."
+      },
+      {
+        "author": "Emma L.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Super useful",
+        "text": "Notifications and Apple Pay on my wrist changed my routine."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "apple-watch-series-9-45mm-pink",
+    "category": "watch",
+    "namespaceId": "apple-watch-series-9",
+    "name": "Apple Watch Series 9 45mm Pink",
+    "modelName": "Apple Watch Series 9",
+    "year": 2023,
+    "capacityAvailable": [
+      "41mm",
+      "45mm"
+    ],
+    "capacity": "45mm",
+    "capacityLabel": "Case size",
+    "priceRegular": 429,
+    "priceDiscount": 309,
+    "colors": [
+      {
+        "slug": "pink",
+        "name": "Pink",
+        "hex": "#f2c9d0"
+      },
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "slug": "red",
+        "name": "(PRODUCT)RED",
+        "hex": "#c0172f"
+      }
+    ],
+    "color": "pink",
+    "images": [
+      "img/products/apple-watch-series-9/pink-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Double tap",
+        "text": [
+          "A magical new way to use Apple Watch without touching the screen."
+        ]
+      },
+      {
+        "title": "Brighter display",
+        "text": [
+          "Up to 2000 nits, twice as bright as before."
+        ]
+      },
+      {
+        "title": "Previous generation, great price",
+        "text": [
+          "A powerful watch at a lower price."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Case",
+        "value": "Aluminum"
+      },
+      {
+        "label": "Display",
+        "value": "Always-On Retina, up to 2000 nits"
+      },
+      {
+        "label": "Chip",
+        "value": "S9 SiP"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 18 hours"
+      },
+      {
+        "label": "Health",
+        "value": "ECG, blood oxygen"
+      },
+      {
+        "label": "Water resistance",
+        "value": "WR50"
+      }
+    ],
+    "rating": 4.7,
+    "reviewsCount": 725,
+    "reviews": [
+      {
+        "author": "Noah B.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Battery is fine",
+        "text": "Easily gets through the day with a workout."
+      },
+      {
+        "author": "Leo F.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Great fitness tracker",
+        "text": "Accurate workouts and sleep tracking. Motivates me to move."
+      },
+      {
+        "author": "Emma L.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Super useful",
+        "text": "Notifications and Apple Pay on my wrist changed my routine."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "apple-watch-series-9-41mm-midnight",
+    "category": "watch",
+    "namespaceId": "apple-watch-series-9",
+    "name": "Apple Watch Series 9 41mm Midnight",
+    "modelName": "Apple Watch Series 9",
+    "year": 2023,
+    "capacityAvailable": [
+      "41mm",
+      "45mm"
+    ],
+    "capacity": "41mm",
+    "capacityLabel": "Case size",
+    "priceRegular": 399,
+    "priceDiscount": 289,
+    "colors": [
+      {
+        "slug": "pink",
+        "name": "Pink",
+        "hex": "#f2c9d0"
+      },
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "slug": "red",
+        "name": "(PRODUCT)RED",
+        "hex": "#c0172f"
+      }
+    ],
+    "color": "midnight",
+    "images": [
+      "img/products/apple-watch-series-9/midnight-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Double tap",
+        "text": [
+          "A magical new way to use Apple Watch without touching the screen."
+        ]
+      },
+      {
+        "title": "Brighter display",
+        "text": [
+          "Up to 2000 nits, twice as bright as before."
+        ]
+      },
+      {
+        "title": "Previous generation, great price",
+        "text": [
+          "A powerful watch at a lower price."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Case",
+        "value": "Aluminum"
+      },
+      {
+        "label": "Display",
+        "value": "Always-On Retina, up to 2000 nits"
+      },
+      {
+        "label": "Chip",
+        "value": "S9 SiP"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 18 hours"
+      },
+      {
+        "label": "Health",
+        "value": "ECG, blood oxygen"
+      },
+      {
+        "label": "Water resistance",
+        "value": "WR50"
+      }
+    ],
+    "rating": 4.7,
+    "reviewsCount": 725,
+    "reviews": [
+      {
+        "author": "Noah B.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Battery is fine",
+        "text": "Easily gets through the day with a workout."
+      },
+      {
+        "author": "Leo F.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Great fitness tracker",
+        "text": "Accurate workouts and sleep tracking. Motivates me to move."
+      },
+      {
+        "author": "Emma L.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Super useful",
+        "text": "Notifications and Apple Pay on my wrist changed my routine."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "apple-watch-series-9-45mm-midnight",
+    "category": "watch",
+    "namespaceId": "apple-watch-series-9",
+    "name": "Apple Watch Series 9 45mm Midnight",
+    "modelName": "Apple Watch Series 9",
+    "year": 2023,
+    "capacityAvailable": [
+      "41mm",
+      "45mm"
+    ],
+    "capacity": "45mm",
+    "capacityLabel": "Case size",
+    "priceRegular": 429,
+    "priceDiscount": 309,
+    "colors": [
+      {
+        "slug": "pink",
+        "name": "Pink",
+        "hex": "#f2c9d0"
+      },
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "slug": "red",
+        "name": "(PRODUCT)RED",
+        "hex": "#c0172f"
+      }
+    ],
+    "color": "midnight",
+    "images": [
+      "img/products/apple-watch-series-9/midnight-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Double tap",
+        "text": [
+          "A magical new way to use Apple Watch without touching the screen."
+        ]
+      },
+      {
+        "title": "Brighter display",
+        "text": [
+          "Up to 2000 nits, twice as bright as before."
+        ]
+      },
+      {
+        "title": "Previous generation, great price",
+        "text": [
+          "A powerful watch at a lower price."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Case",
+        "value": "Aluminum"
+      },
+      {
+        "label": "Display",
+        "value": "Always-On Retina, up to 2000 nits"
+      },
+      {
+        "label": "Chip",
+        "value": "S9 SiP"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 18 hours"
+      },
+      {
+        "label": "Health",
+        "value": "ECG, blood oxygen"
+      },
+      {
+        "label": "Water resistance",
+        "value": "WR50"
+      }
+    ],
+    "rating": 4.7,
+    "reviewsCount": 725,
+    "reviews": [
+      {
+        "author": "Noah B.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Battery is fine",
+        "text": "Easily gets through the day with a workout."
+      },
+      {
+        "author": "Leo F.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Great fitness tracker",
+        "text": "Accurate workouts and sleep tracking. Motivates me to move."
+      },
+      {
+        "author": "Emma L.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Super useful",
+        "text": "Notifications and Apple Pay on my wrist changed my routine."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "apple-watch-series-9-41mm-starlight",
+    "category": "watch",
+    "namespaceId": "apple-watch-series-9",
+    "name": "Apple Watch Series 9 41mm Starlight",
+    "modelName": "Apple Watch Series 9",
+    "year": 2023,
+    "capacityAvailable": [
+      "41mm",
+      "45mm"
+    ],
+    "capacity": "41mm",
+    "capacityLabel": "Case size",
+    "priceRegular": 399,
+    "priceDiscount": 289,
+    "colors": [
+      {
+        "slug": "pink",
+        "name": "Pink",
+        "hex": "#f2c9d0"
+      },
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "slug": "red",
+        "name": "(PRODUCT)RED",
+        "hex": "#c0172f"
+      }
+    ],
+    "color": "starlight",
+    "images": [
+      "img/products/apple-watch-series-9/starlight-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Double tap",
+        "text": [
+          "A magical new way to use Apple Watch without touching the screen."
+        ]
+      },
+      {
+        "title": "Brighter display",
+        "text": [
+          "Up to 2000 nits, twice as bright as before."
+        ]
+      },
+      {
+        "title": "Previous generation, great price",
+        "text": [
+          "A powerful watch at a lower price."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Case",
+        "value": "Aluminum"
+      },
+      {
+        "label": "Display",
+        "value": "Always-On Retina, up to 2000 nits"
+      },
+      {
+        "label": "Chip",
+        "value": "S9 SiP"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 18 hours"
+      },
+      {
+        "label": "Health",
+        "value": "ECG, blood oxygen"
+      },
+      {
+        "label": "Water resistance",
+        "value": "WR50"
+      }
+    ],
+    "rating": 4.7,
+    "reviewsCount": 725,
+    "reviews": [
+      {
+        "author": "Noah B.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Battery is fine",
+        "text": "Easily gets through the day with a workout."
+      },
+      {
+        "author": "Leo F.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Great fitness tracker",
+        "text": "Accurate workouts and sleep tracking. Motivates me to move."
+      },
+      {
+        "author": "Emma L.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Super useful",
+        "text": "Notifications and Apple Pay on my wrist changed my routine."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "apple-watch-series-9-45mm-starlight",
+    "category": "watch",
+    "namespaceId": "apple-watch-series-9",
+    "name": "Apple Watch Series 9 45mm Starlight",
+    "modelName": "Apple Watch Series 9",
+    "year": 2023,
+    "capacityAvailable": [
+      "41mm",
+      "45mm"
+    ],
+    "capacity": "45mm",
+    "capacityLabel": "Case size",
+    "priceRegular": 429,
+    "priceDiscount": 309,
+    "colors": [
+      {
+        "slug": "pink",
+        "name": "Pink",
+        "hex": "#f2c9d0"
+      },
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "slug": "red",
+        "name": "(PRODUCT)RED",
+        "hex": "#c0172f"
+      }
+    ],
+    "color": "starlight",
+    "images": [
+      "img/products/apple-watch-series-9/starlight-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Double tap",
+        "text": [
+          "A magical new way to use Apple Watch without touching the screen."
+        ]
+      },
+      {
+        "title": "Brighter display",
+        "text": [
+          "Up to 2000 nits, twice as bright as before."
+        ]
+      },
+      {
+        "title": "Previous generation, great price",
+        "text": [
+          "A powerful watch at a lower price."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Case",
+        "value": "Aluminum"
+      },
+      {
+        "label": "Display",
+        "value": "Always-On Retina, up to 2000 nits"
+      },
+      {
+        "label": "Chip",
+        "value": "S9 SiP"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 18 hours"
+      },
+      {
+        "label": "Health",
+        "value": "ECG, blood oxygen"
+      },
+      {
+        "label": "Water resistance",
+        "value": "WR50"
+      }
+    ],
+    "rating": 4.7,
+    "reviewsCount": 725,
+    "reviews": [
+      {
+        "author": "Noah B.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Battery is fine",
+        "text": "Easily gets through the day with a workout."
+      },
+      {
+        "author": "Leo F.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Great fitness tracker",
+        "text": "Accurate workouts and sleep tracking. Motivates me to move."
+      },
+      {
+        "author": "Emma L.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Super useful",
+        "text": "Notifications and Apple Pay on my wrist changed my routine."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "apple-watch-series-9-41mm-silver",
+    "category": "watch",
+    "namespaceId": "apple-watch-series-9",
+    "name": "Apple Watch Series 9 41mm Silver",
+    "modelName": "Apple Watch Series 9",
+    "year": 2023,
+    "capacityAvailable": [
+      "41mm",
+      "45mm"
+    ],
+    "capacity": "41mm",
+    "capacityLabel": "Case size",
+    "priceRegular": 399,
+    "priceDiscount": 289,
+    "colors": [
+      {
+        "slug": "pink",
+        "name": "Pink",
+        "hex": "#f2c9d0"
+      },
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "slug": "red",
+        "name": "(PRODUCT)RED",
+        "hex": "#c0172f"
+      }
+    ],
+    "color": "silver",
+    "images": [
+      "img/products/apple-watch-series-9/silver-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Double tap",
+        "text": [
+          "A magical new way to use Apple Watch without touching the screen."
+        ]
+      },
+      {
+        "title": "Brighter display",
+        "text": [
+          "Up to 2000 nits, twice as bright as before."
+        ]
+      },
+      {
+        "title": "Previous generation, great price",
+        "text": [
+          "A powerful watch at a lower price."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Case",
+        "value": "Aluminum"
+      },
+      {
+        "label": "Display",
+        "value": "Always-On Retina, up to 2000 nits"
+      },
+      {
+        "label": "Chip",
+        "value": "S9 SiP"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 18 hours"
+      },
+      {
+        "label": "Health",
+        "value": "ECG, blood oxygen"
+      },
+      {
+        "label": "Water resistance",
+        "value": "WR50"
+      }
+    ],
+    "rating": 4.7,
+    "reviewsCount": 725,
+    "reviews": [
+      {
+        "author": "Noah B.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Battery is fine",
+        "text": "Easily gets through the day with a workout."
+      },
+      {
+        "author": "Leo F.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Great fitness tracker",
+        "text": "Accurate workouts and sleep tracking. Motivates me to move."
+      },
+      {
+        "author": "Emma L.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Super useful",
+        "text": "Notifications and Apple Pay on my wrist changed my routine."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "apple-watch-series-9-45mm-silver",
+    "category": "watch",
+    "namespaceId": "apple-watch-series-9",
+    "name": "Apple Watch Series 9 45mm Silver",
+    "modelName": "Apple Watch Series 9",
+    "year": 2023,
+    "capacityAvailable": [
+      "41mm",
+      "45mm"
+    ],
+    "capacity": "45mm",
+    "capacityLabel": "Case size",
+    "priceRegular": 429,
+    "priceDiscount": 309,
+    "colors": [
+      {
+        "slug": "pink",
+        "name": "Pink",
+        "hex": "#f2c9d0"
+      },
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "slug": "red",
+        "name": "(PRODUCT)RED",
+        "hex": "#c0172f"
+      }
+    ],
+    "color": "silver",
+    "images": [
+      "img/products/apple-watch-series-9/silver-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Double tap",
+        "text": [
+          "A magical new way to use Apple Watch without touching the screen."
+        ]
+      },
+      {
+        "title": "Brighter display",
+        "text": [
+          "Up to 2000 nits, twice as bright as before."
+        ]
+      },
+      {
+        "title": "Previous generation, great price",
+        "text": [
+          "A powerful watch at a lower price."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Case",
+        "value": "Aluminum"
+      },
+      {
+        "label": "Display",
+        "value": "Always-On Retina, up to 2000 nits"
+      },
+      {
+        "label": "Chip",
+        "value": "S9 SiP"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 18 hours"
+      },
+      {
+        "label": "Health",
+        "value": "ECG, blood oxygen"
+      },
+      {
+        "label": "Water resistance",
+        "value": "WR50"
+      }
+    ],
+    "rating": 4.7,
+    "reviewsCount": 725,
+    "reviews": [
+      {
+        "author": "Noah B.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Battery is fine",
+        "text": "Easily gets through the day with a workout."
+      },
+      {
+        "author": "Leo F.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Great fitness tracker",
+        "text": "Accurate workouts and sleep tracking. Motivates me to move."
+      },
+      {
+        "author": "Emma L.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Super useful",
+        "text": "Notifications and Apple Pay on my wrist changed my routine."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "apple-watch-series-9-41mm-red",
+    "category": "watch",
+    "namespaceId": "apple-watch-series-9",
+    "name": "Apple Watch Series 9 41mm (PRODUCT)RED",
+    "modelName": "Apple Watch Series 9",
+    "year": 2023,
+    "capacityAvailable": [
+      "41mm",
+      "45mm"
+    ],
+    "capacity": "41mm",
+    "capacityLabel": "Case size",
+    "priceRegular": 399,
+    "priceDiscount": 289,
+    "colors": [
+      {
+        "slug": "pink",
+        "name": "Pink",
+        "hex": "#f2c9d0"
+      },
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "slug": "red",
+        "name": "(PRODUCT)RED",
+        "hex": "#c0172f"
+      }
+    ],
+    "color": "red",
+    "images": [
+      "img/products/apple-watch-series-9/red-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Double tap",
+        "text": [
+          "A magical new way to use Apple Watch without touching the screen."
+        ]
+      },
+      {
+        "title": "Brighter display",
+        "text": [
+          "Up to 2000 nits, twice as bright as before."
+        ]
+      },
+      {
+        "title": "Previous generation, great price",
+        "text": [
+          "A powerful watch at a lower price."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Case",
+        "value": "Aluminum"
+      },
+      {
+        "label": "Display",
+        "value": "Always-On Retina, up to 2000 nits"
+      },
+      {
+        "label": "Chip",
+        "value": "S9 SiP"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 18 hours"
+      },
+      {
+        "label": "Health",
+        "value": "ECG, blood oxygen"
+      },
+      {
+        "label": "Water resistance",
+        "value": "WR50"
+      }
+    ],
+    "rating": 4.7,
+    "reviewsCount": 725,
+    "reviews": [
+      {
+        "author": "Noah B.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Battery is fine",
+        "text": "Easily gets through the day with a workout."
+      },
+      {
+        "author": "Leo F.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Great fitness tracker",
+        "text": "Accurate workouts and sleep tracking. Motivates me to move."
+      },
+      {
+        "author": "Emma L.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Super useful",
+        "text": "Notifications and Apple Pay on my wrist changed my routine."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "apple-watch-series-9-45mm-red",
+    "category": "watch",
+    "namespaceId": "apple-watch-series-9",
+    "name": "Apple Watch Series 9 45mm (PRODUCT)RED",
+    "modelName": "Apple Watch Series 9",
+    "year": 2023,
+    "capacityAvailable": [
+      "41mm",
+      "45mm"
+    ],
+    "capacity": "45mm",
+    "capacityLabel": "Case size",
+    "priceRegular": 429,
+    "priceDiscount": 309,
+    "colors": [
+      {
+        "slug": "pink",
+        "name": "Pink",
+        "hex": "#f2c9d0"
+      },
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "slug": "red",
+        "name": "(PRODUCT)RED",
+        "hex": "#c0172f"
+      }
+    ],
+    "color": "red",
+    "images": [
+      "img/products/apple-watch-series-9/red-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Double tap",
+        "text": [
+          "A magical new way to use Apple Watch without touching the screen."
+        ]
+      },
+      {
+        "title": "Brighter display",
+        "text": [
+          "Up to 2000 nits, twice as bright as before."
+        ]
+      },
+      {
+        "title": "Previous generation, great price",
+        "text": [
+          "A powerful watch at a lower price."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Case",
+        "value": "Aluminum"
+      },
+      {
+        "label": "Display",
+        "value": "Always-On Retina, up to 2000 nits"
+      },
+      {
+        "label": "Chip",
+        "value": "S9 SiP"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 18 hours"
+      },
+      {
+        "label": "Health",
+        "value": "ECG, blood oxygen"
+      },
+      {
+        "label": "Water resistance",
+        "value": "WR50"
+      }
+    ],
+    "rating": 4.7,
+    "reviewsCount": 725,
+    "reviews": [
+      {
+        "author": "Noah B.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Battery is fine",
+        "text": "Easily gets through the day with a workout."
+      },
+      {
+        "author": "Leo F.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Great fitness tracker",
+        "text": "Accurate workouts and sleep tracking. Motivates me to move."
+      },
+      {
+        "author": "Emma L.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Super useful",
+        "text": "Notifications and Apple Pay on my wrist changed my routine."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "apple-watch-se-2-40mm-midnight",
+    "category": "watch",
+    "namespaceId": "apple-watch-se-2",
+    "name": "Apple Watch SE (2nd generation) 40mm Midnight",
+    "modelName": "Apple Watch SE (2nd generation)",
+    "year": 2022,
+    "capacityAvailable": [
+      "40mm",
+      "44mm"
+    ],
+    "capacity": "40mm",
+    "capacityLabel": "Case size",
+    "priceRegular": 249,
+    "priceDiscount": 159,
+    "colors": [
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "color": "midnight",
+    "images": [
+      "img/products/apple-watch-se-2/midnight-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Essentials, great price",
+        "text": [
+          "Fitness, safety and connectivity features for less."
+        ]
+      },
+      {
+        "title": "Crash Detection",
+        "text": [
+          "Calls emergency services after a severe car crash."
+        ]
+      },
+      {
+        "title": "Previous generation",
+        "text": [
+          "An easy way to get started with Apple Watch."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Case",
+        "value": "Aluminum"
+      },
+      {
+        "label": "Display",
+        "value": "Retina LTPO OLED"
+      },
+      {
+        "label": "Chip",
+        "value": "S8 SiP"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 18 hours"
+      },
+      {
+        "label": "Health",
+        "value": "Heart rate, Crash Detection, Fall Detection"
+      },
+      {
+        "label": "Water resistance",
+        "value": "WR50"
+      }
+    ],
+    "rating": 4.5,
+    "reviewsCount": 477,
+    "reviews": [
+      {
+        "author": "Sofia R.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Love the design",
+        "text": "Comfortable to wear all day and night."
+      },
+      {
+        "author": "Noah B.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Great fitness tracker",
+        "text": "Accurate workouts and sleep tracking. Motivates me to move."
+      },
+      {
+        "author": "Emma L.",
+        "rating": 4,
+        "date": "2026-05-21",
+        "title": "Super useful",
+        "text": "Notifications and Apple Pay on my wrist changed my routine."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "apple-watch-se-2-44mm-midnight",
+    "category": "watch",
+    "namespaceId": "apple-watch-se-2",
+    "name": "Apple Watch SE (2nd generation) 44mm Midnight",
+    "modelName": "Apple Watch SE (2nd generation)",
+    "year": 2022,
+    "capacityAvailable": [
+      "40mm",
+      "44mm"
+    ],
+    "capacity": "44mm",
+    "capacityLabel": "Case size",
+    "priceRegular": 279,
+    "priceDiscount": 179,
+    "colors": [
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "color": "midnight",
+    "images": [
+      "img/products/apple-watch-se-2/midnight-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Essentials, great price",
+        "text": [
+          "Fitness, safety and connectivity features for less."
+        ]
+      },
+      {
+        "title": "Crash Detection",
+        "text": [
+          "Calls emergency services after a severe car crash."
+        ]
+      },
+      {
+        "title": "Previous generation",
+        "text": [
+          "An easy way to get started with Apple Watch."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Case",
+        "value": "Aluminum"
+      },
+      {
+        "label": "Display",
+        "value": "Retina LTPO OLED"
+      },
+      {
+        "label": "Chip",
+        "value": "S8 SiP"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 18 hours"
+      },
+      {
+        "label": "Health",
+        "value": "Heart rate, Crash Detection, Fall Detection"
+      },
+      {
+        "label": "Water resistance",
+        "value": "WR50"
+      }
+    ],
+    "rating": 4.5,
+    "reviewsCount": 477,
+    "reviews": [
+      {
+        "author": "Sofia R.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Love the design",
+        "text": "Comfortable to wear all day and night."
+      },
+      {
+        "author": "Noah B.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Great fitness tracker",
+        "text": "Accurate workouts and sleep tracking. Motivates me to move."
+      },
+      {
+        "author": "Emma L.",
+        "rating": 4,
+        "date": "2026-05-21",
+        "title": "Super useful",
+        "text": "Notifications and Apple Pay on my wrist changed my routine."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "apple-watch-se-2-40mm-starlight",
+    "category": "watch",
+    "namespaceId": "apple-watch-se-2",
+    "name": "Apple Watch SE (2nd generation) 40mm Starlight",
+    "modelName": "Apple Watch SE (2nd generation)",
+    "year": 2022,
+    "capacityAvailable": [
+      "40mm",
+      "44mm"
+    ],
+    "capacity": "40mm",
+    "capacityLabel": "Case size",
+    "priceRegular": 249,
+    "priceDiscount": 159,
+    "colors": [
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "color": "starlight",
+    "images": [
+      "img/products/apple-watch-se-2/starlight-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Essentials, great price",
+        "text": [
+          "Fitness, safety and connectivity features for less."
+        ]
+      },
+      {
+        "title": "Crash Detection",
+        "text": [
+          "Calls emergency services after a severe car crash."
+        ]
+      },
+      {
+        "title": "Previous generation",
+        "text": [
+          "An easy way to get started with Apple Watch."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Case",
+        "value": "Aluminum"
+      },
+      {
+        "label": "Display",
+        "value": "Retina LTPO OLED"
+      },
+      {
+        "label": "Chip",
+        "value": "S8 SiP"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 18 hours"
+      },
+      {
+        "label": "Health",
+        "value": "Heart rate, Crash Detection, Fall Detection"
+      },
+      {
+        "label": "Water resistance",
+        "value": "WR50"
+      }
+    ],
+    "rating": 4.5,
+    "reviewsCount": 477,
+    "reviews": [
+      {
+        "author": "Sofia R.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Love the design",
+        "text": "Comfortable to wear all day and night."
+      },
+      {
+        "author": "Noah B.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Great fitness tracker",
+        "text": "Accurate workouts and sleep tracking. Motivates me to move."
+      },
+      {
+        "author": "Emma L.",
+        "rating": 4,
+        "date": "2026-05-21",
+        "title": "Super useful",
+        "text": "Notifications and Apple Pay on my wrist changed my routine."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "apple-watch-se-2-44mm-starlight",
+    "category": "watch",
+    "namespaceId": "apple-watch-se-2",
+    "name": "Apple Watch SE (2nd generation) 44mm Starlight",
+    "modelName": "Apple Watch SE (2nd generation)",
+    "year": 2022,
+    "capacityAvailable": [
+      "40mm",
+      "44mm"
+    ],
+    "capacity": "44mm",
+    "capacityLabel": "Case size",
+    "priceRegular": 279,
+    "priceDiscount": 179,
+    "colors": [
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "color": "starlight",
+    "images": [
+      "img/products/apple-watch-se-2/starlight-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Essentials, great price",
+        "text": [
+          "Fitness, safety and connectivity features for less."
+        ]
+      },
+      {
+        "title": "Crash Detection",
+        "text": [
+          "Calls emergency services after a severe car crash."
+        ]
+      },
+      {
+        "title": "Previous generation",
+        "text": [
+          "An easy way to get started with Apple Watch."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Case",
+        "value": "Aluminum"
+      },
+      {
+        "label": "Display",
+        "value": "Retina LTPO OLED"
+      },
+      {
+        "label": "Chip",
+        "value": "S8 SiP"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 18 hours"
+      },
+      {
+        "label": "Health",
+        "value": "Heart rate, Crash Detection, Fall Detection"
+      },
+      {
+        "label": "Water resistance",
+        "value": "WR50"
+      }
+    ],
+    "rating": 4.5,
+    "reviewsCount": 477,
+    "reviews": [
+      {
+        "author": "Sofia R.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Love the design",
+        "text": "Comfortable to wear all day and night."
+      },
+      {
+        "author": "Noah B.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Great fitness tracker",
+        "text": "Accurate workouts and sleep tracking. Motivates me to move."
+      },
+      {
+        "author": "Emma L.",
+        "rating": 4,
+        "date": "2026-05-21",
+        "title": "Super useful",
+        "text": "Notifications and Apple Pay on my wrist changed my routine."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "apple-watch-se-2-40mm-silver",
+    "category": "watch",
+    "namespaceId": "apple-watch-se-2",
+    "name": "Apple Watch SE (2nd generation) 40mm Silver",
+    "modelName": "Apple Watch SE (2nd generation)",
+    "year": 2022,
+    "capacityAvailable": [
+      "40mm",
+      "44mm"
+    ],
+    "capacity": "40mm",
+    "capacityLabel": "Case size",
+    "priceRegular": 249,
+    "priceDiscount": 159,
+    "colors": [
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "color": "silver",
+    "images": [
+      "img/products/apple-watch-se-2/silver-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Essentials, great price",
+        "text": [
+          "Fitness, safety and connectivity features for less."
+        ]
+      },
+      {
+        "title": "Crash Detection",
+        "text": [
+          "Calls emergency services after a severe car crash."
+        ]
+      },
+      {
+        "title": "Previous generation",
+        "text": [
+          "An easy way to get started with Apple Watch."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Case",
+        "value": "Aluminum"
+      },
+      {
+        "label": "Display",
+        "value": "Retina LTPO OLED"
+      },
+      {
+        "label": "Chip",
+        "value": "S8 SiP"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 18 hours"
+      },
+      {
+        "label": "Health",
+        "value": "Heart rate, Crash Detection, Fall Detection"
+      },
+      {
+        "label": "Water resistance",
+        "value": "WR50"
+      }
+    ],
+    "rating": 4.5,
+    "reviewsCount": 477,
+    "reviews": [
+      {
+        "author": "Sofia R.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Love the design",
+        "text": "Comfortable to wear all day and night."
+      },
+      {
+        "author": "Noah B.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Great fitness tracker",
+        "text": "Accurate workouts and sleep tracking. Motivates me to move."
+      },
+      {
+        "author": "Emma L.",
+        "rating": 4,
+        "date": "2026-05-21",
+        "title": "Super useful",
+        "text": "Notifications and Apple Pay on my wrist changed my routine."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "apple-watch-se-2-44mm-silver",
+    "category": "watch",
+    "namespaceId": "apple-watch-se-2",
+    "name": "Apple Watch SE (2nd generation) 44mm Silver",
+    "modelName": "Apple Watch SE (2nd generation)",
+    "year": 2022,
+    "capacityAvailable": [
+      "40mm",
+      "44mm"
+    ],
+    "capacity": "44mm",
+    "capacityLabel": "Case size",
+    "priceRegular": 279,
+    "priceDiscount": 179,
+    "colors": [
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "color": "silver",
+    "images": [
+      "img/products/apple-watch-se-2/silver-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Essentials, great price",
+        "text": [
+          "Fitness, safety and connectivity features for less."
+        ]
+      },
+      {
+        "title": "Crash Detection",
+        "text": [
+          "Calls emergency services after a severe car crash."
+        ]
+      },
+      {
+        "title": "Previous generation",
+        "text": [
+          "An easy way to get started with Apple Watch."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Case",
+        "value": "Aluminum"
+      },
+      {
+        "label": "Display",
+        "value": "Retina LTPO OLED"
+      },
+      {
+        "label": "Chip",
+        "value": "S8 SiP"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 18 hours"
+      },
+      {
+        "label": "Health",
+        "value": "Heart rate, Crash Detection, Fall Detection"
+      },
+      {
+        "label": "Water resistance",
+        "value": "WR50"
+      }
+    ],
+    "rating": 4.5,
+    "reviewsCount": 477,
+    "reviews": [
+      {
+        "author": "Sofia R.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Love the design",
+        "text": "Comfortable to wear all day and night."
+      },
+      {
+        "author": "Noah B.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Great fitness tracker",
+        "text": "Accurate workouts and sleep tracking. Motivates me to move."
+      },
+      {
+        "author": "Emma L.",
+        "rating": 4,
+        "date": "2026-05-21",
+        "title": "Super useful",
+        "text": "Notifications and Apple Pay on my wrist changed my routine."
       }
     ],
     "inStock": true
