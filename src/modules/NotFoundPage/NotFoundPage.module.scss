@@ -27,9 +27,10 @@
 }
 
 .mark {
-  width: 0.62em;
+  width: 0.8em;
   height: auto;
-  margin-top: 0.08em;
+  margin-inline: 0.02em;
+  transform: translateY(-0.1em);
 }
 
 .primary {
