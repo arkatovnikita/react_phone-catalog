@@ -186,10 +186,10 @@
 }
 
 .addButton {
-  @include button-primary;
-
-  flex-grow: 1;
-  height: 52px;
+  @include button-primary {
+    flex-grow: 1;
+    height: 52px;
+  }
 
   &:disabled {
     color: var(--color-secondary);

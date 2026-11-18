@@ -43,18 +43,18 @@
   display: none;
 
   @include on-tablet {
-    @include icon-button(44px);
-
-    position: absolute;
-    top: 50%;
-    z-index: 1;
-    background-color: var(--color-header);
-    backdrop-filter: blur(12px);
-    opacity: 0;
-    transform: translateY(-50%);
-    transition:
-      opacity $transition-duration,
-      background-color $transition-duration;
+    @include icon-button(44px) {
+      position: absolute;
+      top: 50%;
+      z-index: 1;
+      background-color: var(--color-header);
+      backdrop-filter: blur(12px);
+      opacity: 0;
+      transform: translateY(-50%);
+      transition:
+        opacity $transition-duration,
+        background-color $transition-duration;
+    }
 
     &:hover:not(:disabled) {
       background-color: var(--color-background);

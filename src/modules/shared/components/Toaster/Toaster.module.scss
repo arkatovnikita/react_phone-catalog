@@ -69,11 +69,11 @@
 }
 
 .close {
-  @include icon-button(28px);
-
-  color: inherit;
-  background-color: transparent;
-  opacity: 0.6;
+  @include icon-button(28px) {
+    color: inherit;
+    background-color: transparent;
+    opacity: 0.6;
+  }
 
   &:hover:not(:disabled) {
     background-color: transparent;

@@ -6,13 +6,13 @@
 }
 
 .content {
-  @include page-padding;
-
   display: flex;
   flex-direction: column;
   gap: 24px;
   align-items: flex-start;
   padding-block: 40px 24px;
+
+  @include page-padding;
 
   @include on-tablet {
     flex-direction: row;
@@ -63,9 +63,9 @@
 }
 
 .arrow {
-  @include icon-button(36px);
-
   pointer-events: none;
+
+  @include icon-button(36px);
 }
 
 .backToTop {
@@ -91,11 +91,11 @@
 }
 
 .note {
-  @include page-padding;
-
   margin-block: 0;
   padding-bottom: 32px;
   font-size: 12px;
   line-height: 18px;
   color: var(--color-secondary);
+
+  @include page-padding;
 }

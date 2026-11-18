@@ -1,9 +1,9 @@
 @use '../../styles/mixins' as *;
 
 .page {
-  @include page-padding;
-
   padding-block: 32px 56px;
+
+  @include page-padding;
 
   @include on-desktop {
     padding-block: 40px 80px;

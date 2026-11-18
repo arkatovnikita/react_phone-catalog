@@ -2,9 +2,9 @@
 @use '../../../../styles/mixins' as *;
 
 .title {
-  @include section-title;
-
-  margin-bottom: 20px;
+  @include section-title {
+    margin-bottom: 20px;
+  }
 
   @include on-tablet {
     margin-bottom: 24px;
@@ -37,8 +37,6 @@
 }
 
 .tile {
-  @include hover-lift;
-
   position: relative;
   display: flex;
   flex-direction: column;
@@ -50,6 +48,8 @@
   background-color: var(--color-surface);
   overflow: hidden;
   isolation: isolate;
+
+  @include hover-lift;
 
   @include on-tablet {
     min-height: 0;
