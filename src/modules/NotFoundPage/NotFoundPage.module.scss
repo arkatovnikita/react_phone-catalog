@@ -12,25 +12,30 @@
 
 .code {
   display: flex;
-  gap: 8px;
-  align-items: center;
+  gap: 0.07em;
+  align-items: baseline;
   font-size: 120px;
   font-weight: 700;
   line-height: 1;
-  letter-spacing: -0.06em;
   color: var(--color-primary);
 
   @include on-tablet {
-    gap: 12px;
     font-size: 168px;
   }
 }
 
+.digit {
+  display: block;
+}
+
+.zero {
+  display: flex;
+}
+
 .mark {
-  width: 0.8em;
-  height: auto;
-  margin-inline: 0.02em;
-  transform: translateY(-0.1em);
+  display: block;
+  width: 0.82em;
+  height: 0.88em;
 }
 
 .primary {

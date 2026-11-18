@@ -9,8 +9,11 @@ export const NotFoundPage = () => (
       isPageTitle
       art={
         <span className={styles.code} aria-hidden="true">
-          4
-          <Mark className={styles.mark} />4
+          <span className={styles.digit}>4</span>
+          <span className={styles.zero}>
+            <Mark className={styles.mark} />
+          </span>
+          <span className={styles.digit}>4</span>
         </span>
       }
       title="Page not found"
