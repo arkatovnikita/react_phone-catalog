@@ -14,8 +14,8 @@ const COVERS: Record<Category, string> = {
   iphone: 'img/products/iphone-18-pro/burgundy-0.webp',
   ipad: 'img/products/ipad-air-13/purple-0.webp',
   mac: 'img/products/macbook-air-15/skyblue-0.webp',
-  watch: 'img/products/apple-watch-ultra-4/natural-0.webp',
-  airpods: 'img/products/airpods-max/orange-0.webp',
+  watch: 'img/products/apple-watch-series-12/tile.webp',
+  airpods: 'img/products/airpods-max-2/orange-0.webp',
   accessories: 'img/products/airtag-4-pack/default-0.webp',
 };
 
