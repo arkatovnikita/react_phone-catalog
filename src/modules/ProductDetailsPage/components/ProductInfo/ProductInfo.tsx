@@ -6,16 +6,11 @@ type Props = {
 };
 
 export const ProductInfo = ({ details }: Props) => {
-  const techSpecs = [
-    { label: 'Screen', value: details.screen },
-    { label: 'Resolution', value: details.resolution },
-    { label: 'Processor', value: details.processor },
-    { label: 'RAM', value: details.ram },
-    { label: 'Built in memory', value: details.capacity },
-    { label: 'Camera', value: details.camera },
-    { label: 'Zoom', value: details.zoom },
-    { label: 'Cell', value: details.cell.join(', ') },
-  ].filter(spec => spec.value);
+  const techSpecs = [...details.specs];
+
+  if (details.capacity) {
+    techSpecs.push({ label: details.capacityLabel, value: details.capacity });
+  }
 
   return (
     <div className={styles.info}>

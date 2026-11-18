@@ -1,0 +1,64 @@
+@use '../../../../styles/variables' as *;
+@use '../../../../styles/mixins' as *;
+
+.header {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 24px;
+}
+
+.title {
+  margin: 0;
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+
+  @include on-tablet {
+    font-size: 28px;
+  }
+}
+
+.list {
+  display: grid;
+  gap: 12px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+
+  @include on-tablet {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+  }
+}
+
+.review {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 20px;
+  border-radius: $radius-md;
+  background-color: var(--color-surface);
+}
+
+.reviewTitle {
+  margin: 0;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.text {
+  flex-grow: 1;
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.6;
+  color: var(--color-secondary);
+}
+
+.meta {
+  margin: 0;
+  font-size: 12px;
+  color: var(--color-secondary);
+}

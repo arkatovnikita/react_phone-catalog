@@ -11,6 +11,8 @@ import { ProductsSlider } from '../shared/components/ProductsSlider';
 import { ProductGallery } from './components/ProductGallery';
 import { ProductOptions } from './components/ProductOptions';
 import { ProductInfo } from './components/ProductInfo';
+import { ProductReviews } from './components/ProductReviews';
+import { CATEGORY_TITLES } from '../shared/constants/categories';
 import { EmptyState } from '../shared/components/EmptyState';
 import SearchIcon from '../../assets/icons/search.svg?react';
 
@@ -89,8 +91,8 @@ export const ProductDetailsPage = () => {
             Go to home
           </Link>
 
-          <Link to="/phones" className={styles.secondary}>
-            Browse phones
+          <Link to="/iphone" className={styles.secondary}>
+            Browse iPhone
           </Link>
         </EmptyState>
       </section>
@@ -98,8 +100,7 @@ export const ProductDetailsPage = () => {
   }
 
   const { product, details, variants } = data;
-  const categoryTitle =
-    details.category[0].toUpperCase() + details.category.slice(1);
+  const categoryTitle = CATEGORY_TITLES[details.category];
 
   return (
     <section className={styles.page}>
@@ -130,6 +131,14 @@ export const ProductDetailsPage = () => {
 
       <div className={styles.info}>
         <ProductInfo details={details} />
+      </div>
+
+      <div className={styles.info}>
+        <ProductReviews
+          rating={details.rating}
+          count={details.reviewsCount}
+          reviews={details.reviews}
+        />
       </div>
 
       {suggested.length > 0 && (
