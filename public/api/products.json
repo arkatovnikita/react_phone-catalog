@@ -1082,6 +1082,377 @@
   },
   {
     "id": 30,
+    "category": "ipad",
+    "itemId": "ipad-air-11-m3-128gb-starlight",
+    "namespaceId": "ipad-air-11-m3",
+    "name": "iPad Air 11-inch (M3) 128GB Starlight",
+    "modelName": "iPad Air 11-inch (M3)",
+    "fullPrice": 599,
+    "price": 529,
+    "color": "Starlight",
+    "capacity": "128GB",
+    "year": 2025,
+    "image": "img/products/ipad-air-11-m3/starlight-0.webp",
+    "summary": "11\" Liquid Retina · M3",
+    "colors": [
+      {
+        "name": "Starlight",
+        "hex": "#efe9df"
+      },
+      {
+        "name": "Space Gray",
+        "hex": "#5c5f63"
+      },
+      {
+        "name": "Blue",
+        "hex": "#b7c9de"
+      },
+      {
+        "name": "Purple",
+        "hex": "#cfc3e0"
+      }
+    ],
+    "rating": 4.6,
+    "reviewsCount": 164,
+    "inStock": true,
+    "isNew": false
+  },
+  {
+    "id": 31,
+    "category": "ipad",
+    "itemId": "ipad-air-13-m3-128gb-spacegray",
+    "namespaceId": "ipad-air-13-m3",
+    "name": "iPad Air 13-inch (M3) 128GB Space Gray",
+    "modelName": "iPad Air 13-inch (M3)",
+    "fullPrice": 799,
+    "price": 699,
+    "color": "Space Gray",
+    "capacity": "128GB",
+    "year": 2025,
+    "image": "img/products/ipad-air-13-m3/spacegray-0.webp",
+    "summary": "13\" Liquid Retina · M3",
+    "colors": [
+      {
+        "name": "Space Gray",
+        "hex": "#5c5f63"
+      },
+      {
+        "name": "Starlight",
+        "hex": "#efe9df"
+      },
+      {
+        "name": "Blue",
+        "hex": "#b7c9de"
+      },
+      {
+        "name": "Purple",
+        "hex": "#cfc3e0"
+      }
+    ],
+    "rating": 4.9,
+    "reviewsCount": 835,
+    "inStock": true,
+    "isNew": false
+  },
+  {
+    "id": 32,
+    "category": "ipad",
+    "itemId": "ipad-pro-11-m4-256gb-silver",
+    "namespaceId": "ipad-pro-11-m4",
+    "name": "iPad Pro 11-inch (M4) 256GB Silver",
+    "modelName": "iPad Pro 11-inch (M4)",
+    "fullPrice": 999,
+    "price": 799,
+    "color": "Silver",
+    "capacity": "256GB",
+    "year": 2024,
+    "image": "img/products/ipad-pro-11-m4/silver-0.webp",
+    "summary": "11\" Ultra Retina XDR · M4",
+    "colors": [
+      {
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "name": "Space Black",
+        "hex": "#2f2f31"
+      }
+    ],
+    "rating": 4.6,
+    "reviewsCount": 350,
+    "inStock": true,
+    "isNew": false
+  },
+  {
+    "id": 33,
+    "category": "ipad",
+    "itemId": "ipad-pro-13-m4-256gb-silver",
+    "namespaceId": "ipad-pro-13-m4",
+    "name": "iPad Pro 13-inch (M4) 256GB Silver",
+    "modelName": "iPad Pro 13-inch (M4)",
+    "fullPrice": 1299,
+    "price": 1039,
+    "color": "Silver",
+    "capacity": "256GB",
+    "year": 2024,
+    "image": "img/products/ipad-pro-13-m4/silver-0.webp",
+    "summary": "13\" Ultra Retina XDR · M4",
+    "colors": [
+      {
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "name": "Space Black",
+        "hex": "#2f2f31"
+      }
+    ],
+    "rating": 4.5,
+    "reviewsCount": 308,
+    "inStock": true,
+    "isNew": false
+  },
+  {
+    "id": 34,
+    "category": "ipad",
+    "itemId": "ipad-mini-a17-pro-128gb-blue",
+    "namespaceId": "ipad-mini-a17-pro",
+    "name": "iPad mini (A17 Pro) 128GB Blue",
+    "modelName": "iPad mini (A17 Pro)",
+    "fullPrice": 499,
+    "price": 399,
+    "color": "Blue",
+    "capacity": "128GB",
+    "year": 2024,
+    "image": "img/products/ipad-mini-a17-pro/blue-0.webp",
+    "summary": "8.3\" Liquid Retina · A17 Pro",
+    "colors": [
+      {
+        "name": "Blue",
+        "hex": "#bcd0e0"
+      },
+      {
+        "name": "Purple",
+        "hex": "#d6cde3"
+      },
+      {
+        "name": "Starlight",
+        "hex": "#efe9df"
+      },
+      {
+        "name": "Space Gray",
+        "hex": "#5c5f63"
+      }
+    ],
+    "rating": 4.6,
+    "reviewsCount": 510,
+    "inStock": true,
+    "isNew": false
+  },
+  {
+    "id": 35,
+    "category": "ipad",
+    "itemId": "ipad-pro-12-9-m2-128gb-spacegray",
+    "namespaceId": "ipad-pro-12-9-m2",
+    "name": "iPad Pro 12.9-inch (M2) 128GB Space Gray",
+    "modelName": "iPad Pro 12.9-inch (M2)",
+    "fullPrice": 1099,
+    "price": 699,
+    "color": "Space Gray",
+    "capacity": "128GB",
+    "year": 2022,
+    "image": "img/products/ipad-pro-12-9-m2/spacegray-0.webp",
+    "summary": "12.9\" Liquid Retina · M2",
+    "colors": [
+      {
+        "name": "Space Gray",
+        "hex": "#5c5f63"
+      },
+      {
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "rating": 4.8,
+    "reviewsCount": 205,
+    "inStock": true,
+    "isNew": false
+  },
+  {
+    "id": 36,
+    "category": "ipad",
+    "itemId": "ipad-pro-11-m2-128gb-silver",
+    "namespaceId": "ipad-pro-11-m2",
+    "name": "iPad Pro 11-inch (M2) 128GB Silver",
+    "modelName": "iPad Pro 11-inch (M2)",
+    "fullPrice": 799,
+    "price": 509,
+    "color": "Silver",
+    "capacity": "128GB",
+    "year": 2022,
+    "image": "img/products/ipad-pro-11-m2/silver-0.webp",
+    "summary": "11\" Liquid Retina · M2",
+    "colors": [
+      {
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "name": "Space Gray",
+        "hex": "#5c5f63"
+      }
+    ],
+    "rating": 4.6,
+    "reviewsCount": 47,
+    "inStock": true,
+    "isNew": false
+  },
+  {
+    "id": 37,
+    "category": "ipad",
+    "itemId": "ipad-air-5-64gb-pink",
+    "namespaceId": "ipad-air-5",
+    "name": "iPad Air (5th generation) 64GB Pink",
+    "modelName": "iPad Air (5th generation)",
+    "fullPrice": 599,
+    "price": 379,
+    "color": "Pink",
+    "capacity": "64GB",
+    "year": 2022,
+    "image": "img/products/ipad-air-5/pink-0.webp",
+    "summary": "10.9\" Liquid Retina · M1",
+    "colors": [
+      {
+        "name": "Pink",
+        "hex": "#f0d0d2"
+      },
+      {
+        "name": "Blue",
+        "hex": "#a7bcd3"
+      },
+      {
+        "name": "Purple",
+        "hex": "#cbc4dc"
+      },
+      {
+        "name": "Starlight",
+        "hex": "#efe9df"
+      },
+      {
+        "name": "Space Gray",
+        "hex": "#5c5f63"
+      }
+    ],
+    "rating": 4.5,
+    "reviewsCount": 877,
+    "inStock": true,
+    "isNew": false
+  },
+  {
+    "id": 38,
+    "category": "ipad",
+    "itemId": "ipad-10-64gb-blue",
+    "namespaceId": "ipad-10",
+    "name": "iPad (10th generation) 64GB Blue",
+    "modelName": "iPad (10th generation)",
+    "fullPrice": 449,
+    "price": 289,
+    "color": "Blue",
+    "capacity": "64GB",
+    "year": 2022,
+    "image": "img/products/ipad-10/blue-0.webp",
+    "summary": "10.9\" Liquid Retina · A14",
+    "colors": [
+      {
+        "name": "Blue",
+        "hex": "#a9c3e1"
+      },
+      {
+        "name": "Pink",
+        "hex": "#f1c9d1"
+      },
+      {
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "name": "Yellow",
+        "hex": "#f6e3a0"
+      }
+    ],
+    "rating": 4.7,
+    "reviewsCount": 935,
+    "inStock": true,
+    "isNew": false
+  },
+  {
+    "id": 39,
+    "category": "ipad",
+    "itemId": "ipad-mini-6-64gb-purple",
+    "namespaceId": "ipad-mini-6",
+    "name": "iPad mini (6th generation) 64GB Purple",
+    "modelName": "iPad mini (6th generation)",
+    "fullPrice": 499,
+    "price": 269,
+    "color": "Purple",
+    "capacity": "64GB",
+    "year": 2021,
+    "image": "img/products/ipad-mini-6/purple-0.webp",
+    "summary": "8.3\" Liquid Retina · A15",
+    "colors": [
+      {
+        "name": "Purple",
+        "hex": "#c9c3dc"
+      },
+      {
+        "name": "Pink",
+        "hex": "#f2d1cf"
+      },
+      {
+        "name": "Starlight",
+        "hex": "#efe9df"
+      },
+      {
+        "name": "Space Gray",
+        "hex": "#5c5f63"
+      }
+    ],
+    "rating": 4.5,
+    "reviewsCount": 171,
+    "inStock": true,
+    "isNew": false
+  },
+  {
+    "id": 40,
+    "category": "ipad",
+    "itemId": "ipad-9-64gb-spacegray",
+    "namespaceId": "ipad-9",
+    "name": "iPad (9th generation) 64GB Space Gray",
+    "modelName": "iPad (9th generation)",
+    "fullPrice": 329,
+    "price": 179,
+    "color": "Space Gray",
+    "capacity": "64GB",
+    "year": 2021,
+    "image": "img/products/ipad-9/spacegray-0.webp",
+    "summary": "10.2\" Retina · A13",
+    "colors": [
+      {
+        "name": "Space Gray",
+        "hex": "#5c5f63"
+      },
+      {
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "rating": 4.4,
+    "reviewsCount": 325,
+    "inStock": true,
+    "isNew": false
+  },
+  {
+    "id": 41,
     "category": "mac",
     "itemId": "macbook-air-13-512gb-skyblue",
     "namespaceId": "macbook-air-13",
@@ -1118,7 +1489,7 @@
     "isNew": true
   },
   {
-    "id": 31,
+    "id": 42,
     "category": "mac",
     "itemId": "macbook-air-15-512gb-starlight",
     "namespaceId": "macbook-air-15",
@@ -1155,7 +1526,7 @@
     "isNew": true
   },
   {
-    "id": 32,
+    "id": 43,
     "category": "mac",
     "itemId": "macbook-pro-14-512gb-spaceblack",
     "namespaceId": "macbook-pro-14",
@@ -1184,7 +1555,7 @@
     "isNew": true
   },
   {
-    "id": 33,
+    "id": 44,
     "category": "mac",
     "itemId": "macbook-pro-14-oled-1tb-spaceblack",
     "namespaceId": "macbook-pro-14-oled",
@@ -1213,7 +1584,7 @@
     "isNew": true
   },
   {
-    "id": 34,
+    "id": 45,
     "category": "mac",
     "itemId": "macbook-pro-16-oled-1tb-spaceblack",
     "namespaceId": "macbook-pro-16-oled",
@@ -1242,7 +1613,7 @@
     "isNew": true
   },
   {
-    "id": 35,
+    "id": 46,
     "category": "mac",
     "itemId": "imac-256gb-blue",
     "namespaceId": "imac",
@@ -1287,7 +1658,7 @@
     "isNew": true
   },
   {
-    "id": 36,
+    "id": 47,
     "category": "watch",
     "itemId": "apple-watch-series-12-42mm-darkbronze",
     "namespaceId": "apple-watch-series-12",
@@ -1340,7 +1711,7 @@
     "isNew": true
   },
   {
-    "id": 37,
+    "id": 48,
     "category": "watch",
     "itemId": "apple-watch-ultra-4-49mm-natural",
     "namespaceId": "apple-watch-ultra-4",
@@ -1369,7 +1740,7 @@
     "isNew": true
   },
   {
-    "id": 38,
+    "id": 49,
     "category": "watch",
     "itemId": "apple-watch-series-11-42mm-rosegold",
     "namespaceId": "apple-watch-series-11",
@@ -1418,7 +1789,7 @@
     "isNew": false
   },
   {
-    "id": 39,
+    "id": 50,
     "category": "watch",
     "itemId": "apple-watch-ultra-3-49mm-natural",
     "namespaceId": "apple-watch-ultra-3",
@@ -1447,7 +1818,7 @@
     "isNew": false
   },
   {
-    "id": 40,
+    "id": 51,
     "category": "watch",
     "itemId": "apple-watch-se-3-40mm-midnight",
     "namespaceId": "apple-watch-se-3",
@@ -1476,7 +1847,7 @@
     "isNew": false
   },
   {
-    "id": 41,
+    "id": 52,
     "category": "watch",
     "itemId": "apple-watch-series-10-42mm-jetblack",
     "namespaceId": "apple-watch-series-10",
@@ -1521,7 +1892,7 @@
     "isNew": false
   },
   {
-    "id": 42,
+    "id": 53,
     "category": "watch",
     "itemId": "apple-watch-ultra-2-49mm-natural",
     "namespaceId": "apple-watch-ultra-2",
@@ -1550,7 +1921,7 @@
     "isNew": false
   },
   {
-    "id": 43,
+    "id": 54,
     "category": "watch",
     "itemId": "apple-watch-series-9-41mm",
     "namespaceId": "apple-watch-series-9",
@@ -1575,7 +1946,7 @@
     "isNew": false
   },
   {
-    "id": 44,
+    "id": 55,
     "category": "watch",
     "itemId": "apple-watch-se-2-40mm-midnight",
     "namespaceId": "apple-watch-se-2",
@@ -1608,7 +1979,7 @@
     "isNew": false
   },
   {
-    "id": 45,
+    "id": 56,
     "category": "airpods",
     "itemId": "airpods-pro-3",
     "namespaceId": "airpods-pro-3",
@@ -1633,7 +2004,7 @@
     "isNew": false
   },
   {
-    "id": 46,
+    "id": 57,
     "category": "airpods",
     "itemId": "airpods-5-usb-c-case",
     "namespaceId": "airpods-5",
@@ -1658,7 +2029,7 @@
     "isNew": true
   },
   {
-    "id": 47,
+    "id": 58,
     "category": "airpods",
     "itemId": "airpods-4",
     "namespaceId": "airpods-4",
@@ -1683,7 +2054,7 @@
     "isNew": false
   },
   {
-    "id": 48,
+    "id": 59,
     "category": "airpods",
     "itemId": "airpods-max-2-orange",
     "namespaceId": "airpods-max-2",
@@ -1724,7 +2095,7 @@
     "isNew": true
   },
   {
-    "id": 49,
+    "id": 60,
     "category": "accessories",
     "itemId": "apple-pencil-pro",
     "namespaceId": "apple-pencil-pro",
@@ -1749,7 +2120,7 @@
     "isNew": false
   },
   {
-    "id": 50,
+    "id": 61,
     "category": "accessories",
     "itemId": "magsafe-charger",
     "namespaceId": "magsafe-charger",
@@ -1774,7 +2145,7 @@
     "isNew": false
   },
   {
-    "id": 51,
+    "id": 62,
     "category": "accessories",
     "itemId": "iphone-air-magsafe-battery",
     "namespaceId": "iphone-air-magsafe-battery",
@@ -1799,7 +2170,7 @@
     "isNew": false
   },
   {
-    "id": 52,
+    "id": 63,
     "category": "accessories",
     "itemId": "40w-dynamic-power-adapter",
     "namespaceId": "40w-dynamic-power-adapter",
@@ -1824,7 +2195,7 @@
     "isNew": false
   },
   {
-    "id": 53,
+    "id": 64,
     "category": "accessories",
     "itemId": "20w-usb-c-power-adapter",
     "namespaceId": "20w-usb-c-power-adapter",
@@ -1849,7 +2220,7 @@
     "isNew": false
   },
   {
-    "id": 54,
+    "id": 65,
     "category": "accessories",
     "itemId": "usb-c-to-magsafe-3-cable",
     "namespaceId": "usb-c-to-magsafe-3-cable",
@@ -1874,7 +2245,7 @@
     "isNew": false
   },
   {
-    "id": 55,
+    "id": 66,
     "category": "accessories",
     "itemId": "airtag-4-pack",
     "namespaceId": "airtag-4-pack",
@@ -1899,7 +2270,7 @@
     "isNew": true
   },
   {
-    "id": 56,
+    "id": 67,
     "category": "accessories",
     "itemId": "airtag-finewoven-key-ring-burgundy",
     "namespaceId": "airtag-finewoven-key-ring",
@@ -1928,7 +2299,7 @@
     "isNew": true
   },
   {
-    "id": 57,
+    "id": 68,
     "category": "accessories",
     "itemId": "iphone-18-pro-max-silicone-case",
     "namespaceId": "iphone-18-pro-max-silicone-case",
@@ -1953,7 +2324,7 @@
     "isNew": true
   },
   {
-    "id": 58,
+    "id": 69,
     "category": "accessories",
     "itemId": "iphone-finewoven-wallet",
     "namespaceId": "iphone-finewoven-wallet",
@@ -1978,7 +2349,7 @@
     "isNew": true
   },
   {
-    "id": 59,
+    "id": 70,
     "category": "accessories",
     "itemId": "iphone-duo-case",
     "namespaceId": "iphone-duo-case",
