@@ -1,6 +1,7 @@
 [
   {
     "id": "airpods-pro-3",
+    "sku": "836571",
     "category": "airpods",
     "namespaceId": "airpods-pro-3",
     "name": "AirPods Pro 3",
@@ -97,6 +98,7 @@
   },
   {
     "id": "airpods-5-usb-c-case",
+    "sku": "785823",
     "category": "airpods",
     "namespaceId": "airpods-5",
     "name": "AirPods 5 with USB-C case",
@@ -196,6 +198,7 @@
   },
   {
     "id": "airpods-5-wireless-case",
+    "sku": "621076",
     "category": "airpods",
     "namespaceId": "airpods-5",
     "name": "AirPods 5 with Wireless case",
@@ -295,6 +298,7 @@
   },
   {
     "id": "airpods-4",
+    "sku": "720000",
     "category": "airpods",
     "namespaceId": "airpods-4",
     "name": "AirPods 4",
@@ -387,6 +391,7 @@
   },
   {
     "id": "airpods-max-2-orange",
+    "sku": "272457",
     "category": "airpods",
     "namespaceId": "airpods-max-2",
     "name": "AirPods Max 2 Orange",
@@ -503,6 +508,7 @@
   },
   {
     "id": "airpods-max-2-midnight",
+    "sku": "992481",
     "category": "airpods",
     "namespaceId": "airpods-max-2",
     "name": "AirPods Max 2 Midnight",
@@ -619,6 +625,7 @@
   },
   {
     "id": "airpods-max-2-blue",
+    "sku": "463496",
     "category": "airpods",
     "namespaceId": "airpods-max-2",
     "name": "AirPods Max 2 Blue",
@@ -735,6 +742,7 @@
   },
   {
     "id": "airpods-max-2-purple",
+    "sku": "617097",
     "category": "airpods",
     "namespaceId": "airpods-max-2",
     "name": "AirPods Max 2 Purple",
@@ -851,6 +859,7 @@
   },
   {
     "id": "airpods-max-2-starlight",
+    "sku": "500053",
     "category": "airpods",
     "namespaceId": "airpods-max-2",
     "name": "AirPods Max 2 Starlight",

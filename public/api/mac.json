@@ -1,6 +1,7 @@
 [
   {
     "id": "macbook-air-13-512gb-skyblue",
+    "sku": "290292",
     "category": "mac",
     "namespaceId": "macbook-air-13",
     "name": "MacBook Air 13-inch M5 512GB Sky Blue",
@@ -123,6 +124,7 @@
   },
   {
     "id": "macbook-air-13-1tb-skyblue",
+    "sku": "450411",
     "category": "mac",
     "namespaceId": "macbook-air-13",
     "name": "MacBook Air 13-inch M5 1TB Sky Blue",
@@ -245,6 +247,7 @@
   },
   {
     "id": "macbook-air-13-512gb-midnight",
+    "sku": "846322",
     "category": "mac",
     "namespaceId": "macbook-air-13",
     "name": "MacBook Air 13-inch M5 512GB Midnight",
@@ -367,6 +370,7 @@
   },
   {
     "id": "macbook-air-13-1tb-midnight",
+    "sku": "525733",
     "category": "mac",
     "namespaceId": "macbook-air-13",
     "name": "MacBook Air 13-inch M5 1TB Midnight",
@@ -489,6 +493,7 @@
   },
   {
     "id": "macbook-air-13-512gb-silver",
+    "sku": "137983",
     "category": "mac",
     "namespaceId": "macbook-air-13",
     "name": "MacBook Air 13-inch M5 512GB Silver",
@@ -611,6 +616,7 @@
   },
   {
     "id": "macbook-air-13-1tb-silver",
+    "sku": "825057",
     "category": "mac",
     "namespaceId": "macbook-air-13",
     "name": "MacBook Air 13-inch M5 1TB Silver",
@@ -733,6 +739,7 @@
   },
   {
     "id": "macbook-air-13-512gb-starlight",
+    "sku": "904431",
     "category": "mac",
     "namespaceId": "macbook-air-13",
     "name": "MacBook Air 13-inch M5 512GB Starlight",
@@ -855,6 +862,7 @@
   },
   {
     "id": "macbook-air-13-1tb-starlight",
+    "sku": "746427",
     "category": "mac",
     "namespaceId": "macbook-air-13",
     "name": "MacBook Air 13-inch M5 1TB Starlight",
@@ -977,6 +985,7 @@
   },
   {
     "id": "macbook-air-15-512gb-starlight",
+    "sku": "949370",
     "category": "mac",
     "namespaceId": "macbook-air-15",
     "name": "MacBook Air 15-inch M5 512GB Starlight",
@@ -1099,6 +1108,7 @@
   },
   {
     "id": "macbook-air-15-1tb-starlight",
+    "sku": "763951",
     "category": "mac",
     "namespaceId": "macbook-air-15",
     "name": "MacBook Air 15-inch M5 1TB Starlight",
@@ -1221,6 +1231,7 @@
   },
   {
     "id": "macbook-air-15-512gb-midnight",
+    "sku": "874903",
     "category": "mac",
     "namespaceId": "macbook-air-15",
     "name": "MacBook Air 15-inch M5 512GB Midnight",
@@ -1343,6 +1354,7 @@
   },
   {
     "id": "macbook-air-15-1tb-midnight",
+    "sku": "497154",
     "category": "mac",
     "namespaceId": "macbook-air-15",
     "name": "MacBook Air 15-inch M5 1TB Midnight",
@@ -1465,6 +1477,7 @@
   },
   {
     "id": "macbook-air-15-512gb-silver",
+    "sku": "764285",
     "category": "mac",
     "namespaceId": "macbook-air-15",
     "name": "MacBook Air 15-inch M5 512GB Silver",
@@ -1587,6 +1600,7 @@
   },
   {
     "id": "macbook-air-15-1tb-silver",
+    "sku": "581983",
     "category": "mac",
     "namespaceId": "macbook-air-15",
     "name": "MacBook Air 15-inch M5 1TB Silver",
@@ -1709,6 +1723,7 @@
   },
   {
     "id": "macbook-air-15-512gb-skyblue",
+    "sku": "589569",
     "category": "mac",
     "namespaceId": "macbook-air-15",
     "name": "MacBook Air 15-inch M5 512GB Sky Blue",
@@ -1831,6 +1846,7 @@
   },
   {
     "id": "macbook-air-15-1tb-skyblue",
+    "sku": "967729",
     "category": "mac",
     "namespaceId": "macbook-air-15",
     "name": "MacBook Air 15-inch M5 1TB Sky Blue",
@@ -1953,6 +1969,7 @@
   },
   {
     "id": "macbook-pro-14-512gb-spaceblack",
+    "sku": "173074",
     "category": "mac",
     "namespaceId": "macbook-pro-14",
     "name": "MacBook Pro 14-inch M6 512GB Space Black",
@@ -2065,6 +2082,7 @@
   },
   {
     "id": "macbook-pro-14-1tb-spaceblack",
+    "sku": "649300",
     "category": "mac",
     "namespaceId": "macbook-pro-14",
     "name": "MacBook Pro 14-inch M6 1TB Space Black",
@@ -2177,6 +2195,7 @@
   },
   {
     "id": "macbook-pro-14-512gb-silver",
+    "sku": "808979",
     "category": "mac",
     "namespaceId": "macbook-pro-14",
     "name": "MacBook Pro 14-inch M6 512GB Silver",
@@ -2289,6 +2308,7 @@
   },
   {
     "id": "macbook-pro-14-1tb-silver",
+    "sku": "520988",
     "category": "mac",
     "namespaceId": "macbook-pro-14",
     "name": "MacBook Pro 14-inch M6 1TB Silver",
@@ -2401,6 +2421,7 @@
   },
   {
     "id": "macbook-pro-14-oled-1tb-spaceblack",
+    "sku": "421245",
     "category": "mac",
     "namespaceId": "macbook-pro-14-oled",
     "name": "MacBook Pro 14-inch OLED 1TB Space Black",
@@ -2509,6 +2530,7 @@
   },
   {
     "id": "macbook-pro-14-oled-2tb-spaceblack",
+    "sku": "394411",
     "category": "mac",
     "namespaceId": "macbook-pro-14-oled",
     "name": "MacBook Pro 14-inch OLED 2TB Space Black",
@@ -2617,6 +2639,7 @@
   },
   {
     "id": "macbook-pro-14-oled-1tb-silver",
+    "sku": "786774",
     "category": "mac",
     "namespaceId": "macbook-pro-14-oled",
     "name": "MacBook Pro 14-inch OLED 1TB Silver",
@@ -2725,6 +2748,7 @@
   },
   {
     "id": "macbook-pro-14-oled-2tb-silver",
+    "sku": "519705",
     "category": "mac",
     "namespaceId": "macbook-pro-14-oled",
     "name": "MacBook Pro 14-inch OLED 2TB Silver",
@@ -2833,6 +2857,7 @@
   },
   {
     "id": "macbook-pro-16-oled-1tb-spaceblack",
+    "sku": "847784",
     "category": "mac",
     "namespaceId": "macbook-pro-16-oled",
     "name": "MacBook Pro 16-inch OLED 1TB Space Black",
@@ -2941,6 +2966,7 @@
   },
   {
     "id": "macbook-pro-16-oled-2tb-spaceblack",
+    "sku": "697633",
     "category": "mac",
     "namespaceId": "macbook-pro-16-oled",
     "name": "MacBook Pro 16-inch OLED 2TB Space Black",
@@ -3049,6 +3075,7 @@
   },
   {
     "id": "macbook-pro-16-oled-1tb-silver",
+    "sku": "214061",
     "category": "mac",
     "namespaceId": "macbook-pro-16-oled",
     "name": "MacBook Pro 16-inch OLED 1TB Silver",
@@ -3157,6 +3184,7 @@
   },
   {
     "id": "macbook-pro-16-oled-2tb-silver",
+    "sku": "197481",
     "category": "mac",
     "namespaceId": "macbook-pro-16-oled",
     "name": "MacBook Pro 16-inch OLED 2TB Silver",
@@ -3265,6 +3293,7 @@
   },
   {
     "id": "imac-256gb-blue",
+    "sku": "897567",
     "category": "mac",
     "namespaceId": "imac",
     "name": "iMac 24-inch M6 256GB Blue",
@@ -3397,6 +3426,7 @@
   },
   {
     "id": "imac-512gb-blue",
+    "sku": "816255",
     "category": "mac",
     "namespaceId": "imac",
     "name": "iMac 24-inch M6 512GB Blue",
@@ -3529,6 +3559,7 @@
   },
   {
     "id": "imac-256gb-green",
+    "sku": "155557",
     "category": "mac",
     "namespaceId": "imac",
     "name": "iMac 24-inch M6 256GB Green",
@@ -3661,6 +3692,7 @@
   },
   {
     "id": "imac-512gb-green",
+    "sku": "503480",
     "category": "mac",
     "namespaceId": "imac",
     "name": "iMac 24-inch M6 512GB Green",
@@ -3793,6 +3825,7 @@
   },
   {
     "id": "imac-256gb-orange",
+    "sku": "430405",
     "category": "mac",
     "namespaceId": "imac",
     "name": "iMac 24-inch M6 256GB Orange",
@@ -3925,6 +3958,7 @@
   },
   {
     "id": "imac-512gb-orange",
+    "sku": "184051",
     "category": "mac",
     "namespaceId": "imac",
     "name": "iMac 24-inch M6 512GB Orange",
@@ -4057,6 +4091,7 @@
   },
   {
     "id": "imac-256gb-pink",
+    "sku": "457351",
     "category": "mac",
     "namespaceId": "imac",
     "name": "iMac 24-inch M6 256GB Pink",
@@ -4189,6 +4224,7 @@
   },
   {
     "id": "imac-512gb-pink",
+    "sku": "997791",
     "category": "mac",
     "namespaceId": "imac",
     "name": "iMac 24-inch M6 512GB Pink",
@@ -4321,6 +4357,7 @@
   },
   {
     "id": "imac-256gb-purple",
+    "sku": "102056",
     "category": "mac",
     "namespaceId": "imac",
     "name": "iMac 24-inch M6 256GB Purple",
@@ -4453,6 +4490,7 @@
   },
   {
     "id": "imac-512gb-purple",
+    "sku": "825704",
     "category": "mac",
     "namespaceId": "imac",
     "name": "iMac 24-inch M6 512GB Purple",
@@ -4585,6 +4623,7 @@
   },
   {
     "id": "imac-256gb-yellow",
+    "sku": "123603",
     "category": "mac",
     "namespaceId": "imac",
     "name": "iMac 24-inch M6 256GB Yellow",
@@ -4717,6 +4756,7 @@
   },
   {
     "id": "imac-512gb-yellow",
+    "sku": "283985",
     "category": "mac",
     "namespaceId": "imac",
     "name": "iMac 24-inch M6 512GB Yellow",

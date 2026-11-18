@@ -54,7 +54,7 @@ export const ProductOptions = ({ product, details, variants }: Props) => {
     <div className={styles.options}>
       <div className={styles.top}>
         <Rating rating={details.rating} count={details.reviewsCount} />
-        <p className={styles.id}>ID: {product.id}</p>
+        <p className={styles.id}>Item no. {details.sku}</p>
       </div>
 
       {details.colors.length > 1 && (

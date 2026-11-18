@@ -14,6 +14,7 @@ export interface ProductSpec {
 
 export interface ProductDetails {
   id: string;
+  sku: string;
   category: Category;
   namespaceId: string;
   name: string;

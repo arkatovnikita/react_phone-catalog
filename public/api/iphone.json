@@ -1,6 +1,7 @@
 [
   {
     "id": "iphone-duo-256gb-night-sky",
+    "sku": "916981",
     "category": "iphone",
     "namespaceId": "iphone-duo",
     "name": "iPhone Duo 256GB Night Sky",
@@ -126,6 +127,7 @@
   },
   {
     "id": "iphone-duo-512gb-night-sky",
+    "sku": "205321",
     "category": "iphone",
     "namespaceId": "iphone-duo",
     "name": "iPhone Duo 512GB Night Sky",
@@ -251,6 +253,7 @@
   },
   {
     "id": "iphone-duo-1tb-night-sky",
+    "sku": "539358",
     "category": "iphone",
     "namespaceId": "iphone-duo",
     "name": "iPhone Duo 1TB Night Sky",
@@ -376,6 +379,7 @@
   },
   {
     "id": "iphone-duo-2tb-night-sky",
+    "sku": "613333",
     "category": "iphone",
     "namespaceId": "iphone-duo",
     "name": "iPhone Duo 2TB Night Sky",
@@ -501,6 +505,7 @@
   },
   {
     "id": "iphone-duo-256gb-star-white",
+    "sku": "217170",
     "category": "iphone",
     "namespaceId": "iphone-duo",
     "name": "iPhone Duo 256GB Star White",
@@ -626,6 +631,7 @@
   },
   {
     "id": "iphone-duo-512gb-star-white",
+    "sku": "909611",
     "category": "iphone",
     "namespaceId": "iphone-duo",
     "name": "iPhone Duo 512GB Star White",
@@ -751,6 +757,7 @@
   },
   {
     "id": "iphone-duo-1tb-star-white",
+    "sku": "849456",
     "category": "iphone",
     "namespaceId": "iphone-duo",
     "name": "iPhone Duo 1TB Star White",
@@ -876,6 +883,7 @@
   },
   {
     "id": "iphone-duo-2tb-star-white",
+    "sku": "365758",
     "category": "iphone",
     "namespaceId": "iphone-duo",
     "name": "iPhone Duo 2TB Star White",
@@ -1001,6 +1009,7 @@
   },
   {
     "id": "iphone-18-pro-max-256gb-glacier",
+    "sku": "645354",
     "category": "iphone",
     "namespaceId": "iphone-18-pro-max",
     "name": "iPhone 18 Pro Max 256GB Glacier",
@@ -1131,6 +1140,7 @@
   },
   {
     "id": "iphone-18-pro-max-512gb-glacier",
+    "sku": "935318",
     "category": "iphone",
     "namespaceId": "iphone-18-pro-max",
     "name": "iPhone 18 Pro Max 512GB Glacier",
@@ -1261,6 +1271,7 @@
   },
   {
     "id": "iphone-18-pro-max-1tb-glacier",
+    "sku": "969769",
     "category": "iphone",
     "namespaceId": "iphone-18-pro-max",
     "name": "iPhone 18 Pro Max 1TB Glacier",
@@ -1391,6 +1402,7 @@
   },
   {
     "id": "iphone-18-pro-max-2tb-glacier",
+    "sku": "951633",
     "category": "iphone",
     "namespaceId": "iphone-18-pro-max",
     "name": "iPhone 18 Pro Max 2TB Glacier",
@@ -1521,6 +1533,7 @@
   },
   {
     "id": "iphone-18-pro-max-256gb-black",
+    "sku": "597924",
     "category": "iphone",
     "namespaceId": "iphone-18-pro-max",
     "name": "iPhone 18 Pro Max 256GB Black",
@@ -1651,6 +1664,7 @@
   },
   {
     "id": "iphone-18-pro-max-512gb-black",
+    "sku": "963761",
     "category": "iphone",
     "namespaceId": "iphone-18-pro-max",
     "name": "iPhone 18 Pro Max 512GB Black",
@@ -1781,6 +1795,7 @@
   },
   {
     "id": "iphone-18-pro-max-1tb-black",
+    "sku": "518665",
     "category": "iphone",
     "namespaceId": "iphone-18-pro-max",
     "name": "iPhone 18 Pro Max 1TB Black",
@@ -1911,6 +1926,7 @@
   },
   {
     "id": "iphone-18-pro-max-2tb-black",
+    "sku": "655463",
     "category": "iphone",
     "namespaceId": "iphone-18-pro-max",
     "name": "iPhone 18 Pro Max 2TB Black",
@@ -2041,6 +2057,7 @@
   },
   {
     "id": "iphone-18-pro-max-256gb-burgundy",
+    "sku": "123328",
     "category": "iphone",
     "namespaceId": "iphone-18-pro-max",
     "name": "iPhone 18 Pro Max 256GB Burgundy",
@@ -2171,6 +2188,7 @@
   },
   {
     "id": "iphone-18-pro-max-512gb-burgundy",
+    "sku": "989806",
     "category": "iphone",
     "namespaceId": "iphone-18-pro-max",
     "name": "iPhone 18 Pro Max 512GB Burgundy",
@@ -2301,6 +2319,7 @@
   },
   {
     "id": "iphone-18-pro-max-1tb-burgundy",
+    "sku": "798689",
     "category": "iphone",
     "namespaceId": "iphone-18-pro-max",
     "name": "iPhone 18 Pro Max 1TB Burgundy",
@@ -2431,6 +2450,7 @@
   },
   {
     "id": "iphone-18-pro-max-2tb-burgundy",
+    "sku": "439272",
     "category": "iphone",
     "namespaceId": "iphone-18-pro-max",
     "name": "iPhone 18 Pro Max 2TB Burgundy",
@@ -2561,6 +2581,7 @@
   },
   {
     "id": "iphone-18-pro-max-256gb-silver",
+    "sku": "959907",
     "category": "iphone",
     "namespaceId": "iphone-18-pro-max",
     "name": "iPhone 18 Pro Max 256GB Silver",
@@ -2691,6 +2712,7 @@
   },
   {
     "id": "iphone-18-pro-max-512gb-silver",
+    "sku": "961218",
     "category": "iphone",
     "namespaceId": "iphone-18-pro-max",
     "name": "iPhone 18 Pro Max 512GB Silver",
@@ -2821,6 +2843,7 @@
   },
   {
     "id": "iphone-18-pro-max-1tb-silver",
+    "sku": "757884",
     "category": "iphone",
     "namespaceId": "iphone-18-pro-max",
     "name": "iPhone 18 Pro Max 1TB Silver",
@@ -2951,6 +2974,7 @@
   },
   {
     "id": "iphone-18-pro-max-2tb-silver",
+    "sku": "413318",
     "category": "iphone",
     "namespaceId": "iphone-18-pro-max",
     "name": "iPhone 18 Pro Max 2TB Silver",
@@ -3081,6 +3105,7 @@
   },
   {
     "id": "iphone-18-pro-256gb-burgundy",
+    "sku": "778797",
     "category": "iphone",
     "namespaceId": "iphone-18-pro",
     "name": "iPhone 18 Pro 256GB Burgundy",
@@ -3211,6 +3236,7 @@
   },
   {
     "id": "iphone-18-pro-512gb-burgundy",
+    "sku": "342487",
     "category": "iphone",
     "namespaceId": "iphone-18-pro",
     "name": "iPhone 18 Pro 512GB Burgundy",
@@ -3341,6 +3367,7 @@
   },
   {
     "id": "iphone-18-pro-1tb-burgundy",
+    "sku": "617081",
     "category": "iphone",
     "namespaceId": "iphone-18-pro",
     "name": "iPhone 18 Pro 1TB Burgundy",
@@ -3471,6 +3498,7 @@
   },
   {
     "id": "iphone-18-pro-2tb-burgundy",
+    "sku": "158163",
     "category": "iphone",
     "namespaceId": "iphone-18-pro",
     "name": "iPhone 18 Pro 2TB Burgundy",
@@ -3601,6 +3629,7 @@
   },
   {
     "id": "iphone-18-pro-256gb-black",
+    "sku": "882572",
     "category": "iphone",
     "namespaceId": "iphone-18-pro",
     "name": "iPhone 18 Pro 256GB Black",
@@ -3731,6 +3760,7 @@
   },
   {
     "id": "iphone-18-pro-512gb-black",
+    "sku": "754141",
     "category": "iphone",
     "namespaceId": "iphone-18-pro",
     "name": "iPhone 18 Pro 512GB Black",
@@ -3861,6 +3891,7 @@
   },
   {
     "id": "iphone-18-pro-1tb-black",
+    "sku": "320996",
     "category": "iphone",
     "namespaceId": "iphone-18-pro",
     "name": "iPhone 18 Pro 1TB Black",
@@ -3991,6 +4022,7 @@
   },
   {
     "id": "iphone-18-pro-2tb-black",
+    "sku": "362365",
     "category": "iphone",
     "namespaceId": "iphone-18-pro",
     "name": "iPhone 18 Pro 2TB Black",
@@ -4121,6 +4153,7 @@
   },
   {
     "id": "iphone-18-pro-256gb-glacier",
+    "sku": "664052",
     "category": "iphone",
     "namespaceId": "iphone-18-pro",
     "name": "iPhone 18 Pro 256GB Glacier",
@@ -4251,6 +4284,7 @@
   },
   {
     "id": "iphone-18-pro-512gb-glacier",
+    "sku": "305576",
     "category": "iphone",
     "namespaceId": "iphone-18-pro",
     "name": "iPhone 18 Pro 512GB Glacier",
@@ -4381,6 +4415,7 @@
   },
   {
     "id": "iphone-18-pro-1tb-glacier",
+    "sku": "915142",
     "category": "iphone",
     "namespaceId": "iphone-18-pro",
     "name": "iPhone 18 Pro 1TB Glacier",
@@ -4511,6 +4546,7 @@
   },
   {
     "id": "iphone-18-pro-2tb-glacier",
+    "sku": "569366",
     "category": "iphone",
     "namespaceId": "iphone-18-pro",
     "name": "iPhone 18 Pro 2TB Glacier",
@@ -4641,6 +4677,7 @@
   },
   {
     "id": "iphone-18-pro-256gb-silver",
+    "sku": "533688",
     "category": "iphone",
     "namespaceId": "iphone-18-pro",
     "name": "iPhone 18 Pro 256GB Silver",
@@ -4771,6 +4808,7 @@
   },
   {
     "id": "iphone-18-pro-512gb-silver",
+    "sku": "621156",
     "category": "iphone",
     "namespaceId": "iphone-18-pro",
     "name": "iPhone 18 Pro 512GB Silver",
@@ -4901,6 +4939,7 @@
   },
   {
     "id": "iphone-18-pro-1tb-silver",
+    "sku": "539714",
     "category": "iphone",
     "namespaceId": "iphone-18-pro",
     "name": "iPhone 18 Pro 1TB Silver",
@@ -5031,6 +5070,7 @@
   },
   {
     "id": "iphone-18-pro-2tb-silver",
+    "sku": "646320",
     "category": "iphone",
     "namespaceId": "iphone-18-pro",
     "name": "iPhone 18 Pro 2TB Silver",
@@ -5161,6 +5201,7 @@
   },
   {
     "id": "iphone-17e-256gb-softpink",
+    "sku": "825159",
     "category": "iphone",
     "namespaceId": "iphone-17e",
     "name": "iPhone 17e 256GB Soft Pink",
@@ -5283,6 +5324,7 @@
   },
   {
     "id": "iphone-17e-512gb-softpink",
+    "sku": "379779",
     "category": "iphone",
     "namespaceId": "iphone-17e",
     "name": "iPhone 17e 512GB Soft Pink",
@@ -5405,6 +5447,7 @@
   },
   {
     "id": "iphone-17e-256gb-black",
+    "sku": "223880",
     "category": "iphone",
     "namespaceId": "iphone-17e",
     "name": "iPhone 17e 256GB Black",
@@ -5527,6 +5570,7 @@
   },
   {
     "id": "iphone-17e-512gb-black",
+    "sku": "430083",
     "category": "iphone",
     "namespaceId": "iphone-17e",
     "name": "iPhone 17e 512GB Black",
@@ -5649,6 +5693,7 @@
   },
   {
     "id": "iphone-17e-256gb-white",
+    "sku": "951975",
     "category": "iphone",
     "namespaceId": "iphone-17e",
     "name": "iPhone 17e 256GB White",
@@ -5771,6 +5816,7 @@
   },
   {
     "id": "iphone-17e-512gb-white",
+    "sku": "228902",
     "category": "iphone",
     "namespaceId": "iphone-17e",
     "name": "iPhone 17e 512GB White",
@@ -5893,6 +5939,7 @@
   },
   {
     "id": "iphone-17-pro-max-256gb-deepblue",
+    "sku": "770996",
     "category": "iphone",
     "namespaceId": "iphone-17-pro-max",
     "name": "iPhone 17 Pro Max 256GB Deep Blue",
@@ -6018,6 +6065,7 @@
   },
   {
     "id": "iphone-17-pro-max-512gb-deepblue",
+    "sku": "766818",
     "category": "iphone",
     "namespaceId": "iphone-17-pro-max",
     "name": "iPhone 17 Pro Max 512GB Deep Blue",
@@ -6143,6 +6191,7 @@
   },
   {
     "id": "iphone-17-pro-max-1tb-deepblue",
+    "sku": "301731",
     "category": "iphone",
     "namespaceId": "iphone-17-pro-max",
     "name": "iPhone 17 Pro Max 1TB Deep Blue",
@@ -6268,6 +6317,7 @@
   },
   {
     "id": "iphone-17-pro-max-2tb-deepblue",
+    "sku": "776885",
     "category": "iphone",
     "namespaceId": "iphone-17-pro-max",
     "name": "iPhone 17 Pro Max 2TB Deep Blue",
@@ -6393,6 +6443,7 @@
   },
   {
     "id": "iphone-17-pro-max-256gb-cosmicorange",
+    "sku": "912865",
     "category": "iphone",
     "namespaceId": "iphone-17-pro-max",
     "name": "iPhone 17 Pro Max 256GB Cosmic Orange",
@@ -6518,6 +6569,7 @@
   },
   {
     "id": "iphone-17-pro-max-512gb-cosmicorange",
+    "sku": "913765",
     "category": "iphone",
     "namespaceId": "iphone-17-pro-max",
     "name": "iPhone 17 Pro Max 512GB Cosmic Orange",
@@ -6643,6 +6695,7 @@
   },
   {
     "id": "iphone-17-pro-max-1tb-cosmicorange",
+    "sku": "499657",
     "category": "iphone",
     "namespaceId": "iphone-17-pro-max",
     "name": "iPhone 17 Pro Max 1TB Cosmic Orange",
@@ -6768,6 +6821,7 @@
   },
   {
     "id": "iphone-17-pro-max-2tb-cosmicorange",
+    "sku": "634591",
     "category": "iphone",
     "namespaceId": "iphone-17-pro-max",
     "name": "iPhone 17 Pro Max 2TB Cosmic Orange",
@@ -6893,6 +6947,7 @@
   },
   {
     "id": "iphone-17-pro-max-256gb-silver",
+    "sku": "679192",
     "category": "iphone",
     "namespaceId": "iphone-17-pro-max",
     "name": "iPhone 17 Pro Max 256GB Silver",
@@ -7018,6 +7073,7 @@
   },
   {
     "id": "iphone-17-pro-max-512gb-silver",
+    "sku": "285846",
     "category": "iphone",
     "namespaceId": "iphone-17-pro-max",
     "name": "iPhone 17 Pro Max 512GB Silver",
@@ -7143,6 +7199,7 @@
   },
   {
     "id": "iphone-17-pro-max-1tb-silver",
+    "sku": "733081",
     "category": "iphone",
     "namespaceId": "iphone-17-pro-max",
     "name": "iPhone 17 Pro Max 1TB Silver",
@@ -7268,6 +7325,7 @@
   },
   {
     "id": "iphone-17-pro-max-2tb-silver",
+    "sku": "331000",
     "category": "iphone",
     "namespaceId": "iphone-17-pro-max",
     "name": "iPhone 17 Pro Max 2TB Silver",
@@ -7393,6 +7451,7 @@
   },
   {
     "id": "iphone-17-pro-256gb-cosmicorange",
+    "sku": "956341",
     "category": "iphone",
     "namespaceId": "iphone-17-pro",
     "name": "iPhone 17 Pro 256GB Cosmic Orange",
@@ -7517,6 +7576,7 @@
   },
   {
     "id": "iphone-17-pro-512gb-cosmicorange",
+    "sku": "849283",
     "category": "iphone",
     "namespaceId": "iphone-17-pro",
     "name": "iPhone 17 Pro 512GB Cosmic Orange",
@@ -7641,6 +7701,7 @@
   },
   {
     "id": "iphone-17-pro-1tb-cosmicorange",
+    "sku": "956047",
     "category": "iphone",
     "namespaceId": "iphone-17-pro",
     "name": "iPhone 17 Pro 1TB Cosmic Orange",
@@ -7765,6 +7826,7 @@
   },
   {
     "id": "iphone-17-pro-256gb-deepblue",
+    "sku": "518891",
     "category": "iphone",
     "namespaceId": "iphone-17-pro",
     "name": "iPhone 17 Pro 256GB Deep Blue",
@@ -7889,6 +7951,7 @@
   },
   {
     "id": "iphone-17-pro-512gb-deepblue",
+    "sku": "143394",
     "category": "iphone",
     "namespaceId": "iphone-17-pro",
     "name": "iPhone 17 Pro 512GB Deep Blue",
@@ -8013,6 +8076,7 @@
   },
   {
     "id": "iphone-17-pro-1tb-deepblue",
+    "sku": "141526",
     "category": "iphone",
     "namespaceId": "iphone-17-pro",
     "name": "iPhone 17 Pro 1TB Deep Blue",
@@ -8137,6 +8201,7 @@
   },
   {
     "id": "iphone-17-pro-256gb-silver",
+    "sku": "237763",
     "category": "iphone",
     "namespaceId": "iphone-17-pro",
     "name": "iPhone 17 Pro 256GB Silver",
@@ -8261,6 +8326,7 @@
   },
   {
     "id": "iphone-17-pro-512gb-silver",
+    "sku": "422115",
     "category": "iphone",
     "namespaceId": "iphone-17-pro",
     "name": "iPhone 17 Pro 512GB Silver",
@@ -8385,6 +8451,7 @@
   },
   {
     "id": "iphone-17-pro-1tb-silver",
+    "sku": "784254",
     "category": "iphone",
     "namespaceId": "iphone-17-pro",
     "name": "iPhone 17 Pro 1TB Silver",
@@ -8509,6 +8576,7 @@
   },
   {
     "id": "iphone-air-256gb-skyblue",
+    "sku": "152713",
     "category": "iphone",
     "namespaceId": "iphone-air",
     "name": "iPhone Air 256GB Sky Blue",
@@ -8639,6 +8707,7 @@
   },
   {
     "id": "iphone-air-512gb-skyblue",
+    "sku": "428618",
     "category": "iphone",
     "namespaceId": "iphone-air",
     "name": "iPhone Air 512GB Sky Blue",
@@ -8769,6 +8838,7 @@
   },
   {
     "id": "iphone-air-1tb-skyblue",
+    "sku": "975472",
     "category": "iphone",
     "namespaceId": "iphone-air",
     "name": "iPhone Air 1TB Sky Blue",
@@ -8899,6 +8969,7 @@
   },
   {
     "id": "iphone-air-256gb-lightgold",
+    "sku": "379791",
     "category": "iphone",
     "namespaceId": "iphone-air",
     "name": "iPhone Air 256GB Light Gold",
@@ -9029,6 +9100,7 @@
   },
   {
     "id": "iphone-air-512gb-lightgold",
+    "sku": "551261",
     "category": "iphone",
     "namespaceId": "iphone-air",
     "name": "iPhone Air 512GB Light Gold",
@@ -9159,6 +9231,7 @@
   },
   {
     "id": "iphone-air-1tb-lightgold",
+    "sku": "180857",
     "category": "iphone",
     "namespaceId": "iphone-air",
     "name": "iPhone Air 1TB Light Gold",
@@ -9289,6 +9362,7 @@
   },
   {
     "id": "iphone-air-256gb-cloudwhite",
+    "sku": "466369",
     "category": "iphone",
     "namespaceId": "iphone-air",
     "name": "iPhone Air 256GB Cloud White",
@@ -9419,6 +9493,7 @@
   },
   {
     "id": "iphone-air-512gb-cloudwhite",
+    "sku": "948645",
     "category": "iphone",
     "namespaceId": "iphone-air",
     "name": "iPhone Air 512GB Cloud White",
@@ -9549,6 +9624,7 @@
   },
   {
     "id": "iphone-air-1tb-cloudwhite",
+    "sku": "703116",
     "category": "iphone",
     "namespaceId": "iphone-air",
     "name": "iPhone Air 1TB Cloud White",
@@ -9679,6 +9755,7 @@
   },
   {
     "id": "iphone-air-256gb-spaceblack",
+    "sku": "646966",
     "category": "iphone",
     "namespaceId": "iphone-air",
     "name": "iPhone Air 256GB Space Black",
@@ -9809,6 +9886,7 @@
   },
   {
     "id": "iphone-air-512gb-spaceblack",
+    "sku": "371363",
     "category": "iphone",
     "namespaceId": "iphone-air",
     "name": "iPhone Air 512GB Space Black",
@@ -9939,6 +10017,7 @@
   },
   {
     "id": "iphone-air-1tb-spaceblack",
+    "sku": "332581",
     "category": "iphone",
     "namespaceId": "iphone-air",
     "name": "iPhone Air 1TB Space Black",
@@ -10069,6 +10148,7 @@
   },
   {
     "id": "iphone-17-256gb-lavender",
+    "sku": "786573",
     "category": "iphone",
     "namespaceId": "iphone-17",
     "name": "iPhone 17 256GB Lavender",
@@ -10203,6 +10283,7 @@
   },
   {
     "id": "iphone-17-512gb-lavender",
+    "sku": "297874",
     "category": "iphone",
     "namespaceId": "iphone-17",
     "name": "iPhone 17 512GB Lavender",
@@ -10337,6 +10418,7 @@
   },
   {
     "id": "iphone-17-256gb-black",
+    "sku": "161525",
     "category": "iphone",
     "namespaceId": "iphone-17",
     "name": "iPhone 17 256GB Black",
@@ -10471,6 +10553,7 @@
   },
   {
     "id": "iphone-17-512gb-black",
+    "sku": "728614",
     "category": "iphone",
     "namespaceId": "iphone-17",
     "name": "iPhone 17 512GB Black",
@@ -10605,6 +10688,7 @@
   },
   {
     "id": "iphone-17-256gb-mistblue",
+    "sku": "869515",
     "category": "iphone",
     "namespaceId": "iphone-17",
     "name": "iPhone 17 256GB Mist Blue",
@@ -10739,6 +10823,7 @@
   },
   {
     "id": "iphone-17-512gb-mistblue",
+    "sku": "484371",
     "category": "iphone",
     "namespaceId": "iphone-17",
     "name": "iPhone 17 512GB Mist Blue",
@@ -10873,6 +10958,7 @@
   },
   {
     "id": "iphone-17-256gb-sage",
+    "sku": "151791",
     "category": "iphone",
     "namespaceId": "iphone-17",
     "name": "iPhone 17 256GB Sage",
@@ -11007,6 +11093,7 @@
   },
   {
     "id": "iphone-17-512gb-sage",
+    "sku": "548397",
     "category": "iphone",
     "namespaceId": "iphone-17",
     "name": "iPhone 17 512GB Sage",
@@ -11141,6 +11228,7 @@
   },
   {
     "id": "iphone-17-256gb-white",
+    "sku": "981685",
     "category": "iphone",
     "namespaceId": "iphone-17",
     "name": "iPhone 17 256GB White",
@@ -11275,6 +11363,7 @@
   },
   {
     "id": "iphone-17-512gb-white",
+    "sku": "761256",
     "category": "iphone",
     "namespaceId": "iphone-17",
     "name": "iPhone 17 512GB White",
@@ -11409,6 +11498,7 @@
   },
   {
     "id": "iphone-16-pro-max-256gb-deserttitanium",
+    "sku": "762833",
     "category": "iphone",
     "namespaceId": "iphone-16-pro-max",
     "name": "iPhone 16 Pro Max 256GB Desert Titanium",
@@ -11539,6 +11629,7 @@
   },
   {
     "id": "iphone-16-pro-max-512gb-deserttitanium",
+    "sku": "325341",
     "category": "iphone",
     "namespaceId": "iphone-16-pro-max",
     "name": "iPhone 16 Pro Max 512GB Desert Titanium",
@@ -11669,6 +11760,7 @@
   },
   {
     "id": "iphone-16-pro-max-1tb-deserttitanium",
+    "sku": "899591",
     "category": "iphone",
     "namespaceId": "iphone-16-pro-max",
     "name": "iPhone 16 Pro Max 1TB Desert Titanium",
@@ -11799,6 +11891,7 @@
   },
   {
     "id": "iphone-16-pro-max-256gb-naturaltitanium",
+    "sku": "556878",
     "category": "iphone",
     "namespaceId": "iphone-16-pro-max",
     "name": "iPhone 16 Pro Max 256GB Natural Titanium",
@@ -11929,6 +12022,7 @@
   },
   {
     "id": "iphone-16-pro-max-512gb-naturaltitanium",
+    "sku": "630802",
     "category": "iphone",
     "namespaceId": "iphone-16-pro-max",
     "name": "iPhone 16 Pro Max 512GB Natural Titanium",
@@ -12059,6 +12153,7 @@
   },
   {
     "id": "iphone-16-pro-max-1tb-naturaltitanium",
+    "sku": "676330",
     "category": "iphone",
     "namespaceId": "iphone-16-pro-max",
     "name": "iPhone 16 Pro Max 1TB Natural Titanium",
@@ -12189,6 +12284,7 @@
   },
   {
     "id": "iphone-16-pro-max-256gb-whitetitanium",
+    "sku": "715619",
     "category": "iphone",
     "namespaceId": "iphone-16-pro-max",
     "name": "iPhone 16 Pro Max 256GB White Titanium",
@@ -12319,6 +12415,7 @@
   },
   {
     "id": "iphone-16-pro-max-512gb-whitetitanium",
+    "sku": "528495",
     "category": "iphone",
     "namespaceId": "iphone-16-pro-max",
     "name": "iPhone 16 Pro Max 512GB White Titanium",
@@ -12449,6 +12546,7 @@
   },
   {
     "id": "iphone-16-pro-max-1tb-whitetitanium",
+    "sku": "447604",
     "category": "iphone",
     "namespaceId": "iphone-16-pro-max",
     "name": "iPhone 16 Pro Max 1TB White Titanium",
@@ -12579,6 +12677,7 @@
   },
   {
     "id": "iphone-16-pro-max-256gb-blacktitanium",
+    "sku": "400236",
     "category": "iphone",
     "namespaceId": "iphone-16-pro-max",
     "name": "iPhone 16 Pro Max 256GB Black Titanium",
@@ -12709,6 +12808,7 @@
   },
   {
     "id": "iphone-16-pro-max-512gb-blacktitanium",
+    "sku": "180282",
     "category": "iphone",
     "namespaceId": "iphone-16-pro-max",
     "name": "iPhone 16 Pro Max 512GB Black Titanium",
@@ -12839,6 +12939,7 @@
   },
   {
     "id": "iphone-16-pro-max-1tb-blacktitanium",
+    "sku": "845537",
     "category": "iphone",
     "namespaceId": "iphone-16-pro-max",
     "name": "iPhone 16 Pro Max 1TB Black Titanium",
@@ -12969,6 +13070,7 @@
   },
   {
     "id": "iphone-16-pro-128gb-deserttitanium",
+    "sku": "357124",
     "category": "iphone",
     "namespaceId": "iphone-16-pro",
     "name": "iPhone 16 Pro 128GB Desert Titanium",
@@ -13100,6 +13202,7 @@
   },
   {
     "id": "iphone-16-pro-256gb-deserttitanium",
+    "sku": "714960",
     "category": "iphone",
     "namespaceId": "iphone-16-pro",
     "name": "iPhone 16 Pro 256GB Desert Titanium",
@@ -13231,6 +13334,7 @@
   },
   {
     "id": "iphone-16-pro-512gb-deserttitanium",
+    "sku": "599798",
     "category": "iphone",
     "namespaceId": "iphone-16-pro",
     "name": "iPhone 16 Pro 512GB Desert Titanium",
@@ -13362,6 +13466,7 @@
   },
   {
     "id": "iphone-16-pro-1tb-deserttitanium",
+    "sku": "288072",
     "category": "iphone",
     "namespaceId": "iphone-16-pro",
     "name": "iPhone 16 Pro 1TB Desert Titanium",
@@ -13493,6 +13598,7 @@
   },
   {
     "id": "iphone-16-pro-128gb-naturaltitanium",
+    "sku": "423594",
     "category": "iphone",
     "namespaceId": "iphone-16-pro",
     "name": "iPhone 16 Pro 128GB Natural Titanium",
@@ -13624,6 +13730,7 @@
   },
   {
     "id": "iphone-16-pro-256gb-naturaltitanium",
+    "sku": "970209",
     "category": "iphone",
     "namespaceId": "iphone-16-pro",
     "name": "iPhone 16 Pro 256GB Natural Titanium",
@@ -13755,6 +13862,7 @@
   },
   {
     "id": "iphone-16-pro-512gb-naturaltitanium",
+    "sku": "320857",
     "category": "iphone",
     "namespaceId": "iphone-16-pro",
     "name": "iPhone 16 Pro 512GB Natural Titanium",
@@ -13886,6 +13994,7 @@
   },
   {
     "id": "iphone-16-pro-1tb-naturaltitanium",
+    "sku": "415735",
     "category": "iphone",
     "namespaceId": "iphone-16-pro",
     "name": "iPhone 16 Pro 1TB Natural Titanium",
@@ -14017,6 +14126,7 @@
   },
   {
     "id": "iphone-16-pro-128gb-whitetitanium",
+    "sku": "287437",
     "category": "iphone",
     "namespaceId": "iphone-16-pro",
     "name": "iPhone 16 Pro 128GB White Titanium",
@@ -14148,6 +14258,7 @@
   },
   {
     "id": "iphone-16-pro-256gb-whitetitanium",
+    "sku": "868750",
     "category": "iphone",
     "namespaceId": "iphone-16-pro",
     "name": "iPhone 16 Pro 256GB White Titanium",
@@ -14279,6 +14390,7 @@
   },
   {
     "id": "iphone-16-pro-512gb-whitetitanium",
+    "sku": "930447",
     "category": "iphone",
     "namespaceId": "iphone-16-pro",
     "name": "iPhone 16 Pro 512GB White Titanium",
@@ -14410,6 +14522,7 @@
   },
   {
     "id": "iphone-16-pro-1tb-whitetitanium",
+    "sku": "473484",
     "category": "iphone",
     "namespaceId": "iphone-16-pro",
     "name": "iPhone 16 Pro 1TB White Titanium",
@@ -14541,6 +14654,7 @@
   },
   {
     "id": "iphone-16-pro-128gb-blacktitanium",
+    "sku": "764298",
     "category": "iphone",
     "namespaceId": "iphone-16-pro",
     "name": "iPhone 16 Pro 128GB Black Titanium",
@@ -14672,6 +14786,7 @@
   },
   {
     "id": "iphone-16-pro-256gb-blacktitanium",
+    "sku": "404478",
     "category": "iphone",
     "namespaceId": "iphone-16-pro",
     "name": "iPhone 16 Pro 256GB Black Titanium",
@@ -14803,6 +14918,7 @@
   },
   {
     "id": "iphone-16-pro-512gb-blacktitanium",
+    "sku": "280363",
     "category": "iphone",
     "namespaceId": "iphone-16-pro",
     "name": "iPhone 16 Pro 512GB Black Titanium",
@@ -14934,6 +15050,7 @@
   },
   {
     "id": "iphone-16-pro-1tb-blacktitanium",
+    "sku": "519766",
     "category": "iphone",
     "namespaceId": "iphone-16-pro",
     "name": "iPhone 16 Pro 1TB Black Titanium",
@@ -15065,6 +15182,7 @@
   },
   {
     "id": "iphone-16-plus-128gb-teal",
+    "sku": "283051",
     "category": "iphone",
     "namespaceId": "iphone-16-plus",
     "name": "iPhone 16 Plus 128GB Teal",
@@ -15200,6 +15318,7 @@
   },
   {
     "id": "iphone-16-plus-256gb-teal",
+    "sku": "474735",
     "category": "iphone",
     "namespaceId": "iphone-16-plus",
     "name": "iPhone 16 Plus 256GB Teal",
@@ -15335,6 +15454,7 @@
   },
   {
     "id": "iphone-16-plus-512gb-teal",
+    "sku": "590951",
     "category": "iphone",
     "namespaceId": "iphone-16-plus",
     "name": "iPhone 16 Plus 512GB Teal",
@@ -15470,6 +15590,7 @@
   },
   {
     "id": "iphone-16-plus-128gb-black",
+    "sku": "531778",
     "category": "iphone",
     "namespaceId": "iphone-16-plus",
     "name": "iPhone 16 Plus 128GB Black",
@@ -15605,6 +15726,7 @@
   },
   {
     "id": "iphone-16-plus-256gb-black",
+    "sku": "913457",
     "category": "iphone",
     "namespaceId": "iphone-16-plus",
     "name": "iPhone 16 Plus 256GB Black",
@@ -15740,6 +15862,7 @@
   },
   {
     "id": "iphone-16-plus-512gb-black",
+    "sku": "819062",
     "category": "iphone",
     "namespaceId": "iphone-16-plus",
     "name": "iPhone 16 Plus 512GB Black",
@@ -15875,6 +15998,7 @@
   },
   {
     "id": "iphone-16-plus-128gb-white",
+    "sku": "618730",
     "category": "iphone",
     "namespaceId": "iphone-16-plus",
     "name": "iPhone 16 Plus 128GB White",
@@ -16010,6 +16134,7 @@
   },
   {
     "id": "iphone-16-plus-256gb-white",
+    "sku": "238775",
     "category": "iphone",
     "namespaceId": "iphone-16-plus",
     "name": "iPhone 16 Plus 256GB White",
@@ -16145,6 +16270,7 @@
   },
   {
     "id": "iphone-16-plus-512gb-white",
+    "sku": "929727",
     "category": "iphone",
     "namespaceId": "iphone-16-plus",
     "name": "iPhone 16 Plus 512GB White",
@@ -16280,6 +16406,7 @@
   },
   {
     "id": "iphone-16-plus-128gb-pink",
+    "sku": "296830",
     "category": "iphone",
     "namespaceId": "iphone-16-plus",
     "name": "iPhone 16 Plus 128GB Pink",
@@ -16415,6 +16542,7 @@
   },
   {
     "id": "iphone-16-plus-256gb-pink",
+    "sku": "190705",
     "category": "iphone",
     "namespaceId": "iphone-16-plus",
     "name": "iPhone 16 Plus 256GB Pink",
@@ -16550,6 +16678,7 @@
   },
   {
     "id": "iphone-16-plus-512gb-pink",
+    "sku": "972790",
     "category": "iphone",
     "namespaceId": "iphone-16-plus",
     "name": "iPhone 16 Plus 512GB Pink",
@@ -16685,6 +16814,7 @@
   },
   {
     "id": "iphone-16-plus-128gb-ultramarine",
+    "sku": "550111",
     "category": "iphone",
     "namespaceId": "iphone-16-plus",
     "name": "iPhone 16 Plus 128GB Ultramarine",
@@ -16820,6 +16950,7 @@
   },
   {
     "id": "iphone-16-plus-256gb-ultramarine",
+    "sku": "407904",
     "category": "iphone",
     "namespaceId": "iphone-16-plus",
     "name": "iPhone 16 Plus 256GB Ultramarine",
@@ -16955,6 +17086,7 @@
   },
   {
     "id": "iphone-16-plus-512gb-ultramarine",
+    "sku": "215688",
     "category": "iphone",
     "namespaceId": "iphone-16-plus",
     "name": "iPhone 16 Plus 512GB Ultramarine",
@@ -17090,6 +17222,7 @@
   },
   {
     "id": "iphone-16-128gb-ultramarine",
+    "sku": "777294",
     "category": "iphone",
     "namespaceId": "iphone-16",
     "name": "iPhone 16 128GB Ultramarine",
@@ -17224,6 +17357,7 @@
   },
   {
     "id": "iphone-16-256gb-ultramarine",
+    "sku": "793968",
     "category": "iphone",
     "namespaceId": "iphone-16",
     "name": "iPhone 16 256GB Ultramarine",
@@ -17358,6 +17492,7 @@
   },
   {
     "id": "iphone-16-128gb-black",
+    "sku": "246114",
     "category": "iphone",
     "namespaceId": "iphone-16",
     "name": "iPhone 16 128GB Black",
@@ -17492,6 +17627,7 @@
   },
   {
     "id": "iphone-16-256gb-black",
+    "sku": "888527",
     "category": "iphone",
     "namespaceId": "iphone-16",
     "name": "iPhone 16 256GB Black",
@@ -17626,6 +17762,7 @@
   },
   {
     "id": "iphone-16-128gb-white",
+    "sku": "362225",
     "category": "iphone",
     "namespaceId": "iphone-16",
     "name": "iPhone 16 128GB White",
@@ -17760,6 +17897,7 @@
   },
   {
     "id": "iphone-16-256gb-white",
+    "sku": "392173",
     "category": "iphone",
     "namespaceId": "iphone-16",
     "name": "iPhone 16 256GB White",
@@ -17894,6 +18032,7 @@
   },
   {
     "id": "iphone-16-128gb-pink",
+    "sku": "408471",
     "category": "iphone",
     "namespaceId": "iphone-16",
     "name": "iPhone 16 128GB Pink",
@@ -18028,6 +18167,7 @@
   },
   {
     "id": "iphone-16-256gb-pink",
+    "sku": "523190",
     "category": "iphone",
     "namespaceId": "iphone-16",
     "name": "iPhone 16 256GB Pink",
@@ -18162,6 +18302,7 @@
   },
   {
     "id": "iphone-16-128gb-teal",
+    "sku": "505641",
     "category": "iphone",
     "namespaceId": "iphone-16",
     "name": "iPhone 16 128GB Teal",
@@ -18296,6 +18437,7 @@
   },
   {
     "id": "iphone-16-256gb-teal",
+    "sku": "138333",
     "category": "iphone",
     "namespaceId": "iphone-16",
     "name": "iPhone 16 256GB Teal",
@@ -18430,6 +18572,7 @@
   },
   {
     "id": "iphone-15-pro-max-256gb-naturaltitanium",
+    "sku": "706521",
     "category": "iphone",
     "namespaceId": "iphone-15-pro-max",
     "name": "iPhone 15 Pro Max 256GB Natural Titanium",
@@ -18560,6 +18703,7 @@
   },
   {
     "id": "iphone-15-pro-max-512gb-naturaltitanium",
+    "sku": "729635",
     "category": "iphone",
     "namespaceId": "iphone-15-pro-max",
     "name": "iPhone 15 Pro Max 512GB Natural Titanium",
@@ -18690,6 +18834,7 @@
   },
   {
     "id": "iphone-15-pro-max-1tb-naturaltitanium",
+    "sku": "512543",
     "category": "iphone",
     "namespaceId": "iphone-15-pro-max",
     "name": "iPhone 15 Pro Max 1TB Natural Titanium",
@@ -18820,6 +18965,7 @@
   },
   {
     "id": "iphone-15-pro-max-256gb-bluetitanium",
+    "sku": "557085",
     "category": "iphone",
     "namespaceId": "iphone-15-pro-max",
     "name": "iPhone 15 Pro Max 256GB Blue Titanium",
@@ -18950,6 +19096,7 @@
   },
   {
     "id": "iphone-15-pro-max-512gb-bluetitanium",
+    "sku": "160532",
     "category": "iphone",
     "namespaceId": "iphone-15-pro-max",
     "name": "iPhone 15 Pro Max 512GB Blue Titanium",
@@ -19080,6 +19227,7 @@
   },
   {
     "id": "iphone-15-pro-max-1tb-bluetitanium",
+    "sku": "387731",
     "category": "iphone",
     "namespaceId": "iphone-15-pro-max",
     "name": "iPhone 15 Pro Max 1TB Blue Titanium",
@@ -19210,6 +19358,7 @@
   },
   {
     "id": "iphone-15-pro-max-256gb-whitetitanium",
+    "sku": "339670",
     "category": "iphone",
     "namespaceId": "iphone-15-pro-max",
     "name": "iPhone 15 Pro Max 256GB White Titanium",
@@ -19340,6 +19489,7 @@
   },
   {
     "id": "iphone-15-pro-max-512gb-whitetitanium",
+    "sku": "879881",
     "category": "iphone",
     "namespaceId": "iphone-15-pro-max",
     "name": "iPhone 15 Pro Max 512GB White Titanium",
@@ -19470,6 +19620,7 @@
   },
   {
     "id": "iphone-15-pro-max-1tb-whitetitanium",
+    "sku": "347203",
     "category": "iphone",
     "namespaceId": "iphone-15-pro-max",
     "name": "iPhone 15 Pro Max 1TB White Titanium",
@@ -19600,6 +19751,7 @@
   },
   {
     "id": "iphone-15-pro-max-256gb-blacktitanium",
+    "sku": "354994",
     "category": "iphone",
     "namespaceId": "iphone-15-pro-max",
     "name": "iPhone 15 Pro Max 256GB Black Titanium",
@@ -19730,6 +19882,7 @@
   },
   {
     "id": "iphone-15-pro-max-512gb-blacktitanium",
+    "sku": "174187",
     "category": "iphone",
     "namespaceId": "iphone-15-pro-max",
     "name": "iPhone 15 Pro Max 512GB Black Titanium",
@@ -19860,6 +20013,7 @@
   },
   {
     "id": "iphone-15-pro-max-1tb-blacktitanium",
+    "sku": "417528",
     "category": "iphone",
     "namespaceId": "iphone-15-pro-max",
     "name": "iPhone 15 Pro Max 1TB Black Titanium",
@@ -19990,6 +20144,7 @@
   },
   {
     "id": "iphone-15-pro-128gb-bluetitanium",
+    "sku": "299735",
     "category": "iphone",
     "namespaceId": "iphone-15-pro",
     "name": "iPhone 15 Pro 128GB Blue Titanium",
@@ -20121,6 +20276,7 @@
   },
   {
     "id": "iphone-15-pro-256gb-bluetitanium",
+    "sku": "416236",
     "category": "iphone",
     "namespaceId": "iphone-15-pro",
     "name": "iPhone 15 Pro 256GB Blue Titanium",
@@ -20252,6 +20408,7 @@
   },
   {
     "id": "iphone-15-pro-512gb-bluetitanium",
+    "sku": "605931",
     "category": "iphone",
     "namespaceId": "iphone-15-pro",
     "name": "iPhone 15 Pro 512GB Blue Titanium",
@@ -20383,6 +20540,7 @@
   },
   {
     "id": "iphone-15-pro-1tb-bluetitanium",
+    "sku": "969814",
     "category": "iphone",
     "namespaceId": "iphone-15-pro",
     "name": "iPhone 15 Pro 1TB Blue Titanium",
@@ -20514,6 +20672,7 @@
   },
   {
     "id": "iphone-15-pro-128gb-naturaltitanium",
+    "sku": "223538",
     "category": "iphone",
     "namespaceId": "iphone-15-pro",
     "name": "iPhone 15 Pro 128GB Natural Titanium",
@@ -20645,6 +20804,7 @@
   },
   {
     "id": "iphone-15-pro-256gb-naturaltitanium",
+    "sku": "954549",
     "category": "iphone",
     "namespaceId": "iphone-15-pro",
     "name": "iPhone 15 Pro 256GB Natural Titanium",
@@ -20776,6 +20936,7 @@
   },
   {
     "id": "iphone-15-pro-512gb-naturaltitanium",
+    "sku": "859979",
     "category": "iphone",
     "namespaceId": "iphone-15-pro",
     "name": "iPhone 15 Pro 512GB Natural Titanium",
@@ -20907,6 +21068,7 @@
   },
   {
     "id": "iphone-15-pro-1tb-naturaltitanium",
+    "sku": "757265",
     "category": "iphone",
     "namespaceId": "iphone-15-pro",
     "name": "iPhone 15 Pro 1TB Natural Titanium",
@@ -21038,6 +21200,7 @@
   },
   {
     "id": "iphone-15-pro-128gb-whitetitanium",
+    "sku": "682055",
     "category": "iphone",
     "namespaceId": "iphone-15-pro",
     "name": "iPhone 15 Pro 128GB White Titanium",
@@ -21169,6 +21332,7 @@
   },
   {
     "id": "iphone-15-pro-256gb-whitetitanium",
+    "sku": "547193",
     "category": "iphone",
     "namespaceId": "iphone-15-pro",
     "name": "iPhone 15 Pro 256GB White Titanium",
@@ -21300,6 +21464,7 @@
   },
   {
     "id": "iphone-15-pro-512gb-whitetitanium",
+    "sku": "449900",
     "category": "iphone",
     "namespaceId": "iphone-15-pro",
     "name": "iPhone 15 Pro 512GB White Titanium",
@@ -21431,6 +21596,7 @@
   },
   {
     "id": "iphone-15-pro-1tb-whitetitanium",
+    "sku": "688090",
     "category": "iphone",
     "namespaceId": "iphone-15-pro",
     "name": "iPhone 15 Pro 1TB White Titanium",
@@ -21562,6 +21728,7 @@
   },
   {
     "id": "iphone-15-pro-128gb-blacktitanium",
+    "sku": "210337",
     "category": "iphone",
     "namespaceId": "iphone-15-pro",
     "name": "iPhone 15 Pro 128GB Black Titanium",
@@ -21693,6 +21860,7 @@
   },
   {
     "id": "iphone-15-pro-256gb-blacktitanium",
+    "sku": "816377",
     "category": "iphone",
     "namespaceId": "iphone-15-pro",
     "name": "iPhone 15 Pro 256GB Black Titanium",
@@ -21824,6 +21992,7 @@
   },
   {
     "id": "iphone-15-pro-512gb-blacktitanium",
+    "sku": "288188",
     "category": "iphone",
     "namespaceId": "iphone-15-pro",
     "name": "iPhone 15 Pro 512GB Black Titanium",
@@ -21955,6 +22124,7 @@
   },
   {
     "id": "iphone-15-pro-1tb-blacktitanium",
+    "sku": "162492",
     "category": "iphone",
     "namespaceId": "iphone-15-pro",
     "name": "iPhone 15 Pro 1TB Black Titanium",
@@ -22086,6 +22256,7 @@
   },
   {
     "id": "iphone-15-plus-128gb-yellow",
+    "sku": "860847",
     "category": "iphone",
     "namespaceId": "iphone-15-plus",
     "name": "iPhone 15 Plus 128GB Yellow",
@@ -22220,6 +22391,7 @@
   },
   {
     "id": "iphone-15-plus-256gb-yellow",
+    "sku": "336560",
     "category": "iphone",
     "namespaceId": "iphone-15-plus",
     "name": "iPhone 15 Plus 256GB Yellow",
@@ -22354,6 +22526,7 @@
   },
   {
     "id": "iphone-15-plus-512gb-yellow",
+    "sku": "489887",
     "category": "iphone",
     "namespaceId": "iphone-15-plus",
     "name": "iPhone 15 Plus 512GB Yellow",
@@ -22488,6 +22661,7 @@
   },
   {
     "id": "iphone-15-plus-128gb-blue",
+    "sku": "628278",
     "category": "iphone",
     "namespaceId": "iphone-15-plus",
     "name": "iPhone 15 Plus 128GB Blue",
@@ -22622,6 +22796,7 @@
   },
   {
     "id": "iphone-15-plus-256gb-blue",
+    "sku": "207036",
     "category": "iphone",
     "namespaceId": "iphone-15-plus",
     "name": "iPhone 15 Plus 256GB Blue",
@@ -22756,6 +22931,7 @@
   },
   {
     "id": "iphone-15-plus-512gb-blue",
+    "sku": "648324",
     "category": "iphone",
     "namespaceId": "iphone-15-plus",
     "name": "iPhone 15 Plus 512GB Blue",
@@ -22890,6 +23066,7 @@
   },
   {
     "id": "iphone-15-plus-128gb-pink",
+    "sku": "868794",
     "category": "iphone",
     "namespaceId": "iphone-15-plus",
     "name": "iPhone 15 Plus 128GB Pink",
@@ -23024,6 +23201,7 @@
   },
   {
     "id": "iphone-15-plus-256gb-pink",
+    "sku": "790529",
     "category": "iphone",
     "namespaceId": "iphone-15-plus",
     "name": "iPhone 15 Plus 256GB Pink",
@@ -23158,6 +23336,7 @@
   },
   {
     "id": "iphone-15-plus-512gb-pink",
+    "sku": "901016",
     "category": "iphone",
     "namespaceId": "iphone-15-plus",
     "name": "iPhone 15 Plus 512GB Pink",
@@ -23292,6 +23471,7 @@
   },
   {
     "id": "iphone-15-plus-128gb-green",
+    "sku": "617465",
     "category": "iphone",
     "namespaceId": "iphone-15-plus",
     "name": "iPhone 15 Plus 128GB Green",
@@ -23426,6 +23606,7 @@
   },
   {
     "id": "iphone-15-plus-256gb-green",
+    "sku": "936182",
     "category": "iphone",
     "namespaceId": "iphone-15-plus",
     "name": "iPhone 15 Plus 256GB Green",
@@ -23560,6 +23741,7 @@
   },
   {
     "id": "iphone-15-plus-512gb-green",
+    "sku": "517885",
     "category": "iphone",
     "namespaceId": "iphone-15-plus",
     "name": "iPhone 15 Plus 512GB Green",
@@ -23694,6 +23876,7 @@
   },
   {
     "id": "iphone-15-plus-128gb-black",
+    "sku": "875206",
     "category": "iphone",
     "namespaceId": "iphone-15-plus",
     "name": "iPhone 15 Plus 128GB Black",
@@ -23828,6 +24011,7 @@
   },
   {
     "id": "iphone-15-plus-256gb-black",
+    "sku": "971581",
     "category": "iphone",
     "namespaceId": "iphone-15-plus",
     "name": "iPhone 15 Plus 256GB Black",
@@ -23962,6 +24146,7 @@
   },
   {
     "id": "iphone-15-plus-512gb-black",
+    "sku": "515015",
     "category": "iphone",
     "namespaceId": "iphone-15-plus",
     "name": "iPhone 15 Plus 512GB Black",
@@ -24096,6 +24281,7 @@
   },
   {
     "id": "iphone-15-128gb-pink",
+    "sku": "369980",
     "category": "iphone",
     "namespaceId": "iphone-15",
     "name": "iPhone 15 128GB Pink",
@@ -24230,6 +24416,7 @@
   },
   {
     "id": "iphone-15-256gb-pink",
+    "sku": "402756",
     "category": "iphone",
     "namespaceId": "iphone-15",
     "name": "iPhone 15 256GB Pink",
@@ -24364,6 +24551,7 @@
   },
   {
     "id": "iphone-15-512gb-pink",
+    "sku": "573093",
     "category": "iphone",
     "namespaceId": "iphone-15",
     "name": "iPhone 15 512GB Pink",
@@ -24498,6 +24686,7 @@
   },
   {
     "id": "iphone-15-128gb-blue",
+    "sku": "344535",
     "category": "iphone",
     "namespaceId": "iphone-15",
     "name": "iPhone 15 128GB Blue",
@@ -24632,6 +24821,7 @@
   },
   {
     "id": "iphone-15-256gb-blue",
+    "sku": "645734",
     "category": "iphone",
     "namespaceId": "iphone-15",
     "name": "iPhone 15 256GB Blue",
@@ -24766,6 +24956,7 @@
   },
   {
     "id": "iphone-15-512gb-blue",
+    "sku": "253876",
     "category": "iphone",
     "namespaceId": "iphone-15",
     "name": "iPhone 15 512GB Blue",
@@ -24900,6 +25091,7 @@
   },
   {
     "id": "iphone-15-128gb-yellow",
+    "sku": "350385",
     "category": "iphone",
     "namespaceId": "iphone-15",
     "name": "iPhone 15 128GB Yellow",
@@ -25034,6 +25226,7 @@
   },
   {
     "id": "iphone-15-256gb-yellow",
+    "sku": "536537",
     "category": "iphone",
     "namespaceId": "iphone-15",
     "name": "iPhone 15 256GB Yellow",
@@ -25168,6 +25361,7 @@
   },
   {
     "id": "iphone-15-512gb-yellow",
+    "sku": "166843",
     "category": "iphone",
     "namespaceId": "iphone-15",
     "name": "iPhone 15 512GB Yellow",
@@ -25302,6 +25496,7 @@
   },
   {
     "id": "iphone-15-128gb-green",
+    "sku": "869857",
     "category": "iphone",
     "namespaceId": "iphone-15",
     "name": "iPhone 15 128GB Green",
@@ -25436,6 +25631,7 @@
   },
   {
     "id": "iphone-15-256gb-green",
+    "sku": "782525",
     "category": "iphone",
     "namespaceId": "iphone-15",
     "name": "iPhone 15 256GB Green",
@@ -25570,6 +25766,7 @@
   },
   {
     "id": "iphone-15-512gb-green",
+    "sku": "346869",
     "category": "iphone",
     "namespaceId": "iphone-15",
     "name": "iPhone 15 512GB Green",
@@ -25704,6 +25901,7 @@
   },
   {
     "id": "iphone-15-128gb-black",
+    "sku": "653864",
     "category": "iphone",
     "namespaceId": "iphone-15",
     "name": "iPhone 15 128GB Black",
@@ -25838,6 +26036,7 @@
   },
   {
     "id": "iphone-15-256gb-black",
+    "sku": "441635",
     "category": "iphone",
     "namespaceId": "iphone-15",
     "name": "iPhone 15 256GB Black",
@@ -25972,6 +26171,7 @@
   },
   {
     "id": "iphone-15-512gb-black",
+    "sku": "822928",
     "category": "iphone",
     "namespaceId": "iphone-15",
     "name": "iPhone 15 512GB Black",
@@ -26106,6 +26306,7 @@
   },
   {
     "id": "iphone-14-pro-max-128gb-gold",
+    "sku": "363492",
     "category": "iphone",
     "namespaceId": "iphone-14-pro-max",
     "name": "iPhone 14 Pro Max 128GB Gold",
@@ -26236,6 +26437,7 @@
   },
   {
     "id": "iphone-14-pro-max-256gb-gold",
+    "sku": "208653",
     "category": "iphone",
     "namespaceId": "iphone-14-pro-max",
     "name": "iPhone 14 Pro Max 256GB Gold",
@@ -26366,6 +26568,7 @@
   },
   {
     "id": "iphone-14-pro-max-512gb-gold",
+    "sku": "713003",
     "category": "iphone",
     "namespaceId": "iphone-14-pro-max",
     "name": "iPhone 14 Pro Max 512GB Gold",
@@ -26496,6 +26699,7 @@
   },
   {
     "id": "iphone-14-pro-max-1tb-gold",
+    "sku": "420451",
     "category": "iphone",
     "namespaceId": "iphone-14-pro-max",
     "name": "iPhone 14 Pro Max 1TB Gold",
@@ -26626,6 +26830,7 @@
   },
   {
     "id": "iphone-14-pro-max-128gb-deeppurple",
+    "sku": "554971",
     "category": "iphone",
     "namespaceId": "iphone-14-pro-max",
     "name": "iPhone 14 Pro Max 128GB Deep Purple",
@@ -26756,6 +26961,7 @@
   },
   {
     "id": "iphone-14-pro-max-256gb-deeppurple",
+    "sku": "629247",
     "category": "iphone",
     "namespaceId": "iphone-14-pro-max",
     "name": "iPhone 14 Pro Max 256GB Deep Purple",
@@ -26886,6 +27092,7 @@
   },
   {
     "id": "iphone-14-pro-max-512gb-deeppurple",
+    "sku": "293707",
     "category": "iphone",
     "namespaceId": "iphone-14-pro-max",
     "name": "iPhone 14 Pro Max 512GB Deep Purple",
@@ -27016,6 +27223,7 @@
   },
   {
     "id": "iphone-14-pro-max-1tb-deeppurple",
+    "sku": "484074",
     "category": "iphone",
     "namespaceId": "iphone-14-pro-max",
     "name": "iPhone 14 Pro Max 1TB Deep Purple",
@@ -27146,6 +27354,7 @@
   },
   {
     "id": "iphone-14-pro-max-128gb-silver",
+    "sku": "235697",
     "category": "iphone",
     "namespaceId": "iphone-14-pro-max",
     "name": "iPhone 14 Pro Max 128GB Silver",
@@ -27276,6 +27485,7 @@
   },
   {
     "id": "iphone-14-pro-max-256gb-silver",
+    "sku": "167417",
     "category": "iphone",
     "namespaceId": "iphone-14-pro-max",
     "name": "iPhone 14 Pro Max 256GB Silver",
@@ -27406,6 +27616,7 @@
   },
   {
     "id": "iphone-14-pro-max-512gb-silver",
+    "sku": "936823",
     "category": "iphone",
     "namespaceId": "iphone-14-pro-max",
     "name": "iPhone 14 Pro Max 512GB Silver",
@@ -27536,6 +27747,7 @@
   },
   {
     "id": "iphone-14-pro-max-1tb-silver",
+    "sku": "961865",
     "category": "iphone",
     "namespaceId": "iphone-14-pro-max",
     "name": "iPhone 14 Pro Max 1TB Silver",
@@ -27666,6 +27878,7 @@
   },
   {
     "id": "iphone-14-pro-max-128gb-spaceblack",
+    "sku": "674706",
     "category": "iphone",
     "namespaceId": "iphone-14-pro-max",
     "name": "iPhone 14 Pro Max 128GB Space Black",
@@ -27796,6 +28009,7 @@
   },
   {
     "id": "iphone-14-pro-max-256gb-spaceblack",
+    "sku": "938694",
     "category": "iphone",
     "namespaceId": "iphone-14-pro-max",
     "name": "iPhone 14 Pro Max 256GB Space Black",
@@ -27926,6 +28140,7 @@
   },
   {
     "id": "iphone-14-pro-max-512gb-spaceblack",
+    "sku": "264973",
     "category": "iphone",
     "namespaceId": "iphone-14-pro-max",
     "name": "iPhone 14 Pro Max 512GB Space Black",
@@ -28056,6 +28271,7 @@
   },
   {
     "id": "iphone-14-pro-max-1tb-spaceblack",
+    "sku": "962431",
     "category": "iphone",
     "namespaceId": "iphone-14-pro-max",
     "name": "iPhone 14 Pro Max 1TB Space Black",
@@ -28186,6 +28402,7 @@
   },
   {
     "id": "iphone-14-pro-128gb-deeppurple",
+    "sku": "677318",
     "category": "iphone",
     "namespaceId": "iphone-14-pro",
     "name": "iPhone 14 Pro 128GB Deep Purple",
@@ -28316,6 +28533,7 @@
   },
   {
     "id": "iphone-14-pro-256gb-deeppurple",
+    "sku": "129597",
     "category": "iphone",
     "namespaceId": "iphone-14-pro",
     "name": "iPhone 14 Pro 256GB Deep Purple",
@@ -28446,6 +28664,7 @@
   },
   {
     "id": "iphone-14-pro-512gb-deeppurple",
+    "sku": "639112",
     "category": "iphone",
     "namespaceId": "iphone-14-pro",
     "name": "iPhone 14 Pro 512GB Deep Purple",
@@ -28576,6 +28795,7 @@
   },
   {
     "id": "iphone-14-pro-1tb-deeppurple",
+    "sku": "344339",
     "category": "iphone",
     "namespaceId": "iphone-14-pro",
     "name": "iPhone 14 Pro 1TB Deep Purple",
@@ -28706,6 +28926,7 @@
   },
   {
     "id": "iphone-14-pro-128gb-gold",
+    "sku": "865245",
     "category": "iphone",
     "namespaceId": "iphone-14-pro",
     "name": "iPhone 14 Pro 128GB Gold",
@@ -28836,6 +29057,7 @@
   },
   {
     "id": "iphone-14-pro-256gb-gold",
+    "sku": "158975",
     "category": "iphone",
     "namespaceId": "iphone-14-pro",
     "name": "iPhone 14 Pro 256GB Gold",
@@ -28966,6 +29188,7 @@
   },
   {
     "id": "iphone-14-pro-512gb-gold",
+    "sku": "129525",
     "category": "iphone",
     "namespaceId": "iphone-14-pro",
     "name": "iPhone 14 Pro 512GB Gold",
@@ -29096,6 +29319,7 @@
   },
   {
     "id": "iphone-14-pro-1tb-gold",
+    "sku": "787013",
     "category": "iphone",
     "namespaceId": "iphone-14-pro",
     "name": "iPhone 14 Pro 1TB Gold",
@@ -29226,6 +29450,7 @@
   },
   {
     "id": "iphone-14-pro-128gb-silver",
+    "sku": "296275",
     "category": "iphone",
     "namespaceId": "iphone-14-pro",
     "name": "iPhone 14 Pro 128GB Silver",
@@ -29356,6 +29581,7 @@
   },
   {
     "id": "iphone-14-pro-256gb-silver",
+    "sku": "958048",
     "category": "iphone",
     "namespaceId": "iphone-14-pro",
     "name": "iPhone 14 Pro 256GB Silver",
@@ -29486,6 +29712,7 @@
   },
   {
     "id": "iphone-14-pro-512gb-silver",
+    "sku": "371644",
     "category": "iphone",
     "namespaceId": "iphone-14-pro",
     "name": "iPhone 14 Pro 512GB Silver",
@@ -29616,6 +29843,7 @@
   },
   {
     "id": "iphone-14-pro-1tb-silver",
+    "sku": "248124",
     "category": "iphone",
     "namespaceId": "iphone-14-pro",
     "name": "iPhone 14 Pro 1TB Silver",
@@ -29746,6 +29974,7 @@
   },
   {
     "id": "iphone-14-pro-128gb-spaceblack",
+    "sku": "284932",
     "category": "iphone",
     "namespaceId": "iphone-14-pro",
     "name": "iPhone 14 Pro 128GB Space Black",
@@ -29876,6 +30105,7 @@
   },
   {
     "id": "iphone-14-pro-256gb-spaceblack",
+    "sku": "347001",
     "category": "iphone",
     "namespaceId": "iphone-14-pro",
     "name": "iPhone 14 Pro 256GB Space Black",
@@ -30006,6 +30236,7 @@
   },
   {
     "id": "iphone-14-pro-512gb-spaceblack",
+    "sku": "130234",
     "category": "iphone",
     "namespaceId": "iphone-14-pro",
     "name": "iPhone 14 Pro 512GB Space Black",
@@ -30136,6 +30367,7 @@
   },
   {
     "id": "iphone-14-pro-1tb-spaceblack",
+    "sku": "905452",
     "category": "iphone",
     "namespaceId": "iphone-14-pro",
     "name": "iPhone 14 Pro 1TB Space Black",
@@ -30266,6 +30498,7 @@
   },
   {
     "id": "iphone-14-plus-128gb-blue",
+    "sku": "647872",
     "category": "iphone",
     "namespaceId": "iphone-14-plus",
     "name": "iPhone 14 Plus 128GB Blue",
@@ -30405,6 +30638,7 @@
   },
   {
     "id": "iphone-14-plus-256gb-blue",
+    "sku": "591920",
     "category": "iphone",
     "namespaceId": "iphone-14-plus",
     "name": "iPhone 14 Plus 256GB Blue",
@@ -30544,6 +30778,7 @@
   },
   {
     "id": "iphone-14-plus-512gb-blue",
+    "sku": "118027",
     "category": "iphone",
     "namespaceId": "iphone-14-plus",
     "name": "iPhone 14 Plus 512GB Blue",
@@ -30683,6 +30918,7 @@
   },
   {
     "id": "iphone-14-plus-128gb-midnight",
+    "sku": "710566",
     "category": "iphone",
     "namespaceId": "iphone-14-plus",
     "name": "iPhone 14 Plus 128GB Midnight",
@@ -30822,6 +31058,7 @@
   },
   {
     "id": "iphone-14-plus-256gb-midnight",
+    "sku": "476523",
     "category": "iphone",
     "namespaceId": "iphone-14-plus",
     "name": "iPhone 14 Plus 256GB Midnight",
@@ -30961,6 +31198,7 @@
   },
   {
     "id": "iphone-14-plus-512gb-midnight",
+    "sku": "785553",
     "category": "iphone",
     "namespaceId": "iphone-14-plus",
     "name": "iPhone 14 Plus 512GB Midnight",
@@ -31100,6 +31338,7 @@
   },
   {
     "id": "iphone-14-plus-128gb-purple",
+    "sku": "808865",
     "category": "iphone",
     "namespaceId": "iphone-14-plus",
     "name": "iPhone 14 Plus 128GB Purple",
@@ -31239,6 +31478,7 @@
   },
   {
     "id": "iphone-14-plus-256gb-purple",
+    "sku": "228710",
     "category": "iphone",
     "namespaceId": "iphone-14-plus",
     "name": "iPhone 14 Plus 256GB Purple",
@@ -31378,6 +31618,7 @@
   },
   {
     "id": "iphone-14-plus-512gb-purple",
+    "sku": "522309",
     "category": "iphone",
     "namespaceId": "iphone-14-plus",
     "name": "iPhone 14 Plus 512GB Purple",
@@ -31517,6 +31758,7 @@
   },
   {
     "id": "iphone-14-plus-128gb-starlight",
+    "sku": "141330",
     "category": "iphone",
     "namespaceId": "iphone-14-plus",
     "name": "iPhone 14 Plus 128GB Starlight",
@@ -31656,6 +31898,7 @@
   },
   {
     "id": "iphone-14-plus-256gb-starlight",
+    "sku": "456711",
     "category": "iphone",
     "namespaceId": "iphone-14-plus",
     "name": "iPhone 14 Plus 256GB Starlight",
@@ -31795,6 +32038,7 @@
   },
   {
     "id": "iphone-14-plus-512gb-starlight",
+    "sku": "595669",
     "category": "iphone",
     "namespaceId": "iphone-14-plus",
     "name": "iPhone 14 Plus 512GB Starlight",
@@ -31934,6 +32178,7 @@
   },
   {
     "id": "iphone-14-plus-128gb-product-red",
+    "sku": "392385",
     "category": "iphone",
     "namespaceId": "iphone-14-plus",
     "name": "iPhone 14 Plus 128GB (PRODUCT)RED",
@@ -32073,6 +32318,7 @@
   },
   {
     "id": "iphone-14-plus-256gb-product-red",
+    "sku": "468846",
     "category": "iphone",
     "namespaceId": "iphone-14-plus",
     "name": "iPhone 14 Plus 256GB (PRODUCT)RED",
@@ -32212,6 +32458,7 @@
   },
   {
     "id": "iphone-14-plus-512gb-product-red",
+    "sku": "621043",
     "category": "iphone",
     "namespaceId": "iphone-14-plus",
     "name": "iPhone 14 Plus 512GB (PRODUCT)RED",
@@ -32351,6 +32598,7 @@
   },
   {
     "id": "iphone-14-plus-128gb-yellow",
+    "sku": "907119",
     "category": "iphone",
     "namespaceId": "iphone-14-plus",
     "name": "iPhone 14 Plus 128GB Yellow",
@@ -32490,6 +32738,7 @@
   },
   {
     "id": "iphone-14-plus-256gb-yellow",
+    "sku": "464639",
     "category": "iphone",
     "namespaceId": "iphone-14-plus",
     "name": "iPhone 14 Plus 256GB Yellow",
@@ -32629,6 +32878,7 @@
   },
   {
     "id": "iphone-14-plus-512gb-yellow",
+    "sku": "526387",
     "category": "iphone",
     "namespaceId": "iphone-14-plus",
     "name": "iPhone 14 Plus 512GB Yellow",
@@ -32768,6 +33018,7 @@
   },
   {
     "id": "iphone-14-128gb-purple",
+    "sku": "986501",
     "category": "iphone",
     "namespaceId": "iphone-14",
     "name": "iPhone 14 128GB Purple",
@@ -32907,6 +33158,7 @@
   },
   {
     "id": "iphone-14-256gb-purple",
+    "sku": "182592",
     "category": "iphone",
     "namespaceId": "iphone-14",
     "name": "iPhone 14 256GB Purple",
@@ -33046,6 +33298,7 @@
   },
   {
     "id": "iphone-14-512gb-purple",
+    "sku": "128103",
     "category": "iphone",
     "namespaceId": "iphone-14",
     "name": "iPhone 14 512GB Purple",
@@ -33185,6 +33438,7 @@
   },
   {
     "id": "iphone-14-128gb-midnight",
+    "sku": "677508",
     "category": "iphone",
     "namespaceId": "iphone-14",
     "name": "iPhone 14 128GB Midnight",
@@ -33324,6 +33578,7 @@
   },
   {
     "id": "iphone-14-256gb-midnight",
+    "sku": "553023",
     "category": "iphone",
     "namespaceId": "iphone-14",
     "name": "iPhone 14 256GB Midnight",
@@ -33463,6 +33718,7 @@
   },
   {
     "id": "iphone-14-512gb-midnight",
+    "sku": "793231",
     "category": "iphone",
     "namespaceId": "iphone-14",
     "name": "iPhone 14 512GB Midnight",
@@ -33602,6 +33858,7 @@
   },
   {
     "id": "iphone-14-128gb-starlight",
+    "sku": "227739",
     "category": "iphone",
     "namespaceId": "iphone-14",
     "name": "iPhone 14 128GB Starlight",
@@ -33741,6 +33998,7 @@
   },
   {
     "id": "iphone-14-256gb-starlight",
+    "sku": "722990",
     "category": "iphone",
     "namespaceId": "iphone-14",
     "name": "iPhone 14 256GB Starlight",
@@ -33880,6 +34138,7 @@
   },
   {
     "id": "iphone-14-512gb-starlight",
+    "sku": "776139",
     "category": "iphone",
     "namespaceId": "iphone-14",
     "name": "iPhone 14 512GB Starlight",
@@ -34019,6 +34278,7 @@
   },
   {
     "id": "iphone-14-128gb-product-red",
+    "sku": "372952",
     "category": "iphone",
     "namespaceId": "iphone-14",
     "name": "iPhone 14 128GB (PRODUCT)RED",
@@ -34158,6 +34418,7 @@
   },
   {
     "id": "iphone-14-256gb-product-red",
+    "sku": "712566",
     "category": "iphone",
     "namespaceId": "iphone-14",
     "name": "iPhone 14 256GB (PRODUCT)RED",
@@ -34297,6 +34558,7 @@
   },
   {
     "id": "iphone-14-512gb-product-red",
+    "sku": "336245",
     "category": "iphone",
     "namespaceId": "iphone-14",
     "name": "iPhone 14 512GB (PRODUCT)RED",
@@ -34436,6 +34698,7 @@
   },
   {
     "id": "iphone-14-128gb-blue",
+    "sku": "753653",
     "category": "iphone",
     "namespaceId": "iphone-14",
     "name": "iPhone 14 128GB Blue",
@@ -34575,6 +34838,7 @@
   },
   {
     "id": "iphone-14-256gb-blue",
+    "sku": "215610",
     "category": "iphone",
     "namespaceId": "iphone-14",
     "name": "iPhone 14 256GB Blue",
@@ -34714,6 +34978,7 @@
   },
   {
     "id": "iphone-14-512gb-blue",
+    "sku": "246035",
     "category": "iphone",
     "namespaceId": "iphone-14",
     "name": "iPhone 14 512GB Blue",
@@ -34853,6 +35118,7 @@
   },
   {
     "id": "iphone-14-128gb-yellow",
+    "sku": "716121",
     "category": "iphone",
     "namespaceId": "iphone-14",
     "name": "iPhone 14 128GB Yellow",
@@ -34992,6 +35258,7 @@
   },
   {
     "id": "iphone-14-256gb-yellow",
+    "sku": "298930",
     "category": "iphone",
     "namespaceId": "iphone-14",
     "name": "iPhone 14 256GB Yellow",
@@ -35131,6 +35398,7 @@
   },
   {
     "id": "iphone-14-512gb-yellow",
+    "sku": "985829",
     "category": "iphone",
     "namespaceId": "iphone-14",
     "name": "iPhone 14 512GB Yellow",
@@ -35270,6 +35538,7 @@
   },
   {
     "id": "iphone-13-pro-max-128gb-alpinegreen",
+    "sku": "126496",
     "category": "iphone",
     "namespaceId": "iphone-13-pro-max",
     "name": "iPhone 13 Pro Max 128GB Alpine Green",
@@ -35405,6 +35674,7 @@
   },
   {
     "id": "iphone-13-pro-max-256gb-alpinegreen",
+    "sku": "208495",
     "category": "iphone",
     "namespaceId": "iphone-13-pro-max",
     "name": "iPhone 13 Pro Max 256GB Alpine Green",
@@ -35540,6 +35810,7 @@
   },
   {
     "id": "iphone-13-pro-max-512gb-alpinegreen",
+    "sku": "707106",
     "category": "iphone",
     "namespaceId": "iphone-13-pro-max",
     "name": "iPhone 13 Pro Max 512GB Alpine Green",
@@ -35675,6 +35946,7 @@
   },
   {
     "id": "iphone-13-pro-max-1tb-alpinegreen",
+    "sku": "474037",
     "category": "iphone",
     "namespaceId": "iphone-13-pro-max",
     "name": "iPhone 13 Pro Max 1TB Alpine Green",
@@ -35810,6 +36082,7 @@
   },
   {
     "id": "iphone-13-pro-max-128gb-sierrablue",
+    "sku": "411748",
     "category": "iphone",
     "namespaceId": "iphone-13-pro-max",
     "name": "iPhone 13 Pro Max 128GB Sierra Blue",
@@ -35945,6 +36218,7 @@
   },
   {
     "id": "iphone-13-pro-max-256gb-sierrablue",
+    "sku": "816664",
     "category": "iphone",
     "namespaceId": "iphone-13-pro-max",
     "name": "iPhone 13 Pro Max 256GB Sierra Blue",
@@ -36080,6 +36354,7 @@
   },
   {
     "id": "iphone-13-pro-max-512gb-sierrablue",
+    "sku": "515325",
     "category": "iphone",
     "namespaceId": "iphone-13-pro-max",
     "name": "iPhone 13 Pro Max 512GB Sierra Blue",
@@ -36215,6 +36490,7 @@
   },
   {
     "id": "iphone-13-pro-max-1tb-sierrablue",
+    "sku": "505472",
     "category": "iphone",
     "namespaceId": "iphone-13-pro-max",
     "name": "iPhone 13 Pro Max 1TB Sierra Blue",
@@ -36350,6 +36626,7 @@
   },
   {
     "id": "iphone-13-pro-max-128gb-graphite",
+    "sku": "246269",
     "category": "iphone",
     "namespaceId": "iphone-13-pro-max",
     "name": "iPhone 13 Pro Max 128GB Graphite",
@@ -36485,6 +36762,7 @@
   },
   {
     "id": "iphone-13-pro-max-256gb-graphite",
+    "sku": "821844",
     "category": "iphone",
     "namespaceId": "iphone-13-pro-max",
     "name": "iPhone 13 Pro Max 256GB Graphite",
@@ -36620,6 +36898,7 @@
   },
   {
     "id": "iphone-13-pro-max-512gb-graphite",
+    "sku": "104007",
     "category": "iphone",
     "namespaceId": "iphone-13-pro-max",
     "name": "iPhone 13 Pro Max 512GB Graphite",
@@ -36755,6 +37034,7 @@
   },
   {
     "id": "iphone-13-pro-max-1tb-graphite",
+    "sku": "673539",
     "category": "iphone",
     "namespaceId": "iphone-13-pro-max",
     "name": "iPhone 13 Pro Max 1TB Graphite",
@@ -36890,6 +37170,7 @@
   },
   {
     "id": "iphone-13-pro-max-128gb-gold",
+    "sku": "202023",
     "category": "iphone",
     "namespaceId": "iphone-13-pro-max",
     "name": "iPhone 13 Pro Max 128GB Gold",
@@ -37025,6 +37306,7 @@
   },
   {
     "id": "iphone-13-pro-max-256gb-gold",
+    "sku": "126495",
     "category": "iphone",
     "namespaceId": "iphone-13-pro-max",
     "name": "iPhone 13 Pro Max 256GB Gold",
@@ -37160,6 +37442,7 @@
   },
   {
     "id": "iphone-13-pro-max-512gb-gold",
+    "sku": "970503",
     "category": "iphone",
     "namespaceId": "iphone-13-pro-max",
     "name": "iPhone 13 Pro Max 512GB Gold",
@@ -37295,6 +37578,7 @@
   },
   {
     "id": "iphone-13-pro-max-1tb-gold",
+    "sku": "924730",
     "category": "iphone",
     "namespaceId": "iphone-13-pro-max",
     "name": "iPhone 13 Pro Max 1TB Gold",
@@ -37430,6 +37714,7 @@
   },
   {
     "id": "iphone-13-pro-max-128gb-silver",
+    "sku": "291623",
     "category": "iphone",
     "namespaceId": "iphone-13-pro-max",
     "name": "iPhone 13 Pro Max 128GB Silver",
@@ -37565,6 +37850,7 @@
   },
   {
     "id": "iphone-13-pro-max-256gb-silver",
+    "sku": "792386",
     "category": "iphone",
     "namespaceId": "iphone-13-pro-max",
     "name": "iPhone 13 Pro Max 256GB Silver",
@@ -37700,6 +37986,7 @@
   },
   {
     "id": "iphone-13-pro-max-512gb-silver",
+    "sku": "629693",
     "category": "iphone",
     "namespaceId": "iphone-13-pro-max",
     "name": "iPhone 13 Pro Max 512GB Silver",
@@ -37835,6 +38122,7 @@
   },
   {
     "id": "iphone-13-pro-max-1tb-silver",
+    "sku": "377831",
     "category": "iphone",
     "namespaceId": "iphone-13-pro-max",
     "name": "iPhone 13 Pro Max 1TB Silver",
@@ -37970,6 +38258,7 @@
   },
   {
     "id": "iphone-13-pro-128gb-sierrablue",
+    "sku": "196453",
     "category": "iphone",
     "namespaceId": "iphone-13-pro",
     "name": "iPhone 13 Pro 128GB Sierra Blue",
@@ -38105,6 +38394,7 @@
   },
   {
     "id": "iphone-13-pro-256gb-sierrablue",
+    "sku": "841501",
     "category": "iphone",
     "namespaceId": "iphone-13-pro",
     "name": "iPhone 13 Pro 256GB Sierra Blue",
@@ -38240,6 +38530,7 @@
   },
   {
     "id": "iphone-13-pro-512gb-sierrablue",
+    "sku": "470288",
     "category": "iphone",
     "namespaceId": "iphone-13-pro",
     "name": "iPhone 13 Pro 512GB Sierra Blue",
@@ -38375,6 +38666,7 @@
   },
   {
     "id": "iphone-13-pro-1tb-sierrablue",
+    "sku": "455928",
     "category": "iphone",
     "namespaceId": "iphone-13-pro",
     "name": "iPhone 13 Pro 1TB Sierra Blue",
@@ -38510,6 +38802,7 @@
   },
   {
     "id": "iphone-13-pro-128gb-graphite",
+    "sku": "161269",
     "category": "iphone",
     "namespaceId": "iphone-13-pro",
     "name": "iPhone 13 Pro 128GB Graphite",
@@ -38645,6 +38938,7 @@
   },
   {
     "id": "iphone-13-pro-256gb-graphite",
+    "sku": "149050",
     "category": "iphone",
     "namespaceId": "iphone-13-pro",
     "name": "iPhone 13 Pro 256GB Graphite",
@@ -38780,6 +39074,7 @@
   },
   {
     "id": "iphone-13-pro-512gb-graphite",
+    "sku": "393097",
     "category": "iphone",
     "namespaceId": "iphone-13-pro",
     "name": "iPhone 13 Pro 512GB Graphite",
@@ -38915,6 +39210,7 @@
   },
   {
     "id": "iphone-13-pro-1tb-graphite",
+    "sku": "836317",
     "category": "iphone",
     "namespaceId": "iphone-13-pro",
     "name": "iPhone 13 Pro 1TB Graphite",
@@ -39050,6 +39346,7 @@
   },
   {
     "id": "iphone-13-pro-128gb-gold",
+    "sku": "382412",
     "category": "iphone",
     "namespaceId": "iphone-13-pro",
     "name": "iPhone 13 Pro 128GB Gold",
@@ -39185,6 +39482,7 @@
   },
   {
     "id": "iphone-13-pro-256gb-gold",
+    "sku": "328091",
     "category": "iphone",
     "namespaceId": "iphone-13-pro",
     "name": "iPhone 13 Pro 256GB Gold",
@@ -39320,6 +39618,7 @@
   },
   {
     "id": "iphone-13-pro-512gb-gold",
+    "sku": "171272",
     "category": "iphone",
     "namespaceId": "iphone-13-pro",
     "name": "iPhone 13 Pro 512GB Gold",
@@ -39455,6 +39754,7 @@
   },
   {
     "id": "iphone-13-pro-1tb-gold",
+    "sku": "832146",
     "category": "iphone",
     "namespaceId": "iphone-13-pro",
     "name": "iPhone 13 Pro 1TB Gold",
@@ -39590,6 +39890,7 @@
   },
   {
     "id": "iphone-13-pro-128gb-silver",
+    "sku": "397152",
     "category": "iphone",
     "namespaceId": "iphone-13-pro",
     "name": "iPhone 13 Pro 128GB Silver",
@@ -39725,6 +40026,7 @@
   },
   {
     "id": "iphone-13-pro-256gb-silver",
+    "sku": "895591",
     "category": "iphone",
     "namespaceId": "iphone-13-pro",
     "name": "iPhone 13 Pro 256GB Silver",
@@ -39860,6 +40162,7 @@
   },
   {
     "id": "iphone-13-pro-512gb-silver",
+    "sku": "469648",
     "category": "iphone",
     "namespaceId": "iphone-13-pro",
     "name": "iPhone 13 Pro 512GB Silver",
@@ -39995,6 +40298,7 @@
   },
   {
     "id": "iphone-13-pro-1tb-silver",
+    "sku": "207407",
     "category": "iphone",
     "namespaceId": "iphone-13-pro",
     "name": "iPhone 13 Pro 1TB Silver",
@@ -40130,6 +40434,7 @@
   },
   {
     "id": "iphone-13-pro-128gb-alpinegreen",
+    "sku": "695453",
     "category": "iphone",
     "namespaceId": "iphone-13-pro",
     "name": "iPhone 13 Pro 128GB Alpine Green",
@@ -40265,6 +40570,7 @@
   },
   {
     "id": "iphone-13-pro-256gb-alpinegreen",
+    "sku": "391629",
     "category": "iphone",
     "namespaceId": "iphone-13-pro",
     "name": "iPhone 13 Pro 256GB Alpine Green",
@@ -40400,6 +40706,7 @@
   },
   {
     "id": "iphone-13-pro-512gb-alpinegreen",
+    "sku": "237297",
     "category": "iphone",
     "namespaceId": "iphone-13-pro",
     "name": "iPhone 13 Pro 512GB Alpine Green",
@@ -40535,6 +40842,7 @@
   },
   {
     "id": "iphone-13-pro-1tb-alpinegreen",
+    "sku": "884055",
     "category": "iphone",
     "namespaceId": "iphone-13-pro",
     "name": "iPhone 13 Pro 1TB Alpine Green",
@@ -40670,6 +40978,7 @@
   },
   {
     "id": "iphone-13-128gb-blue",
+    "sku": "704984",
     "category": "iphone",
     "namespaceId": "iphone-13",
     "name": "iPhone 13 128GB Blue",
@@ -40809,6 +41118,7 @@
   },
   {
     "id": "iphone-13-256gb-blue",
+    "sku": "964380",
     "category": "iphone",
     "namespaceId": "iphone-13",
     "name": "iPhone 13 256GB Blue",
@@ -40948,6 +41258,7 @@
   },
   {
     "id": "iphone-13-512gb-blue",
+    "sku": "147819",
     "category": "iphone",
     "namespaceId": "iphone-13",
     "name": "iPhone 13 512GB Blue",
@@ -41087,6 +41398,7 @@
   },
   {
     "id": "iphone-13-128gb-pink",
+    "sku": "653454",
     "category": "iphone",
     "namespaceId": "iphone-13",
     "name": "iPhone 13 128GB Pink",
@@ -41226,6 +41538,7 @@
   },
   {
     "id": "iphone-13-256gb-pink",
+    "sku": "540067",
     "category": "iphone",
     "namespaceId": "iphone-13",
     "name": "iPhone 13 256GB Pink",
@@ -41365,6 +41678,7 @@
   },
   {
     "id": "iphone-13-512gb-pink",
+    "sku": "473559",
     "category": "iphone",
     "namespaceId": "iphone-13",
     "name": "iPhone 13 512GB Pink",
@@ -41504,6 +41818,7 @@
   },
   {
     "id": "iphone-13-128gb-midnight",
+    "sku": "744267",
     "category": "iphone",
     "namespaceId": "iphone-13",
     "name": "iPhone 13 128GB Midnight",
@@ -41643,6 +41958,7 @@
   },
   {
     "id": "iphone-13-256gb-midnight",
+    "sku": "962863",
     "category": "iphone",
     "namespaceId": "iphone-13",
     "name": "iPhone 13 256GB Midnight",
@@ -41782,6 +42098,7 @@
   },
   {
     "id": "iphone-13-512gb-midnight",
+    "sku": "466883",
     "category": "iphone",
     "namespaceId": "iphone-13",
     "name": "iPhone 13 512GB Midnight",
@@ -41921,6 +42238,7 @@
   },
   {
     "id": "iphone-13-128gb-starlight",
+    "sku": "861418",
     "category": "iphone",
     "namespaceId": "iphone-13",
     "name": "iPhone 13 128GB Starlight",
@@ -42060,6 +42378,7 @@
   },
   {
     "id": "iphone-13-256gb-starlight",
+    "sku": "708513",
     "category": "iphone",
     "namespaceId": "iphone-13",
     "name": "iPhone 13 256GB Starlight",
@@ -42199,6 +42518,7 @@
   },
   {
     "id": "iphone-13-512gb-starlight",
+    "sku": "586140",
     "category": "iphone",
     "namespaceId": "iphone-13",
     "name": "iPhone 13 512GB Starlight",
@@ -42338,6 +42658,7 @@
   },
   {
     "id": "iphone-13-128gb-product-red",
+    "sku": "676177",
     "category": "iphone",
     "namespaceId": "iphone-13",
     "name": "iPhone 13 128GB (PRODUCT)RED",
@@ -42477,6 +42798,7 @@
   },
   {
     "id": "iphone-13-256gb-product-red",
+    "sku": "547287",
     "category": "iphone",
     "namespaceId": "iphone-13",
     "name": "iPhone 13 256GB (PRODUCT)RED",
@@ -42616,6 +42938,7 @@
   },
   {
     "id": "iphone-13-512gb-product-red",
+    "sku": "131745",
     "category": "iphone",
     "namespaceId": "iphone-13",
     "name": "iPhone 13 512GB (PRODUCT)RED",
@@ -42755,6 +43078,7 @@
   },
   {
     "id": "iphone-13-128gb-green",
+    "sku": "666299",
     "category": "iphone",
     "namespaceId": "iphone-13",
     "name": "iPhone 13 128GB Green",
@@ -42894,6 +43218,7 @@
   },
   {
     "id": "iphone-13-256gb-green",
+    "sku": "831648",
     "category": "iphone",
     "namespaceId": "iphone-13",
     "name": "iPhone 13 256GB Green",
@@ -43033,6 +43358,7 @@
   },
   {
     "id": "iphone-13-512gb-green",
+    "sku": "828170",
     "category": "iphone",
     "namespaceId": "iphone-13",
     "name": "iPhone 13 512GB Green",

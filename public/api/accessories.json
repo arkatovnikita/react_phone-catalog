@@ -1,6 +1,7 @@
 [
   {
     "id": "apple-pencil-pro",
+    "sku": "206967",
     "category": "accessories",
     "namespaceId": "apple-pencil-pro",
     "name": "Apple Pencil Pro",
@@ -81,6 +82,7 @@
   },
   {
     "id": "magsafe-charger",
+    "sku": "380520",
     "category": "accessories",
     "namespaceId": "magsafe-charger",
     "name": "MagSafe Charger (1 m)",
@@ -162,6 +164,7 @@
   },
   {
     "id": "iphone-air-magsafe-battery",
+    "sku": "803288",
     "category": "accessories",
     "namespaceId": "iphone-air-magsafe-battery",
     "name": "iPhone Air MagSafe Battery",
@@ -242,6 +245,7 @@
   },
   {
     "id": "40w-dynamic-power-adapter",
+    "sku": "849486",
     "category": "accessories",
     "namespaceId": "40w-dynamic-power-adapter",
     "name": "40W Dynamic Power Adapter",
@@ -322,6 +326,7 @@
   },
   {
     "id": "20w-usb-c-power-adapter",
+    "sku": "130966",
     "category": "accessories",
     "namespaceId": "20w-usb-c-power-adapter",
     "name": "20W USB-C Power Adapter",
@@ -396,6 +401,7 @@
   },
   {
     "id": "usb-c-to-magsafe-3-cable",
+    "sku": "411805",
     "category": "accessories",
     "namespaceId": "usb-c-to-magsafe-3-cable",
     "name": "USB-C to MagSafe 3 Cable (2 m)",
@@ -470,6 +476,7 @@
   },
   {
     "id": "airtag-4-pack",
+    "sku": "915813",
     "category": "accessories",
     "namespaceId": "airtag-4-pack",
     "name": "AirTag 4 pack",
@@ -548,6 +555,7 @@
   },
   {
     "id": "airtag-finewoven-key-ring-burgundy",
+    "sku": "912194",
     "category": "accessories",
     "namespaceId": "airtag-finewoven-key-ring",
     "name": "AirTag FineWoven Key Ring Burgundy",
@@ -622,6 +630,7 @@
   },
   {
     "id": "airtag-finewoven-key-ring-darkolive",
+    "sku": "868721",
     "category": "accessories",
     "namespaceId": "airtag-finewoven-key-ring",
     "name": "AirTag FineWoven Key Ring Dark Olive",
@@ -696,6 +705,7 @@
   },
   {
     "id": "iphone-18-pro-max-silicone-case",
+    "sku": "267595",
     "category": "accessories",
     "namespaceId": "iphone-18-pro-max-silicone-case",
     "name": "iPhone 18 Pro Max Silicone Case with MagSafe",
@@ -777,6 +787,7 @@
   },
   {
     "id": "iphone-finewoven-wallet",
+    "sku": "355923",
     "category": "accessories",
     "namespaceId": "iphone-finewoven-wallet",
     "name": "iPhone FineWoven Wallet with MagSafe",
@@ -852,6 +863,7 @@
   },
   {
     "id": "iphone-duo-case",
+    "sku": "706618",
     "category": "accessories",
     "namespaceId": "iphone-duo-case",
     "name": "iPhone Duo Case",

@@ -1,6 +1,7 @@
 [
   {
     "id": "apple-watch-series-12-42mm-darkbronze",
+    "sku": "248857",
     "category": "watch",
     "namespaceId": "apple-watch-series-12",
     "name": "Apple Watch Series 12 42mm Dark Bronze",
@@ -135,6 +136,7 @@
   },
   {
     "id": "apple-watch-series-12-46mm-darkbronze",
+    "sku": "817853",
     "category": "watch",
     "namespaceId": "apple-watch-series-12",
     "name": "Apple Watch Series 12 46mm Dark Bronze",
@@ -269,6 +271,7 @@
   },
   {
     "id": "apple-watch-series-12-42mm-black",
+    "sku": "130190",
     "category": "watch",
     "namespaceId": "apple-watch-series-12",
     "name": "Apple Watch Series 12 42mm Black",
@@ -403,6 +406,7 @@
   },
   {
     "id": "apple-watch-series-12-46mm-black",
+    "sku": "729181",
     "category": "watch",
     "namespaceId": "apple-watch-series-12",
     "name": "Apple Watch Series 12 46mm Black",
@@ -537,6 +541,7 @@
   },
   {
     "id": "apple-watch-series-12-42mm-lightgold",
+    "sku": "654612",
     "category": "watch",
     "namespaceId": "apple-watch-series-12",
     "name": "Apple Watch Series 12 42mm Light Gold",
@@ -671,6 +676,7 @@
   },
   {
     "id": "apple-watch-series-12-46mm-lightgold",
+    "sku": "675103",
     "category": "watch",
     "namespaceId": "apple-watch-series-12",
     "name": "Apple Watch Series 12 46mm Light Gold",
@@ -805,6 +811,7 @@
   },
   {
     "id": "apple-watch-series-12-42mm-spacegray",
+    "sku": "401874",
     "category": "watch",
     "namespaceId": "apple-watch-series-12",
     "name": "Apple Watch Series 12 42mm Space Gray",
@@ -939,6 +946,7 @@
   },
   {
     "id": "apple-watch-series-12-46mm-spacegray",
+    "sku": "857829",
     "category": "watch",
     "namespaceId": "apple-watch-series-12",
     "name": "Apple Watch Series 12 46mm Space Gray",
@@ -1073,6 +1081,7 @@
   },
   {
     "id": "apple-watch-series-12-42mm-naturaltitanium",
+    "sku": "256752",
     "category": "watch",
     "namespaceId": "apple-watch-series-12",
     "name": "Apple Watch Series 12 42mm Natural Titanium",
@@ -1207,6 +1216,7 @@
   },
   {
     "id": "apple-watch-series-12-46mm-naturaltitanium",
+    "sku": "564817",
     "category": "watch",
     "namespaceId": "apple-watch-series-12",
     "name": "Apple Watch Series 12 46mm Natural Titanium",
@@ -1341,6 +1351,7 @@
   },
   {
     "id": "apple-watch-series-12-42mm-radiantgold",
+    "sku": "518179",
     "category": "watch",
     "namespaceId": "apple-watch-series-12",
     "name": "Apple Watch Series 12 42mm Radiant Gold Titanium",
@@ -1475,6 +1486,7 @@
   },
   {
     "id": "apple-watch-series-12-46mm-radiantgold",
+    "sku": "581017",
     "category": "watch",
     "namespaceId": "apple-watch-series-12",
     "name": "Apple Watch Series 12 46mm Radiant Gold Titanium",
@@ -1609,6 +1621,7 @@
   },
   {
     "id": "apple-watch-series-12-42mm-nightblue",
+    "sku": "702426",
     "category": "watch",
     "namespaceId": "apple-watch-series-12",
     "name": "Apple Watch Series 12 42mm Night Blue Ceramic",
@@ -1743,6 +1756,7 @@
   },
   {
     "id": "apple-watch-series-12-46mm-nightblue",
+    "sku": "822510",
     "category": "watch",
     "namespaceId": "apple-watch-series-12",
     "name": "Apple Watch Series 12 46mm Night Blue Ceramic",
@@ -1877,6 +1891,7 @@
   },
   {
     "id": "apple-watch-series-12-42mm-pearlwhite",
+    "sku": "989777",
     "category": "watch",
     "namespaceId": "apple-watch-series-12",
     "name": "Apple Watch Series 12 42mm Pearl White Ceramic",
@@ -2011,6 +2026,7 @@
   },
   {
     "id": "apple-watch-series-12-46mm-pearlwhite",
+    "sku": "833489",
     "category": "watch",
     "namespaceId": "apple-watch-series-12",
     "name": "Apple Watch Series 12 46mm Pearl White Ceramic",
@@ -2145,6 +2161,7 @@
   },
   {
     "id": "apple-watch-ultra-4-49mm-natural",
+    "sku": "133124",
     "category": "watch",
     "namespaceId": "apple-watch-ultra-4",
     "name": "Apple Watch Ultra 4 49mm Natural Titanium",
@@ -2252,6 +2269,7 @@
   },
   {
     "id": "apple-watch-ultra-4-49mm-black",
+    "sku": "253601",
     "category": "watch",
     "namespaceId": "apple-watch-ultra-4",
     "name": "Apple Watch Ultra 4 49mm Black Titanium",
@@ -2359,6 +2377,7 @@
   },
   {
     "id": "apple-watch-series-11-42mm-rosegold",
+    "sku": "458951",
     "category": "watch",
     "namespaceId": "apple-watch-series-11",
     "name": "Apple Watch Series 11 42mm Rose Gold",
@@ -2488,6 +2507,7 @@
   },
   {
     "id": "apple-watch-series-11-46mm-rosegold",
+    "sku": "314544",
     "category": "watch",
     "namespaceId": "apple-watch-series-11",
     "name": "Apple Watch Series 11 46mm Rose Gold",
@@ -2617,6 +2637,7 @@
   },
   {
     "id": "apple-watch-series-11-42mm-jetblack",
+    "sku": "523513",
     "category": "watch",
     "namespaceId": "apple-watch-series-11",
     "name": "Apple Watch Series 11 42mm Jet Black",
@@ -2746,6 +2767,7 @@
   },
   {
     "id": "apple-watch-series-11-46mm-jetblack",
+    "sku": "397137",
     "category": "watch",
     "namespaceId": "apple-watch-series-11",
     "name": "Apple Watch Series 11 46mm Jet Black",
@@ -2875,6 +2897,7 @@
   },
   {
     "id": "apple-watch-series-11-42mm-silver",
+    "sku": "665905",
     "category": "watch",
     "namespaceId": "apple-watch-series-11",
     "name": "Apple Watch Series 11 42mm Silver",
@@ -3004,6 +3027,7 @@
   },
   {
     "id": "apple-watch-series-11-46mm-silver",
+    "sku": "114805",
     "category": "watch",
     "namespaceId": "apple-watch-series-11",
     "name": "Apple Watch Series 11 46mm Silver",
@@ -3133,6 +3157,7 @@
   },
   {
     "id": "apple-watch-series-11-42mm-spacegray",
+    "sku": "977004",
     "category": "watch",
     "namespaceId": "apple-watch-series-11",
     "name": "Apple Watch Series 11 42mm Space Gray",
@@ -3262,6 +3287,7 @@
   },
   {
     "id": "apple-watch-series-11-46mm-spacegray",
+    "sku": "694677",
     "category": "watch",
     "namespaceId": "apple-watch-series-11",
     "name": "Apple Watch Series 11 46mm Space Gray",
@@ -3391,6 +3417,7 @@
   },
   {
     "id": "apple-watch-series-11-42mm-naturaltitanium",
+    "sku": "572756",
     "category": "watch",
     "namespaceId": "apple-watch-series-11",
     "name": "Apple Watch Series 11 42mm Natural Titanium",
@@ -3520,6 +3547,7 @@
   },
   {
     "id": "apple-watch-series-11-46mm-naturaltitanium",
+    "sku": "898536",
     "category": "watch",
     "namespaceId": "apple-watch-series-11",
     "name": "Apple Watch Series 11 46mm Natural Titanium",
@@ -3649,6 +3677,7 @@
   },
   {
     "id": "apple-watch-series-11-42mm-goldtitanium",
+    "sku": "932340",
     "category": "watch",
     "namespaceId": "apple-watch-series-11",
     "name": "Apple Watch Series 11 42mm Gold Titanium",
@@ -3778,6 +3807,7 @@
   },
   {
     "id": "apple-watch-series-11-46mm-goldtitanium",
+    "sku": "210121",
     "category": "watch",
     "namespaceId": "apple-watch-series-11",
     "name": "Apple Watch Series 11 46mm Gold Titanium",
@@ -3907,6 +3937,7 @@
   },
   {
     "id": "apple-watch-series-11-42mm-slatetitanium",
+    "sku": "117177",
     "category": "watch",
     "namespaceId": "apple-watch-series-11",
     "name": "Apple Watch Series 11 42mm Slate Titanium",
@@ -4036,6 +4067,7 @@
   },
   {
     "id": "apple-watch-series-11-46mm-slatetitanium",
+    "sku": "411175",
     "category": "watch",
     "namespaceId": "apple-watch-series-11",
     "name": "Apple Watch Series 11 46mm Slate Titanium",
@@ -4165,6 +4197,7 @@
   },
   {
     "id": "apple-watch-ultra-3-49mm-natural",
+    "sku": "253680",
     "category": "watch",
     "namespaceId": "apple-watch-ultra-3",
     "name": "Apple Watch Ultra 3 49mm Natural Titanium",
@@ -4272,6 +4305,7 @@
   },
   {
     "id": "apple-watch-ultra-3-49mm-black",
+    "sku": "778698",
     "category": "watch",
     "namespaceId": "apple-watch-ultra-3",
     "name": "Apple Watch Ultra 3 49mm Black Titanium",
@@ -4379,6 +4413,7 @@
   },
   {
     "id": "apple-watch-se-3-40mm-midnight",
+    "sku": "858935",
     "category": "watch",
     "namespaceId": "apple-watch-se-3",
     "name": "Apple Watch SE 3 40mm Midnight",
@@ -4483,6 +4518,7 @@
   },
   {
     "id": "apple-watch-se-3-44mm-midnight",
+    "sku": "416093",
     "category": "watch",
     "namespaceId": "apple-watch-se-3",
     "name": "Apple Watch SE 3 44mm Midnight",
@@ -4587,6 +4623,7 @@
   },
   {
     "id": "apple-watch-se-3-40mm-starlight",
+    "sku": "927228",
     "category": "watch",
     "namespaceId": "apple-watch-se-3",
     "name": "Apple Watch SE 3 40mm Starlight",
@@ -4691,6 +4728,7 @@
   },
   {
     "id": "apple-watch-se-3-44mm-starlight",
+    "sku": "248591",
     "category": "watch",
     "namespaceId": "apple-watch-se-3",
     "name": "Apple Watch SE 3 44mm Starlight",
@@ -4795,6 +4833,7 @@
   },
   {
     "id": "apple-watch-series-10-42mm-jetblack",
+    "sku": "136562",
     "category": "watch",
     "namespaceId": "apple-watch-series-10",
     "name": "Apple Watch Series 10 42mm Jet Black",
@@ -4919,6 +4958,7 @@
   },
   {
     "id": "apple-watch-series-10-46mm-jetblack",
+    "sku": "549586",
     "category": "watch",
     "namespaceId": "apple-watch-series-10",
     "name": "Apple Watch Series 10 46mm Jet Black",
@@ -5043,6 +5083,7 @@
   },
   {
     "id": "apple-watch-series-10-42mm-rosegold",
+    "sku": "699877",
     "category": "watch",
     "namespaceId": "apple-watch-series-10",
     "name": "Apple Watch Series 10 42mm Rose Gold",
@@ -5167,6 +5208,7 @@
   },
   {
     "id": "apple-watch-series-10-46mm-rosegold",
+    "sku": "853915",
     "category": "watch",
     "namespaceId": "apple-watch-series-10",
     "name": "Apple Watch Series 10 46mm Rose Gold",
@@ -5291,6 +5333,7 @@
   },
   {
     "id": "apple-watch-series-10-42mm-silver",
+    "sku": "238374",
     "category": "watch",
     "namespaceId": "apple-watch-series-10",
     "name": "Apple Watch Series 10 42mm Silver",
@@ -5415,6 +5458,7 @@
   },
   {
     "id": "apple-watch-series-10-46mm-silver",
+    "sku": "564330",
     "category": "watch",
     "namespaceId": "apple-watch-series-10",
     "name": "Apple Watch Series 10 46mm Silver",
@@ -5539,6 +5583,7 @@
   },
   {
     "id": "apple-watch-series-10-42mm-naturaltitanium",
+    "sku": "650497",
     "category": "watch",
     "namespaceId": "apple-watch-series-10",
     "name": "Apple Watch Series 10 42mm Natural Titanium",
@@ -5663,6 +5708,7 @@
   },
   {
     "id": "apple-watch-series-10-46mm-naturaltitanium",
+    "sku": "991214",
     "category": "watch",
     "namespaceId": "apple-watch-series-10",
     "name": "Apple Watch Series 10 46mm Natural Titanium",
@@ -5787,6 +5833,7 @@
   },
   {
     "id": "apple-watch-series-10-42mm-goldtitanium",
+    "sku": "770422",
     "category": "watch",
     "namespaceId": "apple-watch-series-10",
     "name": "Apple Watch Series 10 42mm Gold Titanium",
@@ -5911,6 +5958,7 @@
   },
   {
     "id": "apple-watch-series-10-46mm-goldtitanium",
+    "sku": "470179",
     "category": "watch",
     "namespaceId": "apple-watch-series-10",
     "name": "Apple Watch Series 10 46mm Gold Titanium",
@@ -6035,6 +6083,7 @@
   },
   {
     "id": "apple-watch-series-10-42mm-slatetitanium",
+    "sku": "132394",
     "category": "watch",
     "namespaceId": "apple-watch-series-10",
     "name": "Apple Watch Series 10 42mm Slate Titanium",
@@ -6159,6 +6208,7 @@
   },
   {
     "id": "apple-watch-series-10-46mm-slatetitanium",
+    "sku": "950024",
     "category": "watch",
     "namespaceId": "apple-watch-series-10",
     "name": "Apple Watch Series 10 46mm Slate Titanium",
@@ -6283,6 +6333,7 @@
   },
   {
     "id": "apple-watch-ultra-2-49mm-natural",
+    "sku": "612898",
     "category": "watch",
     "namespaceId": "apple-watch-ultra-2",
     "name": "Apple Watch Ultra 2 49mm Natural Titanium",
@@ -6390,6 +6441,7 @@
   },
   {
     "id": "apple-watch-ultra-2-49mm-black",
+    "sku": "916143",
     "category": "watch",
     "namespaceId": "apple-watch-ultra-2",
     "name": "Apple Watch Ultra 2 49mm Black Titanium",
@@ -6497,6 +6549,7 @@
   },
   {
     "id": "apple-watch-series-9-41mm",
+    "sku": "838501",
     "category": "watch",
     "namespaceId": "apple-watch-series-9",
     "name": "Apple Watch Series 9 41mm",
@@ -6596,6 +6649,7 @@
   },
   {
     "id": "apple-watch-series-9-45mm",
+    "sku": "119521",
     "category": "watch",
     "namespaceId": "apple-watch-series-9",
     "name": "Apple Watch Series 9 45mm",
@@ -6695,6 +6749,7 @@
   },
   {
     "id": "apple-watch-se-2-40mm-midnight",
+    "sku": "890324",
     "category": "watch",
     "namespaceId": "apple-watch-se-2",
     "name": "Apple Watch SE (2nd generation) 40mm Midnight",
@@ -6804,6 +6859,7 @@
   },
   {
     "id": "apple-watch-se-2-44mm-midnight",
+    "sku": "868883",
     "category": "watch",
     "namespaceId": "apple-watch-se-2",
     "name": "Apple Watch SE (2nd generation) 44mm Midnight",
@@ -6913,6 +6969,7 @@
   },
   {
     "id": "apple-watch-se-2-40mm-starlight",
+    "sku": "183249",
     "category": "watch",
     "namespaceId": "apple-watch-se-2",
     "name": "Apple Watch SE (2nd generation) 40mm Starlight",
@@ -7022,6 +7079,7 @@
   },
   {
     "id": "apple-watch-se-2-44mm-starlight",
+    "sku": "692251",
     "category": "watch",
     "namespaceId": "apple-watch-se-2",
     "name": "Apple Watch SE (2nd generation) 44mm Starlight",
@@ -7131,6 +7189,7 @@
   },
   {
     "id": "apple-watch-se-2-40mm-silver",
+    "sku": "327978",
     "category": "watch",
     "namespaceId": "apple-watch-se-2",
     "name": "Apple Watch SE (2nd generation) 40mm Silver",
@@ -7240,6 +7299,7 @@
   },
   {
     "id": "apple-watch-se-2-44mm-silver",
+    "sku": "404224",
     "category": "watch",
     "namespaceId": "apple-watch-se-2",
     "name": "Apple Watch SE (2nd generation) 44mm Silver",

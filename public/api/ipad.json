@@ -1,6 +1,7 @@
 [
   {
     "id": "ipad-128gb-yellow",
+    "sku": "446680",
     "category": "ipad",
     "namespaceId": "ipad",
     "name": "iPad 11-inch 128GB Yellow",
@@ -124,6 +125,7 @@
   },
   {
     "id": "ipad-256gb-yellow",
+    "sku": "577376",
     "category": "ipad",
     "namespaceId": "ipad",
     "name": "iPad 11-inch 256GB Yellow",
@@ -247,6 +249,7 @@
   },
   {
     "id": "ipad-512gb-yellow",
+    "sku": "396193",
     "category": "ipad",
     "namespaceId": "ipad",
     "name": "iPad 11-inch 512GB Yellow",
@@ -370,6 +373,7 @@
   },
   {
     "id": "ipad-128gb-blue",
+    "sku": "521571",
     "category": "ipad",
     "namespaceId": "ipad",
     "name": "iPad 11-inch 128GB Blue",
@@ -493,6 +497,7 @@
   },
   {
     "id": "ipad-256gb-blue",
+    "sku": "695849",
     "category": "ipad",
     "namespaceId": "ipad",
     "name": "iPad 11-inch 256GB Blue",
@@ -616,6 +621,7 @@
   },
   {
     "id": "ipad-512gb-blue",
+    "sku": "675470",
     "category": "ipad",
     "namespaceId": "ipad",
     "name": "iPad 11-inch 512GB Blue",
@@ -739,6 +745,7 @@
   },
   {
     "id": "ipad-128gb-pink",
+    "sku": "638343",
     "category": "ipad",
     "namespaceId": "ipad",
     "name": "iPad 11-inch 128GB Pink",
@@ -862,6 +869,7 @@
   },
   {
     "id": "ipad-256gb-pink",
+    "sku": "935750",
     "category": "ipad",
     "namespaceId": "ipad",
     "name": "iPad 11-inch 256GB Pink",
@@ -985,6 +993,7 @@
   },
   {
     "id": "ipad-512gb-pink",
+    "sku": "447865",
     "category": "ipad",
     "namespaceId": "ipad",
     "name": "iPad 11-inch 512GB Pink",
@@ -1108,6 +1117,7 @@
   },
   {
     "id": "ipad-128gb-silver",
+    "sku": "764475",
     "category": "ipad",
     "namespaceId": "ipad",
     "name": "iPad 11-inch 128GB Silver",
@@ -1231,6 +1241,7 @@
   },
   {
     "id": "ipad-256gb-silver",
+    "sku": "949998",
     "category": "ipad",
     "namespaceId": "ipad",
     "name": "iPad 11-inch 256GB Silver",
@@ -1354,6 +1365,7 @@
   },
   {
     "id": "ipad-512gb-silver",
+    "sku": "469743",
     "category": "ipad",
     "namespaceId": "ipad",
     "name": "iPad 11-inch 512GB Silver",
@@ -1477,6 +1489,7 @@
   },
   {
     "id": "ipad-mini-128gb-starlight",
+    "sku": "123362",
     "category": "ipad",
     "namespaceId": "ipad-mini",
     "name": "iPad mini 128GB Starlight",
@@ -1590,6 +1603,7 @@
   },
   {
     "id": "ipad-mini-256gb-starlight",
+    "sku": "385855",
     "category": "ipad",
     "namespaceId": "ipad-mini",
     "name": "iPad mini 256GB Starlight",
@@ -1703,6 +1717,7 @@
   },
   {
     "id": "ipad-mini-512gb-starlight",
+    "sku": "881119",
     "category": "ipad",
     "namespaceId": "ipad-mini",
     "name": "iPad mini 512GB Starlight",
@@ -1816,6 +1831,7 @@
   },
   {
     "id": "ipad-mini-128gb-midnight",
+    "sku": "343156",
     "category": "ipad",
     "namespaceId": "ipad-mini",
     "name": "iPad mini 128GB Midnight",
@@ -1929,6 +1945,7 @@
   },
   {
     "id": "ipad-mini-256gb-midnight",
+    "sku": "797545",
     "category": "ipad",
     "namespaceId": "ipad-mini",
     "name": "iPad mini 256GB Midnight",
@@ -2042,6 +2059,7 @@
   },
   {
     "id": "ipad-mini-512gb-midnight",
+    "sku": "459990",
     "category": "ipad",
     "namespaceId": "ipad-mini",
     "name": "iPad mini 512GB Midnight",
@@ -2155,6 +2173,7 @@
   },
   {
     "id": "ipad-air-11-128gb-purple",
+    "sku": "514648",
     "category": "ipad",
     "namespaceId": "ipad-air-11",
     "name": "iPad Air 11-inch 128GB Purple",
@@ -2279,6 +2298,7 @@
   },
   {
     "id": "ipad-air-11-256gb-purple",
+    "sku": "637028",
     "category": "ipad",
     "namespaceId": "ipad-air-11",
     "name": "iPad Air 11-inch 256GB Purple",
@@ -2403,6 +2423,7 @@
   },
   {
     "id": "ipad-air-11-512gb-purple",
+    "sku": "246088",
     "category": "ipad",
     "namespaceId": "ipad-air-11",
     "name": "iPad Air 11-inch 512GB Purple",
@@ -2527,6 +2548,7 @@
   },
   {
     "id": "ipad-air-11-1tb-purple",
+    "sku": "101220",
     "category": "ipad",
     "namespaceId": "ipad-air-11",
     "name": "iPad Air 11-inch 1TB Purple",
@@ -2651,6 +2673,7 @@
   },
   {
     "id": "ipad-air-11-128gb-blue",
+    "sku": "395423",
     "category": "ipad",
     "namespaceId": "ipad-air-11",
     "name": "iPad Air 11-inch 128GB Blue",
@@ -2775,6 +2798,7 @@
   },
   {
     "id": "ipad-air-11-256gb-blue",
+    "sku": "888697",
     "category": "ipad",
     "namespaceId": "ipad-air-11",
     "name": "iPad Air 11-inch 256GB Blue",
@@ -2899,6 +2923,7 @@
   },
   {
     "id": "ipad-air-11-512gb-blue",
+    "sku": "675672",
     "category": "ipad",
     "namespaceId": "ipad-air-11",
     "name": "iPad Air 11-inch 512GB Blue",
@@ -3023,6 +3048,7 @@
   },
   {
     "id": "ipad-air-11-1tb-blue",
+    "sku": "366781",
     "category": "ipad",
     "namespaceId": "ipad-air-11",
     "name": "iPad Air 11-inch 1TB Blue",
@@ -3147,6 +3173,7 @@
   },
   {
     "id": "ipad-air-11-128gb-spacegray",
+    "sku": "875520",
     "category": "ipad",
     "namespaceId": "ipad-air-11",
     "name": "iPad Air 11-inch 128GB Space Gray",
@@ -3271,6 +3298,7 @@
   },
   {
     "id": "ipad-air-11-256gb-spacegray",
+    "sku": "435486",
     "category": "ipad",
     "namespaceId": "ipad-air-11",
     "name": "iPad Air 11-inch 256GB Space Gray",
@@ -3395,6 +3423,7 @@
   },
   {
     "id": "ipad-air-11-512gb-spacegray",
+    "sku": "680860",
     "category": "ipad",
     "namespaceId": "ipad-air-11",
     "name": "iPad Air 11-inch 512GB Space Gray",
@@ -3519,6 +3548,7 @@
   },
   {
     "id": "ipad-air-11-1tb-spacegray",
+    "sku": "340590",
     "category": "ipad",
     "namespaceId": "ipad-air-11",
     "name": "iPad Air 11-inch 1TB Space Gray",
@@ -3643,6 +3673,7 @@
   },
   {
     "id": "ipad-air-11-128gb-starlight",
+    "sku": "380885",
     "category": "ipad",
     "namespaceId": "ipad-air-11",
     "name": "iPad Air 11-inch 128GB Starlight",
@@ -3767,6 +3798,7 @@
   },
   {
     "id": "ipad-air-11-256gb-starlight",
+    "sku": "780778",
     "category": "ipad",
     "namespaceId": "ipad-air-11",
     "name": "iPad Air 11-inch 256GB Starlight",
@@ -3891,6 +3923,7 @@
   },
   {
     "id": "ipad-air-11-512gb-starlight",
+    "sku": "790448",
     "category": "ipad",
     "namespaceId": "ipad-air-11",
     "name": "iPad Air 11-inch 512GB Starlight",
@@ -4015,6 +4048,7 @@
   },
   {
     "id": "ipad-air-11-1tb-starlight",
+    "sku": "547650",
     "category": "ipad",
     "namespaceId": "ipad-air-11",
     "name": "iPad Air 11-inch 1TB Starlight",
@@ -4139,6 +4173,7 @@
   },
   {
     "id": "ipad-air-13-128gb-blue",
+    "sku": "966828",
     "category": "ipad",
     "namespaceId": "ipad-air-13",
     "name": "iPad Air 13-inch 128GB Blue",
@@ -4263,6 +4298,7 @@
   },
   {
     "id": "ipad-air-13-256gb-blue",
+    "sku": "867059",
     "category": "ipad",
     "namespaceId": "ipad-air-13",
     "name": "iPad Air 13-inch 256GB Blue",
@@ -4387,6 +4423,7 @@
   },
   {
     "id": "ipad-air-13-512gb-blue",
+    "sku": "423665",
     "category": "ipad",
     "namespaceId": "ipad-air-13",
     "name": "iPad Air 13-inch 512GB Blue",
@@ -4511,6 +4548,7 @@
   },
   {
     "id": "ipad-air-13-1tb-blue",
+    "sku": "621840",
     "category": "ipad",
     "namespaceId": "ipad-air-13",
     "name": "iPad Air 13-inch 1TB Blue",
@@ -4635,6 +4673,7 @@
   },
   {
     "id": "ipad-air-13-128gb-purple",
+    "sku": "243772",
     "category": "ipad",
     "namespaceId": "ipad-air-13",
     "name": "iPad Air 13-inch 128GB Purple",
@@ -4759,6 +4798,7 @@
   },
   {
     "id": "ipad-air-13-256gb-purple",
+    "sku": "911477",
     "category": "ipad",
     "namespaceId": "ipad-air-13",
     "name": "iPad Air 13-inch 256GB Purple",
@@ -4883,6 +4923,7 @@
   },
   {
     "id": "ipad-air-13-512gb-purple",
+    "sku": "477286",
     "category": "ipad",
     "namespaceId": "ipad-air-13",
     "name": "iPad Air 13-inch 512GB Purple",
@@ -5007,6 +5048,7 @@
   },
   {
     "id": "ipad-air-13-1tb-purple",
+    "sku": "139528",
     "category": "ipad",
     "namespaceId": "ipad-air-13",
     "name": "iPad Air 13-inch 1TB Purple",
@@ -5131,6 +5173,7 @@
   },
   {
     "id": "ipad-air-13-128gb-spacegray",
+    "sku": "945309",
     "category": "ipad",
     "namespaceId": "ipad-air-13",
     "name": "iPad Air 13-inch 128GB Space Gray",
@@ -5255,6 +5298,7 @@
   },
   {
     "id": "ipad-air-13-256gb-spacegray",
+    "sku": "716512",
     "category": "ipad",
     "namespaceId": "ipad-air-13",
     "name": "iPad Air 13-inch 256GB Space Gray",
@@ -5379,6 +5423,7 @@
   },
   {
     "id": "ipad-air-13-512gb-spacegray",
+    "sku": "545894",
     "category": "ipad",
     "namespaceId": "ipad-air-13",
     "name": "iPad Air 13-inch 512GB Space Gray",
@@ -5503,6 +5548,7 @@
   },
   {
     "id": "ipad-air-13-1tb-spacegray",
+    "sku": "336839",
     "category": "ipad",
     "namespaceId": "ipad-air-13",
     "name": "iPad Air 13-inch 1TB Space Gray",
@@ -5627,6 +5673,7 @@
   },
   {
     "id": "ipad-air-13-128gb-starlight",
+    "sku": "101333",
     "category": "ipad",
     "namespaceId": "ipad-air-13",
     "name": "iPad Air 13-inch 128GB Starlight",
@@ -5751,6 +5798,7 @@
   },
   {
     "id": "ipad-air-13-256gb-starlight",
+    "sku": "335807",
     "category": "ipad",
     "namespaceId": "ipad-air-13",
     "name": "iPad Air 13-inch 256GB Starlight",
@@ -5875,6 +5923,7 @@
   },
   {
     "id": "ipad-air-13-512gb-starlight",
+    "sku": "233082",
     "category": "ipad",
     "namespaceId": "ipad-air-13",
     "name": "iPad Air 13-inch 512GB Starlight",
@@ -5999,6 +6048,7 @@
   },
   {
     "id": "ipad-air-13-1tb-starlight",
+    "sku": "415980",
     "category": "ipad",
     "namespaceId": "ipad-air-13",
     "name": "iPad Air 13-inch 1TB Starlight",
@@ -6123,6 +6173,7 @@
   },
   {
     "id": "ipad-pro-11-256gb-spaceblack",
+    "sku": "427469",
     "category": "ipad",
     "namespaceId": "ipad-pro-11",
     "name": "iPad Pro 11-inch 256GB Space Black",
@@ -6237,6 +6288,7 @@
   },
   {
     "id": "ipad-pro-11-512gb-spaceblack",
+    "sku": "330829",
     "category": "ipad",
     "namespaceId": "ipad-pro-11",
     "name": "iPad Pro 11-inch 512GB Space Black",
@@ -6351,6 +6403,7 @@
   },
   {
     "id": "ipad-pro-11-1tb-spaceblack",
+    "sku": "632921",
     "category": "ipad",
     "namespaceId": "ipad-pro-11",
     "name": "iPad Pro 11-inch 1TB Space Black",
@@ -6465,6 +6518,7 @@
   },
   {
     "id": "ipad-pro-11-2tb-spaceblack",
+    "sku": "234272",
     "category": "ipad",
     "namespaceId": "ipad-pro-11",
     "name": "iPad Pro 11-inch 2TB Space Black",
@@ -6579,6 +6633,7 @@
   },
   {
     "id": "ipad-pro-11-256gb-silver",
+    "sku": "893281",
     "category": "ipad",
     "namespaceId": "ipad-pro-11",
     "name": "iPad Pro 11-inch 256GB Silver",
@@ -6693,6 +6748,7 @@
   },
   {
     "id": "ipad-pro-11-512gb-silver",
+    "sku": "635359",
     "category": "ipad",
     "namespaceId": "ipad-pro-11",
     "name": "iPad Pro 11-inch 512GB Silver",
@@ -6807,6 +6863,7 @@
   },
   {
     "id": "ipad-pro-11-1tb-silver",
+    "sku": "972054",
     "category": "ipad",
     "namespaceId": "ipad-pro-11",
     "name": "iPad Pro 11-inch 1TB Silver",
@@ -6921,6 +6978,7 @@
   },
   {
     "id": "ipad-pro-11-2tb-silver",
+    "sku": "710026",
     "category": "ipad",
     "namespaceId": "ipad-pro-11",
     "name": "iPad Pro 11-inch 2TB Silver",
@@ -7035,6 +7093,7 @@
   },
   {
     "id": "ipad-pro-13-256gb-spaceblack",
+    "sku": "748774",
     "category": "ipad",
     "namespaceId": "ipad-pro-13",
     "name": "iPad Pro 13-inch 256GB Space Black",
@@ -7149,6 +7208,7 @@
   },
   {
     "id": "ipad-pro-13-512gb-spaceblack",
+    "sku": "229704",
     "category": "ipad",
     "namespaceId": "ipad-pro-13",
     "name": "iPad Pro 13-inch 512GB Space Black",
@@ -7263,6 +7323,7 @@
   },
   {
     "id": "ipad-pro-13-1tb-spaceblack",
+    "sku": "717977",
     "category": "ipad",
     "namespaceId": "ipad-pro-13",
     "name": "iPad Pro 13-inch 1TB Space Black",
@@ -7377,6 +7438,7 @@
   },
   {
     "id": "ipad-pro-13-2tb-spaceblack",
+    "sku": "338040",
     "category": "ipad",
     "namespaceId": "ipad-pro-13",
     "name": "iPad Pro 13-inch 2TB Space Black",
@@ -7491,6 +7553,7 @@
   },
   {
     "id": "ipad-pro-13-256gb-silver",
+    "sku": "585754",
     "category": "ipad",
     "namespaceId": "ipad-pro-13",
     "name": "iPad Pro 13-inch 256GB Silver",
@@ -7605,6 +7668,7 @@
   },
   {
     "id": "ipad-pro-13-512gb-silver",
+    "sku": "999269",
     "category": "ipad",
     "namespaceId": "ipad-pro-13",
     "name": "iPad Pro 13-inch 512GB Silver",
@@ -7719,6 +7783,7 @@
   },
   {
     "id": "ipad-pro-13-1tb-silver",
+    "sku": "745564",
     "category": "ipad",
     "namespaceId": "ipad-pro-13",
     "name": "iPad Pro 13-inch 1TB Silver",
@@ -7833,6 +7898,7 @@
   },
   {
     "id": "ipad-pro-13-2tb-silver",
+    "sku": "196154",
     "category": "ipad",
     "namespaceId": "ipad-pro-13",
     "name": "iPad Pro 13-inch 2TB Silver",
@@ -7947,6 +8013,7 @@
   },
   {
     "id": "ipad-air-11-m3-128gb-starlight",
+    "sku": "495361",
     "category": "ipad",
     "namespaceId": "ipad-air-11-m3",
     "name": "iPad Air 11-inch (M3) 128GB Starlight",
@@ -8071,6 +8138,7 @@
   },
   {
     "id": "ipad-air-11-m3-256gb-starlight",
+    "sku": "230241",
     "category": "ipad",
     "namespaceId": "ipad-air-11-m3",
     "name": "iPad Air 11-inch (M3) 256GB Starlight",
@@ -8195,6 +8263,7 @@
   },
   {
     "id": "ipad-air-11-m3-512gb-starlight",
+    "sku": "594259",
     "category": "ipad",
     "namespaceId": "ipad-air-11-m3",
     "name": "iPad Air 11-inch (M3) 512GB Starlight",
@@ -8319,6 +8388,7 @@
   },
   {
     "id": "ipad-air-11-m3-1tb-starlight",
+    "sku": "365948",
     "category": "ipad",
     "namespaceId": "ipad-air-11-m3",
     "name": "iPad Air 11-inch (M3) 1TB Starlight",
@@ -8443,6 +8513,7 @@
   },
   {
     "id": "ipad-air-11-m3-128gb-spacegray",
+    "sku": "884795",
     "category": "ipad",
     "namespaceId": "ipad-air-11-m3",
     "name": "iPad Air 11-inch (M3) 128GB Space Gray",
@@ -8567,6 +8638,7 @@
   },
   {
     "id": "ipad-air-11-m3-256gb-spacegray",
+    "sku": "652425",
     "category": "ipad",
     "namespaceId": "ipad-air-11-m3",
     "name": "iPad Air 11-inch (M3) 256GB Space Gray",
@@ -8691,6 +8763,7 @@
   },
   {
     "id": "ipad-air-11-m3-512gb-spacegray",
+    "sku": "149695",
     "category": "ipad",
     "namespaceId": "ipad-air-11-m3",
     "name": "iPad Air 11-inch (M3) 512GB Space Gray",
@@ -8815,6 +8888,7 @@
   },
   {
     "id": "ipad-air-11-m3-1tb-spacegray",
+    "sku": "185927",
     "category": "ipad",
     "namespaceId": "ipad-air-11-m3",
     "name": "iPad Air 11-inch (M3) 1TB Space Gray",
@@ -8939,6 +9013,7 @@
   },
   {
     "id": "ipad-air-11-m3-128gb-blue",
+    "sku": "208779",
     "category": "ipad",
     "namespaceId": "ipad-air-11-m3",
     "name": "iPad Air 11-inch (M3) 128GB Blue",
@@ -9063,6 +9138,7 @@
   },
   {
     "id": "ipad-air-11-m3-256gb-blue",
+    "sku": "288988",
     "category": "ipad",
     "namespaceId": "ipad-air-11-m3",
     "name": "iPad Air 11-inch (M3) 256GB Blue",
@@ -9187,6 +9263,7 @@
   },
   {
     "id": "ipad-air-11-m3-512gb-blue",
+    "sku": "396884",
     "category": "ipad",
     "namespaceId": "ipad-air-11-m3",
     "name": "iPad Air 11-inch (M3) 512GB Blue",
@@ -9311,6 +9388,7 @@
   },
   {
     "id": "ipad-air-11-m3-1tb-blue",
+    "sku": "335443",
     "category": "ipad",
     "namespaceId": "ipad-air-11-m3",
     "name": "iPad Air 11-inch (M3) 1TB Blue",
@@ -9435,6 +9513,7 @@
   },
   {
     "id": "ipad-air-11-m3-128gb-purple",
+    "sku": "260565",
     "category": "ipad",
     "namespaceId": "ipad-air-11-m3",
     "name": "iPad Air 11-inch (M3) 128GB Purple",
@@ -9559,6 +9638,7 @@
   },
   {
     "id": "ipad-air-11-m3-256gb-purple",
+    "sku": "310449",
     "category": "ipad",
     "namespaceId": "ipad-air-11-m3",
     "name": "iPad Air 11-inch (M3) 256GB Purple",
@@ -9683,6 +9763,7 @@
   },
   {
     "id": "ipad-air-11-m3-512gb-purple",
+    "sku": "141693",
     "category": "ipad",
     "namespaceId": "ipad-air-11-m3",
     "name": "iPad Air 11-inch (M3) 512GB Purple",
@@ -9807,6 +9888,7 @@
   },
   {
     "id": "ipad-air-11-m3-1tb-purple",
+    "sku": "904056",
     "category": "ipad",
     "namespaceId": "ipad-air-11-m3",
     "name": "iPad Air 11-inch (M3) 1TB Purple",
@@ -9931,6 +10013,7 @@
   },
   {
     "id": "ipad-air-13-m3-128gb-spacegray",
+    "sku": "755778",
     "category": "ipad",
     "namespaceId": "ipad-air-13-m3",
     "name": "iPad Air 13-inch (M3) 128GB Space Gray",
@@ -10055,6 +10138,7 @@
   },
   {
     "id": "ipad-air-13-m3-256gb-spacegray",
+    "sku": "655346",
     "category": "ipad",
     "namespaceId": "ipad-air-13-m3",
     "name": "iPad Air 13-inch (M3) 256GB Space Gray",
@@ -10179,6 +10263,7 @@
   },
   {
     "id": "ipad-air-13-m3-512gb-spacegray",
+    "sku": "514980",
     "category": "ipad",
     "namespaceId": "ipad-air-13-m3",
     "name": "iPad Air 13-inch (M3) 512GB Space Gray",
@@ -10303,6 +10388,7 @@
   },
   {
     "id": "ipad-air-13-m3-1tb-spacegray",
+    "sku": "197909",
     "category": "ipad",
     "namespaceId": "ipad-air-13-m3",
     "name": "iPad Air 13-inch (M3) 1TB Space Gray",
@@ -10427,6 +10513,7 @@
   },
   {
     "id": "ipad-air-13-m3-128gb-starlight",
+    "sku": "895557",
     "category": "ipad",
     "namespaceId": "ipad-air-13-m3",
     "name": "iPad Air 13-inch (M3) 128GB Starlight",
@@ -10551,6 +10638,7 @@
   },
   {
     "id": "ipad-air-13-m3-256gb-starlight",
+    "sku": "714929",
     "category": "ipad",
     "namespaceId": "ipad-air-13-m3",
     "name": "iPad Air 13-inch (M3) 256GB Starlight",
@@ -10675,6 +10763,7 @@
   },
   {
     "id": "ipad-air-13-m3-512gb-starlight",
+    "sku": "612826",
     "category": "ipad",
     "namespaceId": "ipad-air-13-m3",
     "name": "iPad Air 13-inch (M3) 512GB Starlight",
@@ -10799,6 +10888,7 @@
   },
   {
     "id": "ipad-air-13-m3-1tb-starlight",
+    "sku": "505574",
     "category": "ipad",
     "namespaceId": "ipad-air-13-m3",
     "name": "iPad Air 13-inch (M3) 1TB Starlight",
@@ -10923,6 +11013,7 @@
   },
   {
     "id": "ipad-air-13-m3-128gb-blue",
+    "sku": "180733",
     "category": "ipad",
     "namespaceId": "ipad-air-13-m3",
     "name": "iPad Air 13-inch (M3) 128GB Blue",
@@ -11047,6 +11138,7 @@
   },
   {
     "id": "ipad-air-13-m3-256gb-blue",
+    "sku": "881922",
     "category": "ipad",
     "namespaceId": "ipad-air-13-m3",
     "name": "iPad Air 13-inch (M3) 256GB Blue",
@@ -11171,6 +11263,7 @@
   },
   {
     "id": "ipad-air-13-m3-512gb-blue",
+    "sku": "511227",
     "category": "ipad",
     "namespaceId": "ipad-air-13-m3",
     "name": "iPad Air 13-inch (M3) 512GB Blue",
@@ -11295,6 +11388,7 @@
   },
   {
     "id": "ipad-air-13-m3-1tb-blue",
+    "sku": "781237",
     "category": "ipad",
     "namespaceId": "ipad-air-13-m3",
     "name": "iPad Air 13-inch (M3) 1TB Blue",
@@ -11419,6 +11513,7 @@
   },
   {
     "id": "ipad-air-13-m3-128gb-purple",
+    "sku": "104064",
     "category": "ipad",
     "namespaceId": "ipad-air-13-m3",
     "name": "iPad Air 13-inch (M3) 128GB Purple",
@@ -11543,6 +11638,7 @@
   },
   {
     "id": "ipad-air-13-m3-256gb-purple",
+    "sku": "593660",
     "category": "ipad",
     "namespaceId": "ipad-air-13-m3",
     "name": "iPad Air 13-inch (M3) 256GB Purple",
@@ -11667,6 +11763,7 @@
   },
   {
     "id": "ipad-air-13-m3-512gb-purple",
+    "sku": "530910",
     "category": "ipad",
     "namespaceId": "ipad-air-13-m3",
     "name": "iPad Air 13-inch (M3) 512GB Purple",
@@ -11791,6 +11888,7 @@
   },
   {
     "id": "ipad-air-13-m3-1tb-purple",
+    "sku": "200579",
     "category": "ipad",
     "namespaceId": "ipad-air-13-m3",
     "name": "iPad Air 13-inch (M3) 1TB Purple",
@@ -11915,6 +12013,7 @@
   },
   {
     "id": "ipad-pro-11-m4-256gb-silver",
+    "sku": "561975",
     "category": "ipad",
     "namespaceId": "ipad-pro-11-m4",
     "name": "iPad Pro 11-inch (M4) 256GB Silver",
@@ -12029,6 +12128,7 @@
   },
   {
     "id": "ipad-pro-11-m4-512gb-silver",
+    "sku": "872638",
     "category": "ipad",
     "namespaceId": "ipad-pro-11-m4",
     "name": "iPad Pro 11-inch (M4) 512GB Silver",
@@ -12143,6 +12243,7 @@
   },
   {
     "id": "ipad-pro-11-m4-1tb-silver",
+    "sku": "458571",
     "category": "ipad",
     "namespaceId": "ipad-pro-11-m4",
     "name": "iPad Pro 11-inch (M4) 1TB Silver",
@@ -12257,6 +12358,7 @@
   },
   {
     "id": "ipad-pro-11-m4-2tb-silver",
+    "sku": "791131",
     "category": "ipad",
     "namespaceId": "ipad-pro-11-m4",
     "name": "iPad Pro 11-inch (M4) 2TB Silver",
@@ -12371,6 +12473,7 @@
   },
   {
     "id": "ipad-pro-11-m4-256gb-spaceblack",
+    "sku": "544900",
     "category": "ipad",
     "namespaceId": "ipad-pro-11-m4",
     "name": "iPad Pro 11-inch (M4) 256GB Space Black",
@@ -12485,6 +12588,7 @@
   },
   {
     "id": "ipad-pro-11-m4-512gb-spaceblack",
+    "sku": "245692",
     "category": "ipad",
     "namespaceId": "ipad-pro-11-m4",
     "name": "iPad Pro 11-inch (M4) 512GB Space Black",
@@ -12599,6 +12703,7 @@
   },
   {
     "id": "ipad-pro-11-m4-1tb-spaceblack",
+    "sku": "722551",
     "category": "ipad",
     "namespaceId": "ipad-pro-11-m4",
     "name": "iPad Pro 11-inch (M4) 1TB Space Black",
@@ -12713,6 +12818,7 @@
   },
   {
     "id": "ipad-pro-11-m4-2tb-spaceblack",
+    "sku": "763888",
     "category": "ipad",
     "namespaceId": "ipad-pro-11-m4",
     "name": "iPad Pro 11-inch (M4) 2TB Space Black",
@@ -12827,6 +12933,7 @@
   },
   {
     "id": "ipad-pro-13-m4-256gb-silver",
+    "sku": "213099",
     "category": "ipad",
     "namespaceId": "ipad-pro-13-m4",
     "name": "iPad Pro 13-inch (M4) 256GB Silver",
@@ -12941,6 +13048,7 @@
   },
   {
     "id": "ipad-pro-13-m4-512gb-silver",
+    "sku": "305594",
     "category": "ipad",
     "namespaceId": "ipad-pro-13-m4",
     "name": "iPad Pro 13-inch (M4) 512GB Silver",
@@ -13055,6 +13163,7 @@
   },
   {
     "id": "ipad-pro-13-m4-1tb-silver",
+    "sku": "701408",
     "category": "ipad",
     "namespaceId": "ipad-pro-13-m4",
     "name": "iPad Pro 13-inch (M4) 1TB Silver",
@@ -13169,6 +13278,7 @@
   },
   {
     "id": "ipad-pro-13-m4-2tb-silver",
+    "sku": "907594",
     "category": "ipad",
     "namespaceId": "ipad-pro-13-m4",
     "name": "iPad Pro 13-inch (M4) 2TB Silver",
@@ -13283,6 +13393,7 @@
   },
   {
     "id": "ipad-pro-13-m4-256gb-spaceblack",
+    "sku": "996722",
     "category": "ipad",
     "namespaceId": "ipad-pro-13-m4",
     "name": "iPad Pro 13-inch (M4) 256GB Space Black",
@@ -13397,6 +13508,7 @@
   },
   {
     "id": "ipad-pro-13-m4-512gb-spaceblack",
+    "sku": "379983",
     "category": "ipad",
     "namespaceId": "ipad-pro-13-m4",
     "name": "iPad Pro 13-inch (M4) 512GB Space Black",
@@ -13511,6 +13623,7 @@
   },
   {
     "id": "ipad-pro-13-m4-1tb-spaceblack",
+    "sku": "701894",
     "category": "ipad",
     "namespaceId": "ipad-pro-13-m4",
     "name": "iPad Pro 13-inch (M4) 1TB Space Black",
@@ -13625,6 +13738,7 @@
   },
   {
     "id": "ipad-pro-13-m4-2tb-spaceblack",
+    "sku": "933739",
     "category": "ipad",
     "namespaceId": "ipad-pro-13-m4",
     "name": "iPad Pro 13-inch (M4) 2TB Space Black",
@@ -13739,6 +13853,7 @@
   },
   {
     "id": "ipad-mini-a17-pro-128gb-blue",
+    "sku": "731752",
     "category": "ipad",
     "namespaceId": "ipad-mini-a17-pro",
     "name": "iPad mini (A17 Pro) 128GB Blue",
@@ -13862,6 +13977,7 @@
   },
   {
     "id": "ipad-mini-a17-pro-256gb-blue",
+    "sku": "452156",
     "category": "ipad",
     "namespaceId": "ipad-mini-a17-pro",
     "name": "iPad mini (A17 Pro) 256GB Blue",
@@ -13985,6 +14101,7 @@
   },
   {
     "id": "ipad-mini-a17-pro-512gb-blue",
+    "sku": "108408",
     "category": "ipad",
     "namespaceId": "ipad-mini-a17-pro",
     "name": "iPad mini (A17 Pro) 512GB Blue",
@@ -14108,6 +14225,7 @@
   },
   {
     "id": "ipad-mini-a17-pro-128gb-purple",
+    "sku": "124963",
     "category": "ipad",
     "namespaceId": "ipad-mini-a17-pro",
     "name": "iPad mini (A17 Pro) 128GB Purple",
@@ -14231,6 +14349,7 @@
   },
   {
     "id": "ipad-mini-a17-pro-256gb-purple",
+    "sku": "895175",
     "category": "ipad",
     "namespaceId": "ipad-mini-a17-pro",
     "name": "iPad mini (A17 Pro) 256GB Purple",
@@ -14354,6 +14473,7 @@
   },
   {
     "id": "ipad-mini-a17-pro-512gb-purple",
+    "sku": "303218",
     "category": "ipad",
     "namespaceId": "ipad-mini-a17-pro",
     "name": "iPad mini (A17 Pro) 512GB Purple",
@@ -14477,6 +14597,7 @@
   },
   {
     "id": "ipad-mini-a17-pro-128gb-starlight",
+    "sku": "947614",
     "category": "ipad",
     "namespaceId": "ipad-mini-a17-pro",
     "name": "iPad mini (A17 Pro) 128GB Starlight",
@@ -14600,6 +14721,7 @@
   },
   {
     "id": "ipad-mini-a17-pro-256gb-starlight",
+    "sku": "183392",
     "category": "ipad",
     "namespaceId": "ipad-mini-a17-pro",
     "name": "iPad mini (A17 Pro) 256GB Starlight",
@@ -14723,6 +14845,7 @@
   },
   {
     "id": "ipad-mini-a17-pro-512gb-starlight",
+    "sku": "899573",
     "category": "ipad",
     "namespaceId": "ipad-mini-a17-pro",
     "name": "iPad mini (A17 Pro) 512GB Starlight",
@@ -14846,6 +14969,7 @@
   },
   {
     "id": "ipad-mini-a17-pro-128gb-spacegray",
+    "sku": "196571",
     "category": "ipad",
     "namespaceId": "ipad-mini-a17-pro",
     "name": "iPad mini (A17 Pro) 128GB Space Gray",
@@ -14969,6 +15093,7 @@
   },
   {
     "id": "ipad-mini-a17-pro-256gb-spacegray",
+    "sku": "437438",
     "category": "ipad",
     "namespaceId": "ipad-mini-a17-pro",
     "name": "iPad mini (A17 Pro) 256GB Space Gray",
@@ -15092,6 +15217,7 @@
   },
   {
     "id": "ipad-mini-a17-pro-512gb-spacegray",
+    "sku": "965068",
     "category": "ipad",
     "namespaceId": "ipad-mini-a17-pro",
     "name": "iPad mini (A17 Pro) 512GB Space Gray",
@@ -15215,6 +15341,7 @@
   },
   {
     "id": "ipad-pro-12-9-m2-128gb-spacegray",
+    "sku": "920157",
     "category": "ipad",
     "namespaceId": "ipad-pro-12-9-m2",
     "name": "iPad Pro 12.9-inch (M2) 128GB Space Gray",
@@ -15330,6 +15457,7 @@
   },
   {
     "id": "ipad-pro-12-9-m2-256gb-spacegray",
+    "sku": "403764",
     "category": "ipad",
     "namespaceId": "ipad-pro-12-9-m2",
     "name": "iPad Pro 12.9-inch (M2) 256GB Space Gray",
@@ -15445,6 +15573,7 @@
   },
   {
     "id": "ipad-pro-12-9-m2-512gb-spacegray",
+    "sku": "215939",
     "category": "ipad",
     "namespaceId": "ipad-pro-12-9-m2",
     "name": "iPad Pro 12.9-inch (M2) 512GB Space Gray",
@@ -15560,6 +15689,7 @@
   },
   {
     "id": "ipad-pro-12-9-m2-1tb-spacegray",
+    "sku": "142993",
     "category": "ipad",
     "namespaceId": "ipad-pro-12-9-m2",
     "name": "iPad Pro 12.9-inch (M2) 1TB Space Gray",
@@ -15675,6 +15805,7 @@
   },
   {
     "id": "ipad-pro-12-9-m2-2tb-spacegray",
+    "sku": "726446",
     "category": "ipad",
     "namespaceId": "ipad-pro-12-9-m2",
     "name": "iPad Pro 12.9-inch (M2) 2TB Space Gray",
@@ -15790,6 +15921,7 @@
   },
   {
     "id": "ipad-pro-12-9-m2-128gb-silver",
+    "sku": "492474",
     "category": "ipad",
     "namespaceId": "ipad-pro-12-9-m2",
     "name": "iPad Pro 12.9-inch (M2) 128GB Silver",
@@ -15905,6 +16037,7 @@
   },
   {
     "id": "ipad-pro-12-9-m2-256gb-silver",
+    "sku": "260261",
     "category": "ipad",
     "namespaceId": "ipad-pro-12-9-m2",
     "name": "iPad Pro 12.9-inch (M2) 256GB Silver",
@@ -16020,6 +16153,7 @@
   },
   {
     "id": "ipad-pro-12-9-m2-512gb-silver",
+    "sku": "977401",
     "category": "ipad",
     "namespaceId": "ipad-pro-12-9-m2",
     "name": "iPad Pro 12.9-inch (M2) 512GB Silver",
@@ -16135,6 +16269,7 @@
   },
   {
     "id": "ipad-pro-12-9-m2-1tb-silver",
+    "sku": "543773",
     "category": "ipad",
     "namespaceId": "ipad-pro-12-9-m2",
     "name": "iPad Pro 12.9-inch (M2) 1TB Silver",
@@ -16250,6 +16385,7 @@
   },
   {
     "id": "ipad-pro-12-9-m2-2tb-silver",
+    "sku": "765257",
     "category": "ipad",
     "namespaceId": "ipad-pro-12-9-m2",
     "name": "iPad Pro 12.9-inch (M2) 2TB Silver",
@@ -16365,6 +16501,7 @@
   },
   {
     "id": "ipad-pro-11-m2-128gb-silver",
+    "sku": "558173",
     "category": "ipad",
     "namespaceId": "ipad-pro-11-m2",
     "name": "iPad Pro 11-inch (M2) 128GB Silver",
@@ -16480,6 +16617,7 @@
   },
   {
     "id": "ipad-pro-11-m2-256gb-silver",
+    "sku": "245595",
     "category": "ipad",
     "namespaceId": "ipad-pro-11-m2",
     "name": "iPad Pro 11-inch (M2) 256GB Silver",
@@ -16595,6 +16733,7 @@
   },
   {
     "id": "ipad-pro-11-m2-512gb-silver",
+    "sku": "962494",
     "category": "ipad",
     "namespaceId": "ipad-pro-11-m2",
     "name": "iPad Pro 11-inch (M2) 512GB Silver",
@@ -16710,6 +16849,7 @@
   },
   {
     "id": "ipad-pro-11-m2-1tb-silver",
+    "sku": "611354",
     "category": "ipad",
     "namespaceId": "ipad-pro-11-m2",
     "name": "iPad Pro 11-inch (M2) 1TB Silver",
@@ -16825,6 +16965,7 @@
   },
   {
     "id": "ipad-pro-11-m2-2tb-silver",
+    "sku": "861762",
     "category": "ipad",
     "namespaceId": "ipad-pro-11-m2",
     "name": "iPad Pro 11-inch (M2) 2TB Silver",
@@ -16940,6 +17081,7 @@
   },
   {
     "id": "ipad-pro-11-m2-128gb-spacegray",
+    "sku": "959221",
     "category": "ipad",
     "namespaceId": "ipad-pro-11-m2",
     "name": "iPad Pro 11-inch (M2) 128GB Space Gray",
@@ -17055,6 +17197,7 @@
   },
   {
     "id": "ipad-pro-11-m2-256gb-spacegray",
+    "sku": "461658",
     "category": "ipad",
     "namespaceId": "ipad-pro-11-m2",
     "name": "iPad Pro 11-inch (M2) 256GB Space Gray",
@@ -17170,6 +17313,7 @@
   },
   {
     "id": "ipad-pro-11-m2-512gb-spacegray",
+    "sku": "637285",
     "category": "ipad",
     "namespaceId": "ipad-pro-11-m2",
     "name": "iPad Pro 11-inch (M2) 512GB Space Gray",
@@ -17285,6 +17429,7 @@
   },
   {
     "id": "ipad-pro-11-m2-1tb-spacegray",
+    "sku": "856659",
     "category": "ipad",
     "namespaceId": "ipad-pro-11-m2",
     "name": "iPad Pro 11-inch (M2) 1TB Space Gray",
@@ -17400,6 +17545,7 @@
   },
   {
     "id": "ipad-pro-11-m2-2tb-spacegray",
+    "sku": "640815",
     "category": "ipad",
     "namespaceId": "ipad-pro-11-m2",
     "name": "iPad Pro 11-inch (M2) 2TB Space Gray",
@@ -17515,6 +17661,7 @@
   },
   {
     "id": "ipad-air-5-64gb-pink",
+    "sku": "594284",
     "category": "ipad",
     "namespaceId": "ipad-air-5",
     "name": "iPad Air (5th generation) 64GB Pink",
@@ -17642,6 +17789,7 @@
   },
   {
     "id": "ipad-air-5-256gb-pink",
+    "sku": "953155",
     "category": "ipad",
     "namespaceId": "ipad-air-5",
     "name": "iPad Air (5th generation) 256GB Pink",
@@ -17769,6 +17917,7 @@
   },
   {
     "id": "ipad-air-5-64gb-blue",
+    "sku": "192775",
     "category": "ipad",
     "namespaceId": "ipad-air-5",
     "name": "iPad Air (5th generation) 64GB Blue",
@@ -17896,6 +18045,7 @@
   },
   {
     "id": "ipad-air-5-256gb-blue",
+    "sku": "507259",
     "category": "ipad",
     "namespaceId": "ipad-air-5",
     "name": "iPad Air (5th generation) 256GB Blue",
@@ -18023,6 +18173,7 @@
   },
   {
     "id": "ipad-air-5-64gb-purple",
+    "sku": "461118",
     "category": "ipad",
     "namespaceId": "ipad-air-5",
     "name": "iPad Air (5th generation) 64GB Purple",
@@ -18150,6 +18301,7 @@
   },
   {
     "id": "ipad-air-5-256gb-purple",
+    "sku": "309231",
     "category": "ipad",
     "namespaceId": "ipad-air-5",
     "name": "iPad Air (5th generation) 256GB Purple",
@@ -18277,6 +18429,7 @@
   },
   {
     "id": "ipad-air-5-64gb-starlight",
+    "sku": "875562",
     "category": "ipad",
     "namespaceId": "ipad-air-5",
     "name": "iPad Air (5th generation) 64GB Starlight",
@@ -18404,6 +18557,7 @@
   },
   {
     "id": "ipad-air-5-256gb-starlight",
+    "sku": "120372",
     "category": "ipad",
     "namespaceId": "ipad-air-5",
     "name": "iPad Air (5th generation) 256GB Starlight",
@@ -18531,6 +18685,7 @@
   },
   {
     "id": "ipad-air-5-64gb-spacegray",
+    "sku": "683163",
     "category": "ipad",
     "namespaceId": "ipad-air-5",
     "name": "iPad Air (5th generation) 64GB Space Gray",
@@ -18658,6 +18813,7 @@
   },
   {
     "id": "ipad-air-5-256gb-spacegray",
+    "sku": "663699",
     "category": "ipad",
     "namespaceId": "ipad-air-5",
     "name": "iPad Air (5th generation) 256GB Space Gray",
@@ -18785,6 +18941,7 @@
   },
   {
     "id": "ipad-10-64gb-blue",
+    "sku": "847607",
     "category": "ipad",
     "namespaceId": "ipad-10",
     "name": "iPad (10th generation) 64GB Blue",
@@ -18907,6 +19064,7 @@
   },
   {
     "id": "ipad-10-256gb-blue",
+    "sku": "607336",
     "category": "ipad",
     "namespaceId": "ipad-10",
     "name": "iPad (10th generation) 256GB Blue",
@@ -19029,6 +19187,7 @@
   },
   {
     "id": "ipad-10-64gb-pink",
+    "sku": "989581",
     "category": "ipad",
     "namespaceId": "ipad-10",
     "name": "iPad (10th generation) 64GB Pink",
@@ -19151,6 +19310,7 @@
   },
   {
     "id": "ipad-10-256gb-pink",
+    "sku": "367072",
     "category": "ipad",
     "namespaceId": "ipad-10",
     "name": "iPad (10th generation) 256GB Pink",
@@ -19273,6 +19433,7 @@
   },
   {
     "id": "ipad-10-64gb-silver",
+    "sku": "712350",
     "category": "ipad",
     "namespaceId": "ipad-10",
     "name": "iPad (10th generation) 64GB Silver",
@@ -19395,6 +19556,7 @@
   },
   {
     "id": "ipad-10-256gb-silver",
+    "sku": "392041",
     "category": "ipad",
     "namespaceId": "ipad-10",
     "name": "iPad (10th generation) 256GB Silver",
@@ -19517,6 +19679,7 @@
   },
   {
     "id": "ipad-10-64gb-yellow",
+    "sku": "789131",
     "category": "ipad",
     "namespaceId": "ipad-10",
     "name": "iPad (10th generation) 64GB Yellow",
@@ -19639,6 +19802,7 @@
   },
   {
     "id": "ipad-10-256gb-yellow",
+    "sku": "541982",
     "category": "ipad",
     "namespaceId": "ipad-10",
     "name": "iPad (10th generation) 256GB Yellow",
@@ -19761,6 +19925,7 @@
   },
   {
     "id": "ipad-mini-6-64gb-purple",
+    "sku": "982278",
     "category": "ipad",
     "namespaceId": "ipad-mini-6",
     "name": "iPad mini (6th generation) 64GB Purple",
@@ -19883,6 +20048,7 @@
   },
   {
     "id": "ipad-mini-6-256gb-purple",
+    "sku": "757711",
     "category": "ipad",
     "namespaceId": "ipad-mini-6",
     "name": "iPad mini (6th generation) 256GB Purple",
@@ -20005,6 +20171,7 @@
   },
   {
     "id": "ipad-mini-6-64gb-pink",
+    "sku": "154870",
     "category": "ipad",
     "namespaceId": "ipad-mini-6",
     "name": "iPad mini (6th generation) 64GB Pink",
@@ -20127,6 +20294,7 @@
   },
   {
     "id": "ipad-mini-6-256gb-pink",
+    "sku": "882559",
     "category": "ipad",
     "namespaceId": "ipad-mini-6",
     "name": "iPad mini (6th generation) 256GB Pink",
@@ -20249,6 +20417,7 @@
   },
   {
     "id": "ipad-mini-6-64gb-starlight",
+    "sku": "116064",
     "category": "ipad",
     "namespaceId": "ipad-mini-6",
     "name": "iPad mini (6th generation) 64GB Starlight",
@@ -20371,6 +20540,7 @@
   },
   {
     "id": "ipad-mini-6-256gb-starlight",
+    "sku": "782466",
     "category": "ipad",
     "namespaceId": "ipad-mini-6",
     "name": "iPad mini (6th generation) 256GB Starlight",
@@ -20493,6 +20663,7 @@
   },
   {
     "id": "ipad-mini-6-64gb-spacegray",
+    "sku": "278352",
     "category": "ipad",
     "namespaceId": "ipad-mini-6",
     "name": "iPad mini (6th generation) 64GB Space Gray",
@@ -20615,6 +20786,7 @@
   },
   {
     "id": "ipad-mini-6-256gb-spacegray",
+    "sku": "313736",
     "category": "ipad",
     "namespaceId": "ipad-mini-6",
     "name": "iPad mini (6th generation) 256GB Space Gray",
@@ -20737,6 +20909,7 @@
   },
   {
     "id": "ipad-9-64gb-spacegray",
+    "sku": "131821",
     "category": "ipad",
     "namespaceId": "ipad-9",
     "name": "iPad (9th generation) 64GB Space Gray",
@@ -20849,6 +21022,7 @@
   },
   {
     "id": "ipad-9-256gb-spacegray",
+    "sku": "368990",
     "category": "ipad",
     "namespaceId": "ipad-9",
     "name": "iPad (9th generation) 256GB Space Gray",
@@ -20961,6 +21135,7 @@
   },
   {
     "id": "ipad-9-64gb-silver",
+    "sku": "592612",
     "category": "ipad",
     "namespaceId": "ipad-9",
     "name": "iPad (9th generation) 64GB Silver",
@@ -21073,6 +21248,7 @@
   },
   {
     "id": "ipad-9-256gb-silver",
+    "sku": "166487",
     "category": "ipad",
     "namespaceId": "ipad-9",
     "name": "iPad (9th generation) 256GB Silver",
