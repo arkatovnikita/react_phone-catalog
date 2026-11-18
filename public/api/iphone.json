@@ -537,7 +537,6 @@
     "images": [
       "img/products/iphone-duo/star-white-0.webp",
       "img/products/iphone-duo/star-white-1.webp",
-      "img/products/iphone-duo/star-white-2.webp",
       "img/products/iphone-duo/star-white-3.webp"
     ],
     "description": [
@@ -663,7 +662,6 @@
     "images": [
       "img/products/iphone-duo/star-white-0.webp",
       "img/products/iphone-duo/star-white-1.webp",
-      "img/products/iphone-duo/star-white-2.webp",
       "img/products/iphone-duo/star-white-3.webp"
     ],
     "description": [
@@ -789,7 +787,6 @@
     "images": [
       "img/products/iphone-duo/star-white-0.webp",
       "img/products/iphone-duo/star-white-1.webp",
-      "img/products/iphone-duo/star-white-2.webp",
       "img/products/iphone-duo/star-white-3.webp"
     ],
     "description": [
@@ -915,7 +912,6 @@
     "images": [
       "img/products/iphone-duo/star-white-0.webp",
       "img/products/iphone-duo/star-white-1.webp",
-      "img/products/iphone-duo/star-white-2.webp",
       "img/products/iphone-duo/star-white-3.webp"
     ],
     "description": [
@@ -2622,7 +2618,6 @@
     "color": "silver",
     "images": [
       "img/products/iphone-18-pro-max/silver-0.webp",
-      "img/products/iphone-18-pro-max/silver-1.webp",
       "img/products/iphone-18-pro-max/silver-2.webp"
     ],
     "description": [
@@ -2753,7 +2748,6 @@
     "color": "silver",
     "images": [
       "img/products/iphone-18-pro-max/silver-0.webp",
-      "img/products/iphone-18-pro-max/silver-1.webp",
       "img/products/iphone-18-pro-max/silver-2.webp"
     ],
     "description": [
@@ -2884,7 +2878,6 @@
     "color": "silver",
     "images": [
       "img/products/iphone-18-pro-max/silver-0.webp",
-      "img/products/iphone-18-pro-max/silver-1.webp",
       "img/products/iphone-18-pro-max/silver-2.webp"
     ],
     "description": [
@@ -3015,7 +3008,6 @@
     "color": "silver",
     "images": [
       "img/products/iphone-18-pro-max/silver-0.webp",
-      "img/products/iphone-18-pro-max/silver-1.webp",
       "img/products/iphone-18-pro-max/silver-2.webp"
     ],
     "description": [
@@ -4718,7 +4710,6 @@
     "color": "silver",
     "images": [
       "img/products/iphone-18-pro/silver-0.webp",
-      "img/products/iphone-18-pro/silver-1.webp",
       "img/products/iphone-18-pro/silver-2.webp"
     ],
     "description": [
@@ -4849,7 +4840,6 @@
     "color": "silver",
     "images": [
       "img/products/iphone-18-pro/silver-0.webp",
-      "img/products/iphone-18-pro/silver-1.webp",
       "img/products/iphone-18-pro/silver-2.webp"
     ],
     "description": [
@@ -4980,7 +4970,6 @@
     "color": "silver",
     "images": [
       "img/products/iphone-18-pro/silver-0.webp",
-      "img/products/iphone-18-pro/silver-1.webp",
       "img/products/iphone-18-pro/silver-2.webp"
     ],
     "description": [
@@ -5111,7 +5100,6 @@
     "color": "silver",
     "images": [
       "img/products/iphone-18-pro/silver-0.webp",
-      "img/products/iphone-18-pro/silver-1.webp",
       "img/products/iphone-18-pro/silver-2.webp"
     ],
     "description": [
@@ -5234,8 +5222,7 @@
     ],
     "color": "softpink",
     "images": [
-      "img/products/iphone-17e/softpink-0.webp",
-      "img/products/iphone-17e/softpink-1.webp"
+      "img/products/iphone-17e/softpink-0.webp"
     ],
     "description": [
       {
@@ -5357,8 +5344,7 @@
     ],
     "color": "softpink",
     "images": [
-      "img/products/iphone-17e/softpink-0.webp",
-      "img/products/iphone-17e/softpink-1.webp"
+      "img/products/iphone-17e/softpink-0.webp"
     ],
     "description": [
       {
@@ -5726,8 +5712,7 @@
     ],
     "color": "white",
     "images": [
-      "img/products/iphone-17e/white-0.webp",
-      "img/products/iphone-17e/white-1.webp"
+      "img/products/iphone-17e/white-0.webp"
     ],
     "description": [
       {
@@ -5849,8 +5834,7 @@
     ],
     "color": "white",
     "images": [
-      "img/products/iphone-17e/white-0.webp",
-      "img/products/iphone-17e/white-1.webp"
+      "img/products/iphone-17e/white-0.webp"
     ],
     "description": [
       {
@@ -6983,8 +6967,7 @@
     "color": "silver",
     "images": [
       "img/products/iphone-17-pro-max/silver-0.webp",
-      "img/products/iphone-17-pro-max/silver-1.webp",
-      "img/products/iphone-17-pro-max/silver-2.webp"
+      "img/products/iphone-17-pro-max/silver-1.webp"
     ],
     "description": [
       {
@@ -7109,8 +7092,7 @@
     "color": "silver",
     "images": [
       "img/products/iphone-17-pro-max/silver-0.webp",
-      "img/products/iphone-17-pro-max/silver-1.webp",
-      "img/products/iphone-17-pro-max/silver-2.webp"
+      "img/products/iphone-17-pro-max/silver-1.webp"
     ],
     "description": [
       {
@@ -7235,8 +7217,7 @@
     "color": "silver",
     "images": [
       "img/products/iphone-17-pro-max/silver-0.webp",
-      "img/products/iphone-17-pro-max/silver-1.webp",
-      "img/products/iphone-17-pro-max/silver-2.webp"
+      "img/products/iphone-17-pro-max/silver-1.webp"
     ],
     "description": [
       {
@@ -7361,8 +7342,7 @@
     "color": "silver",
     "images": [
       "img/products/iphone-17-pro-max/silver-0.webp",
-      "img/products/iphone-17-pro-max/silver-1.webp",
-      "img/products/iphone-17-pro-max/silver-2.webp"
+      "img/products/iphone-17-pro-max/silver-1.webp"
     ],
     "description": [
       {
@@ -8236,8 +8216,7 @@
     "color": "silver",
     "images": [
       "img/products/iphone-17-pro/silver-0.webp",
-      "img/products/iphone-17-pro/silver-1.webp",
-      "img/products/iphone-17-pro/silver-2.webp"
+      "img/products/iphone-17-pro/silver-1.webp"
     ],
     "description": [
       {
@@ -8361,8 +8340,7 @@
     "color": "silver",
     "images": [
       "img/products/iphone-17-pro/silver-0.webp",
-      "img/products/iphone-17-pro/silver-1.webp",
-      "img/products/iphone-17-pro/silver-2.webp"
+      "img/products/iphone-17-pro/silver-1.webp"
     ],
     "description": [
       {
@@ -8486,8 +8464,7 @@
     "color": "silver",
     "images": [
       "img/products/iphone-17-pro/silver-0.webp",
-      "img/products/iphone-17-pro/silver-1.webp",
-      "img/products/iphone-17-pro/silver-2.webp"
+      "img/products/iphone-17-pro/silver-1.webp"
     ],
     "description": [
       {
@@ -8617,7 +8594,6 @@
     "images": [
       "img/products/iphone-air/skyblue-0.webp",
       "img/products/iphone-air/skyblue-1.webp",
-      "img/products/iphone-air/skyblue-2.webp",
       "img/products/iphone-air/skyblue-3.webp"
     ],
     "description": [
@@ -8748,7 +8724,6 @@
     "images": [
       "img/products/iphone-air/skyblue-0.webp",
       "img/products/iphone-air/skyblue-1.webp",
-      "img/products/iphone-air/skyblue-2.webp",
       "img/products/iphone-air/skyblue-3.webp"
     ],
     "description": [
@@ -8879,7 +8854,6 @@
     "images": [
       "img/products/iphone-air/skyblue-0.webp",
       "img/products/iphone-air/skyblue-1.webp",
-      "img/products/iphone-air/skyblue-2.webp",
       "img/products/iphone-air/skyblue-3.webp"
     ],
     "description": [
@@ -9010,7 +8984,6 @@
     "images": [
       "img/products/iphone-air/lightgold-0.webp",
       "img/products/iphone-air/lightgold-1.webp",
-      "img/products/iphone-air/lightgold-2.webp",
       "img/products/iphone-air/lightgold-3.webp"
     ],
     "description": [
@@ -9141,7 +9114,6 @@
     "images": [
       "img/products/iphone-air/lightgold-0.webp",
       "img/products/iphone-air/lightgold-1.webp",
-      "img/products/iphone-air/lightgold-2.webp",
       "img/products/iphone-air/lightgold-3.webp"
     ],
     "description": [
@@ -9272,7 +9244,6 @@
     "images": [
       "img/products/iphone-air/lightgold-0.webp",
       "img/products/iphone-air/lightgold-1.webp",
-      "img/products/iphone-air/lightgold-2.webp",
       "img/products/iphone-air/lightgold-3.webp"
     ],
     "description": [
@@ -9403,7 +9374,6 @@
     "images": [
       "img/products/iphone-air/cloudwhite-0.webp",
       "img/products/iphone-air/cloudwhite-1.webp",
-      "img/products/iphone-air/cloudwhite-2.webp",
       "img/products/iphone-air/cloudwhite-3.webp"
     ],
     "description": [
@@ -9534,7 +9504,6 @@
     "images": [
       "img/products/iphone-air/cloudwhite-0.webp",
       "img/products/iphone-air/cloudwhite-1.webp",
-      "img/products/iphone-air/cloudwhite-2.webp",
       "img/products/iphone-air/cloudwhite-3.webp"
     ],
     "description": [
@@ -9665,7 +9634,6 @@
     "images": [
       "img/products/iphone-air/cloudwhite-0.webp",
       "img/products/iphone-air/cloudwhite-1.webp",
-      "img/products/iphone-air/cloudwhite-2.webp",
       "img/products/iphone-air/cloudwhite-3.webp"
     ],
     "description": [
@@ -10193,7 +10161,6 @@
     "images": [
       "img/products/iphone-17/lavender-0.webp",
       "img/products/iphone-17/lavender-1.webp",
-      "img/products/iphone-17/lavender-2.webp",
       "img/products/iphone-17/lavender-3.webp"
     ],
     "description": [
@@ -10328,7 +10295,6 @@
     "images": [
       "img/products/iphone-17/lavender-0.webp",
       "img/products/iphone-17/lavender-1.webp",
-      "img/products/iphone-17/lavender-2.webp",
       "img/products/iphone-17/lavender-3.webp"
     ],
     "description": [
@@ -11273,7 +11239,6 @@
     "images": [
       "img/products/iphone-17/white-0.webp",
       "img/products/iphone-17/white-1.webp",
-      "img/products/iphone-17/white-2.webp",
       "img/products/iphone-17/white-3.webp"
     ],
     "description": [
@@ -11408,7 +11373,6 @@
     "images": [
       "img/products/iphone-17/white-0.webp",
       "img/products/iphone-17/white-1.webp",
-      "img/products/iphone-17/white-2.webp",
       "img/products/iphone-17/white-3.webp"
     ],
     "description": [
@@ -12324,9 +12288,7 @@
     "color": "whitetitanium",
     "images": [
       "img/products/iphone-16-pro-max/whitetitanium-0.webp",
-      "img/products/iphone-16-pro-max/whitetitanium-1.webp",
-      "img/products/iphone-16-pro-max/whitetitanium-2.webp",
-      "img/products/iphone-16-pro-max/whitetitanium-3.webp"
+      "img/products/iphone-16-pro-max/whitetitanium-1.webp"
     ],
     "description": [
       {
@@ -12455,9 +12417,7 @@
     "color": "whitetitanium",
     "images": [
       "img/products/iphone-16-pro-max/whitetitanium-0.webp",
-      "img/products/iphone-16-pro-max/whitetitanium-1.webp",
-      "img/products/iphone-16-pro-max/whitetitanium-2.webp",
-      "img/products/iphone-16-pro-max/whitetitanium-3.webp"
+      "img/products/iphone-16-pro-max/whitetitanium-1.webp"
     ],
     "description": [
       {
@@ -12586,9 +12546,7 @@
     "color": "whitetitanium",
     "images": [
       "img/products/iphone-16-pro-max/whitetitanium-0.webp",
-      "img/products/iphone-16-pro-max/whitetitanium-1.webp",
-      "img/products/iphone-16-pro-max/whitetitanium-2.webp",
-      "img/products/iphone-16-pro-max/whitetitanium-3.webp"
+      "img/products/iphone-16-pro-max/whitetitanium-1.webp"
     ],
     "description": [
       {
@@ -14167,9 +14125,7 @@
     "color": "whitetitanium",
     "images": [
       "img/products/iphone-16-pro/whitetitanium-0.webp",
-      "img/products/iphone-16-pro/whitetitanium-1.webp",
-      "img/products/iphone-16-pro/whitetitanium-2.webp",
-      "img/products/iphone-16-pro/whitetitanium-3.webp"
+      "img/products/iphone-16-pro/whitetitanium-1.webp"
     ],
     "description": [
       {
@@ -14299,9 +14255,7 @@
     "color": "whitetitanium",
     "images": [
       "img/products/iphone-16-pro/whitetitanium-0.webp",
-      "img/products/iphone-16-pro/whitetitanium-1.webp",
-      "img/products/iphone-16-pro/whitetitanium-2.webp",
-      "img/products/iphone-16-pro/whitetitanium-3.webp"
+      "img/products/iphone-16-pro/whitetitanium-1.webp"
     ],
     "description": [
       {
@@ -14431,9 +14385,7 @@
     "color": "whitetitanium",
     "images": [
       "img/products/iphone-16-pro/whitetitanium-0.webp",
-      "img/products/iphone-16-pro/whitetitanium-1.webp",
-      "img/products/iphone-16-pro/whitetitanium-2.webp",
-      "img/products/iphone-16-pro/whitetitanium-3.webp"
+      "img/products/iphone-16-pro/whitetitanium-1.webp"
     ],
     "description": [
       {
@@ -14563,9 +14515,7 @@
     "color": "whitetitanium",
     "images": [
       "img/products/iphone-16-pro/whitetitanium-0.webp",
-      "img/products/iphone-16-pro/whitetitanium-1.webp",
-      "img/products/iphone-16-pro/whitetitanium-2.webp",
-      "img/products/iphone-16-pro/whitetitanium-3.webp"
+      "img/products/iphone-16-pro/whitetitanium-1.webp"
     ],
     "description": [
       {
@@ -16044,7 +15994,6 @@
     "images": [
       "img/products/iphone-16-plus/white-0.webp",
       "img/products/iphone-16-plus/white-1.webp",
-      "img/products/iphone-16-plus/white-2.webp",
       "img/products/iphone-16-plus/white-3.webp"
     ],
     "description": [
@@ -16180,7 +16129,6 @@
     "images": [
       "img/products/iphone-16-plus/white-0.webp",
       "img/products/iphone-16-plus/white-1.webp",
-      "img/products/iphone-16-plus/white-2.webp",
       "img/products/iphone-16-plus/white-3.webp"
     ],
     "description": [
@@ -16316,7 +16264,6 @@
     "images": [
       "img/products/iphone-16-plus/white-0.webp",
       "img/products/iphone-16-plus/white-1.webp",
-      "img/products/iphone-16-plus/white-2.webp",
       "img/products/iphone-16-plus/white-3.webp"
     ],
     "description": [
@@ -17807,7 +17754,6 @@
     "images": [
       "img/products/iphone-16/white-0.webp",
       "img/products/iphone-16/white-1.webp",
-      "img/products/iphone-16/white-2.webp",
       "img/products/iphone-16/white-3.webp"
     ],
     "description": [
@@ -17942,7 +17888,6 @@
     "images": [
       "img/products/iphone-16/white-0.webp",
       "img/products/iphone-16/white-1.webp",
-      "img/products/iphone-16/white-2.webp",
       "img/products/iphone-16/white-3.webp"
     ],
     "description": [
@@ -19399,8 +19344,7 @@
     "images": [
       "img/products/iphone-15-pro-max/whitetitanium-0.webp",
       "img/products/iphone-15-pro-max/whitetitanium-1.webp",
-      "img/products/iphone-15-pro-max/whitetitanium-2.webp",
-      "img/products/iphone-15-pro-max/whitetitanium-3.webp"
+      "img/products/iphone-15-pro-max/whitetitanium-2.webp"
     ],
     "description": [
       {
@@ -19530,8 +19474,7 @@
     "images": [
       "img/products/iphone-15-pro-max/whitetitanium-0.webp",
       "img/products/iphone-15-pro-max/whitetitanium-1.webp",
-      "img/products/iphone-15-pro-max/whitetitanium-2.webp",
-      "img/products/iphone-15-pro-max/whitetitanium-3.webp"
+      "img/products/iphone-15-pro-max/whitetitanium-2.webp"
     ],
     "description": [
       {
@@ -19661,8 +19604,7 @@
     "images": [
       "img/products/iphone-15-pro-max/whitetitanium-0.webp",
       "img/products/iphone-15-pro-max/whitetitanium-1.webp",
-      "img/products/iphone-15-pro-max/whitetitanium-2.webp",
-      "img/products/iphone-15-pro-max/whitetitanium-3.webp"
+      "img/products/iphone-15-pro-max/whitetitanium-2.webp"
     ],
     "description": [
       {
@@ -21242,8 +21184,7 @@
     "images": [
       "img/products/iphone-15-pro/whitetitanium-0.webp",
       "img/products/iphone-15-pro/whitetitanium-1.webp",
-      "img/products/iphone-15-pro/whitetitanium-2.webp",
-      "img/products/iphone-15-pro/whitetitanium-3.webp"
+      "img/products/iphone-15-pro/whitetitanium-2.webp"
     ],
     "description": [
       {
@@ -21374,8 +21315,7 @@
     "images": [
       "img/products/iphone-15-pro/whitetitanium-0.webp",
       "img/products/iphone-15-pro/whitetitanium-1.webp",
-      "img/products/iphone-15-pro/whitetitanium-2.webp",
-      "img/products/iphone-15-pro/whitetitanium-3.webp"
+      "img/products/iphone-15-pro/whitetitanium-2.webp"
     ],
     "description": [
       {
@@ -21506,8 +21446,7 @@
     "images": [
       "img/products/iphone-15-pro/whitetitanium-0.webp",
       "img/products/iphone-15-pro/whitetitanium-1.webp",
-      "img/products/iphone-15-pro/whitetitanium-2.webp",
-      "img/products/iphone-15-pro/whitetitanium-3.webp"
+      "img/products/iphone-15-pro/whitetitanium-2.webp"
     ],
     "description": [
       {
@@ -21638,8 +21577,7 @@
     "images": [
       "img/products/iphone-15-pro/whitetitanium-0.webp",
       "img/products/iphone-15-pro/whitetitanium-1.webp",
-      "img/products/iphone-15-pro/whitetitanium-2.webp",
-      "img/products/iphone-15-pro/whitetitanium-3.webp"
+      "img/products/iphone-15-pro/whitetitanium-2.webp"
     ],
     "description": [
       {
@@ -22706,8 +22644,7 @@
     "color": "blue",
     "images": [
       "img/products/iphone-15-plus/blue-0.webp",
-      "img/products/iphone-15-plus/blue-1.webp",
-      "img/products/iphone-15-plus/blue-2.webp"
+      "img/products/iphone-15-plus/blue-1.webp"
     ],
     "description": [
       {
@@ -22841,8 +22778,7 @@
     "color": "blue",
     "images": [
       "img/products/iphone-15-plus/blue-0.webp",
-      "img/products/iphone-15-plus/blue-1.webp",
-      "img/products/iphone-15-plus/blue-2.webp"
+      "img/products/iphone-15-plus/blue-1.webp"
     ],
     "description": [
       {
@@ -22976,8 +22912,7 @@
     "color": "blue",
     "images": [
       "img/products/iphone-15-plus/blue-0.webp",
-      "img/products/iphone-15-plus/blue-1.webp",
-      "img/products/iphone-15-plus/blue-2.webp"
+      "img/products/iphone-15-plus/blue-1.webp"
     ],
     "description": [
       {
@@ -24731,8 +24666,7 @@
     "color": "blue",
     "images": [
       "img/products/iphone-15/blue-0.webp",
-      "img/products/iphone-15/blue-1.webp",
-      "img/products/iphone-15/blue-2.webp"
+      "img/products/iphone-15/blue-1.webp"
     ],
     "description": [
       {
@@ -24866,8 +24800,7 @@
     "color": "blue",
     "images": [
       "img/products/iphone-15/blue-0.webp",
-      "img/products/iphone-15/blue-1.webp",
-      "img/products/iphone-15/blue-2.webp"
+      "img/products/iphone-15/blue-1.webp"
     ],
     "description": [
       {
@@ -25001,8 +24934,7 @@
     "color": "blue",
     "images": [
       "img/products/iphone-15/blue-0.webp",
-      "img/products/iphone-15/blue-1.webp",
-      "img/products/iphone-15/blue-2.webp"
+      "img/products/iphone-15/blue-1.webp"
     ],
     "description": [
       {
@@ -27395,8 +27327,7 @@
     "color": "silver",
     "images": [
       "img/products/iphone-14-pro-max/silver-0.webp",
-      "img/products/iphone-14-pro-max/silver-1.webp",
-      "img/products/iphone-14-pro-max/silver-2.webp"
+      "img/products/iphone-14-pro-max/silver-1.webp"
     ],
     "description": [
       {
@@ -27526,8 +27457,7 @@
     "color": "silver",
     "images": [
       "img/products/iphone-14-pro-max/silver-0.webp",
-      "img/products/iphone-14-pro-max/silver-1.webp",
-      "img/products/iphone-14-pro-max/silver-2.webp"
+      "img/products/iphone-14-pro-max/silver-1.webp"
     ],
     "description": [
       {
@@ -27657,8 +27587,7 @@
     "color": "silver",
     "images": [
       "img/products/iphone-14-pro-max/silver-0.webp",
-      "img/products/iphone-14-pro-max/silver-1.webp",
-      "img/products/iphone-14-pro-max/silver-2.webp"
+      "img/products/iphone-14-pro-max/silver-1.webp"
     ],
     "description": [
       {
@@ -27788,8 +27717,7 @@
     "color": "silver",
     "images": [
       "img/products/iphone-14-pro-max/silver-0.webp",
-      "img/products/iphone-14-pro-max/silver-1.webp",
-      "img/products/iphone-14-pro-max/silver-2.webp"
+      "img/products/iphone-14-pro-max/silver-1.webp"
     ],
     "description": [
       {
@@ -29491,8 +29419,7 @@
     "color": "silver",
     "images": [
       "img/products/iphone-14-pro/silver-0.webp",
-      "img/products/iphone-14-pro/silver-1.webp",
-      "img/products/iphone-14-pro/silver-2.webp"
+      "img/products/iphone-14-pro/silver-1.webp"
     ],
     "description": [
       {
@@ -29622,8 +29549,7 @@
     "color": "silver",
     "images": [
       "img/products/iphone-14-pro/silver-0.webp",
-      "img/products/iphone-14-pro/silver-1.webp",
-      "img/products/iphone-14-pro/silver-2.webp"
+      "img/products/iphone-14-pro/silver-1.webp"
     ],
     "description": [
       {
@@ -29753,8 +29679,7 @@
     "color": "silver",
     "images": [
       "img/products/iphone-14-pro/silver-0.webp",
-      "img/products/iphone-14-pro/silver-1.webp",
-      "img/products/iphone-14-pro/silver-2.webp"
+      "img/products/iphone-14-pro/silver-1.webp"
     ],
     "description": [
       {
@@ -29884,8 +29809,7 @@
     "color": "silver",
     "images": [
       "img/products/iphone-14-pro/silver-0.webp",
-      "img/products/iphone-14-pro/silver-1.webp",
-      "img/products/iphone-14-pro/silver-2.webp"
+      "img/products/iphone-14-pro/silver-1.webp"
     ],
     "description": [
       {
@@ -31388,8 +31312,7 @@
     "color": "purple",
     "images": [
       "img/products/iphone-14-plus/purple-0.webp",
-      "img/products/iphone-14-plus/purple-1.webp",
-      "img/products/iphone-14-plus/purple-2.webp"
+      "img/products/iphone-14-plus/purple-1.webp"
     ],
     "description": [
       {
@@ -31528,8 +31451,7 @@
     "color": "purple",
     "images": [
       "img/products/iphone-14-plus/purple-0.webp",
-      "img/products/iphone-14-plus/purple-1.webp",
-      "img/products/iphone-14-plus/purple-2.webp"
+      "img/products/iphone-14-plus/purple-1.webp"
     ],
     "description": [
       {
@@ -31668,8 +31590,7 @@
     "color": "purple",
     "images": [
       "img/products/iphone-14-plus/purple-0.webp",
-      "img/products/iphone-14-plus/purple-1.webp",
-      "img/products/iphone-14-plus/purple-2.webp"
+      "img/products/iphone-14-plus/purple-1.webp"
     ],
     "description": [
       {
@@ -31808,8 +31729,7 @@
     "color": "starlight",
     "images": [
       "img/products/iphone-14-plus/starlight-0.webp",
-      "img/products/iphone-14-plus/starlight-1.webp",
-      "img/products/iphone-14-plus/starlight-2.webp"
+      "img/products/iphone-14-plus/starlight-1.webp"
     ],
     "description": [
       {
@@ -31948,8 +31868,7 @@
     "color": "starlight",
     "images": [
       "img/products/iphone-14-plus/starlight-0.webp",
-      "img/products/iphone-14-plus/starlight-1.webp",
-      "img/products/iphone-14-plus/starlight-2.webp"
+      "img/products/iphone-14-plus/starlight-1.webp"
     ],
     "description": [
       {
@@ -32088,8 +32007,7 @@
     "color": "starlight",
     "images": [
       "img/products/iphone-14-plus/starlight-0.webp",
-      "img/products/iphone-14-plus/starlight-1.webp",
-      "img/products/iphone-14-plus/starlight-2.webp"
+      "img/products/iphone-14-plus/starlight-1.webp"
     ],
     "description": [
       {
@@ -33068,8 +32986,7 @@
     "color": "purple",
     "images": [
       "img/products/iphone-14/purple-0.webp",
-      "img/products/iphone-14/purple-1.webp",
-      "img/products/iphone-14/purple-2.webp"
+      "img/products/iphone-14/purple-1.webp"
     ],
     "description": [
       {
@@ -33208,8 +33125,7 @@
     "color": "purple",
     "images": [
       "img/products/iphone-14/purple-0.webp",
-      "img/products/iphone-14/purple-1.webp",
-      "img/products/iphone-14/purple-2.webp"
+      "img/products/iphone-14/purple-1.webp"
     ],
     "description": [
       {
@@ -33348,8 +33264,7 @@
     "color": "purple",
     "images": [
       "img/products/iphone-14/purple-0.webp",
-      "img/products/iphone-14/purple-1.webp",
-      "img/products/iphone-14/purple-2.webp"
+      "img/products/iphone-14/purple-1.webp"
     ],
     "description": [
       {
@@ -33908,8 +33823,7 @@
     "color": "starlight",
     "images": [
       "img/products/iphone-14/starlight-0.webp",
-      "img/products/iphone-14/starlight-1.webp",
-      "img/products/iphone-14/starlight-2.webp"
+      "img/products/iphone-14/starlight-1.webp"
     ],
     "description": [
       {
@@ -34048,8 +33962,7 @@
     "color": "starlight",
     "images": [
       "img/products/iphone-14/starlight-0.webp",
-      "img/products/iphone-14/starlight-1.webp",
-      "img/products/iphone-14/starlight-2.webp"
+      "img/products/iphone-14/starlight-1.webp"
     ],
     "description": [
       {
@@ -34188,8 +34101,7 @@
     "color": "starlight",
     "images": [
       "img/products/iphone-14/starlight-0.webp",
-      "img/products/iphone-14/starlight-1.webp",
-      "img/products/iphone-14/starlight-2.webp"
+      "img/products/iphone-14/starlight-1.webp"
     ],
     "description": [
       {
@@ -37760,8 +37672,7 @@
     "color": "silver",
     "images": [
       "img/products/iphone-13-pro-max/silver-0.webp",
-      "img/products/iphone-13-pro-max/silver-1.webp",
-      "img/products/iphone-13-pro-max/silver-2.webp"
+      "img/products/iphone-13-pro-max/silver-1.webp"
     ],
     "description": [
       {
@@ -37896,8 +37807,7 @@
     "color": "silver",
     "images": [
       "img/products/iphone-13-pro-max/silver-0.webp",
-      "img/products/iphone-13-pro-max/silver-1.webp",
-      "img/products/iphone-13-pro-max/silver-2.webp"
+      "img/products/iphone-13-pro-max/silver-1.webp"
     ],
     "description": [
       {
@@ -38032,8 +37942,7 @@
     "color": "silver",
     "images": [
       "img/products/iphone-13-pro-max/silver-0.webp",
-      "img/products/iphone-13-pro-max/silver-1.webp",
-      "img/products/iphone-13-pro-max/silver-2.webp"
+      "img/products/iphone-13-pro-max/silver-1.webp"
     ],
     "description": [
       {
@@ -38168,8 +38077,7 @@
     "color": "silver",
     "images": [
       "img/products/iphone-13-pro-max/silver-0.webp",
-      "img/products/iphone-13-pro-max/silver-1.webp",
-      "img/products/iphone-13-pro-max/silver-2.webp"
+      "img/products/iphone-13-pro-max/silver-1.webp"
     ],
     "description": [
       {
@@ -39936,8 +39844,7 @@
     "color": "silver",
     "images": [
       "img/products/iphone-13-pro/silver-0.webp",
-      "img/products/iphone-13-pro/silver-1.webp",
-      "img/products/iphone-13-pro/silver-2.webp"
+      "img/products/iphone-13-pro/silver-1.webp"
     ],
     "description": [
       {
@@ -40072,8 +39979,7 @@
     "color": "silver",
     "images": [
       "img/products/iphone-13-pro/silver-0.webp",
-      "img/products/iphone-13-pro/silver-1.webp",
-      "img/products/iphone-13-pro/silver-2.webp"
+      "img/products/iphone-13-pro/silver-1.webp"
     ],
     "description": [
       {
@@ -40208,8 +40114,7 @@
     "color": "silver",
     "images": [
       "img/products/iphone-13-pro/silver-0.webp",
-      "img/products/iphone-13-pro/silver-1.webp",
-      "img/products/iphone-13-pro/silver-2.webp"
+      "img/products/iphone-13-pro/silver-1.webp"
     ],
     "description": [
       {
@@ -40344,8 +40249,7 @@
     "color": "silver",
     "images": [
       "img/products/iphone-13-pro/silver-0.webp",
-      "img/products/iphone-13-pro/silver-1.webp",
-      "img/products/iphone-13-pro/silver-2.webp"
+      "img/products/iphone-13-pro/silver-1.webp"
     ],
     "description": [
       {
@@ -41448,8 +41352,7 @@
     "color": "pink",
     "images": [
       "img/products/iphone-13/pink-0.webp",
-      "img/products/iphone-13/pink-1.webp",
-      "img/products/iphone-13/pink-2.webp"
+      "img/products/iphone-13/pink-1.webp"
     ],
     "description": [
       {
@@ -41588,8 +41491,7 @@
     "color": "pink",
     "images": [
       "img/products/iphone-13/pink-0.webp",
-      "img/products/iphone-13/pink-1.webp",
-      "img/products/iphone-13/pink-2.webp"
+      "img/products/iphone-13/pink-1.webp"
     ],
     "description": [
       {
@@ -41728,8 +41630,7 @@
     "color": "pink",
     "images": [
       "img/products/iphone-13/pink-0.webp",
-      "img/products/iphone-13/pink-1.webp",
-      "img/products/iphone-13/pink-2.webp"
+      "img/products/iphone-13/pink-1.webp"
     ],
     "description": [
       {
@@ -42288,8 +42189,7 @@
     "color": "starlight",
     "images": [
       "img/products/iphone-13/starlight-0.webp",
-      "img/products/iphone-13/starlight-1.webp",
-      "img/products/iphone-13/starlight-2.webp"
+      "img/products/iphone-13/starlight-1.webp"
     ],
     "description": [
       {
@@ -42428,8 +42328,7 @@
     "color": "starlight",
     "images": [
       "img/products/iphone-13/starlight-0.webp",
-      "img/products/iphone-13/starlight-1.webp",
-      "img/products/iphone-13/starlight-2.webp"
+      "img/products/iphone-13/starlight-1.webp"
     ],
     "description": [
       {
@@ -42568,8 +42467,7 @@
     "color": "starlight",
     "images": [
       "img/products/iphone-13/starlight-0.webp",
-      "img/products/iphone-13/starlight-1.webp",
-      "img/products/iphone-13/starlight-2.webp"
+      "img/products/iphone-13/starlight-1.webp"
     ],
     "description": [
       {
