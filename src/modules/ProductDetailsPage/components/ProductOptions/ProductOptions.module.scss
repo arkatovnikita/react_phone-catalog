@@ -21,7 +21,8 @@
 
 .top {
   display: flex;
-  gap: 12px;
+  flex-wrap: wrap;
+  gap: 8px 12px;
   align-items: center;
   justify-content: space-between;
   margin-bottom: 24px;
@@ -42,6 +43,7 @@
 }
 
 .id {
+  white-space: nowrap;
   color: var(--color-icons);
 }
 

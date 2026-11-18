@@ -149,11 +149,15 @@
 
   .iphone & {
     right: 50%;
-    height: 76%;
+    height: min(76%, calc(100% - 120px));
     max-width: 90%;
     transform: translateX(50%);
   }
 
+  .ipad &,
+  .watch & {
+    height: min(70%, calc(100% - 96px));
+  }
 
   .tile:hover & {
     transform: scale(1.05) translateY(-4px);
