@@ -2765,81 +2765,6 @@
   {
     "id": 80,
     "category": "airpods",
-    "itemId": "airpods-pro-3",
-    "namespaceId": "airpods-pro-3",
-    "name": "AirPods Pro 3",
-    "modelName": "AirPods Pro 3",
-    "fullPrice": 249,
-    "price": 249,
-    "color": "White",
-    "capacity": "",
-    "year": 2025,
-    "image": "img/products/airpods-pro-3/white-0.webp",
-    "summary": "Active Noise Cancellation · H2",
-    "colors": [
-      {
-        "name": "White",
-        "hex": "#f2f2f0"
-      }
-    ],
-    "rating": 4.3,
-    "reviewsCount": 863,
-    "inStock": true,
-    "isNew": false
-  },
-  {
-    "id": 81,
-    "category": "airpods",
-    "itemId": "airpods-5-usb-c-case",
-    "namespaceId": "airpods-5",
-    "name": "AirPods 5 with USB-C case",
-    "modelName": "AirPods 5",
-    "fullPrice": 129,
-    "price": 129,
-    "color": "White",
-    "capacity": "USB-C case",
-    "year": 2026,
-    "image": "img/products/airpods-5/white-0.webp",
-    "summary": "Active Noise Cancellation · H2",
-    "colors": [
-      {
-        "name": "White",
-        "hex": "#f2f2f0"
-      }
-    ],
-    "rating": 4.5,
-    "reviewsCount": 675,
-    "inStock": true,
-    "isNew": true
-  },
-  {
-    "id": 82,
-    "category": "airpods",
-    "itemId": "airpods-4",
-    "namespaceId": "airpods-4",
-    "name": "AirPods 4",
-    "modelName": "AirPods 4",
-    "fullPrice": 129,
-    "price": 99,
-    "color": "White",
-    "capacity": "",
-    "year": 2024,
-    "image": "img/products/airpods-4/white-0.webp",
-    "summary": "Open-ear · H2",
-    "colors": [
-      {
-        "name": "White",
-        "hex": "#f2f2f0"
-      }
-    ],
-    "rating": 4.7,
-    "reviewsCount": 83,
-    "inStock": true,
-    "isNew": false
-  },
-  {
-    "id": 83,
-    "category": "airpods",
     "itemId": "airpods-max-2-orange",
     "namespaceId": "airpods-max-2",
     "name": "AirPods Max 2 Orange",
@@ -2879,7 +2804,198 @@
     "isNew": true
   },
   {
+    "id": 81,
+    "category": "airpods",
+    "itemId": "airpods-5-usb-c-case",
+    "namespaceId": "airpods-5",
+    "name": "AirPods 5 with USB-C case",
+    "modelName": "AirPods 5",
+    "fullPrice": 129,
+    "price": 129,
+    "color": "White",
+    "capacity": "USB-C case",
+    "year": 2026,
+    "image": "img/products/airpods-5/white-0.webp",
+    "summary": "Active Noise Cancellation · H2",
+    "colors": [
+      {
+        "name": "White",
+        "hex": "#f2f2f0"
+      }
+    ],
+    "rating": 4.5,
+    "reviewsCount": 675,
+    "inStock": true,
+    "isNew": true
+  },
+  {
+    "id": 82,
+    "category": "airpods",
+    "itemId": "airpods-pro-3",
+    "namespaceId": "airpods-pro-3",
+    "name": "AirPods Pro 3",
+    "modelName": "AirPods Pro 3",
+    "fullPrice": 249,
+    "price": 249,
+    "color": "White",
+    "capacity": "",
+    "year": 2025,
+    "image": "img/products/airpods-pro-3/white-0.webp",
+    "summary": "Active Noise Cancellation · H2",
+    "colors": [
+      {
+        "name": "White",
+        "hex": "#f2f2f0"
+      }
+    ],
+    "rating": 4.3,
+    "reviewsCount": 863,
+    "inStock": true,
+    "isNew": false
+  },
+  {
+    "id": 83,
+    "category": "airpods",
+    "itemId": "airpods-max-usb-c-midnight",
+    "namespaceId": "airpods-max-usb-c",
+    "name": "AirPods Max (USB-C) Midnight",
+    "modelName": "AirPods Max (USB-C)",
+    "fullPrice": 549,
+    "price": 439,
+    "color": "Midnight",
+    "capacity": "",
+    "year": 2024,
+    "image": "img/products/airpods-max-usb-c/midnight-0.webp",
+    "summary": "Over-ear · H1 · Active Noise Cancellation",
+    "colors": [
+      {
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "name": "Starlight",
+        "hex": "#efe9df"
+      },
+      {
+        "name": "Blue",
+        "hex": "#a9c3d9"
+      },
+      {
+        "name": "Purple",
+        "hex": "#cbb8dd"
+      },
+      {
+        "name": "Orange",
+        "hex": "#f2b48c"
+      }
+    ],
+    "rating": 4.6,
+    "reviewsCount": 379,
+    "inStock": true,
+    "isNew": false
+  },
+  {
     "id": 84,
+    "category": "airpods",
+    "itemId": "airpods-4-anc",
+    "namespaceId": "airpods-4-anc",
+    "name": "AirPods 4 with Active Noise Cancellation",
+    "modelName": "AirPods 4 with Active Noise Cancellation",
+    "fullPrice": 179,
+    "price": 139,
+    "color": "White",
+    "capacity": "",
+    "year": 2024,
+    "image": "img/products/airpods-4-anc/white-0.webp",
+    "summary": "Open-ear · H2 · Active Noise Cancellation",
+    "colors": [
+      {
+        "name": "White",
+        "hex": "#f2f2f0"
+      }
+    ],
+    "rating": 4.4,
+    "reviewsCount": 564,
+    "inStock": true,
+    "isNew": false
+  },
+  {
+    "id": 85,
+    "category": "airpods",
+    "itemId": "airpods-4",
+    "namespaceId": "airpods-4",
+    "name": "AirPods 4",
+    "modelName": "AirPods 4",
+    "fullPrice": 129,
+    "price": 99,
+    "color": "White",
+    "capacity": "",
+    "year": 2024,
+    "image": "img/products/airpods-4/white-0.webp",
+    "summary": "Open-ear · H2",
+    "colors": [
+      {
+        "name": "White",
+        "hex": "#f2f2f0"
+      }
+    ],
+    "rating": 4.7,
+    "reviewsCount": 83,
+    "inStock": true,
+    "isNew": false
+  },
+  {
+    "id": 86,
+    "category": "airpods",
+    "itemId": "airpods-pro-2-usb-c-case",
+    "namespaceId": "airpods-pro-2",
+    "name": "AirPods Pro 2 with USB-C case",
+    "modelName": "AirPods Pro 2",
+    "fullPrice": 249,
+    "price": 159,
+    "color": "White",
+    "capacity": "USB-C case",
+    "year": 2022,
+    "image": "img/products/airpods-pro-2/white-0.webp",
+    "summary": "Active Noise Cancellation · H2",
+    "colors": [
+      {
+        "name": "White",
+        "hex": "#f2f2f0"
+      }
+    ],
+    "rating": 4.7,
+    "reviewsCount": 697,
+    "inStock": true,
+    "isNew": false
+  },
+  {
+    "id": 87,
+    "category": "airpods",
+    "itemId": "airpods-3-lightning-case",
+    "namespaceId": "airpods-3",
+    "name": "AirPods (3rd generation) with Lightning case",
+    "modelName": "AirPods (3rd generation)",
+    "fullPrice": 169,
+    "price": 89,
+    "color": "White",
+    "capacity": "Lightning case",
+    "year": 2021,
+    "image": "img/products/airpods-3/white-0.webp",
+    "summary": "Spatial Audio · H1",
+    "colors": [
+      {
+        "name": "White",
+        "hex": "#f2f2f0"
+      }
+    ],
+    "rating": 4.3,
+    "reviewsCount": 830,
+    "inStock": true,
+    "isNew": false
+  },
+  {
+    "id": 88,
     "category": "accessories",
     "itemId": "apple-pencil-pro",
     "namespaceId": "apple-pencil-pro",
@@ -2904,7 +3020,7 @@
     "isNew": false
   },
   {
-    "id": 85,
+    "id": 89,
     "category": "accessories",
     "itemId": "magsafe-charger",
     "namespaceId": "magsafe-charger",
@@ -2929,7 +3045,7 @@
     "isNew": false
   },
   {
-    "id": 86,
+    "id": 90,
     "category": "accessories",
     "itemId": "iphone-air-magsafe-battery",
     "namespaceId": "iphone-air-magsafe-battery",
@@ -2954,7 +3070,7 @@
     "isNew": false
   },
   {
-    "id": 87,
+    "id": 91,
     "category": "accessories",
     "itemId": "40w-dynamic-power-adapter",
     "namespaceId": "40w-dynamic-power-adapter",
@@ -2979,7 +3095,7 @@
     "isNew": false
   },
   {
-    "id": 88,
+    "id": 92,
     "category": "accessories",
     "itemId": "20w-usb-c-power-adapter",
     "namespaceId": "20w-usb-c-power-adapter",
@@ -3004,7 +3120,7 @@
     "isNew": false
   },
   {
-    "id": 89,
+    "id": 93,
     "category": "accessories",
     "itemId": "usb-c-to-magsafe-3-cable",
     "namespaceId": "usb-c-to-magsafe-3-cable",
@@ -3029,7 +3145,7 @@
     "isNew": false
   },
   {
-    "id": 90,
+    "id": 94,
     "category": "accessories",
     "itemId": "airtag-4-pack",
     "namespaceId": "airtag-4-pack",
@@ -3054,7 +3170,7 @@
     "isNew": true
   },
   {
-    "id": 91,
+    "id": 95,
     "category": "accessories",
     "itemId": "airtag-finewoven-key-ring-burgundy",
     "namespaceId": "airtag-finewoven-key-ring",
@@ -3083,7 +3199,7 @@
     "isNew": true
   },
   {
-    "id": 92,
+    "id": 96,
     "category": "accessories",
     "itemId": "iphone-18-pro-max-silicone-case",
     "namespaceId": "iphone-18-pro-max-silicone-case",
@@ -3108,7 +3224,7 @@
     "isNew": true
   },
   {
-    "id": 93,
+    "id": 97,
     "category": "accessories",
     "itemId": "iphone-finewoven-wallet",
     "namespaceId": "iphone-finewoven-wallet",
@@ -3133,7 +3249,7 @@
     "isNew": true
   },
   {
-    "id": 94,
+    "id": 98,
     "category": "accessories",
     "itemId": "iphone-duo-case",
     "namespaceId": "iphone-duo-case",

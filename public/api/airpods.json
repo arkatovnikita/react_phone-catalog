@@ -1,395 +1,5 @@
 [
   {
-    "id": "airpods-pro-3",
-    "sku": "836571",
-    "category": "airpods",
-    "namespaceId": "airpods-pro-3",
-    "name": "AirPods Pro 3",
-    "modelName": "AirPods Pro 3",
-    "year": 2025,
-    "capacityAvailable": [],
-    "capacity": "",
-    "capacityLabel": "Storage",
-    "priceRegular": 249,
-    "priceDiscount": 249,
-    "colors": [
-      {
-        "slug": "white",
-        "name": "White",
-        "hex": "#f2f2f0"
-      }
-    ],
-    "color": "white",
-    "images": [
-      "img/products/airpods-pro-3/white-0.webp"
-    ],
-    "description": [
-      {
-        "title": "World-class noise cancellation",
-        "text": [
-          "The best Active Noise Cancellation in AirPods."
-        ]
-      },
-      {
-        "title": "Heart rate sensing",
-        "text": [
-          "Track your heart rate during workouts."
-        ]
-      },
-      {
-        "title": "Hearing health",
-        "text": [
-          "Hearing Test and Hearing Aid features built in."
-        ]
-      }
-    ],
-    "specs": [
-      {
-        "label": "Chip",
-        "value": "H2"
-      },
-      {
-        "label": "Noise control",
-        "value": "Active Noise Cancellation, Transparency"
-      },
-      {
-        "label": "Battery",
-        "value": "Up to 8 hours, 24 hours with case"
-      },
-      {
-        "label": "Health",
-        "value": "Heart rate sensing"
-      },
-      {
-        "label": "Water resistance",
-        "value": "IP57"
-      },
-      {
-        "label": "Charging",
-        "value": "USB-C, MagSafe, Qi"
-      }
-    ],
-    "rating": 4.3,
-    "reviewsCount": 863,
-    "reviews": [
-      {
-        "author": "Emma L.",
-        "rating": 5,
-        "date": "2026-07-14",
-        "title": "So comfortable",
-        "text": "I forget I am wearing them."
-      },
-      {
-        "author": "Noah B.",
-        "rating": 5,
-        "date": "2026-09-18",
-        "title": "Great for calls",
-        "text": "People say my voice sounds clear even outside."
-      },
-      {
-        "author": "Olivia M.",
-        "rating": 4,
-        "date": "2026-05-21",
-        "title": "Instant pairing",
-        "text": "Switches between my iPhone and Mac automatically."
-      }
-    ],
-    "inStock": true
-  },
-  {
-    "id": "airpods-5-usb-c-case",
-    "sku": "785823",
-    "category": "airpods",
-    "namespaceId": "airpods-5",
-    "name": "AirPods 5 with USB-C case",
-    "modelName": "AirPods 5",
-    "year": 2026,
-    "capacityAvailable": [
-      "USB-C case",
-      "Wireless case"
-    ],
-    "capacity": "USB-C case",
-    "capacityLabel": "Charging case",
-    "priceRegular": 129,
-    "priceDiscount": 129,
-    "colors": [
-      {
-        "slug": "white",
-        "name": "White",
-        "hex": "#f2f2f0"
-      }
-    ],
-    "color": "white",
-    "images": [
-      "img/products/airpods-5/white-0.webp"
-    ],
-    "description": [
-      {
-        "title": "Noise cancellation for everyone",
-        "text": [
-          "Active Noise Cancellation now comes standard."
-        ]
-      },
-      {
-        "title": "Comfortable all day",
-        "text": [
-          "An open-ear design that fits more ears."
-        ]
-      },
-      {
-        "title": "Wireless option",
-        "text": [
-          "Choose the case with wireless charging."
-        ]
-      }
-    ],
-    "specs": [
-      {
-        "label": "Chip",
-        "value": "H2"
-      },
-      {
-        "label": "Noise control",
-        "value": "Active Noise Cancellation"
-      },
-      {
-        "label": "Battery",
-        "value": "Up to 6 hours, 22 hours with case"
-      },
-      {
-        "label": "Fit",
-        "value": "Open-ear design"
-      },
-      {
-        "label": "Charging",
-        "value": "USB-C or wireless case"
-      },
-      {
-        "label": "Weight",
-        "value": "4.3 g per earbud"
-      }
-    ],
-    "rating": 4.5,
-    "reviewsCount": 675,
-    "reviews": [
-      {
-        "author": "Ethan W.",
-        "rating": 5,
-        "date": "2026-08-27",
-        "title": "Instant pairing",
-        "text": "Switches between my iPhone and Mac automatically."
-      },
-      {
-        "author": "Mia S.",
-        "rating": 5,
-        "date": "2026-07-14",
-        "title": "Great for calls",
-        "text": "People say my voice sounds clear even outside."
-      },
-      {
-        "author": "Sofia R.",
-        "rating": 4,
-        "date": "2026-06-03",
-        "title": "So comfortable",
-        "text": "I forget I am wearing them."
-      }
-    ],
-    "inStock": true
-  },
-  {
-    "id": "airpods-5-wireless-case",
-    "sku": "621076",
-    "category": "airpods",
-    "namespaceId": "airpods-5",
-    "name": "AirPods 5 with Wireless case",
-    "modelName": "AirPods 5",
-    "year": 2026,
-    "capacityAvailable": [
-      "USB-C case",
-      "Wireless case"
-    ],
-    "capacity": "Wireless case",
-    "capacityLabel": "Charging case",
-    "priceRegular": 179,
-    "priceDiscount": 179,
-    "colors": [
-      {
-        "slug": "white",
-        "name": "White",
-        "hex": "#f2f2f0"
-      }
-    ],
-    "color": "white",
-    "images": [
-      "img/products/airpods-5/white-0.webp"
-    ],
-    "description": [
-      {
-        "title": "Noise cancellation for everyone",
-        "text": [
-          "Active Noise Cancellation now comes standard."
-        ]
-      },
-      {
-        "title": "Comfortable all day",
-        "text": [
-          "An open-ear design that fits more ears."
-        ]
-      },
-      {
-        "title": "Wireless option",
-        "text": [
-          "Choose the case with wireless charging."
-        ]
-      }
-    ],
-    "specs": [
-      {
-        "label": "Chip",
-        "value": "H2"
-      },
-      {
-        "label": "Noise control",
-        "value": "Active Noise Cancellation"
-      },
-      {
-        "label": "Battery",
-        "value": "Up to 6 hours, 22 hours with case"
-      },
-      {
-        "label": "Fit",
-        "value": "Open-ear design"
-      },
-      {
-        "label": "Charging",
-        "value": "USB-C or wireless case"
-      },
-      {
-        "label": "Weight",
-        "value": "4.3 g per earbud"
-      }
-    ],
-    "rating": 4.5,
-    "reviewsCount": 675,
-    "reviews": [
-      {
-        "author": "Ethan W.",
-        "rating": 5,
-        "date": "2026-08-27",
-        "title": "Instant pairing",
-        "text": "Switches between my iPhone and Mac automatically."
-      },
-      {
-        "author": "Mia S.",
-        "rating": 5,
-        "date": "2026-07-14",
-        "title": "Great for calls",
-        "text": "People say my voice sounds clear even outside."
-      },
-      {
-        "author": "Sofia R.",
-        "rating": 4,
-        "date": "2026-06-03",
-        "title": "So comfortable",
-        "text": "I forget I am wearing them."
-      }
-    ],
-    "inStock": true
-  },
-  {
-    "id": "airpods-4",
-    "sku": "720000",
-    "category": "airpods",
-    "namespaceId": "airpods-4",
-    "name": "AirPods 4",
-    "modelName": "AirPods 4",
-    "year": 2024,
-    "capacityAvailable": [],
-    "capacity": "",
-    "capacityLabel": "Storage",
-    "priceRegular": 129,
-    "priceDiscount": 99,
-    "colors": [
-      {
-        "slug": "white",
-        "name": "White",
-        "hex": "#f2f2f0"
-      }
-    ],
-    "color": "white",
-    "images": [
-      "img/products/airpods-4/white-0.webp"
-    ],
-    "description": [
-      {
-        "title": "Redesigned for comfort",
-        "text": [
-          "The most comfortable AirPods yet."
-        ]
-      },
-      {
-        "title": "Personalized Spatial Audio",
-        "text": [
-          "Immersive sound that surrounds you."
-        ]
-      },
-      {
-        "title": "Previous generation",
-        "text": [
-          "A great price on a fan favorite."
-        ]
-      }
-    ],
-    "specs": [
-      {
-        "label": "Chip",
-        "value": "H2"
-      },
-      {
-        "label": "Battery",
-        "value": "Up to 5 hours, 30 hours with case"
-      },
-      {
-        "label": "Fit",
-        "value": "Open-ear design"
-      },
-      {
-        "label": "Charging",
-        "value": "USB-C"
-      },
-      {
-        "label": "Water resistance",
-        "value": "IP54"
-      }
-    ],
-    "rating": 4.7,
-    "reviewsCount": 83,
-    "reviews": [
-      {
-        "author": "Max N.",
-        "rating": 5,
-        "date": "2026-08-27",
-        "title": "Great for calls",
-        "text": "People say my voice sounds clear even outside."
-      },
-      {
-        "author": "Olivia M.",
-        "rating": 5,
-        "date": "2026-09-18",
-        "title": "So comfortable",
-        "text": "I forget I am wearing them."
-      },
-      {
-        "author": "Ava C.",
-        "rating": 5,
-        "date": "2026-06-03",
-        "title": "Instant pairing",
-        "text": "Switches between my iPhone and Mac automatically."
-      }
-    ],
-    "inStock": true
-  },
-  {
     "id": "airpods-max-2-orange",
     "sku": "272457",
     "category": "airpods",
@@ -968,6 +578,1484 @@
         "author": "Lucas P.",
         "rating": 4,
         "date": "2026-05-21",
+        "title": "Instant pairing",
+        "text": "Switches between my iPhone and Mac automatically."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "airpods-5-usb-c-case",
+    "sku": "785823",
+    "category": "airpods",
+    "namespaceId": "airpods-5",
+    "name": "AirPods 5 with USB-C case",
+    "modelName": "AirPods 5",
+    "year": 2026,
+    "capacityAvailable": [
+      "USB-C case",
+      "Wireless case"
+    ],
+    "capacity": "USB-C case",
+    "capacityLabel": "Charging case",
+    "priceRegular": 129,
+    "priceDiscount": 129,
+    "colors": [
+      {
+        "slug": "white",
+        "name": "White",
+        "hex": "#f2f2f0"
+      }
+    ],
+    "color": "white",
+    "images": [
+      "img/products/airpods-5/white-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Noise cancellation for everyone",
+        "text": [
+          "Active Noise Cancellation now comes standard."
+        ]
+      },
+      {
+        "title": "Comfortable all day",
+        "text": [
+          "An open-ear design that fits more ears."
+        ]
+      },
+      {
+        "title": "Wireless option",
+        "text": [
+          "Choose the case with wireless charging."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Chip",
+        "value": "H2"
+      },
+      {
+        "label": "Noise control",
+        "value": "Active Noise Cancellation"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 6 hours, 22 hours with case"
+      },
+      {
+        "label": "Fit",
+        "value": "Open-ear design"
+      },
+      {
+        "label": "Charging",
+        "value": "USB-C or wireless case"
+      },
+      {
+        "label": "Weight",
+        "value": "4.3 g per earbud"
+      }
+    ],
+    "rating": 4.5,
+    "reviewsCount": 675,
+    "reviews": [
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Instant pairing",
+        "text": "Switches between my iPhone and Mac automatically."
+      },
+      {
+        "author": "Mia S.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Great for calls",
+        "text": "People say my voice sounds clear even outside."
+      },
+      {
+        "author": "Sofia R.",
+        "rating": 4,
+        "date": "2026-06-03",
+        "title": "So comfortable",
+        "text": "I forget I am wearing them."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "airpods-5-wireless-case",
+    "sku": "621076",
+    "category": "airpods",
+    "namespaceId": "airpods-5",
+    "name": "AirPods 5 with Wireless case",
+    "modelName": "AirPods 5",
+    "year": 2026,
+    "capacityAvailable": [
+      "USB-C case",
+      "Wireless case"
+    ],
+    "capacity": "Wireless case",
+    "capacityLabel": "Charging case",
+    "priceRegular": 179,
+    "priceDiscount": 179,
+    "colors": [
+      {
+        "slug": "white",
+        "name": "White",
+        "hex": "#f2f2f0"
+      }
+    ],
+    "color": "white",
+    "images": [
+      "img/products/airpods-5/white-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Noise cancellation for everyone",
+        "text": [
+          "Active Noise Cancellation now comes standard."
+        ]
+      },
+      {
+        "title": "Comfortable all day",
+        "text": [
+          "An open-ear design that fits more ears."
+        ]
+      },
+      {
+        "title": "Wireless option",
+        "text": [
+          "Choose the case with wireless charging."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Chip",
+        "value": "H2"
+      },
+      {
+        "label": "Noise control",
+        "value": "Active Noise Cancellation"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 6 hours, 22 hours with case"
+      },
+      {
+        "label": "Fit",
+        "value": "Open-ear design"
+      },
+      {
+        "label": "Charging",
+        "value": "USB-C or wireless case"
+      },
+      {
+        "label": "Weight",
+        "value": "4.3 g per earbud"
+      }
+    ],
+    "rating": 4.5,
+    "reviewsCount": 675,
+    "reviews": [
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Instant pairing",
+        "text": "Switches between my iPhone and Mac automatically."
+      },
+      {
+        "author": "Mia S.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Great for calls",
+        "text": "People say my voice sounds clear even outside."
+      },
+      {
+        "author": "Sofia R.",
+        "rating": 4,
+        "date": "2026-06-03",
+        "title": "So comfortable",
+        "text": "I forget I am wearing them."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "airpods-pro-3",
+    "sku": "836571",
+    "category": "airpods",
+    "namespaceId": "airpods-pro-3",
+    "name": "AirPods Pro 3",
+    "modelName": "AirPods Pro 3",
+    "year": 2025,
+    "capacityAvailable": [],
+    "capacity": "",
+    "capacityLabel": "Storage",
+    "priceRegular": 249,
+    "priceDiscount": 249,
+    "colors": [
+      {
+        "slug": "white",
+        "name": "White",
+        "hex": "#f2f2f0"
+      }
+    ],
+    "color": "white",
+    "images": [
+      "img/products/airpods-pro-3/white-0.webp"
+    ],
+    "description": [
+      {
+        "title": "World-class noise cancellation",
+        "text": [
+          "The best Active Noise Cancellation in AirPods."
+        ]
+      },
+      {
+        "title": "Heart rate sensing",
+        "text": [
+          "Track your heart rate during workouts."
+        ]
+      },
+      {
+        "title": "Hearing health",
+        "text": [
+          "Hearing Test and Hearing Aid features built in."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Chip",
+        "value": "H2"
+      },
+      {
+        "label": "Noise control",
+        "value": "Active Noise Cancellation, Transparency"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 8 hours, 24 hours with case"
+      },
+      {
+        "label": "Health",
+        "value": "Heart rate sensing"
+      },
+      {
+        "label": "Water resistance",
+        "value": "IP57"
+      },
+      {
+        "label": "Charging",
+        "value": "USB-C, MagSafe, Qi"
+      }
+    ],
+    "rating": 4.3,
+    "reviewsCount": 863,
+    "reviews": [
+      {
+        "author": "Emma L.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "So comfortable",
+        "text": "I forget I am wearing them."
+      },
+      {
+        "author": "Noah B.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Great for calls",
+        "text": "People say my voice sounds clear even outside."
+      },
+      {
+        "author": "Olivia M.",
+        "rating": 4,
+        "date": "2026-05-21",
+        "title": "Instant pairing",
+        "text": "Switches between my iPhone and Mac automatically."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "airpods-max-usb-c-midnight",
+    "sku": "961500",
+    "category": "airpods",
+    "namespaceId": "airpods-max-usb-c",
+    "name": "AirPods Max (USB-C) Midnight",
+    "modelName": "AirPods Max (USB-C)",
+    "year": 2024,
+    "capacityAvailable": [],
+    "capacity": "",
+    "capacityLabel": "Storage",
+    "priceRegular": 549,
+    "priceDiscount": 439,
+    "colors": [
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      },
+      {
+        "slug": "blue",
+        "name": "Blue",
+        "hex": "#a9c3d9"
+      },
+      {
+        "slug": "purple",
+        "name": "Purple",
+        "hex": "#cbb8dd"
+      },
+      {
+        "slug": "orange",
+        "name": "Orange",
+        "hex": "#f2b48c"
+      }
+    ],
+    "color": "midnight",
+    "images": [
+      "img/products/airpods-max-usb-c/midnight-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Now with USB-C",
+        "text": [
+          "Charge with the same cable as your iPhone, iPad and Mac."
+        ]
+      },
+      {
+        "title": "High-fidelity audio",
+        "text": [
+          "Custom drivers deliver rich, detailed sound."
+        ]
+      },
+      {
+        "title": "Previous generation, great price",
+        "text": [
+          "Iconic over-ear headphones for less."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Chip",
+        "value": "H1 in each ear cup"
+      },
+      {
+        "label": "Noise control",
+        "value": "Active Noise Cancellation, Transparency"
+      },
+      {
+        "label": "Audio",
+        "value": "Personalized Spatial Audio, Adaptive EQ"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 20 hours"
+      },
+      {
+        "label": "Charging",
+        "value": "USB-C"
+      },
+      {
+        "label": "Weight",
+        "value": "385 g"
+      }
+    ],
+    "rating": 4.6,
+    "reviewsCount": 379,
+    "reviews": [
+      {
+        "author": "Sofia R.",
+        "rating": 5,
+        "date": "2026-10-02",
+        "title": "Amazing sound",
+        "text": "Rich bass and clear vocals. Noise cancellation works great on flights."
+      },
+      {
+        "author": "Max N.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Instant pairing",
+        "text": "Switches between my iPhone and Mac automatically."
+      },
+      {
+        "author": "James T.",
+        "rating": 4,
+        "date": "2026-08-27",
+        "title": "So comfortable",
+        "text": "I forget I am wearing them."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "airpods-max-usb-c-starlight",
+    "sku": "149879",
+    "category": "airpods",
+    "namespaceId": "airpods-max-usb-c",
+    "name": "AirPods Max (USB-C) Starlight",
+    "modelName": "AirPods Max (USB-C)",
+    "year": 2024,
+    "capacityAvailable": [],
+    "capacity": "",
+    "capacityLabel": "Storage",
+    "priceRegular": 549,
+    "priceDiscount": 439,
+    "colors": [
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      },
+      {
+        "slug": "blue",
+        "name": "Blue",
+        "hex": "#a9c3d9"
+      },
+      {
+        "slug": "purple",
+        "name": "Purple",
+        "hex": "#cbb8dd"
+      },
+      {
+        "slug": "orange",
+        "name": "Orange",
+        "hex": "#f2b48c"
+      }
+    ],
+    "color": "starlight",
+    "images": [
+      "img/products/airpods-max-usb-c/starlight-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Now with USB-C",
+        "text": [
+          "Charge with the same cable as your iPhone, iPad and Mac."
+        ]
+      },
+      {
+        "title": "High-fidelity audio",
+        "text": [
+          "Custom drivers deliver rich, detailed sound."
+        ]
+      },
+      {
+        "title": "Previous generation, great price",
+        "text": [
+          "Iconic over-ear headphones for less."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Chip",
+        "value": "H1 in each ear cup"
+      },
+      {
+        "label": "Noise control",
+        "value": "Active Noise Cancellation, Transparency"
+      },
+      {
+        "label": "Audio",
+        "value": "Personalized Spatial Audio, Adaptive EQ"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 20 hours"
+      },
+      {
+        "label": "Charging",
+        "value": "USB-C"
+      },
+      {
+        "label": "Weight",
+        "value": "385 g"
+      }
+    ],
+    "rating": 4.6,
+    "reviewsCount": 379,
+    "reviews": [
+      {
+        "author": "Sofia R.",
+        "rating": 5,
+        "date": "2026-10-02",
+        "title": "Amazing sound",
+        "text": "Rich bass and clear vocals. Noise cancellation works great on flights."
+      },
+      {
+        "author": "Max N.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Instant pairing",
+        "text": "Switches between my iPhone and Mac automatically."
+      },
+      {
+        "author": "James T.",
+        "rating": 4,
+        "date": "2026-08-27",
+        "title": "So comfortable",
+        "text": "I forget I am wearing them."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "airpods-max-usb-c-blue",
+    "sku": "852264",
+    "category": "airpods",
+    "namespaceId": "airpods-max-usb-c",
+    "name": "AirPods Max (USB-C) Blue",
+    "modelName": "AirPods Max (USB-C)",
+    "year": 2024,
+    "capacityAvailable": [],
+    "capacity": "",
+    "capacityLabel": "Storage",
+    "priceRegular": 549,
+    "priceDiscount": 439,
+    "colors": [
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      },
+      {
+        "slug": "blue",
+        "name": "Blue",
+        "hex": "#a9c3d9"
+      },
+      {
+        "slug": "purple",
+        "name": "Purple",
+        "hex": "#cbb8dd"
+      },
+      {
+        "slug": "orange",
+        "name": "Orange",
+        "hex": "#f2b48c"
+      }
+    ],
+    "color": "blue",
+    "images": [
+      "img/products/airpods-max-usb-c/blue-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Now with USB-C",
+        "text": [
+          "Charge with the same cable as your iPhone, iPad and Mac."
+        ]
+      },
+      {
+        "title": "High-fidelity audio",
+        "text": [
+          "Custom drivers deliver rich, detailed sound."
+        ]
+      },
+      {
+        "title": "Previous generation, great price",
+        "text": [
+          "Iconic over-ear headphones for less."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Chip",
+        "value": "H1 in each ear cup"
+      },
+      {
+        "label": "Noise control",
+        "value": "Active Noise Cancellation, Transparency"
+      },
+      {
+        "label": "Audio",
+        "value": "Personalized Spatial Audio, Adaptive EQ"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 20 hours"
+      },
+      {
+        "label": "Charging",
+        "value": "USB-C"
+      },
+      {
+        "label": "Weight",
+        "value": "385 g"
+      }
+    ],
+    "rating": 4.6,
+    "reviewsCount": 379,
+    "reviews": [
+      {
+        "author": "Sofia R.",
+        "rating": 5,
+        "date": "2026-10-02",
+        "title": "Amazing sound",
+        "text": "Rich bass and clear vocals. Noise cancellation works great on flights."
+      },
+      {
+        "author": "Max N.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Instant pairing",
+        "text": "Switches between my iPhone and Mac automatically."
+      },
+      {
+        "author": "James T.",
+        "rating": 4,
+        "date": "2026-08-27",
+        "title": "So comfortable",
+        "text": "I forget I am wearing them."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "airpods-max-usb-c-purple",
+    "sku": "108785",
+    "category": "airpods",
+    "namespaceId": "airpods-max-usb-c",
+    "name": "AirPods Max (USB-C) Purple",
+    "modelName": "AirPods Max (USB-C)",
+    "year": 2024,
+    "capacityAvailable": [],
+    "capacity": "",
+    "capacityLabel": "Storage",
+    "priceRegular": 549,
+    "priceDiscount": 439,
+    "colors": [
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      },
+      {
+        "slug": "blue",
+        "name": "Blue",
+        "hex": "#a9c3d9"
+      },
+      {
+        "slug": "purple",
+        "name": "Purple",
+        "hex": "#cbb8dd"
+      },
+      {
+        "slug": "orange",
+        "name": "Orange",
+        "hex": "#f2b48c"
+      }
+    ],
+    "color": "purple",
+    "images": [
+      "img/products/airpods-max-usb-c/purple-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Now with USB-C",
+        "text": [
+          "Charge with the same cable as your iPhone, iPad and Mac."
+        ]
+      },
+      {
+        "title": "High-fidelity audio",
+        "text": [
+          "Custom drivers deliver rich, detailed sound."
+        ]
+      },
+      {
+        "title": "Previous generation, great price",
+        "text": [
+          "Iconic over-ear headphones for less."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Chip",
+        "value": "H1 in each ear cup"
+      },
+      {
+        "label": "Noise control",
+        "value": "Active Noise Cancellation, Transparency"
+      },
+      {
+        "label": "Audio",
+        "value": "Personalized Spatial Audio, Adaptive EQ"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 20 hours"
+      },
+      {
+        "label": "Charging",
+        "value": "USB-C"
+      },
+      {
+        "label": "Weight",
+        "value": "385 g"
+      }
+    ],
+    "rating": 4.6,
+    "reviewsCount": 379,
+    "reviews": [
+      {
+        "author": "Sofia R.",
+        "rating": 5,
+        "date": "2026-10-02",
+        "title": "Amazing sound",
+        "text": "Rich bass and clear vocals. Noise cancellation works great on flights."
+      },
+      {
+        "author": "Max N.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Instant pairing",
+        "text": "Switches between my iPhone and Mac automatically."
+      },
+      {
+        "author": "James T.",
+        "rating": 4,
+        "date": "2026-08-27",
+        "title": "So comfortable",
+        "text": "I forget I am wearing them."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "airpods-max-usb-c-orange",
+    "sku": "433532",
+    "category": "airpods",
+    "namespaceId": "airpods-max-usb-c",
+    "name": "AirPods Max (USB-C) Orange",
+    "modelName": "AirPods Max (USB-C)",
+    "year": 2024,
+    "capacityAvailable": [],
+    "capacity": "",
+    "capacityLabel": "Storage",
+    "priceRegular": 549,
+    "priceDiscount": 439,
+    "colors": [
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      },
+      {
+        "slug": "blue",
+        "name": "Blue",
+        "hex": "#a9c3d9"
+      },
+      {
+        "slug": "purple",
+        "name": "Purple",
+        "hex": "#cbb8dd"
+      },
+      {
+        "slug": "orange",
+        "name": "Orange",
+        "hex": "#f2b48c"
+      }
+    ],
+    "color": "orange",
+    "images": [
+      "img/products/airpods-max-usb-c/orange-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Now with USB-C",
+        "text": [
+          "Charge with the same cable as your iPhone, iPad and Mac."
+        ]
+      },
+      {
+        "title": "High-fidelity audio",
+        "text": [
+          "Custom drivers deliver rich, detailed sound."
+        ]
+      },
+      {
+        "title": "Previous generation, great price",
+        "text": [
+          "Iconic over-ear headphones for less."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Chip",
+        "value": "H1 in each ear cup"
+      },
+      {
+        "label": "Noise control",
+        "value": "Active Noise Cancellation, Transparency"
+      },
+      {
+        "label": "Audio",
+        "value": "Personalized Spatial Audio, Adaptive EQ"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 20 hours"
+      },
+      {
+        "label": "Charging",
+        "value": "USB-C"
+      },
+      {
+        "label": "Weight",
+        "value": "385 g"
+      }
+    ],
+    "rating": 4.6,
+    "reviewsCount": 379,
+    "reviews": [
+      {
+        "author": "Sofia R.",
+        "rating": 5,
+        "date": "2026-10-02",
+        "title": "Amazing sound",
+        "text": "Rich bass and clear vocals. Noise cancellation works great on flights."
+      },
+      {
+        "author": "Max N.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Instant pairing",
+        "text": "Switches between my iPhone and Mac automatically."
+      },
+      {
+        "author": "James T.",
+        "rating": 4,
+        "date": "2026-08-27",
+        "title": "So comfortable",
+        "text": "I forget I am wearing them."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "airpods-4-anc",
+    "sku": "454056",
+    "category": "airpods",
+    "namespaceId": "airpods-4-anc",
+    "name": "AirPods 4 with Active Noise Cancellation",
+    "modelName": "AirPods 4 with Active Noise Cancellation",
+    "year": 2024,
+    "capacityAvailable": [],
+    "capacity": "",
+    "capacityLabel": "Storage",
+    "priceRegular": 179,
+    "priceDiscount": 139,
+    "colors": [
+      {
+        "slug": "white",
+        "name": "White",
+        "hex": "#f2f2f0"
+      }
+    ],
+    "color": "white",
+    "images": [
+      "img/products/airpods-4-anc/white-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Noise cancellation in an open-ear design",
+        "text": [
+          "Quiet the world around you without ear tips."
+        ]
+      },
+      {
+        "title": "Wireless charging case",
+        "text": [
+          "Charge with USB-C, a Qi charger or an Apple Watch charger."
+        ]
+      },
+      {
+        "title": "Find My with speaker",
+        "text": [
+          "The case plays a sound so you can find it."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Chip",
+        "value": "H2"
+      },
+      {
+        "label": "Noise control",
+        "value": "Active Noise Cancellation, Transparency, Adaptive Audio"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 5 hours, 30 hours with case"
+      },
+      {
+        "label": "Fit",
+        "value": "Open-ear design"
+      },
+      {
+        "label": "Charging",
+        "value": "USB-C, wireless"
+      },
+      {
+        "label": "Water resistance",
+        "value": "IP54"
+      }
+    ],
+    "rating": 4.4,
+    "reviewsCount": 564,
+    "reviews": [
+      {
+        "author": "Olivia M.",
+        "rating": 5,
+        "date": "2026-10-02",
+        "title": "Instant pairing",
+        "text": "Switches between my iPhone and Mac automatically."
+      },
+      {
+        "author": "James T.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "So comfortable",
+        "text": "I forget I am wearing them."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Amazing sound",
+        "text": "Rich bass and clear vocals. Noise cancellation works great on flights."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "airpods-4",
+    "sku": "720000",
+    "category": "airpods",
+    "namespaceId": "airpods-4",
+    "name": "AirPods 4",
+    "modelName": "AirPods 4",
+    "year": 2024,
+    "capacityAvailable": [],
+    "capacity": "",
+    "capacityLabel": "Storage",
+    "priceRegular": 129,
+    "priceDiscount": 99,
+    "colors": [
+      {
+        "slug": "white",
+        "name": "White",
+        "hex": "#f2f2f0"
+      }
+    ],
+    "color": "white",
+    "images": [
+      "img/products/airpods-4/white-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Redesigned for comfort",
+        "text": [
+          "The most comfortable AirPods yet."
+        ]
+      },
+      {
+        "title": "Personalized Spatial Audio",
+        "text": [
+          "Immersive sound that surrounds you."
+        ]
+      },
+      {
+        "title": "Previous generation",
+        "text": [
+          "A great price on a fan favorite."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Chip",
+        "value": "H2"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 5 hours, 30 hours with case"
+      },
+      {
+        "label": "Fit",
+        "value": "Open-ear design"
+      },
+      {
+        "label": "Charging",
+        "value": "USB-C"
+      },
+      {
+        "label": "Water resistance",
+        "value": "IP54"
+      }
+    ],
+    "rating": 4.7,
+    "reviewsCount": 83,
+    "reviews": [
+      {
+        "author": "Max N.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Great for calls",
+        "text": "People say my voice sounds clear even outside."
+      },
+      {
+        "author": "Olivia M.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "So comfortable",
+        "text": "I forget I am wearing them."
+      },
+      {
+        "author": "Ava C.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Instant pairing",
+        "text": "Switches between my iPhone and Mac automatically."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "airpods-pro-2-usb-c-case",
+    "sku": "931831",
+    "category": "airpods",
+    "namespaceId": "airpods-pro-2",
+    "name": "AirPods Pro 2 with USB-C case",
+    "modelName": "AirPods Pro 2",
+    "year": 2022,
+    "capacityAvailable": [
+      "USB-C case",
+      "Lightning case"
+    ],
+    "capacity": "USB-C case",
+    "capacityLabel": "Charging case",
+    "priceRegular": 249,
+    "priceDiscount": 159,
+    "colors": [
+      {
+        "slug": "white",
+        "name": "White",
+        "hex": "#f2f2f0"
+      }
+    ],
+    "color": "white",
+    "images": [
+      "img/products/airpods-pro-2/white-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Up to 2x more noise cancellation",
+        "text": [
+          "Compared with the first AirPods Pro."
+        ]
+      },
+      {
+        "title": "Adaptive Audio",
+        "text": [
+          "Blends noise cancellation and Transparency to fit your surroundings."
+        ]
+      },
+      {
+        "title": "Previous generation, great price",
+        "text": [
+          "Pro sound and noise cancellation for less."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Chip",
+        "value": "H2"
+      },
+      {
+        "label": "Noise control",
+        "value": "Active Noise Cancellation, Adaptive Audio, Transparency"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 6 hours, 30 hours with case"
+      },
+      {
+        "label": "Fit",
+        "value": "In-ear with four ear tip sizes"
+      },
+      {
+        "label": "Charging",
+        "value": "MagSafe case, Qi"
+      },
+      {
+        "label": "Water resistance",
+        "value": "IP54"
+      }
+    ],
+    "rating": 4.7,
+    "reviewsCount": 697,
+    "reviews": [
+      {
+        "author": "Lucas P.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Great for calls",
+        "text": "People say my voice sounds clear even outside."
+      },
+      {
+        "author": "Emma L.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "So comfortable",
+        "text": "I forget I am wearing them."
+      },
+      {
+        "author": "Grace H.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Amazing sound",
+        "text": "Rich bass and clear vocals. Noise cancellation works great on flights."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "airpods-pro-2-lightning-case",
+    "sku": "182663",
+    "category": "airpods",
+    "namespaceId": "airpods-pro-2",
+    "name": "AirPods Pro 2 with Lightning case",
+    "modelName": "AirPods Pro 2",
+    "year": 2022,
+    "capacityAvailable": [
+      "USB-C case",
+      "Lightning case"
+    ],
+    "capacity": "Lightning case",
+    "capacityLabel": "Charging case",
+    "priceRegular": 249,
+    "priceDiscount": 159,
+    "colors": [
+      {
+        "slug": "white",
+        "name": "White",
+        "hex": "#f2f2f0"
+      }
+    ],
+    "color": "white",
+    "images": [
+      "img/products/airpods-pro-2/white-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Up to 2x more noise cancellation",
+        "text": [
+          "Compared with the first AirPods Pro."
+        ]
+      },
+      {
+        "title": "Adaptive Audio",
+        "text": [
+          "Blends noise cancellation and Transparency to fit your surroundings."
+        ]
+      },
+      {
+        "title": "Previous generation, great price",
+        "text": [
+          "Pro sound and noise cancellation for less."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Chip",
+        "value": "H2"
+      },
+      {
+        "label": "Noise control",
+        "value": "Active Noise Cancellation, Adaptive Audio, Transparency"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 6 hours, 30 hours with case"
+      },
+      {
+        "label": "Fit",
+        "value": "In-ear with four ear tip sizes"
+      },
+      {
+        "label": "Charging",
+        "value": "MagSafe case, Qi"
+      },
+      {
+        "label": "Water resistance",
+        "value": "IP54"
+      }
+    ],
+    "rating": 4.7,
+    "reviewsCount": 697,
+    "reviews": [
+      {
+        "author": "Lucas P.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Great for calls",
+        "text": "People say my voice sounds clear even outside."
+      },
+      {
+        "author": "Emma L.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "So comfortable",
+        "text": "I forget I am wearing them."
+      },
+      {
+        "author": "Grace H.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Amazing sound",
+        "text": "Rich bass and clear vocals. Noise cancellation works great on flights."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "airpods-3-lightning-case",
+    "sku": "678119",
+    "category": "airpods",
+    "namespaceId": "airpods-3",
+    "name": "AirPods (3rd generation) with Lightning case",
+    "modelName": "AirPods (3rd generation)",
+    "year": 2021,
+    "capacityAvailable": [
+      "Lightning case",
+      "MagSafe case"
+    ],
+    "capacity": "Lightning case",
+    "capacityLabel": "Charging case",
+    "priceRegular": 169,
+    "priceDiscount": 89,
+    "colors": [
+      {
+        "slug": "white",
+        "name": "White",
+        "hex": "#f2f2f0"
+      }
+    ],
+    "color": "white",
+    "images": [
+      "img/products/airpods-3/white-0.webp",
+      "img/products/airpods-3/white-1.webp",
+      "img/products/airpods-3/white-2.webp",
+      "img/products/airpods-3/white-3.webp"
+    ],
+    "description": [
+      {
+        "title": "Spatial Audio",
+        "text": [
+          "Immersive sound with dynamic head tracking."
+        ]
+      },
+      {
+        "title": "Force sensor",
+        "text": [
+          "Press the stem to play, pause or skip tracks."
+        ]
+      },
+      {
+        "title": "Previous generation, great price",
+        "text": [
+          "The easiest way to get AirPods."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Chip",
+        "value": "H1"
+      },
+      {
+        "label": "Audio",
+        "value": "Personalized Spatial Audio, Adaptive EQ"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 6 hours, 30 hours with case"
+      },
+      {
+        "label": "Fit",
+        "value": "Open-ear design"
+      },
+      {
+        "label": "Charging",
+        "value": "Lightning or MagSafe case"
+      },
+      {
+        "label": "Water resistance",
+        "value": "IPX4"
+      }
+    ],
+    "rating": 4.3,
+    "reviewsCount": 830,
+    "reviews": [
+      {
+        "author": "Grace H.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "So comfortable",
+        "text": "I forget I am wearing them."
+      },
+      {
+        "author": "Leo F.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Amazing sound",
+        "text": "Rich bass and clear vocals. Noise cancellation works great on flights."
+      },
+      {
+        "author": "Mia S.",
+        "rating": 4,
+        "date": "2026-08-27",
+        "title": "Instant pairing",
+        "text": "Switches between my iPhone and Mac automatically."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "airpods-3-magsafe-case",
+    "sku": "382327",
+    "category": "airpods",
+    "namespaceId": "airpods-3",
+    "name": "AirPods (3rd generation) with MagSafe case",
+    "modelName": "AirPods (3rd generation)",
+    "year": 2021,
+    "capacityAvailable": [
+      "Lightning case",
+      "MagSafe case"
+    ],
+    "capacity": "MagSafe case",
+    "capacityLabel": "Charging case",
+    "priceRegular": 179,
+    "priceDiscount": 99,
+    "colors": [
+      {
+        "slug": "white",
+        "name": "White",
+        "hex": "#f2f2f0"
+      }
+    ],
+    "color": "white",
+    "images": [
+      "img/products/airpods-3/white-0.webp",
+      "img/products/airpods-3/white-1.webp",
+      "img/products/airpods-3/white-2.webp",
+      "img/products/airpods-3/white-3.webp"
+    ],
+    "description": [
+      {
+        "title": "Spatial Audio",
+        "text": [
+          "Immersive sound with dynamic head tracking."
+        ]
+      },
+      {
+        "title": "Force sensor",
+        "text": [
+          "Press the stem to play, pause or skip tracks."
+        ]
+      },
+      {
+        "title": "Previous generation, great price",
+        "text": [
+          "The easiest way to get AirPods."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Chip",
+        "value": "H1"
+      },
+      {
+        "label": "Audio",
+        "value": "Personalized Spatial Audio, Adaptive EQ"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 6 hours, 30 hours with case"
+      },
+      {
+        "label": "Fit",
+        "value": "Open-ear design"
+      },
+      {
+        "label": "Charging",
+        "value": "Lightning or MagSafe case"
+      },
+      {
+        "label": "Water resistance",
+        "value": "IPX4"
+      }
+    ],
+    "rating": 4.3,
+    "reviewsCount": 830,
+    "reviews": [
+      {
+        "author": "Grace H.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "So comfortable",
+        "text": "I forget I am wearing them."
+      },
+      {
+        "author": "Leo F.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Amazing sound",
+        "text": "Rich bass and clear vocals. Noise cancellation works great on flights."
+      },
+      {
+        "author": "Mia S.",
+        "rating": 4,
+        "date": "2026-08-27",
         "title": "Instant pairing",
         "text": "Switches between my iPhone and Mac automatically."
       }
