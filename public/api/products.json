@@ -1299,7 +1299,7 @@
     "capacity": "42mm",
     "year": 2026,
     "image": "img/products/apple-watch-series-12/darkbronze-0.webp",
-    "summary": "Aluminum · S11 chip · GPS",
+    "summary": "Aluminum, titanium or ceramic",
     "colors": [
       {
         "name": "Dark Bronze",
@@ -1316,6 +1316,22 @@
       {
         "name": "Space Gray",
         "hex": "#5c5f63"
+      },
+      {
+        "name": "Natural Titanium",
+        "hex": "#c8c2b8"
+      },
+      {
+        "name": "Radiant Gold Titanium",
+        "hex": "#d9bf94"
+      },
+      {
+        "name": "Night Blue Ceramic",
+        "hex": "#2c3646"
+      },
+      {
+        "name": "Pearl White Ceramic",
+        "hex": "#f0ede6"
       }
     ],
     "rating": 4.5,
@@ -1365,7 +1381,7 @@
     "capacity": "42mm",
     "year": 2025,
     "image": "img/products/apple-watch-series-11/rosegold-0.webp",
-    "summary": "Aluminum · S10 chip · up to 24 hours",
+    "summary": "Aluminum or titanium · up to 24 hours",
     "colors": [
       {
         "name": "Rose Gold",
@@ -1382,6 +1398,18 @@
       {
         "name": "Space Gray",
         "hex": "#5c5f63"
+      },
+      {
+        "name": "Natural Titanium",
+        "hex": "#c8c2b8"
+      },
+      {
+        "name": "Gold Titanium",
+        "hex": "#d4b88f"
+      },
+      {
+        "name": "Slate Titanium",
+        "hex": "#4b4b4d"
       }
     ],
     "rating": 4.7,
@@ -1460,7 +1488,7 @@
     "capacity": "42mm",
     "year": 2024,
     "image": "img/products/apple-watch-series-10/jetblack-0.webp",
-    "summary": "Aluminum · S10 chip · thinnest design",
+    "summary": "Aluminum or titanium · thinnest design",
     "colors": [
       {
         "name": "Jet Black",
@@ -1473,6 +1501,18 @@
       {
         "name": "Silver",
         "hex": "#e3e4e5"
+      },
+      {
+        "name": "Natural Titanium",
+        "hex": "#c8c2b8"
+      },
+      {
+        "name": "Gold Titanium",
+        "hex": "#d4b88f"
+      },
+      {
+        "name": "Slate Titanium",
+        "hex": "#4b4b4d"
       }
     ],
     "rating": 4.8,
@@ -1512,37 +1552,21 @@
   {
     "id": 43,
     "category": "watch",
-    "itemId": "apple-watch-series-9-41mm-pink",
+    "itemId": "apple-watch-series-9-41mm",
     "namespaceId": "apple-watch-series-9",
-    "name": "Apple Watch Series 9 41mm Pink",
+    "name": "Apple Watch Series 9 41mm",
     "modelName": "Apple Watch Series 9",
     "fullPrice": 399,
     "price": 289,
-    "color": "Pink",
+    "color": "Midnight",
     "capacity": "41mm",
     "year": 2023,
-    "image": "img/products/apple-watch-series-9/pink-0.webp",
+    "image": "img/products/apple-watch-series-9/midnight-0.webp",
     "summary": "Aluminum · S9 chip · double tap",
     "colors": [
       {
-        "name": "Pink",
-        "hex": "#f2c9d0"
-      },
-      {
         "name": "Midnight",
         "hex": "#2e3641"
-      },
-      {
-        "name": "Starlight",
-        "hex": "#efe9df"
-      },
-      {
-        "name": "Silver",
-        "hex": "#e3e4e5"
-      },
-      {
-        "name": "(PRODUCT)RED",
-        "hex": "#c0172f"
       }
     ],
     "rating": 4.7,
