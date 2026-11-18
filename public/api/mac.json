@@ -1,0 +1,4850 @@
+[
+  {
+    "id": "macbook-air-13-512gb-midnight",
+    "category": "mac",
+    "namespaceId": "macbook-air-13",
+    "name": "MacBook Air 13-inch M5 512GB Midnight",
+    "modelName": "MacBook Air 13-inch M5",
+    "year": 2026,
+    "capacityAvailable": [
+      "512GB",
+      "1TB"
+    ],
+    "capacity": "512GB",
+    "capacityLabel": "Storage",
+    "priceRegular": 1299,
+    "priceDiscount": 1299,
+    "colors": [
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "slug": "skyblue",
+        "name": "Sky Blue",
+        "hex": "#bcd0e0"
+      },
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      }
+    ],
+    "color": "midnight",
+    "images": [
+      "img/products/macbook-air-13/midnight-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Supercharged by M5",
+        "text": [
+          "Fast, silent and efficient — there is no fan, and no noise."
+        ]
+      },
+      {
+        "title": "Double the storage",
+        "text": [
+          "Now starts with 512GB of faster SSD storage."
+        ]
+      },
+      {
+        "title": "All-day battery",
+        "text": [
+          "Up to 18 hours of battery life for work and play."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "13.6\" Liquid Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "2560×1664"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M5, 10-core CPU, 8-core GPU"
+      },
+      {
+        "label": "Memory",
+        "value": "16GB unified memory"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 18 hours"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Center Stage"
+      },
+      {
+        "label": "Ports",
+        "value": "2x Thunderbolt 4, MagSafe 3"
+      },
+      {
+        "label": "Weight",
+        "value": "1.24 kg"
+      }
+    ],
+    "rating": 4.5,
+    "reviewsCount": 838,
+    "reviews": [
+      {
+        "author": "Leo F.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "Mia S.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Beautiful display",
+        "text": "Text is razor sharp and colors are accurate for photo editing."
+      },
+      {
+        "author": "Lucas P.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Silent and powerful",
+        "text": "Compiles projects in seconds and stays completely quiet."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "macbook-air-13-1tb-midnight",
+    "category": "mac",
+    "namespaceId": "macbook-air-13",
+    "name": "MacBook Air 13-inch M5 1TB Midnight",
+    "modelName": "MacBook Air 13-inch M5",
+    "year": 2026,
+    "capacityAvailable": [
+      "512GB",
+      "1TB"
+    ],
+    "capacity": "1TB",
+    "capacityLabel": "Storage",
+    "priceRegular": 1499,
+    "priceDiscount": 1499,
+    "colors": [
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "slug": "skyblue",
+        "name": "Sky Blue",
+        "hex": "#bcd0e0"
+      },
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      }
+    ],
+    "color": "midnight",
+    "images": [
+      "img/products/macbook-air-13/midnight-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Supercharged by M5",
+        "text": [
+          "Fast, silent and efficient — there is no fan, and no noise."
+        ]
+      },
+      {
+        "title": "Double the storage",
+        "text": [
+          "Now starts with 512GB of faster SSD storage."
+        ]
+      },
+      {
+        "title": "All-day battery",
+        "text": [
+          "Up to 18 hours of battery life for work and play."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "13.6\" Liquid Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "2560×1664"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M5, 10-core CPU, 8-core GPU"
+      },
+      {
+        "label": "Memory",
+        "value": "16GB unified memory"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 18 hours"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Center Stage"
+      },
+      {
+        "label": "Ports",
+        "value": "2x Thunderbolt 4, MagSafe 3"
+      },
+      {
+        "label": "Weight",
+        "value": "1.24 kg"
+      }
+    ],
+    "rating": 4.5,
+    "reviewsCount": 838,
+    "reviews": [
+      {
+        "author": "Leo F.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "Mia S.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Beautiful display",
+        "text": "Text is razor sharp and colors are accurate for photo editing."
+      },
+      {
+        "author": "Lucas P.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Silent and powerful",
+        "text": "Compiles projects in seconds and stays completely quiet."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "macbook-air-13-512gb-silver",
+    "category": "mac",
+    "namespaceId": "macbook-air-13",
+    "name": "MacBook Air 13-inch M5 512GB Silver",
+    "modelName": "MacBook Air 13-inch M5",
+    "year": 2026,
+    "capacityAvailable": [
+      "512GB",
+      "1TB"
+    ],
+    "capacity": "512GB",
+    "capacityLabel": "Storage",
+    "priceRegular": 1299,
+    "priceDiscount": 1299,
+    "colors": [
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "slug": "skyblue",
+        "name": "Sky Blue",
+        "hex": "#bcd0e0"
+      },
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      }
+    ],
+    "color": "silver",
+    "images": [
+      "img/products/macbook-air-13/silver-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Supercharged by M5",
+        "text": [
+          "Fast, silent and efficient — there is no fan, and no noise."
+        ]
+      },
+      {
+        "title": "Double the storage",
+        "text": [
+          "Now starts with 512GB of faster SSD storage."
+        ]
+      },
+      {
+        "title": "All-day battery",
+        "text": [
+          "Up to 18 hours of battery life for work and play."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "13.6\" Liquid Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "2560×1664"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M5, 10-core CPU, 8-core GPU"
+      },
+      {
+        "label": "Memory",
+        "value": "16GB unified memory"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 18 hours"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Center Stage"
+      },
+      {
+        "label": "Ports",
+        "value": "2x Thunderbolt 4, MagSafe 3"
+      },
+      {
+        "label": "Weight",
+        "value": "1.24 kg"
+      }
+    ],
+    "rating": 4.5,
+    "reviewsCount": 838,
+    "reviews": [
+      {
+        "author": "Leo F.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "Mia S.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Beautiful display",
+        "text": "Text is razor sharp and colors are accurate for photo editing."
+      },
+      {
+        "author": "Lucas P.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Silent and powerful",
+        "text": "Compiles projects in seconds and stays completely quiet."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "macbook-air-13-1tb-silver",
+    "category": "mac",
+    "namespaceId": "macbook-air-13",
+    "name": "MacBook Air 13-inch M5 1TB Silver",
+    "modelName": "MacBook Air 13-inch M5",
+    "year": 2026,
+    "capacityAvailable": [
+      "512GB",
+      "1TB"
+    ],
+    "capacity": "1TB",
+    "capacityLabel": "Storage",
+    "priceRegular": 1499,
+    "priceDiscount": 1499,
+    "colors": [
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "slug": "skyblue",
+        "name": "Sky Blue",
+        "hex": "#bcd0e0"
+      },
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      }
+    ],
+    "color": "silver",
+    "images": [
+      "img/products/macbook-air-13/silver-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Supercharged by M5",
+        "text": [
+          "Fast, silent and efficient — there is no fan, and no noise."
+        ]
+      },
+      {
+        "title": "Double the storage",
+        "text": [
+          "Now starts with 512GB of faster SSD storage."
+        ]
+      },
+      {
+        "title": "All-day battery",
+        "text": [
+          "Up to 18 hours of battery life for work and play."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "13.6\" Liquid Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "2560×1664"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M5, 10-core CPU, 8-core GPU"
+      },
+      {
+        "label": "Memory",
+        "value": "16GB unified memory"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 18 hours"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Center Stage"
+      },
+      {
+        "label": "Ports",
+        "value": "2x Thunderbolt 4, MagSafe 3"
+      },
+      {
+        "label": "Weight",
+        "value": "1.24 kg"
+      }
+    ],
+    "rating": 4.5,
+    "reviewsCount": 838,
+    "reviews": [
+      {
+        "author": "Leo F.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "Mia S.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Beautiful display",
+        "text": "Text is razor sharp and colors are accurate for photo editing."
+      },
+      {
+        "author": "Lucas P.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Silent and powerful",
+        "text": "Compiles projects in seconds and stays completely quiet."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "macbook-air-13-512gb-skyblue",
+    "category": "mac",
+    "namespaceId": "macbook-air-13",
+    "name": "MacBook Air 13-inch M5 512GB Sky Blue",
+    "modelName": "MacBook Air 13-inch M5",
+    "year": 2026,
+    "capacityAvailable": [
+      "512GB",
+      "1TB"
+    ],
+    "capacity": "512GB",
+    "capacityLabel": "Storage",
+    "priceRegular": 1299,
+    "priceDiscount": 1299,
+    "colors": [
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "slug": "skyblue",
+        "name": "Sky Blue",
+        "hex": "#bcd0e0"
+      },
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      }
+    ],
+    "color": "skyblue",
+    "images": [
+      "img/products/macbook-air-13/skyblue-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Supercharged by M5",
+        "text": [
+          "Fast, silent and efficient — there is no fan, and no noise."
+        ]
+      },
+      {
+        "title": "Double the storage",
+        "text": [
+          "Now starts with 512GB of faster SSD storage."
+        ]
+      },
+      {
+        "title": "All-day battery",
+        "text": [
+          "Up to 18 hours of battery life for work and play."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "13.6\" Liquid Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "2560×1664"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M5, 10-core CPU, 8-core GPU"
+      },
+      {
+        "label": "Memory",
+        "value": "16GB unified memory"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 18 hours"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Center Stage"
+      },
+      {
+        "label": "Ports",
+        "value": "2x Thunderbolt 4, MagSafe 3"
+      },
+      {
+        "label": "Weight",
+        "value": "1.24 kg"
+      }
+    ],
+    "rating": 4.5,
+    "reviewsCount": 838,
+    "reviews": [
+      {
+        "author": "Leo F.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "Mia S.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Beautiful display",
+        "text": "Text is razor sharp and colors are accurate for photo editing."
+      },
+      {
+        "author": "Lucas P.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Silent and powerful",
+        "text": "Compiles projects in seconds and stays completely quiet."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "macbook-air-13-1tb-skyblue",
+    "category": "mac",
+    "namespaceId": "macbook-air-13",
+    "name": "MacBook Air 13-inch M5 1TB Sky Blue",
+    "modelName": "MacBook Air 13-inch M5",
+    "year": 2026,
+    "capacityAvailable": [
+      "512GB",
+      "1TB"
+    ],
+    "capacity": "1TB",
+    "capacityLabel": "Storage",
+    "priceRegular": 1499,
+    "priceDiscount": 1499,
+    "colors": [
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "slug": "skyblue",
+        "name": "Sky Blue",
+        "hex": "#bcd0e0"
+      },
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      }
+    ],
+    "color": "skyblue",
+    "images": [
+      "img/products/macbook-air-13/skyblue-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Supercharged by M5",
+        "text": [
+          "Fast, silent and efficient — there is no fan, and no noise."
+        ]
+      },
+      {
+        "title": "Double the storage",
+        "text": [
+          "Now starts with 512GB of faster SSD storage."
+        ]
+      },
+      {
+        "title": "All-day battery",
+        "text": [
+          "Up to 18 hours of battery life for work and play."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "13.6\" Liquid Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "2560×1664"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M5, 10-core CPU, 8-core GPU"
+      },
+      {
+        "label": "Memory",
+        "value": "16GB unified memory"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 18 hours"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Center Stage"
+      },
+      {
+        "label": "Ports",
+        "value": "2x Thunderbolt 4, MagSafe 3"
+      },
+      {
+        "label": "Weight",
+        "value": "1.24 kg"
+      }
+    ],
+    "rating": 4.5,
+    "reviewsCount": 838,
+    "reviews": [
+      {
+        "author": "Leo F.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "Mia S.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Beautiful display",
+        "text": "Text is razor sharp and colors are accurate for photo editing."
+      },
+      {
+        "author": "Lucas P.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Silent and powerful",
+        "text": "Compiles projects in seconds and stays completely quiet."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "macbook-air-13-512gb-starlight",
+    "category": "mac",
+    "namespaceId": "macbook-air-13",
+    "name": "MacBook Air 13-inch M5 512GB Starlight",
+    "modelName": "MacBook Air 13-inch M5",
+    "year": 2026,
+    "capacityAvailable": [
+      "512GB",
+      "1TB"
+    ],
+    "capacity": "512GB",
+    "capacityLabel": "Storage",
+    "priceRegular": 1299,
+    "priceDiscount": 1299,
+    "colors": [
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "slug": "skyblue",
+        "name": "Sky Blue",
+        "hex": "#bcd0e0"
+      },
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      }
+    ],
+    "color": "starlight",
+    "images": [
+      "img/products/macbook-air-13/starlight-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Supercharged by M5",
+        "text": [
+          "Fast, silent and efficient — there is no fan, and no noise."
+        ]
+      },
+      {
+        "title": "Double the storage",
+        "text": [
+          "Now starts with 512GB of faster SSD storage."
+        ]
+      },
+      {
+        "title": "All-day battery",
+        "text": [
+          "Up to 18 hours of battery life for work and play."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "13.6\" Liquid Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "2560×1664"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M5, 10-core CPU, 8-core GPU"
+      },
+      {
+        "label": "Memory",
+        "value": "16GB unified memory"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 18 hours"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Center Stage"
+      },
+      {
+        "label": "Ports",
+        "value": "2x Thunderbolt 4, MagSafe 3"
+      },
+      {
+        "label": "Weight",
+        "value": "1.24 kg"
+      }
+    ],
+    "rating": 4.5,
+    "reviewsCount": 838,
+    "reviews": [
+      {
+        "author": "Leo F.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "Mia S.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Beautiful display",
+        "text": "Text is razor sharp and colors are accurate for photo editing."
+      },
+      {
+        "author": "Lucas P.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Silent and powerful",
+        "text": "Compiles projects in seconds and stays completely quiet."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "macbook-air-13-1tb-starlight",
+    "category": "mac",
+    "namespaceId": "macbook-air-13",
+    "name": "MacBook Air 13-inch M5 1TB Starlight",
+    "modelName": "MacBook Air 13-inch M5",
+    "year": 2026,
+    "capacityAvailable": [
+      "512GB",
+      "1TB"
+    ],
+    "capacity": "1TB",
+    "capacityLabel": "Storage",
+    "priceRegular": 1499,
+    "priceDiscount": 1499,
+    "colors": [
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "slug": "skyblue",
+        "name": "Sky Blue",
+        "hex": "#bcd0e0"
+      },
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      }
+    ],
+    "color": "starlight",
+    "images": [
+      "img/products/macbook-air-13/starlight-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Supercharged by M5",
+        "text": [
+          "Fast, silent and efficient — there is no fan, and no noise."
+        ]
+      },
+      {
+        "title": "Double the storage",
+        "text": [
+          "Now starts with 512GB of faster SSD storage."
+        ]
+      },
+      {
+        "title": "All-day battery",
+        "text": [
+          "Up to 18 hours of battery life for work and play."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "13.6\" Liquid Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "2560×1664"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M5, 10-core CPU, 8-core GPU"
+      },
+      {
+        "label": "Memory",
+        "value": "16GB unified memory"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 18 hours"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Center Stage"
+      },
+      {
+        "label": "Ports",
+        "value": "2x Thunderbolt 4, MagSafe 3"
+      },
+      {
+        "label": "Weight",
+        "value": "1.24 kg"
+      }
+    ],
+    "rating": 4.5,
+    "reviewsCount": 838,
+    "reviews": [
+      {
+        "author": "Leo F.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "Mia S.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Beautiful display",
+        "text": "Text is razor sharp and colors are accurate for photo editing."
+      },
+      {
+        "author": "Lucas P.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Silent and powerful",
+        "text": "Compiles projects in seconds and stays completely quiet."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "macbook-air-15-512gb-midnight",
+    "category": "mac",
+    "namespaceId": "macbook-air-15",
+    "name": "MacBook Air 15-inch M5 512GB Midnight",
+    "modelName": "MacBook Air 15-inch M5",
+    "year": 2026,
+    "capacityAvailable": [
+      "512GB",
+      "1TB"
+    ],
+    "capacity": "512GB",
+    "capacityLabel": "Storage",
+    "priceRegular": 1499,
+    "priceDiscount": 1499,
+    "colors": [
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "slug": "skyblue",
+        "name": "Sky Blue",
+        "hex": "#bcd0e0"
+      },
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      }
+    ],
+    "color": "midnight",
+    "images": [
+      "img/products/macbook-air-15/midnight-0.webp"
+    ],
+    "description": [
+      {
+        "title": "More room to work",
+        "text": [
+          "A spacious 15-inch display in an incredibly thin design."
+        ]
+      },
+      {
+        "title": "M5 with 10-core GPU",
+        "text": [
+          "Great for photo editing, coding and games."
+        ]
+      },
+      {
+        "title": "Six-speaker sound",
+        "text": [
+          "Immersive audio with Spatial Audio support."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "15.3\" Liquid Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "2880×1864"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M5, 10-core CPU, 10-core GPU"
+      },
+      {
+        "label": "Memory",
+        "value": "16GB unified memory"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 18 hours"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Center Stage"
+      },
+      {
+        "label": "Ports",
+        "value": "2x Thunderbolt 4, MagSafe 3"
+      },
+      {
+        "label": "Weight",
+        "value": "1.51 kg"
+      }
+    ],
+    "rating": 4.6,
+    "reviewsCount": 499,
+    "reviews": [
+      {
+        "author": "Grace H.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Silent and powerful",
+        "text": "Compiles projects in seconds and stays completely quiet."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Worth every penny",
+        "text": "My best tech purchase in years."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "macbook-air-15-1tb-midnight",
+    "category": "mac",
+    "namespaceId": "macbook-air-15",
+    "name": "MacBook Air 15-inch M5 1TB Midnight",
+    "modelName": "MacBook Air 15-inch M5",
+    "year": 2026,
+    "capacityAvailable": [
+      "512GB",
+      "1TB"
+    ],
+    "capacity": "1TB",
+    "capacityLabel": "Storage",
+    "priceRegular": 1699,
+    "priceDiscount": 1699,
+    "colors": [
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "slug": "skyblue",
+        "name": "Sky Blue",
+        "hex": "#bcd0e0"
+      },
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      }
+    ],
+    "color": "midnight",
+    "images": [
+      "img/products/macbook-air-15/midnight-0.webp"
+    ],
+    "description": [
+      {
+        "title": "More room to work",
+        "text": [
+          "A spacious 15-inch display in an incredibly thin design."
+        ]
+      },
+      {
+        "title": "M5 with 10-core GPU",
+        "text": [
+          "Great for photo editing, coding and games."
+        ]
+      },
+      {
+        "title": "Six-speaker sound",
+        "text": [
+          "Immersive audio with Spatial Audio support."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "15.3\" Liquid Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "2880×1864"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M5, 10-core CPU, 10-core GPU"
+      },
+      {
+        "label": "Memory",
+        "value": "16GB unified memory"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 18 hours"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Center Stage"
+      },
+      {
+        "label": "Ports",
+        "value": "2x Thunderbolt 4, MagSafe 3"
+      },
+      {
+        "label": "Weight",
+        "value": "1.51 kg"
+      }
+    ],
+    "rating": 4.6,
+    "reviewsCount": 499,
+    "reviews": [
+      {
+        "author": "Grace H.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Silent and powerful",
+        "text": "Compiles projects in seconds and stays completely quiet."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Worth every penny",
+        "text": "My best tech purchase in years."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "macbook-air-15-512gb-silver",
+    "category": "mac",
+    "namespaceId": "macbook-air-15",
+    "name": "MacBook Air 15-inch M5 512GB Silver",
+    "modelName": "MacBook Air 15-inch M5",
+    "year": 2026,
+    "capacityAvailable": [
+      "512GB",
+      "1TB"
+    ],
+    "capacity": "512GB",
+    "capacityLabel": "Storage",
+    "priceRegular": 1499,
+    "priceDiscount": 1499,
+    "colors": [
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "slug": "skyblue",
+        "name": "Sky Blue",
+        "hex": "#bcd0e0"
+      },
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      }
+    ],
+    "color": "silver",
+    "images": [
+      "img/products/macbook-air-15/silver-0.webp"
+    ],
+    "description": [
+      {
+        "title": "More room to work",
+        "text": [
+          "A spacious 15-inch display in an incredibly thin design."
+        ]
+      },
+      {
+        "title": "M5 with 10-core GPU",
+        "text": [
+          "Great for photo editing, coding and games."
+        ]
+      },
+      {
+        "title": "Six-speaker sound",
+        "text": [
+          "Immersive audio with Spatial Audio support."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "15.3\" Liquid Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "2880×1864"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M5, 10-core CPU, 10-core GPU"
+      },
+      {
+        "label": "Memory",
+        "value": "16GB unified memory"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 18 hours"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Center Stage"
+      },
+      {
+        "label": "Ports",
+        "value": "2x Thunderbolt 4, MagSafe 3"
+      },
+      {
+        "label": "Weight",
+        "value": "1.51 kg"
+      }
+    ],
+    "rating": 4.6,
+    "reviewsCount": 499,
+    "reviews": [
+      {
+        "author": "Grace H.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Silent and powerful",
+        "text": "Compiles projects in seconds and stays completely quiet."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Worth every penny",
+        "text": "My best tech purchase in years."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "macbook-air-15-1tb-silver",
+    "category": "mac",
+    "namespaceId": "macbook-air-15",
+    "name": "MacBook Air 15-inch M5 1TB Silver",
+    "modelName": "MacBook Air 15-inch M5",
+    "year": 2026,
+    "capacityAvailable": [
+      "512GB",
+      "1TB"
+    ],
+    "capacity": "1TB",
+    "capacityLabel": "Storage",
+    "priceRegular": 1699,
+    "priceDiscount": 1699,
+    "colors": [
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "slug": "skyblue",
+        "name": "Sky Blue",
+        "hex": "#bcd0e0"
+      },
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      }
+    ],
+    "color": "silver",
+    "images": [
+      "img/products/macbook-air-15/silver-0.webp"
+    ],
+    "description": [
+      {
+        "title": "More room to work",
+        "text": [
+          "A spacious 15-inch display in an incredibly thin design."
+        ]
+      },
+      {
+        "title": "M5 with 10-core GPU",
+        "text": [
+          "Great for photo editing, coding and games."
+        ]
+      },
+      {
+        "title": "Six-speaker sound",
+        "text": [
+          "Immersive audio with Spatial Audio support."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "15.3\" Liquid Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "2880×1864"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M5, 10-core CPU, 10-core GPU"
+      },
+      {
+        "label": "Memory",
+        "value": "16GB unified memory"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 18 hours"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Center Stage"
+      },
+      {
+        "label": "Ports",
+        "value": "2x Thunderbolt 4, MagSafe 3"
+      },
+      {
+        "label": "Weight",
+        "value": "1.51 kg"
+      }
+    ],
+    "rating": 4.6,
+    "reviewsCount": 499,
+    "reviews": [
+      {
+        "author": "Grace H.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Silent and powerful",
+        "text": "Compiles projects in seconds and stays completely quiet."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Worth every penny",
+        "text": "My best tech purchase in years."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "macbook-air-15-512gb-skyblue",
+    "category": "mac",
+    "namespaceId": "macbook-air-15",
+    "name": "MacBook Air 15-inch M5 512GB Sky Blue",
+    "modelName": "MacBook Air 15-inch M5",
+    "year": 2026,
+    "capacityAvailable": [
+      "512GB",
+      "1TB"
+    ],
+    "capacity": "512GB",
+    "capacityLabel": "Storage",
+    "priceRegular": 1499,
+    "priceDiscount": 1499,
+    "colors": [
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "slug": "skyblue",
+        "name": "Sky Blue",
+        "hex": "#bcd0e0"
+      },
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      }
+    ],
+    "color": "skyblue",
+    "images": [
+      "img/products/macbook-air-15/skyblue-0.webp"
+    ],
+    "description": [
+      {
+        "title": "More room to work",
+        "text": [
+          "A spacious 15-inch display in an incredibly thin design."
+        ]
+      },
+      {
+        "title": "M5 with 10-core GPU",
+        "text": [
+          "Great for photo editing, coding and games."
+        ]
+      },
+      {
+        "title": "Six-speaker sound",
+        "text": [
+          "Immersive audio with Spatial Audio support."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "15.3\" Liquid Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "2880×1864"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M5, 10-core CPU, 10-core GPU"
+      },
+      {
+        "label": "Memory",
+        "value": "16GB unified memory"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 18 hours"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Center Stage"
+      },
+      {
+        "label": "Ports",
+        "value": "2x Thunderbolt 4, MagSafe 3"
+      },
+      {
+        "label": "Weight",
+        "value": "1.51 kg"
+      }
+    ],
+    "rating": 4.6,
+    "reviewsCount": 499,
+    "reviews": [
+      {
+        "author": "Grace H.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Silent and powerful",
+        "text": "Compiles projects in seconds and stays completely quiet."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Worth every penny",
+        "text": "My best tech purchase in years."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "macbook-air-15-1tb-skyblue",
+    "category": "mac",
+    "namespaceId": "macbook-air-15",
+    "name": "MacBook Air 15-inch M5 1TB Sky Blue",
+    "modelName": "MacBook Air 15-inch M5",
+    "year": 2026,
+    "capacityAvailable": [
+      "512GB",
+      "1TB"
+    ],
+    "capacity": "1TB",
+    "capacityLabel": "Storage",
+    "priceRegular": 1699,
+    "priceDiscount": 1699,
+    "colors": [
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "slug": "skyblue",
+        "name": "Sky Blue",
+        "hex": "#bcd0e0"
+      },
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      }
+    ],
+    "color": "skyblue",
+    "images": [
+      "img/products/macbook-air-15/skyblue-0.webp"
+    ],
+    "description": [
+      {
+        "title": "More room to work",
+        "text": [
+          "A spacious 15-inch display in an incredibly thin design."
+        ]
+      },
+      {
+        "title": "M5 with 10-core GPU",
+        "text": [
+          "Great for photo editing, coding and games."
+        ]
+      },
+      {
+        "title": "Six-speaker sound",
+        "text": [
+          "Immersive audio with Spatial Audio support."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "15.3\" Liquid Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "2880×1864"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M5, 10-core CPU, 10-core GPU"
+      },
+      {
+        "label": "Memory",
+        "value": "16GB unified memory"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 18 hours"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Center Stage"
+      },
+      {
+        "label": "Ports",
+        "value": "2x Thunderbolt 4, MagSafe 3"
+      },
+      {
+        "label": "Weight",
+        "value": "1.51 kg"
+      }
+    ],
+    "rating": 4.6,
+    "reviewsCount": 499,
+    "reviews": [
+      {
+        "author": "Grace H.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Silent and powerful",
+        "text": "Compiles projects in seconds and stays completely quiet."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Worth every penny",
+        "text": "My best tech purchase in years."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "macbook-air-15-512gb-starlight",
+    "category": "mac",
+    "namespaceId": "macbook-air-15",
+    "name": "MacBook Air 15-inch M5 512GB Starlight",
+    "modelName": "MacBook Air 15-inch M5",
+    "year": 2026,
+    "capacityAvailable": [
+      "512GB",
+      "1TB"
+    ],
+    "capacity": "512GB",
+    "capacityLabel": "Storage",
+    "priceRegular": 1499,
+    "priceDiscount": 1499,
+    "colors": [
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "slug": "skyblue",
+        "name": "Sky Blue",
+        "hex": "#bcd0e0"
+      },
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      }
+    ],
+    "color": "starlight",
+    "images": [
+      "img/products/macbook-air-15/starlight-0.webp"
+    ],
+    "description": [
+      {
+        "title": "More room to work",
+        "text": [
+          "A spacious 15-inch display in an incredibly thin design."
+        ]
+      },
+      {
+        "title": "M5 with 10-core GPU",
+        "text": [
+          "Great for photo editing, coding and games."
+        ]
+      },
+      {
+        "title": "Six-speaker sound",
+        "text": [
+          "Immersive audio with Spatial Audio support."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "15.3\" Liquid Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "2880×1864"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M5, 10-core CPU, 10-core GPU"
+      },
+      {
+        "label": "Memory",
+        "value": "16GB unified memory"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 18 hours"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Center Stage"
+      },
+      {
+        "label": "Ports",
+        "value": "2x Thunderbolt 4, MagSafe 3"
+      },
+      {
+        "label": "Weight",
+        "value": "1.51 kg"
+      }
+    ],
+    "rating": 4.6,
+    "reviewsCount": 499,
+    "reviews": [
+      {
+        "author": "Grace H.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Silent and powerful",
+        "text": "Compiles projects in seconds and stays completely quiet."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Worth every penny",
+        "text": "My best tech purchase in years."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "macbook-air-15-1tb-starlight",
+    "category": "mac",
+    "namespaceId": "macbook-air-15",
+    "name": "MacBook Air 15-inch M5 1TB Starlight",
+    "modelName": "MacBook Air 15-inch M5",
+    "year": 2026,
+    "capacityAvailable": [
+      "512GB",
+      "1TB"
+    ],
+    "capacity": "1TB",
+    "capacityLabel": "Storage",
+    "priceRegular": 1699,
+    "priceDiscount": 1699,
+    "colors": [
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "slug": "skyblue",
+        "name": "Sky Blue",
+        "hex": "#bcd0e0"
+      },
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      }
+    ],
+    "color": "starlight",
+    "images": [
+      "img/products/macbook-air-15/starlight-0.webp"
+    ],
+    "description": [
+      {
+        "title": "More room to work",
+        "text": [
+          "A spacious 15-inch display in an incredibly thin design."
+        ]
+      },
+      {
+        "title": "M5 with 10-core GPU",
+        "text": [
+          "Great for photo editing, coding and games."
+        ]
+      },
+      {
+        "title": "Six-speaker sound",
+        "text": [
+          "Immersive audio with Spatial Audio support."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "15.3\" Liquid Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "2880×1864"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M5, 10-core CPU, 10-core GPU"
+      },
+      {
+        "label": "Memory",
+        "value": "16GB unified memory"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 18 hours"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Center Stage"
+      },
+      {
+        "label": "Ports",
+        "value": "2x Thunderbolt 4, MagSafe 3"
+      },
+      {
+        "label": "Weight",
+        "value": "1.51 kg"
+      }
+    ],
+    "rating": 4.6,
+    "reviewsCount": 499,
+    "reviews": [
+      {
+        "author": "Grace H.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Silent and powerful",
+        "text": "Compiles projects in seconds and stays completely quiet."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Worth every penny",
+        "text": "My best tech purchase in years."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "macbook-pro-14-512gb-spaceblack",
+    "category": "mac",
+    "namespaceId": "macbook-pro-14",
+    "name": "MacBook Pro 14-inch M6 512GB Space Black",
+    "modelName": "MacBook Pro 14-inch M6",
+    "year": 2026,
+    "capacityAvailable": [
+      "512GB",
+      "1TB"
+    ],
+    "capacity": "512GB",
+    "capacityLabel": "Storage",
+    "priceRegular": 1999,
+    "priceDiscount": 1999,
+    "colors": [
+      {
+        "slug": "spaceblack",
+        "name": "Space Black",
+        "hex": "#2f2f31"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "color": "spaceblack",
+    "images": [
+      "img/products/macbook-pro-14/spaceblack-0.webp"
+    ],
+    "description": [
+      {
+        "title": "The new M6 chip",
+        "text": [
+          "A 12-core CPU with super cores delivers a huge leap in performance."
+        ]
+      },
+      {
+        "title": "Liquid Retina XDR",
+        "text": [
+          "Extreme dynamic range for photos and HDR video."
+        ]
+      },
+      {
+        "title": "Pro connectivity",
+        "text": [
+          "Thunderbolt, HDMI and an SD card slot built right in."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "14.2\" Liquid Retina XDR"
+      },
+      {
+        "label": "Resolution",
+        "value": "3024×1964"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M6, 12-core CPU, 12-core GPU"
+      },
+      {
+        "label": "Memory",
+        "value": "16GB unified memory"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 24 hours"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Center Stage"
+      },
+      {
+        "label": "Ports",
+        "value": "3x Thunderbolt, HDMI, SDXC, MagSafe 3"
+      },
+      {
+        "label": "Weight",
+        "value": "1.55 kg"
+      }
+    ],
+    "rating": 4.9,
+    "reviewsCount": 251,
+    "reviews": [
+      {
+        "author": "Olivia M.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "Ava C.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Beautiful display",
+        "text": "Text is razor sharp and colors are accurate for photo editing."
+      },
+      {
+        "author": "Chloe D.",
+        "rating": 4,
+        "date": "2026-06-03",
+        "title": "Worth every penny",
+        "text": "My best tech purchase in years."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "macbook-pro-14-1tb-spaceblack",
+    "category": "mac",
+    "namespaceId": "macbook-pro-14",
+    "name": "MacBook Pro 14-inch M6 1TB Space Black",
+    "modelName": "MacBook Pro 14-inch M6",
+    "year": 2026,
+    "capacityAvailable": [
+      "512GB",
+      "1TB"
+    ],
+    "capacity": "1TB",
+    "capacityLabel": "Storage",
+    "priceRegular": 2199,
+    "priceDiscount": 2199,
+    "colors": [
+      {
+        "slug": "spaceblack",
+        "name": "Space Black",
+        "hex": "#2f2f31"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "color": "spaceblack",
+    "images": [
+      "img/products/macbook-pro-14/spaceblack-0.webp"
+    ],
+    "description": [
+      {
+        "title": "The new M6 chip",
+        "text": [
+          "A 12-core CPU with super cores delivers a huge leap in performance."
+        ]
+      },
+      {
+        "title": "Liquid Retina XDR",
+        "text": [
+          "Extreme dynamic range for photos and HDR video."
+        ]
+      },
+      {
+        "title": "Pro connectivity",
+        "text": [
+          "Thunderbolt, HDMI and an SD card slot built right in."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "14.2\" Liquid Retina XDR"
+      },
+      {
+        "label": "Resolution",
+        "value": "3024×1964"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M6, 12-core CPU, 12-core GPU"
+      },
+      {
+        "label": "Memory",
+        "value": "16GB unified memory"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 24 hours"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Center Stage"
+      },
+      {
+        "label": "Ports",
+        "value": "3x Thunderbolt, HDMI, SDXC, MagSafe 3"
+      },
+      {
+        "label": "Weight",
+        "value": "1.55 kg"
+      }
+    ],
+    "rating": 4.9,
+    "reviewsCount": 251,
+    "reviews": [
+      {
+        "author": "Olivia M.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "Ava C.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Beautiful display",
+        "text": "Text is razor sharp and colors are accurate for photo editing."
+      },
+      {
+        "author": "Chloe D.",
+        "rating": 4,
+        "date": "2026-06-03",
+        "title": "Worth every penny",
+        "text": "My best tech purchase in years."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "macbook-pro-14-512gb-silver",
+    "category": "mac",
+    "namespaceId": "macbook-pro-14",
+    "name": "MacBook Pro 14-inch M6 512GB Silver",
+    "modelName": "MacBook Pro 14-inch M6",
+    "year": 2026,
+    "capacityAvailable": [
+      "512GB",
+      "1TB"
+    ],
+    "capacity": "512GB",
+    "capacityLabel": "Storage",
+    "priceRegular": 1999,
+    "priceDiscount": 1999,
+    "colors": [
+      {
+        "slug": "spaceblack",
+        "name": "Space Black",
+        "hex": "#2f2f31"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "color": "silver",
+    "images": [
+      "img/products/macbook-pro-14/silver-0.webp"
+    ],
+    "description": [
+      {
+        "title": "The new M6 chip",
+        "text": [
+          "A 12-core CPU with super cores delivers a huge leap in performance."
+        ]
+      },
+      {
+        "title": "Liquid Retina XDR",
+        "text": [
+          "Extreme dynamic range for photos and HDR video."
+        ]
+      },
+      {
+        "title": "Pro connectivity",
+        "text": [
+          "Thunderbolt, HDMI and an SD card slot built right in."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "14.2\" Liquid Retina XDR"
+      },
+      {
+        "label": "Resolution",
+        "value": "3024×1964"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M6, 12-core CPU, 12-core GPU"
+      },
+      {
+        "label": "Memory",
+        "value": "16GB unified memory"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 24 hours"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Center Stage"
+      },
+      {
+        "label": "Ports",
+        "value": "3x Thunderbolt, HDMI, SDXC, MagSafe 3"
+      },
+      {
+        "label": "Weight",
+        "value": "1.55 kg"
+      }
+    ],
+    "rating": 4.9,
+    "reviewsCount": 251,
+    "reviews": [
+      {
+        "author": "Olivia M.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "Ava C.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Beautiful display",
+        "text": "Text is razor sharp and colors are accurate for photo editing."
+      },
+      {
+        "author": "Chloe D.",
+        "rating": 4,
+        "date": "2026-06-03",
+        "title": "Worth every penny",
+        "text": "My best tech purchase in years."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "macbook-pro-14-1tb-silver",
+    "category": "mac",
+    "namespaceId": "macbook-pro-14",
+    "name": "MacBook Pro 14-inch M6 1TB Silver",
+    "modelName": "MacBook Pro 14-inch M6",
+    "year": 2026,
+    "capacityAvailable": [
+      "512GB",
+      "1TB"
+    ],
+    "capacity": "1TB",
+    "capacityLabel": "Storage",
+    "priceRegular": 2199,
+    "priceDiscount": 2199,
+    "colors": [
+      {
+        "slug": "spaceblack",
+        "name": "Space Black",
+        "hex": "#2f2f31"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "color": "silver",
+    "images": [
+      "img/products/macbook-pro-14/silver-0.webp"
+    ],
+    "description": [
+      {
+        "title": "The new M6 chip",
+        "text": [
+          "A 12-core CPU with super cores delivers a huge leap in performance."
+        ]
+      },
+      {
+        "title": "Liquid Retina XDR",
+        "text": [
+          "Extreme dynamic range for photos and HDR video."
+        ]
+      },
+      {
+        "title": "Pro connectivity",
+        "text": [
+          "Thunderbolt, HDMI and an SD card slot built right in."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "14.2\" Liquid Retina XDR"
+      },
+      {
+        "label": "Resolution",
+        "value": "3024×1964"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M6, 12-core CPU, 12-core GPU"
+      },
+      {
+        "label": "Memory",
+        "value": "16GB unified memory"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 24 hours"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Center Stage"
+      },
+      {
+        "label": "Ports",
+        "value": "3x Thunderbolt, HDMI, SDXC, MagSafe 3"
+      },
+      {
+        "label": "Weight",
+        "value": "1.55 kg"
+      }
+    ],
+    "rating": 4.9,
+    "reviewsCount": 251,
+    "reviews": [
+      {
+        "author": "Olivia M.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "Ava C.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Beautiful display",
+        "text": "Text is razor sharp and colors are accurate for photo editing."
+      },
+      {
+        "author": "Chloe D.",
+        "rating": 4,
+        "date": "2026-06-03",
+        "title": "Worth every penny",
+        "text": "My best tech purchase in years."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "macbook-pro-14-oled-1tb-spaceblack",
+    "category": "mac",
+    "namespaceId": "macbook-pro-14-oled",
+    "name": "MacBook Pro 14-inch OLED 1TB Space Black",
+    "modelName": "MacBook Pro 14-inch OLED",
+    "year": 2026,
+    "capacityAvailable": [
+      "1TB",
+      "2TB"
+    ],
+    "capacity": "1TB",
+    "capacityLabel": "Storage",
+    "priceRegular": 2899,
+    "priceDiscount": 2899,
+    "colors": [
+      {
+        "slug": "spaceblack",
+        "name": "Space Black",
+        "hex": "#2f2f31"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "color": "spaceblack",
+    "images": [
+      "img/products/macbook-pro-14-oled/spaceblack-0.webp"
+    ],
+    "description": [
+      {
+        "title": "The first touchscreen Mac",
+        "text": [
+          "A PROLED XDR display you can touch, with Dynamic Island."
+        ]
+      },
+      {
+        "title": "M5 Pro power",
+        "text": [
+          "Built for heavy pro workflows like 8K video and 3D."
+        ]
+      },
+      {
+        "title": "Deeper sound",
+        "text": [
+          "An updated speaker system with richer bass."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "14.2\" PROLED XDR with touch"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M5 Pro, 15-core CPU, 16-core GPU"
+      },
+      {
+        "label": "Memory",
+        "value": "24GB unified memory"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 22 hours"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Center Stage, Dynamic Island"
+      },
+      {
+        "label": "Ports",
+        "value": "3x Thunderbolt 5, HDMI, SDXC, MagSafe 3"
+      },
+      {
+        "label": "Weight",
+        "value": "1.6 kg"
+      }
+    ],
+    "rating": 4.4,
+    "reviewsCount": 173,
+    "reviews": [
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Silent and powerful",
+        "text": "Compiles projects in seconds and stays completely quiet."
+      },
+      {
+        "author": "Emma L.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "James T.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Beautiful display",
+        "text": "Text is razor sharp and colors are accurate for photo editing."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "macbook-pro-14-oled-2tb-spaceblack",
+    "category": "mac",
+    "namespaceId": "macbook-pro-14-oled",
+    "name": "MacBook Pro 14-inch OLED 2TB Space Black",
+    "modelName": "MacBook Pro 14-inch OLED",
+    "year": 2026,
+    "capacityAvailable": [
+      "1TB",
+      "2TB"
+    ],
+    "capacity": "2TB",
+    "capacityLabel": "Storage",
+    "priceRegular": 3299,
+    "priceDiscount": 3299,
+    "colors": [
+      {
+        "slug": "spaceblack",
+        "name": "Space Black",
+        "hex": "#2f2f31"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "color": "spaceblack",
+    "images": [
+      "img/products/macbook-pro-14-oled/spaceblack-0.webp"
+    ],
+    "description": [
+      {
+        "title": "The first touchscreen Mac",
+        "text": [
+          "A PROLED XDR display you can touch, with Dynamic Island."
+        ]
+      },
+      {
+        "title": "M5 Pro power",
+        "text": [
+          "Built for heavy pro workflows like 8K video and 3D."
+        ]
+      },
+      {
+        "title": "Deeper sound",
+        "text": [
+          "An updated speaker system with richer bass."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "14.2\" PROLED XDR with touch"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M5 Pro, 15-core CPU, 16-core GPU"
+      },
+      {
+        "label": "Memory",
+        "value": "24GB unified memory"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 22 hours"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Center Stage, Dynamic Island"
+      },
+      {
+        "label": "Ports",
+        "value": "3x Thunderbolt 5, HDMI, SDXC, MagSafe 3"
+      },
+      {
+        "label": "Weight",
+        "value": "1.6 kg"
+      }
+    ],
+    "rating": 4.4,
+    "reviewsCount": 173,
+    "reviews": [
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Silent and powerful",
+        "text": "Compiles projects in seconds and stays completely quiet."
+      },
+      {
+        "author": "Emma L.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "James T.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Beautiful display",
+        "text": "Text is razor sharp and colors are accurate for photo editing."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "macbook-pro-14-oled-1tb-silver",
+    "category": "mac",
+    "namespaceId": "macbook-pro-14-oled",
+    "name": "MacBook Pro 14-inch OLED 1TB Silver",
+    "modelName": "MacBook Pro 14-inch OLED",
+    "year": 2026,
+    "capacityAvailable": [
+      "1TB",
+      "2TB"
+    ],
+    "capacity": "1TB",
+    "capacityLabel": "Storage",
+    "priceRegular": 2899,
+    "priceDiscount": 2899,
+    "colors": [
+      {
+        "slug": "spaceblack",
+        "name": "Space Black",
+        "hex": "#2f2f31"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "color": "silver",
+    "images": [
+      "img/products/macbook-pro-14-oled/silver-0.webp"
+    ],
+    "description": [
+      {
+        "title": "The first touchscreen Mac",
+        "text": [
+          "A PROLED XDR display you can touch, with Dynamic Island."
+        ]
+      },
+      {
+        "title": "M5 Pro power",
+        "text": [
+          "Built for heavy pro workflows like 8K video and 3D."
+        ]
+      },
+      {
+        "title": "Deeper sound",
+        "text": [
+          "An updated speaker system with richer bass."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "14.2\" PROLED XDR with touch"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M5 Pro, 15-core CPU, 16-core GPU"
+      },
+      {
+        "label": "Memory",
+        "value": "24GB unified memory"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 22 hours"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Center Stage, Dynamic Island"
+      },
+      {
+        "label": "Ports",
+        "value": "3x Thunderbolt 5, HDMI, SDXC, MagSafe 3"
+      },
+      {
+        "label": "Weight",
+        "value": "1.6 kg"
+      }
+    ],
+    "rating": 4.4,
+    "reviewsCount": 173,
+    "reviews": [
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Silent and powerful",
+        "text": "Compiles projects in seconds and stays completely quiet."
+      },
+      {
+        "author": "Emma L.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "James T.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Beautiful display",
+        "text": "Text is razor sharp and colors are accurate for photo editing."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "macbook-pro-14-oled-2tb-silver",
+    "category": "mac",
+    "namespaceId": "macbook-pro-14-oled",
+    "name": "MacBook Pro 14-inch OLED 2TB Silver",
+    "modelName": "MacBook Pro 14-inch OLED",
+    "year": 2026,
+    "capacityAvailable": [
+      "1TB",
+      "2TB"
+    ],
+    "capacity": "2TB",
+    "capacityLabel": "Storage",
+    "priceRegular": 3299,
+    "priceDiscount": 3299,
+    "colors": [
+      {
+        "slug": "spaceblack",
+        "name": "Space Black",
+        "hex": "#2f2f31"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "color": "silver",
+    "images": [
+      "img/products/macbook-pro-14-oled/silver-0.webp"
+    ],
+    "description": [
+      {
+        "title": "The first touchscreen Mac",
+        "text": [
+          "A PROLED XDR display you can touch, with Dynamic Island."
+        ]
+      },
+      {
+        "title": "M5 Pro power",
+        "text": [
+          "Built for heavy pro workflows like 8K video and 3D."
+        ]
+      },
+      {
+        "title": "Deeper sound",
+        "text": [
+          "An updated speaker system with richer bass."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "14.2\" PROLED XDR with touch"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M5 Pro, 15-core CPU, 16-core GPU"
+      },
+      {
+        "label": "Memory",
+        "value": "24GB unified memory"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 22 hours"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Center Stage, Dynamic Island"
+      },
+      {
+        "label": "Ports",
+        "value": "3x Thunderbolt 5, HDMI, SDXC, MagSafe 3"
+      },
+      {
+        "label": "Weight",
+        "value": "1.6 kg"
+      }
+    ],
+    "rating": 4.4,
+    "reviewsCount": 173,
+    "reviews": [
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Silent and powerful",
+        "text": "Compiles projects in seconds and stays completely quiet."
+      },
+      {
+        "author": "Emma L.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "James T.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Beautiful display",
+        "text": "Text is razor sharp and colors are accurate for photo editing."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "macbook-pro-16-oled-1tb-spaceblack",
+    "category": "mac",
+    "namespaceId": "macbook-pro-16-oled",
+    "name": "MacBook Pro 16-inch OLED 1TB Space Black",
+    "modelName": "MacBook Pro 16-inch OLED",
+    "year": 2026,
+    "capacityAvailable": [
+      "1TB",
+      "2TB"
+    ],
+    "capacity": "1TB",
+    "capacityLabel": "Storage",
+    "priceRegular": 3399,
+    "priceDiscount": 3399,
+    "colors": [
+      {
+        "slug": "spaceblack",
+        "name": "Space Black",
+        "hex": "#2f2f31"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "color": "spaceblack",
+    "images": [
+      "img/products/macbook-pro-16-oled/spaceblack-0.webp"
+    ],
+    "description": [
+      {
+        "title": "The biggest pro display",
+        "text": [
+          "A 16-inch PROLED XDR touch display for serious creative work."
+        ]
+      },
+      {
+        "title": "Up to 24 hours",
+        "text": [
+          "The longest battery life ever in a Mac."
+        ]
+      },
+      {
+        "title": "Built for pros",
+        "text": [
+          "Thunderbolt 5, HDMI and an SD card slot."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "16.2\" PROLED XDR with touch"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M5 Pro, 15-core CPU, 20-core GPU"
+      },
+      {
+        "label": "Memory",
+        "value": "24GB unified memory"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 24 hours"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Center Stage, Dynamic Island"
+      },
+      {
+        "label": "Ports",
+        "value": "3x Thunderbolt 5, HDMI, SDXC, MagSafe 3"
+      },
+      {
+        "label": "Weight",
+        "value": "2.1 kg"
+      }
+    ],
+    "rating": 4.5,
+    "reviewsCount": 931,
+    "reviews": [
+      {
+        "author": "Grace H.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "Emma L.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Beautiful display",
+        "text": "Text is razor sharp and colors are accurate for photo editing."
+      },
+      {
+        "author": "Max N.",
+        "rating": 4,
+        "date": "2026-05-21",
+        "title": "Worth every penny",
+        "text": "My best tech purchase in years."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "macbook-pro-16-oled-2tb-spaceblack",
+    "category": "mac",
+    "namespaceId": "macbook-pro-16-oled",
+    "name": "MacBook Pro 16-inch OLED 2TB Space Black",
+    "modelName": "MacBook Pro 16-inch OLED",
+    "year": 2026,
+    "capacityAvailable": [
+      "1TB",
+      "2TB"
+    ],
+    "capacity": "2TB",
+    "capacityLabel": "Storage",
+    "priceRegular": 3799,
+    "priceDiscount": 3799,
+    "colors": [
+      {
+        "slug": "spaceblack",
+        "name": "Space Black",
+        "hex": "#2f2f31"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "color": "spaceblack",
+    "images": [
+      "img/products/macbook-pro-16-oled/spaceblack-0.webp"
+    ],
+    "description": [
+      {
+        "title": "The biggest pro display",
+        "text": [
+          "A 16-inch PROLED XDR touch display for serious creative work."
+        ]
+      },
+      {
+        "title": "Up to 24 hours",
+        "text": [
+          "The longest battery life ever in a Mac."
+        ]
+      },
+      {
+        "title": "Built for pros",
+        "text": [
+          "Thunderbolt 5, HDMI and an SD card slot."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "16.2\" PROLED XDR with touch"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M5 Pro, 15-core CPU, 20-core GPU"
+      },
+      {
+        "label": "Memory",
+        "value": "24GB unified memory"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 24 hours"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Center Stage, Dynamic Island"
+      },
+      {
+        "label": "Ports",
+        "value": "3x Thunderbolt 5, HDMI, SDXC, MagSafe 3"
+      },
+      {
+        "label": "Weight",
+        "value": "2.1 kg"
+      }
+    ],
+    "rating": 4.5,
+    "reviewsCount": 931,
+    "reviews": [
+      {
+        "author": "Grace H.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "Emma L.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Beautiful display",
+        "text": "Text is razor sharp and colors are accurate for photo editing."
+      },
+      {
+        "author": "Max N.",
+        "rating": 4,
+        "date": "2026-05-21",
+        "title": "Worth every penny",
+        "text": "My best tech purchase in years."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "macbook-pro-16-oled-1tb-silver",
+    "category": "mac",
+    "namespaceId": "macbook-pro-16-oled",
+    "name": "MacBook Pro 16-inch OLED 1TB Silver",
+    "modelName": "MacBook Pro 16-inch OLED",
+    "year": 2026,
+    "capacityAvailable": [
+      "1TB",
+      "2TB"
+    ],
+    "capacity": "1TB",
+    "capacityLabel": "Storage",
+    "priceRegular": 3399,
+    "priceDiscount": 3399,
+    "colors": [
+      {
+        "slug": "spaceblack",
+        "name": "Space Black",
+        "hex": "#2f2f31"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "color": "silver",
+    "images": [
+      "img/products/macbook-pro-16-oled/silver-0.webp"
+    ],
+    "description": [
+      {
+        "title": "The biggest pro display",
+        "text": [
+          "A 16-inch PROLED XDR touch display for serious creative work."
+        ]
+      },
+      {
+        "title": "Up to 24 hours",
+        "text": [
+          "The longest battery life ever in a Mac."
+        ]
+      },
+      {
+        "title": "Built for pros",
+        "text": [
+          "Thunderbolt 5, HDMI and an SD card slot."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "16.2\" PROLED XDR with touch"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M5 Pro, 15-core CPU, 20-core GPU"
+      },
+      {
+        "label": "Memory",
+        "value": "24GB unified memory"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 24 hours"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Center Stage, Dynamic Island"
+      },
+      {
+        "label": "Ports",
+        "value": "3x Thunderbolt 5, HDMI, SDXC, MagSafe 3"
+      },
+      {
+        "label": "Weight",
+        "value": "2.1 kg"
+      }
+    ],
+    "rating": 4.5,
+    "reviewsCount": 931,
+    "reviews": [
+      {
+        "author": "Grace H.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "Emma L.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Beautiful display",
+        "text": "Text is razor sharp and colors are accurate for photo editing."
+      },
+      {
+        "author": "Max N.",
+        "rating": 4,
+        "date": "2026-05-21",
+        "title": "Worth every penny",
+        "text": "My best tech purchase in years."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "macbook-pro-16-oled-2tb-silver",
+    "category": "mac",
+    "namespaceId": "macbook-pro-16-oled",
+    "name": "MacBook Pro 16-inch OLED 2TB Silver",
+    "modelName": "MacBook Pro 16-inch OLED",
+    "year": 2026,
+    "capacityAvailable": [
+      "1TB",
+      "2TB"
+    ],
+    "capacity": "2TB",
+    "capacityLabel": "Storage",
+    "priceRegular": 3799,
+    "priceDiscount": 3799,
+    "colors": [
+      {
+        "slug": "spaceblack",
+        "name": "Space Black",
+        "hex": "#2f2f31"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "color": "silver",
+    "images": [
+      "img/products/macbook-pro-16-oled/silver-0.webp"
+    ],
+    "description": [
+      {
+        "title": "The biggest pro display",
+        "text": [
+          "A 16-inch PROLED XDR touch display for serious creative work."
+        ]
+      },
+      {
+        "title": "Up to 24 hours",
+        "text": [
+          "The longest battery life ever in a Mac."
+        ]
+      },
+      {
+        "title": "Built for pros",
+        "text": [
+          "Thunderbolt 5, HDMI and an SD card slot."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "16.2\" PROLED XDR with touch"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M5 Pro, 15-core CPU, 20-core GPU"
+      },
+      {
+        "label": "Memory",
+        "value": "24GB unified memory"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 24 hours"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Center Stage, Dynamic Island"
+      },
+      {
+        "label": "Ports",
+        "value": "3x Thunderbolt 5, HDMI, SDXC, MagSafe 3"
+      },
+      {
+        "label": "Weight",
+        "value": "2.1 kg"
+      }
+    ],
+    "rating": 4.5,
+    "reviewsCount": 931,
+    "reviews": [
+      {
+        "author": "Grace H.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "Emma L.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Beautiful display",
+        "text": "Text is razor sharp and colors are accurate for photo editing."
+      },
+      {
+        "author": "Max N.",
+        "rating": 4,
+        "date": "2026-05-21",
+        "title": "Worth every penny",
+        "text": "My best tech purchase in years."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "imac-256gb-blue",
+    "category": "mac",
+    "namespaceId": "imac",
+    "name": "iMac 24-inch M6 256GB Blue",
+    "modelName": "iMac 24-inch M6",
+    "year": 2026,
+    "capacityAvailable": [
+      "256GB",
+      "512GB"
+    ],
+    "capacity": "256GB",
+    "capacityLabel": "Storage",
+    "priceRegular": 1499,
+    "priceDiscount": 1499,
+    "colors": [
+      {
+        "slug": "blue",
+        "name": "Blue",
+        "hex": "#9fbfd9"
+      },
+      {
+        "slug": "green",
+        "name": "Green",
+        "hex": "#a9cdb3"
+      },
+      {
+        "slug": "orange",
+        "name": "Orange",
+        "hex": "#f2a37a"
+      },
+      {
+        "slug": "pink",
+        "name": "Pink",
+        "hex": "#f2b8c6"
+      },
+      {
+        "slug": "purple",
+        "name": "Purple",
+        "hex": "#c2b4dc"
+      },
+      {
+        "slug": "yellow",
+        "name": "Yellow",
+        "hex": "#f4d77a"
+      }
+    ],
+    "color": "blue",
+    "images": [
+      "img/products/imac/blue-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Say hello to M6",
+        "text": [
+          "The all-in-one iMac gets the newest Apple chip."
+        ]
+      },
+      {
+        "title": "A stunning 4.5K display",
+        "text": [
+          "A 24-inch Retina display with over a billion colors."
+        ]
+      },
+      {
+        "title": "Colors you love",
+        "text": [
+          "Six vibrant finishes with matching accessories."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "24\" 4.5K Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "4480×2520"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M6, 10-core CPU, 10-core GPU"
+      },
+      {
+        "label": "Memory",
+        "value": "16GB unified memory"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Center Stage"
+      },
+      {
+        "label": "Audio",
+        "value": "Six-speaker system"
+      },
+      {
+        "label": "Ports",
+        "value": "Thunderbolt / USB 4, 2.5Gb Ethernet"
+      },
+      {
+        "label": "Accessories",
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
+      }
+    ],
+    "rating": 4.9,
+    "reviewsCount": 160,
+    "reviews": [
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Worth every penny",
+        "text": "My best tech purchase in years."
+      },
+      {
+        "author": "Daniel K.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-05-21",
+        "title": "Beautiful display",
+        "text": "Text is razor sharp and colors are accurate for photo editing."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "imac-512gb-blue",
+    "category": "mac",
+    "namespaceId": "imac",
+    "name": "iMac 24-inch M6 512GB Blue",
+    "modelName": "iMac 24-inch M6",
+    "year": 2026,
+    "capacityAvailable": [
+      "256GB",
+      "512GB"
+    ],
+    "capacity": "512GB",
+    "capacityLabel": "Storage",
+    "priceRegular": 1699,
+    "priceDiscount": 1699,
+    "colors": [
+      {
+        "slug": "blue",
+        "name": "Blue",
+        "hex": "#9fbfd9"
+      },
+      {
+        "slug": "green",
+        "name": "Green",
+        "hex": "#a9cdb3"
+      },
+      {
+        "slug": "orange",
+        "name": "Orange",
+        "hex": "#f2a37a"
+      },
+      {
+        "slug": "pink",
+        "name": "Pink",
+        "hex": "#f2b8c6"
+      },
+      {
+        "slug": "purple",
+        "name": "Purple",
+        "hex": "#c2b4dc"
+      },
+      {
+        "slug": "yellow",
+        "name": "Yellow",
+        "hex": "#f4d77a"
+      }
+    ],
+    "color": "blue",
+    "images": [
+      "img/products/imac/blue-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Say hello to M6",
+        "text": [
+          "The all-in-one iMac gets the newest Apple chip."
+        ]
+      },
+      {
+        "title": "A stunning 4.5K display",
+        "text": [
+          "A 24-inch Retina display with over a billion colors."
+        ]
+      },
+      {
+        "title": "Colors you love",
+        "text": [
+          "Six vibrant finishes with matching accessories."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "24\" 4.5K Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "4480×2520"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M6, 10-core CPU, 10-core GPU"
+      },
+      {
+        "label": "Memory",
+        "value": "16GB unified memory"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Center Stage"
+      },
+      {
+        "label": "Audio",
+        "value": "Six-speaker system"
+      },
+      {
+        "label": "Ports",
+        "value": "Thunderbolt / USB 4, 2.5Gb Ethernet"
+      },
+      {
+        "label": "Accessories",
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
+      }
+    ],
+    "rating": 4.9,
+    "reviewsCount": 160,
+    "reviews": [
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Worth every penny",
+        "text": "My best tech purchase in years."
+      },
+      {
+        "author": "Daniel K.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-05-21",
+        "title": "Beautiful display",
+        "text": "Text is razor sharp and colors are accurate for photo editing."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "imac-256gb-green",
+    "category": "mac",
+    "namespaceId": "imac",
+    "name": "iMac 24-inch M6 256GB Green",
+    "modelName": "iMac 24-inch M6",
+    "year": 2026,
+    "capacityAvailable": [
+      "256GB",
+      "512GB"
+    ],
+    "capacity": "256GB",
+    "capacityLabel": "Storage",
+    "priceRegular": 1499,
+    "priceDiscount": 1499,
+    "colors": [
+      {
+        "slug": "blue",
+        "name": "Blue",
+        "hex": "#9fbfd9"
+      },
+      {
+        "slug": "green",
+        "name": "Green",
+        "hex": "#a9cdb3"
+      },
+      {
+        "slug": "orange",
+        "name": "Orange",
+        "hex": "#f2a37a"
+      },
+      {
+        "slug": "pink",
+        "name": "Pink",
+        "hex": "#f2b8c6"
+      },
+      {
+        "slug": "purple",
+        "name": "Purple",
+        "hex": "#c2b4dc"
+      },
+      {
+        "slug": "yellow",
+        "name": "Yellow",
+        "hex": "#f4d77a"
+      }
+    ],
+    "color": "green",
+    "images": [
+      "img/products/imac/green-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Say hello to M6",
+        "text": [
+          "The all-in-one iMac gets the newest Apple chip."
+        ]
+      },
+      {
+        "title": "A stunning 4.5K display",
+        "text": [
+          "A 24-inch Retina display with over a billion colors."
+        ]
+      },
+      {
+        "title": "Colors you love",
+        "text": [
+          "Six vibrant finishes with matching accessories."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "24\" 4.5K Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "4480×2520"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M6, 10-core CPU, 10-core GPU"
+      },
+      {
+        "label": "Memory",
+        "value": "16GB unified memory"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Center Stage"
+      },
+      {
+        "label": "Audio",
+        "value": "Six-speaker system"
+      },
+      {
+        "label": "Ports",
+        "value": "Thunderbolt / USB 4, 2.5Gb Ethernet"
+      },
+      {
+        "label": "Accessories",
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
+      }
+    ],
+    "rating": 4.9,
+    "reviewsCount": 160,
+    "reviews": [
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Worth every penny",
+        "text": "My best tech purchase in years."
+      },
+      {
+        "author": "Daniel K.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-05-21",
+        "title": "Beautiful display",
+        "text": "Text is razor sharp and colors are accurate for photo editing."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "imac-512gb-green",
+    "category": "mac",
+    "namespaceId": "imac",
+    "name": "iMac 24-inch M6 512GB Green",
+    "modelName": "iMac 24-inch M6",
+    "year": 2026,
+    "capacityAvailable": [
+      "256GB",
+      "512GB"
+    ],
+    "capacity": "512GB",
+    "capacityLabel": "Storage",
+    "priceRegular": 1699,
+    "priceDiscount": 1699,
+    "colors": [
+      {
+        "slug": "blue",
+        "name": "Blue",
+        "hex": "#9fbfd9"
+      },
+      {
+        "slug": "green",
+        "name": "Green",
+        "hex": "#a9cdb3"
+      },
+      {
+        "slug": "orange",
+        "name": "Orange",
+        "hex": "#f2a37a"
+      },
+      {
+        "slug": "pink",
+        "name": "Pink",
+        "hex": "#f2b8c6"
+      },
+      {
+        "slug": "purple",
+        "name": "Purple",
+        "hex": "#c2b4dc"
+      },
+      {
+        "slug": "yellow",
+        "name": "Yellow",
+        "hex": "#f4d77a"
+      }
+    ],
+    "color": "green",
+    "images": [
+      "img/products/imac/green-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Say hello to M6",
+        "text": [
+          "The all-in-one iMac gets the newest Apple chip."
+        ]
+      },
+      {
+        "title": "A stunning 4.5K display",
+        "text": [
+          "A 24-inch Retina display with over a billion colors."
+        ]
+      },
+      {
+        "title": "Colors you love",
+        "text": [
+          "Six vibrant finishes with matching accessories."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "24\" 4.5K Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "4480×2520"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M6, 10-core CPU, 10-core GPU"
+      },
+      {
+        "label": "Memory",
+        "value": "16GB unified memory"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Center Stage"
+      },
+      {
+        "label": "Audio",
+        "value": "Six-speaker system"
+      },
+      {
+        "label": "Ports",
+        "value": "Thunderbolt / USB 4, 2.5Gb Ethernet"
+      },
+      {
+        "label": "Accessories",
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
+      }
+    ],
+    "rating": 4.9,
+    "reviewsCount": 160,
+    "reviews": [
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Worth every penny",
+        "text": "My best tech purchase in years."
+      },
+      {
+        "author": "Daniel K.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-05-21",
+        "title": "Beautiful display",
+        "text": "Text is razor sharp and colors are accurate for photo editing."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "imac-256gb-orange",
+    "category": "mac",
+    "namespaceId": "imac",
+    "name": "iMac 24-inch M6 256GB Orange",
+    "modelName": "iMac 24-inch M6",
+    "year": 2026,
+    "capacityAvailable": [
+      "256GB",
+      "512GB"
+    ],
+    "capacity": "256GB",
+    "capacityLabel": "Storage",
+    "priceRegular": 1499,
+    "priceDiscount": 1499,
+    "colors": [
+      {
+        "slug": "blue",
+        "name": "Blue",
+        "hex": "#9fbfd9"
+      },
+      {
+        "slug": "green",
+        "name": "Green",
+        "hex": "#a9cdb3"
+      },
+      {
+        "slug": "orange",
+        "name": "Orange",
+        "hex": "#f2a37a"
+      },
+      {
+        "slug": "pink",
+        "name": "Pink",
+        "hex": "#f2b8c6"
+      },
+      {
+        "slug": "purple",
+        "name": "Purple",
+        "hex": "#c2b4dc"
+      },
+      {
+        "slug": "yellow",
+        "name": "Yellow",
+        "hex": "#f4d77a"
+      }
+    ],
+    "color": "orange",
+    "images": [
+      "img/products/imac/orange-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Say hello to M6",
+        "text": [
+          "The all-in-one iMac gets the newest Apple chip."
+        ]
+      },
+      {
+        "title": "A stunning 4.5K display",
+        "text": [
+          "A 24-inch Retina display with over a billion colors."
+        ]
+      },
+      {
+        "title": "Colors you love",
+        "text": [
+          "Six vibrant finishes with matching accessories."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "24\" 4.5K Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "4480×2520"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M6, 10-core CPU, 10-core GPU"
+      },
+      {
+        "label": "Memory",
+        "value": "16GB unified memory"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Center Stage"
+      },
+      {
+        "label": "Audio",
+        "value": "Six-speaker system"
+      },
+      {
+        "label": "Ports",
+        "value": "Thunderbolt / USB 4, 2.5Gb Ethernet"
+      },
+      {
+        "label": "Accessories",
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
+      }
+    ],
+    "rating": 4.9,
+    "reviewsCount": 160,
+    "reviews": [
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Worth every penny",
+        "text": "My best tech purchase in years."
+      },
+      {
+        "author": "Daniel K.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-05-21",
+        "title": "Beautiful display",
+        "text": "Text is razor sharp and colors are accurate for photo editing."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "imac-512gb-orange",
+    "category": "mac",
+    "namespaceId": "imac",
+    "name": "iMac 24-inch M6 512GB Orange",
+    "modelName": "iMac 24-inch M6",
+    "year": 2026,
+    "capacityAvailable": [
+      "256GB",
+      "512GB"
+    ],
+    "capacity": "512GB",
+    "capacityLabel": "Storage",
+    "priceRegular": 1699,
+    "priceDiscount": 1699,
+    "colors": [
+      {
+        "slug": "blue",
+        "name": "Blue",
+        "hex": "#9fbfd9"
+      },
+      {
+        "slug": "green",
+        "name": "Green",
+        "hex": "#a9cdb3"
+      },
+      {
+        "slug": "orange",
+        "name": "Orange",
+        "hex": "#f2a37a"
+      },
+      {
+        "slug": "pink",
+        "name": "Pink",
+        "hex": "#f2b8c6"
+      },
+      {
+        "slug": "purple",
+        "name": "Purple",
+        "hex": "#c2b4dc"
+      },
+      {
+        "slug": "yellow",
+        "name": "Yellow",
+        "hex": "#f4d77a"
+      }
+    ],
+    "color": "orange",
+    "images": [
+      "img/products/imac/orange-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Say hello to M6",
+        "text": [
+          "The all-in-one iMac gets the newest Apple chip."
+        ]
+      },
+      {
+        "title": "A stunning 4.5K display",
+        "text": [
+          "A 24-inch Retina display with over a billion colors."
+        ]
+      },
+      {
+        "title": "Colors you love",
+        "text": [
+          "Six vibrant finishes with matching accessories."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "24\" 4.5K Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "4480×2520"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M6, 10-core CPU, 10-core GPU"
+      },
+      {
+        "label": "Memory",
+        "value": "16GB unified memory"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Center Stage"
+      },
+      {
+        "label": "Audio",
+        "value": "Six-speaker system"
+      },
+      {
+        "label": "Ports",
+        "value": "Thunderbolt / USB 4, 2.5Gb Ethernet"
+      },
+      {
+        "label": "Accessories",
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
+      }
+    ],
+    "rating": 4.9,
+    "reviewsCount": 160,
+    "reviews": [
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Worth every penny",
+        "text": "My best tech purchase in years."
+      },
+      {
+        "author": "Daniel K.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-05-21",
+        "title": "Beautiful display",
+        "text": "Text is razor sharp and colors are accurate for photo editing."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "imac-256gb-pink",
+    "category": "mac",
+    "namespaceId": "imac",
+    "name": "iMac 24-inch M6 256GB Pink",
+    "modelName": "iMac 24-inch M6",
+    "year": 2026,
+    "capacityAvailable": [
+      "256GB",
+      "512GB"
+    ],
+    "capacity": "256GB",
+    "capacityLabel": "Storage",
+    "priceRegular": 1499,
+    "priceDiscount": 1499,
+    "colors": [
+      {
+        "slug": "blue",
+        "name": "Blue",
+        "hex": "#9fbfd9"
+      },
+      {
+        "slug": "green",
+        "name": "Green",
+        "hex": "#a9cdb3"
+      },
+      {
+        "slug": "orange",
+        "name": "Orange",
+        "hex": "#f2a37a"
+      },
+      {
+        "slug": "pink",
+        "name": "Pink",
+        "hex": "#f2b8c6"
+      },
+      {
+        "slug": "purple",
+        "name": "Purple",
+        "hex": "#c2b4dc"
+      },
+      {
+        "slug": "yellow",
+        "name": "Yellow",
+        "hex": "#f4d77a"
+      }
+    ],
+    "color": "pink",
+    "images": [
+      "img/products/imac/pink-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Say hello to M6",
+        "text": [
+          "The all-in-one iMac gets the newest Apple chip."
+        ]
+      },
+      {
+        "title": "A stunning 4.5K display",
+        "text": [
+          "A 24-inch Retina display with over a billion colors."
+        ]
+      },
+      {
+        "title": "Colors you love",
+        "text": [
+          "Six vibrant finishes with matching accessories."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "24\" 4.5K Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "4480×2520"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M6, 10-core CPU, 10-core GPU"
+      },
+      {
+        "label": "Memory",
+        "value": "16GB unified memory"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Center Stage"
+      },
+      {
+        "label": "Audio",
+        "value": "Six-speaker system"
+      },
+      {
+        "label": "Ports",
+        "value": "Thunderbolt / USB 4, 2.5Gb Ethernet"
+      },
+      {
+        "label": "Accessories",
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
+      }
+    ],
+    "rating": 4.9,
+    "reviewsCount": 160,
+    "reviews": [
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Worth every penny",
+        "text": "My best tech purchase in years."
+      },
+      {
+        "author": "Daniel K.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-05-21",
+        "title": "Beautiful display",
+        "text": "Text is razor sharp and colors are accurate for photo editing."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "imac-512gb-pink",
+    "category": "mac",
+    "namespaceId": "imac",
+    "name": "iMac 24-inch M6 512GB Pink",
+    "modelName": "iMac 24-inch M6",
+    "year": 2026,
+    "capacityAvailable": [
+      "256GB",
+      "512GB"
+    ],
+    "capacity": "512GB",
+    "capacityLabel": "Storage",
+    "priceRegular": 1699,
+    "priceDiscount": 1699,
+    "colors": [
+      {
+        "slug": "blue",
+        "name": "Blue",
+        "hex": "#9fbfd9"
+      },
+      {
+        "slug": "green",
+        "name": "Green",
+        "hex": "#a9cdb3"
+      },
+      {
+        "slug": "orange",
+        "name": "Orange",
+        "hex": "#f2a37a"
+      },
+      {
+        "slug": "pink",
+        "name": "Pink",
+        "hex": "#f2b8c6"
+      },
+      {
+        "slug": "purple",
+        "name": "Purple",
+        "hex": "#c2b4dc"
+      },
+      {
+        "slug": "yellow",
+        "name": "Yellow",
+        "hex": "#f4d77a"
+      }
+    ],
+    "color": "pink",
+    "images": [
+      "img/products/imac/pink-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Say hello to M6",
+        "text": [
+          "The all-in-one iMac gets the newest Apple chip."
+        ]
+      },
+      {
+        "title": "A stunning 4.5K display",
+        "text": [
+          "A 24-inch Retina display with over a billion colors."
+        ]
+      },
+      {
+        "title": "Colors you love",
+        "text": [
+          "Six vibrant finishes with matching accessories."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "24\" 4.5K Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "4480×2520"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M6, 10-core CPU, 10-core GPU"
+      },
+      {
+        "label": "Memory",
+        "value": "16GB unified memory"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Center Stage"
+      },
+      {
+        "label": "Audio",
+        "value": "Six-speaker system"
+      },
+      {
+        "label": "Ports",
+        "value": "Thunderbolt / USB 4, 2.5Gb Ethernet"
+      },
+      {
+        "label": "Accessories",
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
+      }
+    ],
+    "rating": 4.9,
+    "reviewsCount": 160,
+    "reviews": [
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Worth every penny",
+        "text": "My best tech purchase in years."
+      },
+      {
+        "author": "Daniel K.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-05-21",
+        "title": "Beautiful display",
+        "text": "Text is razor sharp and colors are accurate for photo editing."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "imac-256gb-purple",
+    "category": "mac",
+    "namespaceId": "imac",
+    "name": "iMac 24-inch M6 256GB Purple",
+    "modelName": "iMac 24-inch M6",
+    "year": 2026,
+    "capacityAvailable": [
+      "256GB",
+      "512GB"
+    ],
+    "capacity": "256GB",
+    "capacityLabel": "Storage",
+    "priceRegular": 1499,
+    "priceDiscount": 1499,
+    "colors": [
+      {
+        "slug": "blue",
+        "name": "Blue",
+        "hex": "#9fbfd9"
+      },
+      {
+        "slug": "green",
+        "name": "Green",
+        "hex": "#a9cdb3"
+      },
+      {
+        "slug": "orange",
+        "name": "Orange",
+        "hex": "#f2a37a"
+      },
+      {
+        "slug": "pink",
+        "name": "Pink",
+        "hex": "#f2b8c6"
+      },
+      {
+        "slug": "purple",
+        "name": "Purple",
+        "hex": "#c2b4dc"
+      },
+      {
+        "slug": "yellow",
+        "name": "Yellow",
+        "hex": "#f4d77a"
+      }
+    ],
+    "color": "purple",
+    "images": [
+      "img/products/imac/purple-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Say hello to M6",
+        "text": [
+          "The all-in-one iMac gets the newest Apple chip."
+        ]
+      },
+      {
+        "title": "A stunning 4.5K display",
+        "text": [
+          "A 24-inch Retina display with over a billion colors."
+        ]
+      },
+      {
+        "title": "Colors you love",
+        "text": [
+          "Six vibrant finishes with matching accessories."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "24\" 4.5K Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "4480×2520"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M6, 10-core CPU, 10-core GPU"
+      },
+      {
+        "label": "Memory",
+        "value": "16GB unified memory"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Center Stage"
+      },
+      {
+        "label": "Audio",
+        "value": "Six-speaker system"
+      },
+      {
+        "label": "Ports",
+        "value": "Thunderbolt / USB 4, 2.5Gb Ethernet"
+      },
+      {
+        "label": "Accessories",
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
+      }
+    ],
+    "rating": 4.9,
+    "reviewsCount": 160,
+    "reviews": [
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Worth every penny",
+        "text": "My best tech purchase in years."
+      },
+      {
+        "author": "Daniel K.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-05-21",
+        "title": "Beautiful display",
+        "text": "Text is razor sharp and colors are accurate for photo editing."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "imac-512gb-purple",
+    "category": "mac",
+    "namespaceId": "imac",
+    "name": "iMac 24-inch M6 512GB Purple",
+    "modelName": "iMac 24-inch M6",
+    "year": 2026,
+    "capacityAvailable": [
+      "256GB",
+      "512GB"
+    ],
+    "capacity": "512GB",
+    "capacityLabel": "Storage",
+    "priceRegular": 1699,
+    "priceDiscount": 1699,
+    "colors": [
+      {
+        "slug": "blue",
+        "name": "Blue",
+        "hex": "#9fbfd9"
+      },
+      {
+        "slug": "green",
+        "name": "Green",
+        "hex": "#a9cdb3"
+      },
+      {
+        "slug": "orange",
+        "name": "Orange",
+        "hex": "#f2a37a"
+      },
+      {
+        "slug": "pink",
+        "name": "Pink",
+        "hex": "#f2b8c6"
+      },
+      {
+        "slug": "purple",
+        "name": "Purple",
+        "hex": "#c2b4dc"
+      },
+      {
+        "slug": "yellow",
+        "name": "Yellow",
+        "hex": "#f4d77a"
+      }
+    ],
+    "color": "purple",
+    "images": [
+      "img/products/imac/purple-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Say hello to M6",
+        "text": [
+          "The all-in-one iMac gets the newest Apple chip."
+        ]
+      },
+      {
+        "title": "A stunning 4.5K display",
+        "text": [
+          "A 24-inch Retina display with over a billion colors."
+        ]
+      },
+      {
+        "title": "Colors you love",
+        "text": [
+          "Six vibrant finishes with matching accessories."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "24\" 4.5K Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "4480×2520"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M6, 10-core CPU, 10-core GPU"
+      },
+      {
+        "label": "Memory",
+        "value": "16GB unified memory"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Center Stage"
+      },
+      {
+        "label": "Audio",
+        "value": "Six-speaker system"
+      },
+      {
+        "label": "Ports",
+        "value": "Thunderbolt / USB 4, 2.5Gb Ethernet"
+      },
+      {
+        "label": "Accessories",
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
+      }
+    ],
+    "rating": 4.9,
+    "reviewsCount": 160,
+    "reviews": [
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Worth every penny",
+        "text": "My best tech purchase in years."
+      },
+      {
+        "author": "Daniel K.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-05-21",
+        "title": "Beautiful display",
+        "text": "Text is razor sharp and colors are accurate for photo editing."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "imac-256gb-yellow",
+    "category": "mac",
+    "namespaceId": "imac",
+    "name": "iMac 24-inch M6 256GB Yellow",
+    "modelName": "iMac 24-inch M6",
+    "year": 2026,
+    "capacityAvailable": [
+      "256GB",
+      "512GB"
+    ],
+    "capacity": "256GB",
+    "capacityLabel": "Storage",
+    "priceRegular": 1499,
+    "priceDiscount": 1499,
+    "colors": [
+      {
+        "slug": "blue",
+        "name": "Blue",
+        "hex": "#9fbfd9"
+      },
+      {
+        "slug": "green",
+        "name": "Green",
+        "hex": "#a9cdb3"
+      },
+      {
+        "slug": "orange",
+        "name": "Orange",
+        "hex": "#f2a37a"
+      },
+      {
+        "slug": "pink",
+        "name": "Pink",
+        "hex": "#f2b8c6"
+      },
+      {
+        "slug": "purple",
+        "name": "Purple",
+        "hex": "#c2b4dc"
+      },
+      {
+        "slug": "yellow",
+        "name": "Yellow",
+        "hex": "#f4d77a"
+      }
+    ],
+    "color": "yellow",
+    "images": [
+      "img/products/imac/yellow-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Say hello to M6",
+        "text": [
+          "The all-in-one iMac gets the newest Apple chip."
+        ]
+      },
+      {
+        "title": "A stunning 4.5K display",
+        "text": [
+          "A 24-inch Retina display with over a billion colors."
+        ]
+      },
+      {
+        "title": "Colors you love",
+        "text": [
+          "Six vibrant finishes with matching accessories."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "24\" 4.5K Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "4480×2520"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M6, 10-core CPU, 10-core GPU"
+      },
+      {
+        "label": "Memory",
+        "value": "16GB unified memory"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Center Stage"
+      },
+      {
+        "label": "Audio",
+        "value": "Six-speaker system"
+      },
+      {
+        "label": "Ports",
+        "value": "Thunderbolt / USB 4, 2.5Gb Ethernet"
+      },
+      {
+        "label": "Accessories",
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
+      }
+    ],
+    "rating": 4.9,
+    "reviewsCount": 160,
+    "reviews": [
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Worth every penny",
+        "text": "My best tech purchase in years."
+      },
+      {
+        "author": "Daniel K.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-05-21",
+        "title": "Beautiful display",
+        "text": "Text is razor sharp and colors are accurate for photo editing."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "imac-512gb-yellow",
+    "category": "mac",
+    "namespaceId": "imac",
+    "name": "iMac 24-inch M6 512GB Yellow",
+    "modelName": "iMac 24-inch M6",
+    "year": 2026,
+    "capacityAvailable": [
+      "256GB",
+      "512GB"
+    ],
+    "capacity": "512GB",
+    "capacityLabel": "Storage",
+    "priceRegular": 1699,
+    "priceDiscount": 1699,
+    "colors": [
+      {
+        "slug": "blue",
+        "name": "Blue",
+        "hex": "#9fbfd9"
+      },
+      {
+        "slug": "green",
+        "name": "Green",
+        "hex": "#a9cdb3"
+      },
+      {
+        "slug": "orange",
+        "name": "Orange",
+        "hex": "#f2a37a"
+      },
+      {
+        "slug": "pink",
+        "name": "Pink",
+        "hex": "#f2b8c6"
+      },
+      {
+        "slug": "purple",
+        "name": "Purple",
+        "hex": "#c2b4dc"
+      },
+      {
+        "slug": "yellow",
+        "name": "Yellow",
+        "hex": "#f4d77a"
+      }
+    ],
+    "color": "yellow",
+    "images": [
+      "img/products/imac/yellow-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Say hello to M6",
+        "text": [
+          "The all-in-one iMac gets the newest Apple chip."
+        ]
+      },
+      {
+        "title": "A stunning 4.5K display",
+        "text": [
+          "A 24-inch Retina display with over a billion colors."
+        ]
+      },
+      {
+        "title": "Colors you love",
+        "text": [
+          "Six vibrant finishes with matching accessories."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "24\" 4.5K Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "4480×2520"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M6, 10-core CPU, 10-core GPU"
+      },
+      {
+        "label": "Memory",
+        "value": "16GB unified memory"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Center Stage"
+      },
+      {
+        "label": "Audio",
+        "value": "Six-speaker system"
+      },
+      {
+        "label": "Ports",
+        "value": "Thunderbolt / USB 4, 2.5Gb Ethernet"
+      },
+      {
+        "label": "Accessories",
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
+      }
+    ],
+    "rating": 4.9,
+    "reviewsCount": 160,
+    "reviews": [
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Worth every penny",
+        "text": "My best tech purchase in years."
+      },
+      {
+        "author": "Daniel K.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-05-21",
+        "title": "Beautiful display",
+        "text": "Text is razor sharp and colors are accurate for photo editing."
+      }
+    ],
+    "inStock": true
+  }
+]

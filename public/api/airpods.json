@@ -1,0 +1,948 @@
+[
+  {
+    "id": "airpods-pro-3",
+    "category": "airpods",
+    "namespaceId": "airpods-pro-3",
+    "name": "AirPods Pro 3",
+    "modelName": "AirPods Pro 3",
+    "year": 2025,
+    "capacityAvailable": [],
+    "capacity": "",
+    "capacityLabel": "Storage",
+    "priceRegular": 249,
+    "priceDiscount": 249,
+    "colors": [
+      {
+        "slug": "white",
+        "name": "White",
+        "hex": "#f2f2f0"
+      }
+    ],
+    "color": "white",
+    "images": [
+      "img/products/airpods-pro-3/white-0.webp"
+    ],
+    "description": [
+      {
+        "title": "World-class noise cancellation",
+        "text": [
+          "The best Active Noise Cancellation in AirPods."
+        ]
+      },
+      {
+        "title": "Heart rate sensing",
+        "text": [
+          "Track your heart rate during workouts."
+        ]
+      },
+      {
+        "title": "Hearing health",
+        "text": [
+          "Hearing Test and Hearing Aid features built in."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Chip",
+        "value": "H2"
+      },
+      {
+        "label": "Noise control",
+        "value": "Active Noise Cancellation, Transparency"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 8 hours, 24 hours with case"
+      },
+      {
+        "label": "Health",
+        "value": "Heart rate sensing"
+      },
+      {
+        "label": "Water resistance",
+        "value": "IP57"
+      },
+      {
+        "label": "Charging",
+        "value": "USB-C, MagSafe, Qi"
+      }
+    ],
+    "rating": 4.3,
+    "reviewsCount": 863,
+    "reviews": [
+      {
+        "author": "Emma L.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "So comfortable",
+        "text": "I forget I am wearing them."
+      },
+      {
+        "author": "Noah B.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Great for calls",
+        "text": "People say my voice sounds clear even outside."
+      },
+      {
+        "author": "Olivia M.",
+        "rating": 4,
+        "date": "2026-05-21",
+        "title": "Instant pairing",
+        "text": "Switches between my iPhone and Mac automatically."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "airpods-5-usb-c-case",
+    "category": "airpods",
+    "namespaceId": "airpods-5",
+    "name": "AirPods 5 with USB-C case",
+    "modelName": "AirPods 5",
+    "year": 2026,
+    "capacityAvailable": [
+      "USB-C case",
+      "Wireless case"
+    ],
+    "capacity": "USB-C case",
+    "capacityLabel": "Charging case",
+    "priceRegular": 129,
+    "priceDiscount": 129,
+    "colors": [
+      {
+        "slug": "white",
+        "name": "White",
+        "hex": "#f2f2f0"
+      }
+    ],
+    "color": "white",
+    "images": [
+      "img/products/airpods-5/white-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Noise cancellation for everyone",
+        "text": [
+          "Active Noise Cancellation now comes standard."
+        ]
+      },
+      {
+        "title": "Comfortable all day",
+        "text": [
+          "An open-ear design that fits more ears."
+        ]
+      },
+      {
+        "title": "Wireless option",
+        "text": [
+          "Choose the case with wireless charging."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Chip",
+        "value": "H2"
+      },
+      {
+        "label": "Noise control",
+        "value": "Active Noise Cancellation"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 6 hours, 22 hours with case"
+      },
+      {
+        "label": "Fit",
+        "value": "Open-ear design"
+      },
+      {
+        "label": "Charging",
+        "value": "USB-C or wireless case"
+      },
+      {
+        "label": "Weight",
+        "value": "4.3 g per earbud"
+      }
+    ],
+    "rating": 4.5,
+    "reviewsCount": 675,
+    "reviews": [
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Instant pairing",
+        "text": "Switches between my iPhone and Mac automatically."
+      },
+      {
+        "author": "Mia S.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Great for calls",
+        "text": "People say my voice sounds clear even outside."
+      },
+      {
+        "author": "Sofia R.",
+        "rating": 4,
+        "date": "2026-06-03",
+        "title": "So comfortable",
+        "text": "I forget I am wearing them."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "airpods-5-wireless-case",
+    "category": "airpods",
+    "namespaceId": "airpods-5",
+    "name": "AirPods 5 with Wireless case",
+    "modelName": "AirPods 5",
+    "year": 2026,
+    "capacityAvailable": [
+      "USB-C case",
+      "Wireless case"
+    ],
+    "capacity": "Wireless case",
+    "capacityLabel": "Charging case",
+    "priceRegular": 179,
+    "priceDiscount": 179,
+    "colors": [
+      {
+        "slug": "white",
+        "name": "White",
+        "hex": "#f2f2f0"
+      }
+    ],
+    "color": "white",
+    "images": [
+      "img/products/airpods-5/white-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Noise cancellation for everyone",
+        "text": [
+          "Active Noise Cancellation now comes standard."
+        ]
+      },
+      {
+        "title": "Comfortable all day",
+        "text": [
+          "An open-ear design that fits more ears."
+        ]
+      },
+      {
+        "title": "Wireless option",
+        "text": [
+          "Choose the case with wireless charging."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Chip",
+        "value": "H2"
+      },
+      {
+        "label": "Noise control",
+        "value": "Active Noise Cancellation"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 6 hours, 22 hours with case"
+      },
+      {
+        "label": "Fit",
+        "value": "Open-ear design"
+      },
+      {
+        "label": "Charging",
+        "value": "USB-C or wireless case"
+      },
+      {
+        "label": "Weight",
+        "value": "4.3 g per earbud"
+      }
+    ],
+    "rating": 4.5,
+    "reviewsCount": 675,
+    "reviews": [
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Instant pairing",
+        "text": "Switches between my iPhone and Mac automatically."
+      },
+      {
+        "author": "Mia S.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Great for calls",
+        "text": "People say my voice sounds clear even outside."
+      },
+      {
+        "author": "Sofia R.",
+        "rating": 4,
+        "date": "2026-06-03",
+        "title": "So comfortable",
+        "text": "I forget I am wearing them."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "airpods-4",
+    "category": "airpods",
+    "namespaceId": "airpods-4",
+    "name": "AirPods 4",
+    "modelName": "AirPods 4",
+    "year": 2024,
+    "capacityAvailable": [],
+    "capacity": "",
+    "capacityLabel": "Storage",
+    "priceRegular": 129,
+    "priceDiscount": 99,
+    "colors": [
+      {
+        "slug": "white",
+        "name": "White",
+        "hex": "#f2f2f0"
+      }
+    ],
+    "color": "white",
+    "images": [
+      "img/products/airpods-4/white-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Redesigned for comfort",
+        "text": [
+          "The most comfortable AirPods yet."
+        ]
+      },
+      {
+        "title": "Personalized Spatial Audio",
+        "text": [
+          "Immersive sound that surrounds you."
+        ]
+      },
+      {
+        "title": "Previous generation",
+        "text": [
+          "A great price on a fan favorite."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Chip",
+        "value": "H2"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 5 hours, 30 hours with case"
+      },
+      {
+        "label": "Fit",
+        "value": "Open-ear design"
+      },
+      {
+        "label": "Charging",
+        "value": "USB-C"
+      },
+      {
+        "label": "Water resistance",
+        "value": "IP54"
+      }
+    ],
+    "rating": 4.7,
+    "reviewsCount": 83,
+    "reviews": [
+      {
+        "author": "Max N.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Great for calls",
+        "text": "People say my voice sounds clear even outside."
+      },
+      {
+        "author": "Olivia M.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "So comfortable",
+        "text": "I forget I am wearing them."
+      },
+      {
+        "author": "Ava C.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Instant pairing",
+        "text": "Switches between my iPhone and Mac automatically."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "airpods-max-midnight",
+    "category": "airpods",
+    "namespaceId": "airpods-max",
+    "name": "AirPods Max Midnight",
+    "modelName": "AirPods Max",
+    "year": 2024,
+    "capacityAvailable": [],
+    "capacity": "",
+    "capacityLabel": "Storage",
+    "priceRegular": 549,
+    "priceDiscount": 549,
+    "colors": [
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "blue",
+        "name": "Blue",
+        "hex": "#a9c3d9"
+      },
+      {
+        "slug": "purple",
+        "name": "Purple",
+        "hex": "#cbb8dd"
+      },
+      {
+        "slug": "orange",
+        "name": "Orange",
+        "hex": "#f2b48c"
+      },
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      }
+    ],
+    "color": "midnight",
+    "images": [
+      "img/products/airpods-max/midnight-0.webp"
+    ],
+    "description": [
+      {
+        "title": "High-fidelity audio",
+        "text": [
+          "Custom drivers deliver rich, detailed sound."
+        ]
+      },
+      {
+        "title": "Lossless via USB-C",
+        "text": [
+          "Listen in lossless and ultra-low latency audio."
+        ]
+      },
+      {
+        "title": "Five colors",
+        "text": [
+          "A breathable knit mesh canopy and memory foam ear cushions."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Chip",
+        "value": "H2 in each ear cup"
+      },
+      {
+        "label": "Noise control",
+        "value": "Active Noise Cancellation, Transparency"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 20 hours"
+      },
+      {
+        "label": "Audio",
+        "value": "Lossless audio via USB-C"
+      },
+      {
+        "label": "Weight",
+        "value": "386 g"
+      }
+    ],
+    "rating": 4.4,
+    "reviewsCount": 516,
+    "reviews": [
+      {
+        "author": "James T.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Instant pairing",
+        "text": "Switches between my iPhone and Mac automatically."
+      },
+      {
+        "author": "Grace H.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Great for calls",
+        "text": "People say my voice sounds clear even outside."
+      },
+      {
+        "author": "Chloe D.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "So comfortable",
+        "text": "I forget I am wearing them."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "airpods-max-blue",
+    "category": "airpods",
+    "namespaceId": "airpods-max",
+    "name": "AirPods Max Blue",
+    "modelName": "AirPods Max",
+    "year": 2024,
+    "capacityAvailable": [],
+    "capacity": "",
+    "capacityLabel": "Storage",
+    "priceRegular": 549,
+    "priceDiscount": 549,
+    "colors": [
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "blue",
+        "name": "Blue",
+        "hex": "#a9c3d9"
+      },
+      {
+        "slug": "purple",
+        "name": "Purple",
+        "hex": "#cbb8dd"
+      },
+      {
+        "slug": "orange",
+        "name": "Orange",
+        "hex": "#f2b48c"
+      },
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      }
+    ],
+    "color": "blue",
+    "images": [
+      "img/products/airpods-max/blue-0.webp"
+    ],
+    "description": [
+      {
+        "title": "High-fidelity audio",
+        "text": [
+          "Custom drivers deliver rich, detailed sound."
+        ]
+      },
+      {
+        "title": "Lossless via USB-C",
+        "text": [
+          "Listen in lossless and ultra-low latency audio."
+        ]
+      },
+      {
+        "title": "Five colors",
+        "text": [
+          "A breathable knit mesh canopy and memory foam ear cushions."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Chip",
+        "value": "H2 in each ear cup"
+      },
+      {
+        "label": "Noise control",
+        "value": "Active Noise Cancellation, Transparency"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 20 hours"
+      },
+      {
+        "label": "Audio",
+        "value": "Lossless audio via USB-C"
+      },
+      {
+        "label": "Weight",
+        "value": "386 g"
+      }
+    ],
+    "rating": 4.4,
+    "reviewsCount": 516,
+    "reviews": [
+      {
+        "author": "James T.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Instant pairing",
+        "text": "Switches between my iPhone and Mac automatically."
+      },
+      {
+        "author": "Grace H.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Great for calls",
+        "text": "People say my voice sounds clear even outside."
+      },
+      {
+        "author": "Chloe D.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "So comfortable",
+        "text": "I forget I am wearing them."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "airpods-max-purple",
+    "category": "airpods",
+    "namespaceId": "airpods-max",
+    "name": "AirPods Max Purple",
+    "modelName": "AirPods Max",
+    "year": 2024,
+    "capacityAvailable": [],
+    "capacity": "",
+    "capacityLabel": "Storage",
+    "priceRegular": 549,
+    "priceDiscount": 549,
+    "colors": [
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "blue",
+        "name": "Blue",
+        "hex": "#a9c3d9"
+      },
+      {
+        "slug": "purple",
+        "name": "Purple",
+        "hex": "#cbb8dd"
+      },
+      {
+        "slug": "orange",
+        "name": "Orange",
+        "hex": "#f2b48c"
+      },
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      }
+    ],
+    "color": "purple",
+    "images": [
+      "img/products/airpods-max/purple-0.webp"
+    ],
+    "description": [
+      {
+        "title": "High-fidelity audio",
+        "text": [
+          "Custom drivers deliver rich, detailed sound."
+        ]
+      },
+      {
+        "title": "Lossless via USB-C",
+        "text": [
+          "Listen in lossless and ultra-low latency audio."
+        ]
+      },
+      {
+        "title": "Five colors",
+        "text": [
+          "A breathable knit mesh canopy and memory foam ear cushions."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Chip",
+        "value": "H2 in each ear cup"
+      },
+      {
+        "label": "Noise control",
+        "value": "Active Noise Cancellation, Transparency"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 20 hours"
+      },
+      {
+        "label": "Audio",
+        "value": "Lossless audio via USB-C"
+      },
+      {
+        "label": "Weight",
+        "value": "386 g"
+      }
+    ],
+    "rating": 4.4,
+    "reviewsCount": 516,
+    "reviews": [
+      {
+        "author": "James T.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Instant pairing",
+        "text": "Switches between my iPhone and Mac automatically."
+      },
+      {
+        "author": "Grace H.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Great for calls",
+        "text": "People say my voice sounds clear even outside."
+      },
+      {
+        "author": "Chloe D.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "So comfortable",
+        "text": "I forget I am wearing them."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "airpods-max-orange",
+    "category": "airpods",
+    "namespaceId": "airpods-max",
+    "name": "AirPods Max Orange",
+    "modelName": "AirPods Max",
+    "year": 2024,
+    "capacityAvailable": [],
+    "capacity": "",
+    "capacityLabel": "Storage",
+    "priceRegular": 549,
+    "priceDiscount": 549,
+    "colors": [
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "blue",
+        "name": "Blue",
+        "hex": "#a9c3d9"
+      },
+      {
+        "slug": "purple",
+        "name": "Purple",
+        "hex": "#cbb8dd"
+      },
+      {
+        "slug": "orange",
+        "name": "Orange",
+        "hex": "#f2b48c"
+      },
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      }
+    ],
+    "color": "orange",
+    "images": [
+      "img/products/airpods-max/orange-0.webp"
+    ],
+    "description": [
+      {
+        "title": "High-fidelity audio",
+        "text": [
+          "Custom drivers deliver rich, detailed sound."
+        ]
+      },
+      {
+        "title": "Lossless via USB-C",
+        "text": [
+          "Listen in lossless and ultra-low latency audio."
+        ]
+      },
+      {
+        "title": "Five colors",
+        "text": [
+          "A breathable knit mesh canopy and memory foam ear cushions."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Chip",
+        "value": "H2 in each ear cup"
+      },
+      {
+        "label": "Noise control",
+        "value": "Active Noise Cancellation, Transparency"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 20 hours"
+      },
+      {
+        "label": "Audio",
+        "value": "Lossless audio via USB-C"
+      },
+      {
+        "label": "Weight",
+        "value": "386 g"
+      }
+    ],
+    "rating": 4.4,
+    "reviewsCount": 516,
+    "reviews": [
+      {
+        "author": "James T.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Instant pairing",
+        "text": "Switches between my iPhone and Mac automatically."
+      },
+      {
+        "author": "Grace H.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Great for calls",
+        "text": "People say my voice sounds clear even outside."
+      },
+      {
+        "author": "Chloe D.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "So comfortable",
+        "text": "I forget I am wearing them."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "airpods-max-starlight",
+    "category": "airpods",
+    "namespaceId": "airpods-max",
+    "name": "AirPods Max Starlight",
+    "modelName": "AirPods Max",
+    "year": 2024,
+    "capacityAvailable": [],
+    "capacity": "",
+    "capacityLabel": "Storage",
+    "priceRegular": 549,
+    "priceDiscount": 549,
+    "colors": [
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "blue",
+        "name": "Blue",
+        "hex": "#a9c3d9"
+      },
+      {
+        "slug": "purple",
+        "name": "Purple",
+        "hex": "#cbb8dd"
+      },
+      {
+        "slug": "orange",
+        "name": "Orange",
+        "hex": "#f2b48c"
+      },
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      }
+    ],
+    "color": "starlight",
+    "images": [
+      "img/products/airpods-max/starlight-0.webp"
+    ],
+    "description": [
+      {
+        "title": "High-fidelity audio",
+        "text": [
+          "Custom drivers deliver rich, detailed sound."
+        ]
+      },
+      {
+        "title": "Lossless via USB-C",
+        "text": [
+          "Listen in lossless and ultra-low latency audio."
+        ]
+      },
+      {
+        "title": "Five colors",
+        "text": [
+          "A breathable knit mesh canopy and memory foam ear cushions."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Chip",
+        "value": "H2 in each ear cup"
+      },
+      {
+        "label": "Noise control",
+        "value": "Active Noise Cancellation, Transparency"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 20 hours"
+      },
+      {
+        "label": "Audio",
+        "value": "Lossless audio via USB-C"
+      },
+      {
+        "label": "Weight",
+        "value": "386 g"
+      }
+    ],
+    "rating": 4.4,
+    "reviewsCount": 516,
+    "reviews": [
+      {
+        "author": "James T.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Instant pairing",
+        "text": "Switches between my iPhone and Mac automatically."
+      },
+      {
+        "author": "Grace H.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Great for calls",
+        "text": "People say my voice sounds clear even outside."
+      },
+      {
+        "author": "Chloe D.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "So comfortable",
+        "text": "I forget I am wearing them."
+      }
+    ],
+    "inStock": true
+  }
+]

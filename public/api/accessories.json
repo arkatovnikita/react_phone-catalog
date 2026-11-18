@@ -1,0 +1,924 @@
+[
+  {
+    "id": "apple-pencil-pro",
+    "category": "accessories",
+    "namespaceId": "apple-pencil-pro",
+    "name": "Apple Pencil Pro",
+    "modelName": "Apple Pencil Pro",
+    "year": 2024,
+    "capacityAvailable": [],
+    "capacity": "",
+    "capacityLabel": "Storage",
+    "priceRegular": 129,
+    "priceDiscount": 129,
+    "colors": [
+      {
+        "slug": "default",
+        "name": "Apple Pencil Pro",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "color": "default",
+    "images": [
+      "img/products/apple-pencil-pro/default-0.webp",
+      "img/products/apple-pencil-pro/default-1.webp",
+      "img/products/apple-pencil-pro/default-2.webp"
+    ],
+    "description": [
+      {
+        "title": "Pro-level precision",
+        "text": [
+          "Pixel-perfect accuracy and low latency for drawing and notes."
+        ]
+      },
+      {
+        "title": "New gestures",
+        "text": [
+          "Squeeze to open a tool palette, roll to rotate your brush."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Compatibility",
+        "value": "iPad Pro (M4, M5), iPad Air (M2+), iPad mini (A17 Pro+)"
+      },
+      {
+        "label": "Connection",
+        "value": "Magnetic pairing and charging"
+      },
+      {
+        "label": "Features",
+        "value": "Squeeze, barrel roll, haptic feedback, Find My"
+      }
+    ],
+    "rating": 4.6,
+    "reviewsCount": 842,
+    "reviews": [
+      {
+        "author": "James T.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Recommend",
+        "text": "A bit pricey, but it just works."
+      },
+      {
+        "author": "Olivia M.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Good quality",
+        "text": "Feels premium and works with all my devices."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 4,
+        "date": "2026-06-03",
+        "title": "Works perfectly",
+        "text": "Exactly what I expected from Apple quality."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "magsafe-charger",
+    "category": "accessories",
+    "namespaceId": "magsafe-charger",
+    "name": "MagSafe Charger (1 m)",
+    "modelName": "MagSafe Charger (1 m)",
+    "year": 2025,
+    "capacityAvailable": [],
+    "capacity": "",
+    "capacityLabel": "Storage",
+    "priceRegular": 39,
+    "priceDiscount": 39,
+    "colors": [
+      {
+        "slug": "default",
+        "name": "MagSafe Charger (1 m)",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "color": "default",
+    "images": [
+      "img/products/magsafe-charger/default-0.webp",
+      "img/products/magsafe-charger/default-1.webp",
+      "img/products/magsafe-charger/default-2.webp",
+      "img/products/magsafe-charger/default-3.webp"
+    ],
+    "description": [
+      {
+        "title": "Snaps right on",
+        "text": [
+          "Perfectly aligned magnets for faster wireless charging."
+        ]
+      },
+      {
+        "title": "Faster charging",
+        "text": [
+          "Up to 25W with compatible iPhone models."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Power",
+        "value": "Up to 25W with a 30W adapter"
+      },
+      {
+        "label": "Cable",
+        "value": "1 m, USB-C"
+      },
+      {
+        "label": "Compatibility",
+        "value": "iPhone 12 and later, AirPods"
+      }
+    ],
+    "rating": 4.7,
+    "reviewsCount": 432,
+    "reviews": [
+      {
+        "author": "Lucas P.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Recommend",
+        "text": "A bit pricey, but it just works."
+      },
+      {
+        "author": "Daniel K.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Works perfectly",
+        "text": "Exactly what I expected from Apple quality."
+      },
+      {
+        "author": "Max N.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Good quality",
+        "text": "Feels premium and works with all my devices."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "iphone-air-magsafe-battery",
+    "category": "accessories",
+    "namespaceId": "iphone-air-magsafe-battery",
+    "name": "iPhone Air MagSafe Battery",
+    "modelName": "iPhone Air MagSafe Battery",
+    "year": 2025,
+    "capacityAvailable": [],
+    "capacity": "",
+    "capacityLabel": "Storage",
+    "priceRegular": 99,
+    "priceDiscount": 99,
+    "colors": [
+      {
+        "slug": "default",
+        "name": "iPhone Air MagSafe Battery",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "color": "default",
+    "images": [
+      "img/products/iphone-air-magsafe-battery/default-0.webp",
+      "img/products/iphone-air-magsafe-battery/default-1.webp",
+      "img/products/iphone-air-magsafe-battery/default-2.webp"
+    ],
+    "description": [
+      {
+        "title": "More power, still thin",
+        "text": [
+          "Adds hours of battery life to iPhone Air."
+        ]
+      },
+      {
+        "title": "Charge both",
+        "text": [
+          "Charges itself and iPhone over USB-C."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Compatibility",
+        "value": "iPhone Air"
+      },
+      {
+        "label": "Charging",
+        "value": "USB-C, MagSafe"
+      },
+      {
+        "label": "Design",
+        "value": "Ultra-thin"
+      }
+    ],
+    "rating": 4.8,
+    "reviewsCount": 852,
+    "reviews": [
+      {
+        "author": "Sofia R.",
+        "rating": 5,
+        "date": "2026-10-02",
+        "title": "Recommend",
+        "text": "A bit pricey, but it just works."
+      },
+      {
+        "author": "Daniel K.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Works perfectly",
+        "text": "Exactly what I expected from Apple quality."
+      },
+      {
+        "author": "Leo F.",
+        "rating": 4,
+        "date": "2026-07-14",
+        "title": "Good quality",
+        "text": "Feels premium and works with all my devices."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "40w-dynamic-power-adapter",
+    "category": "accessories",
+    "namespaceId": "40w-dynamic-power-adapter",
+    "name": "40W Dynamic Power Adapter",
+    "modelName": "40W Dynamic Power Adapter",
+    "year": 2025,
+    "capacityAvailable": [],
+    "capacity": "",
+    "capacityLabel": "Storage",
+    "priceRegular": 39,
+    "priceDiscount": 39,
+    "colors": [
+      {
+        "slug": "default",
+        "name": "40W Dynamic Power Adapter",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "color": "default",
+    "images": [
+      "img/products/40w-dynamic-power-adapter/default-0.webp",
+      "img/products/40w-dynamic-power-adapter/default-1.webp",
+      "img/products/40w-dynamic-power-adapter/default-2.webp"
+    ],
+    "description": [
+      {
+        "title": "Fast charging",
+        "text": [
+          "Charge iPhone to 50% in about 20 minutes."
+        ]
+      },
+      {
+        "title": "Compact",
+        "text": [
+          "Small enough to take anywhere."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Power",
+        "value": "40W, up to 60W max"
+      },
+      {
+        "label": "Port",
+        "value": "USB-C"
+      },
+      {
+        "label": "Compatibility",
+        "value": "iPhone, iPad, MacBook Air"
+      }
+    ],
+    "rating": 4.3,
+    "reviewsCount": 97,
+    "reviews": [
+      {
+        "author": "Olivia M.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Good quality",
+        "text": "Feels premium and works with all my devices."
+      },
+      {
+        "author": "Max N.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Recommend",
+        "text": "A bit pricey, but it just works."
+      },
+      {
+        "author": "Lucas P.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Works perfectly",
+        "text": "Exactly what I expected from Apple quality."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "20w-usb-c-power-adapter",
+    "category": "accessories",
+    "namespaceId": "20w-usb-c-power-adapter",
+    "name": "20W USB-C Power Adapter",
+    "modelName": "20W USB-C Power Adapter",
+    "year": 2024,
+    "capacityAvailable": [],
+    "capacity": "",
+    "capacityLabel": "Storage",
+    "priceRegular": 19,
+    "priceDiscount": 19,
+    "colors": [
+      {
+        "slug": "default",
+        "name": "20W USB-C Power Adapter",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "color": "default",
+    "images": [
+      "img/products/20w-usb-c-power-adapter/default-0.webp",
+      "img/products/20w-usb-c-power-adapter/default-1.webp",
+      "img/products/20w-usb-c-power-adapter/default-2.webp"
+    ],
+    "description": [
+      {
+        "title": "Fast and compact",
+        "text": [
+          "Fast charging at home, at the office or on the go."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Power",
+        "value": "20W"
+      },
+      {
+        "label": "Port",
+        "value": "USB-C"
+      },
+      {
+        "label": "Compatibility",
+        "value": "iPhone, iPad, AirPods"
+      }
+    ],
+    "rating": 4.6,
+    "reviewsCount": 359,
+    "reviews": [
+      {
+        "author": "Mia S.",
+        "rating": 5,
+        "date": "2026-10-02",
+        "title": "Recommend",
+        "text": "A bit pricey, but it just works."
+      },
+      {
+        "author": "Noah B.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Works perfectly",
+        "text": "Exactly what I expected from Apple quality."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 4,
+        "date": "2026-06-03",
+        "title": "Good quality",
+        "text": "Feels premium and works with all my devices."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "usb-c-to-magsafe-3-cable",
+    "category": "accessories",
+    "namespaceId": "usb-c-to-magsafe-3-cable",
+    "name": "USB-C to MagSafe 3 Cable (2 m)",
+    "modelName": "USB-C to MagSafe 3 Cable (2 m)",
+    "year": 2024,
+    "capacityAvailable": [],
+    "capacity": "",
+    "capacityLabel": "Storage",
+    "priceRegular": 49,
+    "priceDiscount": 49,
+    "colors": [
+      {
+        "slug": "default",
+        "name": "USB-C to MagSafe 3 Cable (2 m)",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "color": "default",
+    "images": [
+      "img/products/usb-c-to-magsafe-3-cable/default-0.webp",
+      "img/products/usb-c-to-magsafe-3-cable/default-1.webp",
+      "img/products/usb-c-to-magsafe-3-cable/default-2.webp"
+    ],
+    "description": [
+      {
+        "title": "Safe and simple",
+        "text": [
+          "Magnetic connection that releases safely if pulled."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Length",
+        "value": "2 m"
+      },
+      {
+        "label": "Compatibility",
+        "value": "MacBook Air and MacBook Pro with MagSafe 3"
+      },
+      {
+        "label": "Design",
+        "value": "Braided"
+      }
+    ],
+    "rating": 4.8,
+    "reviewsCount": 846,
+    "reviews": [
+      {
+        "author": "Sofia R.",
+        "rating": 5,
+        "date": "2026-10-02",
+        "title": "Recommend",
+        "text": "A bit pricey, but it just works."
+      },
+      {
+        "author": "Grace H.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Works perfectly",
+        "text": "Exactly what I expected from Apple quality."
+      },
+      {
+        "author": "Max N.",
+        "rating": 4,
+        "date": "2026-05-21",
+        "title": "Good quality",
+        "text": "Feels premium and works with all my devices."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "airtag-4-pack",
+    "category": "accessories",
+    "namespaceId": "airtag-4-pack",
+    "name": "AirTag 4 pack",
+    "modelName": "AirTag 4 pack",
+    "year": 2026,
+    "capacityAvailable": [],
+    "capacity": "",
+    "capacityLabel": "Storage",
+    "priceRegular": 99,
+    "priceDiscount": 99,
+    "colors": [
+      {
+        "slug": "default",
+        "name": "AirTag 4 pack",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "color": "default",
+    "images": [
+      "img/products/airtag-4-pack/default-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Find anything",
+        "text": [
+          "Attach to keys, bags and luggage and find them with Find My."
+        ]
+      },
+      {
+        "title": "Precision Finding",
+        "text": [
+          "Guides you to your item with arrows and haptics."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Precision Finding",
+        "value": "Second-generation Ultra Wideband"
+      },
+      {
+        "label": "Battery",
+        "value": "Replaceable, over a year"
+      },
+      {
+        "label": "Water resistance",
+        "value": "IP67"
+      }
+    ],
+    "rating": 4.6,
+    "reviewsCount": 764,
+    "reviews": [
+      {
+        "author": "Leo F.",
+        "rating": 5,
+        "date": "2026-10-02",
+        "title": "Good quality",
+        "text": "Feels premium and works with all my devices."
+      },
+      {
+        "author": "Daniel K.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Recommend",
+        "text": "A bit pricey, but it just works."
+      },
+      {
+        "author": "Noah B.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Works perfectly",
+        "text": "Exactly what I expected from Apple quality."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "airtag-finewoven-key-ring-burgundy",
+    "category": "accessories",
+    "namespaceId": "airtag-finewoven-key-ring",
+    "name": "AirTag FineWoven Key Ring Burgundy",
+    "modelName": "AirTag FineWoven Key Ring",
+    "year": 2026,
+    "capacityAvailable": [],
+    "capacity": "",
+    "capacityLabel": "Storage",
+    "priceRegular": 35,
+    "priceDiscount": 35,
+    "colors": [
+      {
+        "slug": "burgundy",
+        "name": "Burgundy",
+        "hex": "#6e2b33"
+      },
+      {
+        "slug": "darkolive",
+        "name": "Dark Olive",
+        "hex": "#55583f"
+      }
+    ],
+    "color": "burgundy",
+    "images": [
+      "img/products/airtag-finewoven-key-ring/burgundy-0.webp",
+      "img/products/airtag-finewoven-key-ring/burgundy-1.webp"
+    ],
+    "description": [
+      {
+        "title": "Carry it with style",
+        "text": [
+          "A soft, durable FineWoven key ring for your AirTag."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Material",
+        "value": "FineWoven"
+      },
+      {
+        "label": "Compatibility",
+        "value": "AirTag"
+      }
+    ],
+    "rating": 4.4,
+    "reviewsCount": 897,
+    "reviews": [
+      {
+        "author": "Noah B.",
+        "rating": 5,
+        "date": "2026-10-02",
+        "title": "Works perfectly",
+        "text": "Exactly what I expected from Apple quality."
+      },
+      {
+        "author": "Chloe D.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Recommend",
+        "text": "A bit pricey, but it just works."
+      },
+      {
+        "author": "Grace H.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Good quality",
+        "text": "Feels premium and works with all my devices."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "airtag-finewoven-key-ring-darkolive",
+    "category": "accessories",
+    "namespaceId": "airtag-finewoven-key-ring",
+    "name": "AirTag FineWoven Key Ring Dark Olive",
+    "modelName": "AirTag FineWoven Key Ring",
+    "year": 2026,
+    "capacityAvailable": [],
+    "capacity": "",
+    "capacityLabel": "Storage",
+    "priceRegular": 35,
+    "priceDiscount": 35,
+    "colors": [
+      {
+        "slug": "burgundy",
+        "name": "Burgundy",
+        "hex": "#6e2b33"
+      },
+      {
+        "slug": "darkolive",
+        "name": "Dark Olive",
+        "hex": "#55583f"
+      }
+    ],
+    "color": "darkolive",
+    "images": [
+      "img/products/airtag-finewoven-key-ring/darkolive-0.webp",
+      "img/products/airtag-finewoven-key-ring/darkolive-1.webp"
+    ],
+    "description": [
+      {
+        "title": "Carry it with style",
+        "text": [
+          "A soft, durable FineWoven key ring for your AirTag."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Material",
+        "value": "FineWoven"
+      },
+      {
+        "label": "Compatibility",
+        "value": "AirTag"
+      }
+    ],
+    "rating": 4.4,
+    "reviewsCount": 897,
+    "reviews": [
+      {
+        "author": "Noah B.",
+        "rating": 5,
+        "date": "2026-10-02",
+        "title": "Works perfectly",
+        "text": "Exactly what I expected from Apple quality."
+      },
+      {
+        "author": "Chloe D.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Recommend",
+        "text": "A bit pricey, but it just works."
+      },
+      {
+        "author": "Grace H.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Good quality",
+        "text": "Feels premium and works with all my devices."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "iphone-18-pro-max-silicone-case",
+    "category": "accessories",
+    "namespaceId": "iphone-18-pro-max-silicone-case",
+    "name": "iPhone 18 Pro Max Silicone Case with MagSafe",
+    "modelName": "iPhone 18 Pro Max Silicone Case with MagSafe",
+    "year": 2026,
+    "capacityAvailable": [],
+    "capacity": "",
+    "capacityLabel": "Storage",
+    "priceRegular": 49,
+    "priceDiscount": 49,
+    "colors": [
+      {
+        "slug": "default",
+        "name": "iPhone 18 Pro Max Silicone Case with MagSafe",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "color": "default",
+    "images": [
+      "img/products/iphone-18-pro-max-silicone-case/default-0.webp",
+      "img/products/iphone-18-pro-max-silicone-case/default-1.webp",
+      "img/products/iphone-18-pro-max-silicone-case/default-2.webp",
+      "img/products/iphone-18-pro-max-silicone-case/default-3.webp"
+    ],
+    "description": [
+      {
+        "title": "Soft to the touch",
+        "text": [
+          "A silky silicone exterior with a soft microfiber lining."
+        ]
+      },
+      {
+        "title": "MagSafe ready",
+        "text": [
+          "Snaps on to MagSafe chargers and wallets."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Compatibility",
+        "value": "iPhone 18 Pro Max"
+      },
+      {
+        "label": "Material",
+        "value": "Silicone with microfiber lining"
+      },
+      {
+        "label": "MagSafe",
+        "value": "Yes"
+      }
+    ],
+    "rating": 4.7,
+    "reviewsCount": 110,
+    "reviews": [
+      {
+        "author": "Ava C.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Works perfectly",
+        "text": "Exactly what I expected from Apple quality."
+      },
+      {
+        "author": "Grace H.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Good quality",
+        "text": "Feels premium and works with all my devices."
+      },
+      {
+        "author": "Daniel K.",
+        "rating": 4,
+        "date": "2026-08-27",
+        "title": "Recommend",
+        "text": "A bit pricey, but it just works."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "iphone-finewoven-wallet",
+    "category": "accessories",
+    "namespaceId": "iphone-finewoven-wallet",
+    "name": "iPhone FineWoven Wallet with MagSafe",
+    "modelName": "iPhone FineWoven Wallet with MagSafe",
+    "year": 2026,
+    "capacityAvailable": [],
+    "capacity": "",
+    "capacityLabel": "Storage",
+    "priceRegular": 59,
+    "priceDiscount": 59,
+    "colors": [
+      {
+        "slug": "default",
+        "name": "iPhone FineWoven Wallet with MagSafe",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "color": "default",
+    "images": [
+      "img/products/iphone-finewoven-wallet/default-0.webp",
+      "img/products/iphone-finewoven-wallet/default-1.webp",
+      "img/products/iphone-finewoven-wallet/default-2.webp",
+      "img/products/iphone-finewoven-wallet/default-3.webp"
+    ],
+    "description": [
+      {
+        "title": "Your cards, always with you",
+        "text": [
+          "Snaps magnetically to the back of your iPhone."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Compatibility",
+        "value": "iPhone with MagSafe"
+      },
+      {
+        "label": "Capacity",
+        "value": "Up to 3 cards"
+      },
+      {
+        "label": "Find My",
+        "value": "Yes"
+      }
+    ],
+    "rating": 4.6,
+    "reviewsCount": 268,
+    "reviews": [
+      {
+        "author": "Lucas P.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Recommend",
+        "text": "A bit pricey, but it just works."
+      },
+      {
+        "author": "James T.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Good quality",
+        "text": "Feels premium and works with all my devices."
+      },
+      {
+        "author": "James T.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Works perfectly",
+        "text": "Exactly what I expected from Apple quality."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "iphone-duo-case",
+    "category": "accessories",
+    "namespaceId": "iphone-duo-case",
+    "name": "iPhone Duo Case",
+    "modelName": "iPhone Duo Case",
+    "year": 2026,
+    "capacityAvailable": [],
+    "capacity": "",
+    "capacityLabel": "Storage",
+    "priceRegular": 79,
+    "priceDiscount": 79,
+    "colors": [
+      {
+        "slug": "default",
+        "name": "iPhone Duo Case",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "color": "default",
+    "images": [
+      "img/products/iphone-duo-case/default-0.webp",
+      "img/products/iphone-duo-case/default-1.webp",
+      "img/products/iphone-duo-case/default-2.webp",
+      "img/products/iphone-duo-case/default-3.webp"
+    ],
+    "description": [
+      {
+        "title": "Designed for Duo",
+        "text": [
+          "Protects both halves and doubles as a stand."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Compatibility",
+        "value": "iPhone Duo"
+      },
+      {
+        "label": "Design",
+        "value": "Folio with kickstand"
+      }
+    ],
+    "rating": 4.4,
+    "reviewsCount": 592,
+    "reviews": [
+      {
+        "author": "Max N.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Recommend",
+        "text": "A bit pricey, but it just works."
+      },
+      {
+        "author": "Leo F.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Works perfectly",
+        "text": "Exactly what I expected from Apple quality."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 4,
+        "date": "2026-06-03",
+        "title": "Good quality",
+        "text": "Feels premium and works with all my devices."
+      }
+    ],
+    "inStock": true
+  }
+]
