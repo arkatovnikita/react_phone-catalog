@@ -13,6 +13,7 @@ export interface Product {
   capacity: string;
   year: number;
   image: string;
+  imageCover?: boolean;
   summary: string;
   colors: { name: string; hex: string }[];
   rating: number;

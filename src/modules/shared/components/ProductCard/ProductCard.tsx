@@ -20,6 +20,7 @@ export const ProductCard = ({ product, showFullPrice = true }: Props) => {
     itemId,
     modelName,
     image,
+    imageCover,
     price,
     fullPrice,
     summary,
@@ -50,7 +51,12 @@ export const ProductCard = ({ product, showFullPrice = true }: Props) => {
       className={classNames(styles.card, { [styles.cardOutOfStock]: !inStock })}
     >
       <div className={styles.media}>
-        <Link to={productLink} className={styles.imageLink}>
+        <Link
+          to={productLink}
+          className={classNames(styles.imageLink, {
+            [styles.imageLinkCover]: imageCover,
+          })}
+        >
           <img
             src={`${import.meta.env.BASE_URL}${image}`}
             alt={modelName}
