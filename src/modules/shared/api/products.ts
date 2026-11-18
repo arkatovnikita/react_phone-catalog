@@ -64,8 +64,34 @@ export const getProductData = async (productId: string) => {
     : null;
 };
 
-export const getSuggestedProducts = async (count: number) => {
-  const products = await getProducts();
+const shuffle = <T>(items: T[]) => {
+  const result = [...items];
 
-  return [...products].sort(() => Math.random() - 0.5).slice(0, count);
+  for (let i = result.length - 1; i > 0; i -= 1) {
+    const j = Math.floor(Math.random() * (i + 1));
+
+    [result[i], result[j]] = [result[j], result[i]];
+  }
+
+  return result;
+};
+
+export const getSuggestedProducts = async (
+  namespaceId: string,
+  count: number,
+) => {
+  const products = await getProducts();
+  const current = products.find(item => item.namespaceId === namespaceId);
+  const others = products.filter(item => item.namespaceId !== namespaceId);
+  const sameCategory = others.filter(
+    item => item.category === current?.category,
+  );
+  const otherCategories = others.filter(
+    item => item.category !== current?.category,
+  );
+
+  return [...shuffle(sameCategory), ...shuffle(otherCategories)].slice(
+    0,
+    count,
+  );
 };

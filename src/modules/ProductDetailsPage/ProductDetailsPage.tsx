@@ -46,13 +46,17 @@ export const ProductDetailsPage = () => {
       .finally(() => setIsLoading(false));
   }, [productId]);
 
+  const namespaceId = data?.details.namespaceId;
+
   useEffect(() => {
-    getSuggestedProducts(SUGGESTED_COUNT)
+    if (!namespaceId) {
+      return;
+    }
+
+    getSuggestedProducts(namespaceId, SUGGESTED_COUNT)
       .then(setSuggested)
       .catch(() => setSuggested([]));
-  }, [productId]);
-
-  const namespaceId = data?.details.namespaceId;
+  }, [namespaceId]);
 
   useEffect(() => {
     window.scrollTo({ top: 0 });
