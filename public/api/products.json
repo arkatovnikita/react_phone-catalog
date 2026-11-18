@@ -1817,6 +1817,72 @@
   {
     "id": 52,
     "category": "mac",
+    "itemId": "macbook-pro-14-m4-512gb-spaceblack",
+    "namespaceId": "macbook-pro-14-m4",
+    "name": "MacBook Pro 14-inch M4 512GB Space Black",
+    "modelName": "MacBook Pro 14-inch M4",
+    "fullPrice": 1599,
+    "price": 1279,
+    "color": "Space Black",
+    "capacity": "512GB",
+    "year": 2024,
+    "image": "img/products/macbook-pro-14-m4/spaceblack-0.webp",
+    "summary": "14.2\" Liquid Retina XDR · M4 · 16GB",
+    "colors": [
+      {
+        "name": "Space Black",
+        "hex": "#2f2f31"
+      },
+      {
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "rating": 4.6,
+    "reviewsCount": 730,
+    "inStock": true,
+    "isNew": false
+  },
+  {
+    "id": 53,
+    "category": "mac",
+    "itemId": "macbook-air-15-m3-256gb-starlight",
+    "namespaceId": "macbook-air-15-m3",
+    "name": "MacBook Air 15-inch M3 256GB Starlight",
+    "modelName": "MacBook Air 15-inch M3",
+    "fullPrice": 1299,
+    "price": 1039,
+    "color": "Starlight",
+    "capacity": "256GB",
+    "year": 2024,
+    "image": "img/products/macbook-air-15-m3/starlight-0.webp",
+    "summary": "15.3\" Liquid Retina · M3 · 8GB",
+    "colors": [
+      {
+        "name": "Starlight",
+        "hex": "#efe9df"
+      },
+      {
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "name": "Space Gray",
+        "hex": "#5c5f63"
+      }
+    ],
+    "rating": 4.8,
+    "reviewsCount": 505,
+    "inStock": true,
+    "isNew": false
+  },
+  {
+    "id": 54,
+    "category": "mac",
     "itemId": "macbook-air-13-m3-256gb-spacegray",
     "namespaceId": "macbook-air-13-m3",
     "name": "MacBook Air 13-inch M3 256GB Space Gray",
@@ -1852,7 +1918,7 @@
     "isNew": false
   },
   {
-    "id": 53,
+    "id": 55,
     "category": "mac",
     "itemId": "imac-m4-256gb-silver",
     "namespaceId": "imac-m4",
@@ -1901,7 +1967,7 @@
     "isNew": false
   },
   {
-    "id": 54,
+    "id": 56,
     "category": "mac",
     "itemId": "mac-mini-m4-256gb",
     "namespaceId": "mac-mini-m4",
@@ -1926,7 +1992,36 @@
     "isNew": false
   },
   {
-    "id": 55,
+    "id": 57,
+    "category": "mac",
+    "itemId": "macbook-pro-16-m3-pro-512gb-spaceblack",
+    "namespaceId": "macbook-pro-16-m3-pro",
+    "name": "MacBook Pro 16-inch M3 Pro 512GB Space Black",
+    "modelName": "MacBook Pro 16-inch M3 Pro",
+    "fullPrice": 2499,
+    "price": 1799,
+    "color": "Space Black",
+    "capacity": "512GB",
+    "year": 2023,
+    "image": "img/products/macbook-pro-16-m3-pro/spaceblack-0.webp",
+    "summary": "16.2\" Liquid Retina XDR · M3 Pro · 18GB",
+    "colors": [
+      {
+        "name": "Space Black",
+        "hex": "#2f2f31"
+      },
+      {
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "rating": 4.5,
+    "reviewsCount": 319,
+    "inStock": true,
+    "isNew": false
+  },
+  {
+    "id": 58,
     "category": "mac",
     "itemId": "macbook-pro-14-m3-512gb-spacegray",
     "namespaceId": "macbook-pro-14-m3",
@@ -1955,7 +2050,65 @@
     "isNew": false
   },
   {
-    "id": 56,
+    "id": 59,
+    "category": "mac",
+    "itemId": "macbook-pro-16-m2-pro-512gb-silver",
+    "namespaceId": "macbook-pro-16-m2-pro",
+    "name": "MacBook Pro 16-inch M2 Pro 512GB Silver",
+    "modelName": "MacBook Pro 16-inch M2 Pro",
+    "fullPrice": 2499,
+    "price": 1799,
+    "color": "Silver",
+    "capacity": "512GB",
+    "year": 2023,
+    "image": "img/products/macbook-pro-16-m2-pro/silver-0.webp",
+    "summary": "16.2\" Liquid Retina XDR · M2 Pro · 16GB",
+    "colors": [
+      {
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "name": "Space Gray",
+        "hex": "#5c5f63"
+      }
+    ],
+    "rating": 4.6,
+    "reviewsCount": 524,
+    "inStock": true,
+    "isNew": false
+  },
+  {
+    "id": 60,
+    "category": "mac",
+    "itemId": "macbook-pro-14-m2-pro-512gb-spacegray",
+    "namespaceId": "macbook-pro-14-m2-pro",
+    "name": "MacBook Pro 14-inch M2 Pro 512GB Space Gray",
+    "modelName": "MacBook Pro 14-inch M2 Pro",
+    "fullPrice": 1999,
+    "price": 1439,
+    "color": "Space Gray",
+    "capacity": "512GB",
+    "year": 2023,
+    "image": "img/products/macbook-pro-14-m2-pro/spacegray-0.webp",
+    "summary": "14.2\" Liquid Retina XDR · M2 Pro · 16GB",
+    "colors": [
+      {
+        "name": "Space Gray",
+        "hex": "#5c5f63"
+      },
+      {
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "rating": 4.4,
+    "reviewsCount": 239,
+    "inStock": true,
+    "isNew": false
+  },
+  {
+    "id": 61,
     "category": "mac",
     "itemId": "macbook-air-15-m2-256gb-midnight",
     "namespaceId": "macbook-air-15-m2",
@@ -1992,7 +2145,81 @@
     "isNew": false
   },
   {
-    "id": 57,
+    "id": 62,
+    "category": "mac",
+    "itemId": "imac-m3-256gb-green",
+    "namespaceId": "imac-m3",
+    "name": "iMac 24-inch M3 256GB Green",
+    "modelName": "iMac 24-inch M3",
+    "fullPrice": 1299,
+    "price": 939,
+    "color": "Green",
+    "capacity": "256GB",
+    "year": 2023,
+    "image": "img/products/imac-m3/green-0.webp",
+    "summary": "24\" 4.5K Retina · M3 · 8GB",
+    "colors": [
+      {
+        "name": "Green",
+        "hex": "#a9cdb3"
+      },
+      {
+        "name": "Blue",
+        "hex": "#9fbfd9"
+      },
+      {
+        "name": "Pink",
+        "hex": "#f2b8c6"
+      },
+      {
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "name": "Yellow",
+        "hex": "#f4d77a"
+      },
+      {
+        "name": "Orange",
+        "hex": "#f2a37a"
+      },
+      {
+        "name": "Purple",
+        "hex": "#c2b4dc"
+      }
+    ],
+    "rating": 4.6,
+    "reviewsCount": 235,
+    "inStock": true,
+    "isNew": false
+  },
+  {
+    "id": 63,
+    "category": "mac",
+    "itemId": "mac-studio-m2-max-512gb",
+    "namespaceId": "mac-studio-m2-max",
+    "name": "Mac Studio M2 Max 512GB",
+    "modelName": "Mac Studio M2 Max",
+    "fullPrice": 1999,
+    "price": 1439,
+    "color": "Silver",
+    "capacity": "512GB",
+    "year": 2023,
+    "image": "img/products/mac-studio-m2-max/silver-0.webp",
+    "summary": "M2 Max · 32GB · compact pro desktop",
+    "colors": [
+      {
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "rating": 4.8,
+    "reviewsCount": 315,
+    "inStock": true,
+    "isNew": false
+  },
+  {
+    "id": 64,
     "category": "mac",
     "itemId": "mac-mini-m2-256gb",
     "namespaceId": "mac-mini-m2",
@@ -2017,7 +2244,7 @@
     "isNew": false
   },
   {
-    "id": 58,
+    "id": 65,
     "category": "mac",
     "itemId": "macbook-pro-13-m2-256gb-spacegray",
     "namespaceId": "macbook-pro-13-m2",
@@ -2046,7 +2273,7 @@
     "isNew": false
   },
   {
-    "id": 59,
+    "id": 66,
     "category": "mac",
     "itemId": "macbook-air-13-m2-256gb-starlight",
     "namespaceId": "macbook-air-13-m2",
@@ -2083,7 +2310,32 @@
     "isNew": false
   },
   {
-    "id": 60,
+    "id": 67,
+    "category": "mac",
+    "itemId": "mac-studio-m1-max-512gb",
+    "namespaceId": "mac-studio-m1-max",
+    "name": "Mac Studio M1 Max 512GB",
+    "modelName": "Mac Studio M1 Max",
+    "fullPrice": 1999,
+    "price": 1279,
+    "color": "Silver",
+    "capacity": "512GB",
+    "year": 2022,
+    "image": "img/products/mac-studio-m1-max/silver-0.webp",
+    "summary": "M1 Max · 32GB · compact pro desktop",
+    "colors": [
+      {
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "rating": 4.7,
+    "reviewsCount": 825,
+    "inStock": true,
+    "isNew": false
+  },
+  {
+    "id": 68,
     "category": "mac",
     "itemId": "macbook-pro-16-m1-pro-512gb-silver",
     "namespaceId": "macbook-pro-16-m1-pro",
@@ -2112,7 +2364,7 @@
     "isNew": false
   },
   {
-    "id": 61,
+    "id": 69,
     "category": "mac",
     "itemId": "macbook-pro-14-m1-pro-512gb-spacegray",
     "namespaceId": "macbook-pro-14-m1-pro",
@@ -2141,7 +2393,7 @@
     "isNew": false
   },
   {
-    "id": 62,
+    "id": 70,
     "category": "mac",
     "itemId": "imac-m1-256gb-purple",
     "namespaceId": "imac-m1",
@@ -2190,7 +2442,7 @@
     "isNew": false
   },
   {
-    "id": 63,
+    "id": 71,
     "category": "watch",
     "itemId": "apple-watch-series-12-42mm-darkbronze",
     "namespaceId": "apple-watch-series-12",
@@ -2243,7 +2495,7 @@
     "isNew": true
   },
   {
-    "id": 64,
+    "id": 72,
     "category": "watch",
     "itemId": "apple-watch-ultra-4-49mm-natural",
     "namespaceId": "apple-watch-ultra-4",
@@ -2272,7 +2524,7 @@
     "isNew": true
   },
   {
-    "id": 65,
+    "id": 73,
     "category": "watch",
     "itemId": "apple-watch-series-11-42mm-rosegold",
     "namespaceId": "apple-watch-series-11",
@@ -2321,7 +2573,7 @@
     "isNew": false
   },
   {
-    "id": 66,
+    "id": 74,
     "category": "watch",
     "itemId": "apple-watch-ultra-3-49mm-natural",
     "namespaceId": "apple-watch-ultra-3",
@@ -2350,7 +2602,7 @@
     "isNew": false
   },
   {
-    "id": 67,
+    "id": 75,
     "category": "watch",
     "itemId": "apple-watch-se-3-40mm-midnight",
     "namespaceId": "apple-watch-se-3",
@@ -2379,7 +2631,7 @@
     "isNew": false
   },
   {
-    "id": 68,
+    "id": 76,
     "category": "watch",
     "itemId": "apple-watch-series-10-42mm-jetblack",
     "namespaceId": "apple-watch-series-10",
@@ -2424,7 +2676,7 @@
     "isNew": false
   },
   {
-    "id": 69,
+    "id": 77,
     "category": "watch",
     "itemId": "apple-watch-ultra-2-49mm-natural",
     "namespaceId": "apple-watch-ultra-2",
@@ -2453,7 +2705,7 @@
     "isNew": false
   },
   {
-    "id": 70,
+    "id": 78,
     "category": "watch",
     "itemId": "apple-watch-series-9-41mm",
     "namespaceId": "apple-watch-series-9",
@@ -2478,7 +2730,7 @@
     "isNew": false
   },
   {
-    "id": 71,
+    "id": 79,
     "category": "watch",
     "itemId": "apple-watch-se-2-40mm-midnight",
     "namespaceId": "apple-watch-se-2",
@@ -2511,7 +2763,7 @@
     "isNew": false
   },
   {
-    "id": 72,
+    "id": 80,
     "category": "airpods",
     "itemId": "airpods-pro-3",
     "namespaceId": "airpods-pro-3",
@@ -2536,7 +2788,7 @@
     "isNew": false
   },
   {
-    "id": 73,
+    "id": 81,
     "category": "airpods",
     "itemId": "airpods-5-usb-c-case",
     "namespaceId": "airpods-5",
@@ -2561,7 +2813,7 @@
     "isNew": true
   },
   {
-    "id": 74,
+    "id": 82,
     "category": "airpods",
     "itemId": "airpods-4",
     "namespaceId": "airpods-4",
@@ -2586,7 +2838,7 @@
     "isNew": false
   },
   {
-    "id": 75,
+    "id": 83,
     "category": "airpods",
     "itemId": "airpods-max-2-orange",
     "namespaceId": "airpods-max-2",
@@ -2627,7 +2879,7 @@
     "isNew": true
   },
   {
-    "id": 76,
+    "id": 84,
     "category": "accessories",
     "itemId": "apple-pencil-pro",
     "namespaceId": "apple-pencil-pro",
@@ -2652,7 +2904,7 @@
     "isNew": false
   },
   {
-    "id": 77,
+    "id": 85,
     "category": "accessories",
     "itemId": "magsafe-charger",
     "namespaceId": "magsafe-charger",
@@ -2677,7 +2929,7 @@
     "isNew": false
   },
   {
-    "id": 78,
+    "id": 86,
     "category": "accessories",
     "itemId": "iphone-air-magsafe-battery",
     "namespaceId": "iphone-air-magsafe-battery",
@@ -2702,7 +2954,7 @@
     "isNew": false
   },
   {
-    "id": 79,
+    "id": 87,
     "category": "accessories",
     "itemId": "40w-dynamic-power-adapter",
     "namespaceId": "40w-dynamic-power-adapter",
@@ -2727,7 +2979,7 @@
     "isNew": false
   },
   {
-    "id": 80,
+    "id": 88,
     "category": "accessories",
     "itemId": "20w-usb-c-power-adapter",
     "namespaceId": "20w-usb-c-power-adapter",
@@ -2752,7 +3004,7 @@
     "isNew": false
   },
   {
-    "id": 81,
+    "id": 89,
     "category": "accessories",
     "itemId": "usb-c-to-magsafe-3-cable",
     "namespaceId": "usb-c-to-magsafe-3-cable",
@@ -2777,7 +3029,7 @@
     "isNew": false
   },
   {
-    "id": 82,
+    "id": 90,
     "category": "accessories",
     "itemId": "airtag-4-pack",
     "namespaceId": "airtag-4-pack",
@@ -2802,7 +3054,7 @@
     "isNew": true
   },
   {
-    "id": 83,
+    "id": 91,
     "category": "accessories",
     "itemId": "airtag-finewoven-key-ring-burgundy",
     "namespaceId": "airtag-finewoven-key-ring",
@@ -2831,7 +3083,7 @@
     "isNew": true
   },
   {
-    "id": 84,
+    "id": 92,
     "category": "accessories",
     "itemId": "iphone-18-pro-max-silicone-case",
     "namespaceId": "iphone-18-pro-max-silicone-case",
@@ -2856,7 +3108,7 @@
     "isNew": true
   },
   {
-    "id": 85,
+    "id": 93,
     "category": "accessories",
     "itemId": "iphone-finewoven-wallet",
     "namespaceId": "iphone-finewoven-wallet",
@@ -2881,7 +3133,7 @@
     "isNew": true
   },
   {
-    "id": 86,
+    "id": 94,
     "category": "accessories",
     "itemId": "iphone-duo-case",
     "namespaceId": "iphone-duo-case",
