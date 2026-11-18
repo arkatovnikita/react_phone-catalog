@@ -885,71 +885,42 @@
   {
     "id": 24,
     "category": "ipad",
-    "itemId": "ipad-128gb-yellow",
-    "namespaceId": "ipad",
-    "name": "iPad 11-inch 128GB Yellow",
-    "modelName": "iPad 11-inch",
-    "fullPrice": 449,
-    "price": 449,
-    "color": "Yellow",
-    "capacity": "128GB",
-    "year": 2025,
-    "image": "img/products/ipad/yellow-0.webp",
-    "summary": "11\" Liquid Retina · A16",
-    "colors": [
-      {
-        "name": "Yellow",
-        "hex": "#f6e3a0"
-      },
-      {
-        "name": "Blue",
-        "hex": "#a9c3e1"
-      },
-      {
-        "name": "Pink",
-        "hex": "#f1c9d1"
-      },
-      {
-        "name": "Silver",
-        "hex": "#e3e4e5"
-      }
-    ],
-    "rating": 4.6,
-    "reviewsCount": 201,
-    "inStock": true,
-    "isNew": false
-  },
-  {
-    "id": 25,
-    "category": "ipad",
-    "itemId": "ipad-mini-128gb-starlight",
-    "namespaceId": "ipad-mini",
-    "name": "iPad mini 128GB Starlight",
-    "modelName": "iPad mini",
-    "fullPrice": 699,
-    "price": 699,
-    "color": "Starlight",
+    "itemId": "ipad-air-13-128gb-blue",
+    "namespaceId": "ipad-air-13",
+    "name": "iPad Air 13-inch 128GB Blue",
+    "modelName": "iPad Air 13-inch",
+    "fullPrice": 949,
+    "price": 949,
+    "color": "Blue",
     "capacity": "128GB",
     "year": 2026,
-    "image": "img/products/ipad-mini/starlight-0.webp",
-    "summary": "8.5\" OLED · A20 Pro",
+    "image": "img/products/ipad-air-13/blue-0.webp",
+    "summary": "13\" Liquid Retina · M4",
     "colors": [
       {
-        "name": "Starlight",
-        "hex": "#f2ece4"
+        "name": "Blue",
+        "hex": "#b7c9de"
       },
       {
-        "name": "Midnight",
-        "hex": "#2e3641"
+        "name": "Purple",
+        "hex": "#cfc3e0"
+      },
+      {
+        "name": "Space Gray",
+        "hex": "#5c5f63"
+      },
+      {
+        "name": "Starlight",
+        "hex": "#efe9df"
       }
     ],
-    "rating": 4.5,
-    "reviewsCount": 112,
+    "rating": 4.9,
+    "reviewsCount": 374,
     "inStock": true,
     "isNew": true
   },
   {
-    "id": 26,
+    "id": 25,
     "category": "ipad",
     "itemId": "ipad-air-11-128gb-purple",
     "namespaceId": "ipad-air-11",
@@ -986,41 +957,62 @@
     "isNew": true
   },
   {
-    "id": 27,
+    "id": 26,
     "category": "ipad",
-    "itemId": "ipad-air-13-128gb-blue",
-    "namespaceId": "ipad-air-13",
-    "name": "iPad Air 13-inch 128GB Blue",
-    "modelName": "iPad Air 13-inch",
-    "fullPrice": 949,
-    "price": 949,
-    "color": "Blue",
+    "itemId": "ipad-mini-128gb-starlight",
+    "namespaceId": "ipad-mini",
+    "name": "iPad mini 128GB Starlight",
+    "modelName": "iPad mini",
+    "fullPrice": 699,
+    "price": 699,
+    "color": "Starlight",
     "capacity": "128GB",
     "year": 2026,
-    "image": "img/products/ipad-air-13/blue-0.webp",
-    "summary": "13\" Liquid Retina · M4",
+    "image": "img/products/ipad-mini/starlight-0.webp",
+    "summary": "8.5\" OLED · A20 Pro",
     "colors": [
       {
-        "name": "Blue",
-        "hex": "#b7c9de"
-      },
-      {
-        "name": "Purple",
-        "hex": "#cfc3e0"
-      },
-      {
-        "name": "Space Gray",
-        "hex": "#5c5f63"
-      },
-      {
         "name": "Starlight",
-        "hex": "#efe9df"
+        "hex": "#f2ece4"
+      },
+      {
+        "name": "Midnight",
+        "hex": "#2e3641"
       }
     ],
-    "rating": 4.9,
-    "reviewsCount": 374,
+    "rating": 4.5,
+    "reviewsCount": 112,
     "inStock": true,
     "isNew": true
+  },
+  {
+    "id": 27,
+    "category": "ipad",
+    "itemId": "ipad-pro-13-256gb-spaceblack",
+    "namespaceId": "ipad-pro-13",
+    "name": "iPad Pro 13-inch 256GB Space Black",
+    "modelName": "iPad Pro 13-inch",
+    "fullPrice": 1499,
+    "price": 1499,
+    "color": "Space Black",
+    "capacity": "256GB",
+    "year": 2025,
+    "image": "img/products/ipad-pro-13/spaceblack-0.webp",
+    "summary": "13\" Ultra Retina XDR · M5",
+    "colors": [
+      {
+        "name": "Space Black",
+        "hex": "#2f2f31"
+      },
+      {
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "rating": 4.5,
+    "reviewsCount": 193,
+    "inStock": true,
+    "isNew": false
   },
   {
     "id": 28,
@@ -1054,29 +1046,37 @@
   {
     "id": 29,
     "category": "ipad",
-    "itemId": "ipad-pro-13-256gb-spaceblack",
-    "namespaceId": "ipad-pro-13",
-    "name": "iPad Pro 13-inch 256GB Space Black",
-    "modelName": "iPad Pro 13-inch",
-    "fullPrice": 1499,
-    "price": 1499,
-    "color": "Space Black",
-    "capacity": "256GB",
+    "itemId": "ipad-air-13-m3-128gb-spacegray",
+    "namespaceId": "ipad-air-13-m3",
+    "name": "iPad Air 13-inch (M3) 128GB Space Gray",
+    "modelName": "iPad Air 13-inch (M3)",
+    "fullPrice": 799,
+    "price": 699,
+    "color": "Space Gray",
+    "capacity": "128GB",
     "year": 2025,
-    "image": "img/products/ipad-pro-13/spaceblack-0.webp",
-    "summary": "13\" Ultra Retina XDR · M5",
+    "image": "img/products/ipad-air-13-m3/spacegray-0.webp",
+    "summary": "13\" Liquid Retina · M3",
     "colors": [
       {
-        "name": "Space Black",
-        "hex": "#2f2f31"
+        "name": "Space Gray",
+        "hex": "#5c5f63"
       },
       {
-        "name": "Silver",
-        "hex": "#e3e4e5"
+        "name": "Starlight",
+        "hex": "#efe9df"
+      },
+      {
+        "name": "Blue",
+        "hex": "#b7c9de"
+      },
+      {
+        "name": "Purple",
+        "hex": "#cfc3e0"
       }
     ],
-    "rating": 4.5,
-    "reviewsCount": 193,
+    "rating": 4.9,
+    "reviewsCount": 835,
     "inStock": true,
     "isNew": false
   },
@@ -1120,71 +1120,42 @@
   {
     "id": 31,
     "category": "ipad",
-    "itemId": "ipad-air-13-m3-128gb-spacegray",
-    "namespaceId": "ipad-air-13-m3",
-    "name": "iPad Air 13-inch (M3) 128GB Space Gray",
-    "modelName": "iPad Air 13-inch (M3)",
-    "fullPrice": 799,
-    "price": 699,
-    "color": "Space Gray",
+    "itemId": "ipad-128gb-yellow",
+    "namespaceId": "ipad",
+    "name": "iPad 11-inch 128GB Yellow",
+    "modelName": "iPad 11-inch",
+    "fullPrice": 449,
+    "price": 449,
+    "color": "Yellow",
     "capacity": "128GB",
     "year": 2025,
-    "image": "img/products/ipad-air-13-m3/spacegray-0.webp",
-    "summary": "13\" Liquid Retina · M3",
+    "image": "img/products/ipad/yellow-0.webp",
+    "summary": "11\" Liquid Retina · A16",
     "colors": [
       {
-        "name": "Space Gray",
-        "hex": "#5c5f63"
-      },
-      {
-        "name": "Starlight",
-        "hex": "#efe9df"
+        "name": "Yellow",
+        "hex": "#f6e3a0"
       },
       {
         "name": "Blue",
-        "hex": "#b7c9de"
+        "hex": "#a9c3e1"
       },
       {
-        "name": "Purple",
-        "hex": "#cfc3e0"
+        "name": "Pink",
+        "hex": "#f1c9d1"
+      },
+      {
+        "name": "Silver",
+        "hex": "#e3e4e5"
       }
     ],
-    "rating": 4.9,
-    "reviewsCount": 835,
+    "rating": 4.6,
+    "reviewsCount": 201,
     "inStock": true,
     "isNew": false
   },
   {
     "id": 32,
-    "category": "ipad",
-    "itemId": "ipad-pro-11-m4-256gb-silver",
-    "namespaceId": "ipad-pro-11-m4",
-    "name": "iPad Pro 11-inch (M4) 256GB Silver",
-    "modelName": "iPad Pro 11-inch (M4)",
-    "fullPrice": 999,
-    "price": 799,
-    "color": "Silver",
-    "capacity": "256GB",
-    "year": 2024,
-    "image": "img/products/ipad-pro-11-m4/silver-0.webp",
-    "summary": "11\" Ultra Retina XDR · M4",
-    "colors": [
-      {
-        "name": "Silver",
-        "hex": "#e3e4e5"
-      },
-      {
-        "name": "Space Black",
-        "hex": "#2f2f31"
-      }
-    ],
-    "rating": 4.6,
-    "reviewsCount": 350,
-    "inStock": true,
-    "isNew": false
-  },
-  {
-    "id": 33,
     "category": "ipad",
     "itemId": "ipad-pro-13-m4-256gb-silver",
     "namespaceId": "ipad-pro-13-m4",
@@ -1209,6 +1180,35 @@
     ],
     "rating": 4.5,
     "reviewsCount": 308,
+    "inStock": true,
+    "isNew": false
+  },
+  {
+    "id": 33,
+    "category": "ipad",
+    "itemId": "ipad-pro-11-m4-256gb-silver",
+    "namespaceId": "ipad-pro-11-m4",
+    "name": "iPad Pro 11-inch (M4) 256GB Silver",
+    "modelName": "iPad Pro 11-inch (M4)",
+    "fullPrice": 999,
+    "price": 799,
+    "color": "Silver",
+    "capacity": "256GB",
+    "year": 2024,
+    "image": "img/products/ipad-pro-11-m4/silver-0.webp",
+    "summary": "11\" Ultra Retina XDR · M4",
+    "colors": [
+      {
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "name": "Space Black",
+        "hex": "#2f2f31"
+      }
+    ],
+    "rating": 4.6,
+    "reviewsCount": 350,
     "inStock": true,
     "isNew": false
   },
