@@ -1,1112 +1,5 @@
 [
   {
-    "id": "ipad-128gb-blue",
-    "category": "ipad",
-    "namespaceId": "ipad",
-    "name": "iPad 11-inch 128GB Blue",
-    "modelName": "iPad 11-inch",
-    "year": 2025,
-    "capacityAvailable": [
-      "128GB",
-      "256GB",
-      "512GB"
-    ],
-    "capacity": "128GB",
-    "capacityLabel": "Storage",
-    "priceRegular": 449,
-    "priceDiscount": 449,
-    "colors": [
-      {
-        "slug": "blue",
-        "name": "Blue",
-        "hex": "#a9c3e1"
-      },
-      {
-        "slug": "pink",
-        "name": "Pink",
-        "hex": "#f1c9d1"
-      },
-      {
-        "slug": "silver",
-        "name": "Silver",
-        "hex": "#e3e4e5"
-      },
-      {
-        "slug": "yellow",
-        "name": "Yellow",
-        "hex": "#f6e3a0"
-      }
-    ],
-    "color": "blue",
-    "images": [
-      "img/products/ipad/blue-0.webp"
-    ],
-    "description": [
-      {
-        "title": "Colorful and capable",
-        "text": [
-          "The A16 chip makes everyday tasks, games and creativity fast and fun."
-        ]
-      },
-      {
-        "title": "11-inch Liquid Retina display",
-        "text": [
-          "A big, bright display for movies, notes and video calls."
-        ]
-      },
-      {
-        "title": "Works with your favorite accessories",
-        "text": [
-          "Pair it with Apple Pencil (USB-C) and Magic Keyboard Folio."
-        ]
-      }
-    ],
-    "specs": [
-      {
-        "label": "Display",
-        "value": "11\" Liquid Retina"
-      },
-      {
-        "label": "Resolution",
-        "value": "2360×1640"
-      },
-      {
-        "label": "Chip",
-        "value": "A16"
-      },
-      {
-        "label": "Camera",
-        "value": "12MP Wide, 12MP Center Stage front"
-      },
-      {
-        "label": "Battery",
-        "value": "Up to 10 hours"
-      },
-      {
-        "label": "Connectivity",
-        "value": "Wi-Fi 6"
-      },
-      {
-        "label": "Port",
-        "value": "USB-C"
-      },
-      {
-        "label": "Pencil support",
-        "value": "Apple Pencil (USB-C)"
-      }
-    ],
-    "rating": 4.6,
-    "reviewsCount": 201,
-    "reviews": [
-      {
-        "author": "Sofia R.",
-        "rating": 5,
-        "date": "2026-10-02",
-        "title": "Perfect for notes",
-        "text": "I use it with Apple Pencil every day for university. Works flawlessly."
-      },
-      {
-        "author": "Ethan W.",
-        "rating": 5,
-        "date": "2026-08-27",
-        "title": "Replaced my laptop",
-        "text": "For email, browsing and documents it is all I need."
-      },
-      {
-        "author": "Daniel K.",
-        "rating": 5,
-        "date": "2026-06-03",
-        "title": "Very fast",
-        "text": "Handles drawing apps and games without any lag."
-      }
-    ],
-    "inStock": true
-  },
-  {
-    "id": "ipad-256gb-blue",
-    "category": "ipad",
-    "namespaceId": "ipad",
-    "name": "iPad 11-inch 256GB Blue",
-    "modelName": "iPad 11-inch",
-    "year": 2025,
-    "capacityAvailable": [
-      "128GB",
-      "256GB",
-      "512GB"
-    ],
-    "capacity": "256GB",
-    "capacityLabel": "Storage",
-    "priceRegular": 549,
-    "priceDiscount": 549,
-    "colors": [
-      {
-        "slug": "blue",
-        "name": "Blue",
-        "hex": "#a9c3e1"
-      },
-      {
-        "slug": "pink",
-        "name": "Pink",
-        "hex": "#f1c9d1"
-      },
-      {
-        "slug": "silver",
-        "name": "Silver",
-        "hex": "#e3e4e5"
-      },
-      {
-        "slug": "yellow",
-        "name": "Yellow",
-        "hex": "#f6e3a0"
-      }
-    ],
-    "color": "blue",
-    "images": [
-      "img/products/ipad/blue-0.webp"
-    ],
-    "description": [
-      {
-        "title": "Colorful and capable",
-        "text": [
-          "The A16 chip makes everyday tasks, games and creativity fast and fun."
-        ]
-      },
-      {
-        "title": "11-inch Liquid Retina display",
-        "text": [
-          "A big, bright display for movies, notes and video calls."
-        ]
-      },
-      {
-        "title": "Works with your favorite accessories",
-        "text": [
-          "Pair it with Apple Pencil (USB-C) and Magic Keyboard Folio."
-        ]
-      }
-    ],
-    "specs": [
-      {
-        "label": "Display",
-        "value": "11\" Liquid Retina"
-      },
-      {
-        "label": "Resolution",
-        "value": "2360×1640"
-      },
-      {
-        "label": "Chip",
-        "value": "A16"
-      },
-      {
-        "label": "Camera",
-        "value": "12MP Wide, 12MP Center Stage front"
-      },
-      {
-        "label": "Battery",
-        "value": "Up to 10 hours"
-      },
-      {
-        "label": "Connectivity",
-        "value": "Wi-Fi 6"
-      },
-      {
-        "label": "Port",
-        "value": "USB-C"
-      },
-      {
-        "label": "Pencil support",
-        "value": "Apple Pencil (USB-C)"
-      }
-    ],
-    "rating": 4.6,
-    "reviewsCount": 201,
-    "reviews": [
-      {
-        "author": "Sofia R.",
-        "rating": 5,
-        "date": "2026-10-02",
-        "title": "Perfect for notes",
-        "text": "I use it with Apple Pencil every day for university. Works flawlessly."
-      },
-      {
-        "author": "Ethan W.",
-        "rating": 5,
-        "date": "2026-08-27",
-        "title": "Replaced my laptop",
-        "text": "For email, browsing and documents it is all I need."
-      },
-      {
-        "author": "Daniel K.",
-        "rating": 5,
-        "date": "2026-06-03",
-        "title": "Very fast",
-        "text": "Handles drawing apps and games without any lag."
-      }
-    ],
-    "inStock": true
-  },
-  {
-    "id": "ipad-512gb-blue",
-    "category": "ipad",
-    "namespaceId": "ipad",
-    "name": "iPad 11-inch 512GB Blue",
-    "modelName": "iPad 11-inch",
-    "year": 2025,
-    "capacityAvailable": [
-      "128GB",
-      "256GB",
-      "512GB"
-    ],
-    "capacity": "512GB",
-    "capacityLabel": "Storage",
-    "priceRegular": 749,
-    "priceDiscount": 749,
-    "colors": [
-      {
-        "slug": "blue",
-        "name": "Blue",
-        "hex": "#a9c3e1"
-      },
-      {
-        "slug": "pink",
-        "name": "Pink",
-        "hex": "#f1c9d1"
-      },
-      {
-        "slug": "silver",
-        "name": "Silver",
-        "hex": "#e3e4e5"
-      },
-      {
-        "slug": "yellow",
-        "name": "Yellow",
-        "hex": "#f6e3a0"
-      }
-    ],
-    "color": "blue",
-    "images": [
-      "img/products/ipad/blue-0.webp"
-    ],
-    "description": [
-      {
-        "title": "Colorful and capable",
-        "text": [
-          "The A16 chip makes everyday tasks, games and creativity fast and fun."
-        ]
-      },
-      {
-        "title": "11-inch Liquid Retina display",
-        "text": [
-          "A big, bright display for movies, notes and video calls."
-        ]
-      },
-      {
-        "title": "Works with your favorite accessories",
-        "text": [
-          "Pair it with Apple Pencil (USB-C) and Magic Keyboard Folio."
-        ]
-      }
-    ],
-    "specs": [
-      {
-        "label": "Display",
-        "value": "11\" Liquid Retina"
-      },
-      {
-        "label": "Resolution",
-        "value": "2360×1640"
-      },
-      {
-        "label": "Chip",
-        "value": "A16"
-      },
-      {
-        "label": "Camera",
-        "value": "12MP Wide, 12MP Center Stage front"
-      },
-      {
-        "label": "Battery",
-        "value": "Up to 10 hours"
-      },
-      {
-        "label": "Connectivity",
-        "value": "Wi-Fi 6"
-      },
-      {
-        "label": "Port",
-        "value": "USB-C"
-      },
-      {
-        "label": "Pencil support",
-        "value": "Apple Pencil (USB-C)"
-      }
-    ],
-    "rating": 4.6,
-    "reviewsCount": 201,
-    "reviews": [
-      {
-        "author": "Sofia R.",
-        "rating": 5,
-        "date": "2026-10-02",
-        "title": "Perfect for notes",
-        "text": "I use it with Apple Pencil every day for university. Works flawlessly."
-      },
-      {
-        "author": "Ethan W.",
-        "rating": 5,
-        "date": "2026-08-27",
-        "title": "Replaced my laptop",
-        "text": "For email, browsing and documents it is all I need."
-      },
-      {
-        "author": "Daniel K.",
-        "rating": 5,
-        "date": "2026-06-03",
-        "title": "Very fast",
-        "text": "Handles drawing apps and games without any lag."
-      }
-    ],
-    "inStock": true
-  },
-  {
-    "id": "ipad-128gb-pink",
-    "category": "ipad",
-    "namespaceId": "ipad",
-    "name": "iPad 11-inch 128GB Pink",
-    "modelName": "iPad 11-inch",
-    "year": 2025,
-    "capacityAvailable": [
-      "128GB",
-      "256GB",
-      "512GB"
-    ],
-    "capacity": "128GB",
-    "capacityLabel": "Storage",
-    "priceRegular": 449,
-    "priceDiscount": 449,
-    "colors": [
-      {
-        "slug": "blue",
-        "name": "Blue",
-        "hex": "#a9c3e1"
-      },
-      {
-        "slug": "pink",
-        "name": "Pink",
-        "hex": "#f1c9d1"
-      },
-      {
-        "slug": "silver",
-        "name": "Silver",
-        "hex": "#e3e4e5"
-      },
-      {
-        "slug": "yellow",
-        "name": "Yellow",
-        "hex": "#f6e3a0"
-      }
-    ],
-    "color": "pink",
-    "images": [
-      "img/products/ipad/pink-0.webp"
-    ],
-    "description": [
-      {
-        "title": "Colorful and capable",
-        "text": [
-          "The A16 chip makes everyday tasks, games and creativity fast and fun."
-        ]
-      },
-      {
-        "title": "11-inch Liquid Retina display",
-        "text": [
-          "A big, bright display for movies, notes and video calls."
-        ]
-      },
-      {
-        "title": "Works with your favorite accessories",
-        "text": [
-          "Pair it with Apple Pencil (USB-C) and Magic Keyboard Folio."
-        ]
-      }
-    ],
-    "specs": [
-      {
-        "label": "Display",
-        "value": "11\" Liquid Retina"
-      },
-      {
-        "label": "Resolution",
-        "value": "2360×1640"
-      },
-      {
-        "label": "Chip",
-        "value": "A16"
-      },
-      {
-        "label": "Camera",
-        "value": "12MP Wide, 12MP Center Stage front"
-      },
-      {
-        "label": "Battery",
-        "value": "Up to 10 hours"
-      },
-      {
-        "label": "Connectivity",
-        "value": "Wi-Fi 6"
-      },
-      {
-        "label": "Port",
-        "value": "USB-C"
-      },
-      {
-        "label": "Pencil support",
-        "value": "Apple Pencil (USB-C)"
-      }
-    ],
-    "rating": 4.6,
-    "reviewsCount": 201,
-    "reviews": [
-      {
-        "author": "Sofia R.",
-        "rating": 5,
-        "date": "2026-10-02",
-        "title": "Perfect for notes",
-        "text": "I use it with Apple Pencil every day for university. Works flawlessly."
-      },
-      {
-        "author": "Ethan W.",
-        "rating": 5,
-        "date": "2026-08-27",
-        "title": "Replaced my laptop",
-        "text": "For email, browsing and documents it is all I need."
-      },
-      {
-        "author": "Daniel K.",
-        "rating": 5,
-        "date": "2026-06-03",
-        "title": "Very fast",
-        "text": "Handles drawing apps and games without any lag."
-      }
-    ],
-    "inStock": true
-  },
-  {
-    "id": "ipad-256gb-pink",
-    "category": "ipad",
-    "namespaceId": "ipad",
-    "name": "iPad 11-inch 256GB Pink",
-    "modelName": "iPad 11-inch",
-    "year": 2025,
-    "capacityAvailable": [
-      "128GB",
-      "256GB",
-      "512GB"
-    ],
-    "capacity": "256GB",
-    "capacityLabel": "Storage",
-    "priceRegular": 549,
-    "priceDiscount": 549,
-    "colors": [
-      {
-        "slug": "blue",
-        "name": "Blue",
-        "hex": "#a9c3e1"
-      },
-      {
-        "slug": "pink",
-        "name": "Pink",
-        "hex": "#f1c9d1"
-      },
-      {
-        "slug": "silver",
-        "name": "Silver",
-        "hex": "#e3e4e5"
-      },
-      {
-        "slug": "yellow",
-        "name": "Yellow",
-        "hex": "#f6e3a0"
-      }
-    ],
-    "color": "pink",
-    "images": [
-      "img/products/ipad/pink-0.webp"
-    ],
-    "description": [
-      {
-        "title": "Colorful and capable",
-        "text": [
-          "The A16 chip makes everyday tasks, games and creativity fast and fun."
-        ]
-      },
-      {
-        "title": "11-inch Liquid Retina display",
-        "text": [
-          "A big, bright display for movies, notes and video calls."
-        ]
-      },
-      {
-        "title": "Works with your favorite accessories",
-        "text": [
-          "Pair it with Apple Pencil (USB-C) and Magic Keyboard Folio."
-        ]
-      }
-    ],
-    "specs": [
-      {
-        "label": "Display",
-        "value": "11\" Liquid Retina"
-      },
-      {
-        "label": "Resolution",
-        "value": "2360×1640"
-      },
-      {
-        "label": "Chip",
-        "value": "A16"
-      },
-      {
-        "label": "Camera",
-        "value": "12MP Wide, 12MP Center Stage front"
-      },
-      {
-        "label": "Battery",
-        "value": "Up to 10 hours"
-      },
-      {
-        "label": "Connectivity",
-        "value": "Wi-Fi 6"
-      },
-      {
-        "label": "Port",
-        "value": "USB-C"
-      },
-      {
-        "label": "Pencil support",
-        "value": "Apple Pencil (USB-C)"
-      }
-    ],
-    "rating": 4.6,
-    "reviewsCount": 201,
-    "reviews": [
-      {
-        "author": "Sofia R.",
-        "rating": 5,
-        "date": "2026-10-02",
-        "title": "Perfect for notes",
-        "text": "I use it with Apple Pencil every day for university. Works flawlessly."
-      },
-      {
-        "author": "Ethan W.",
-        "rating": 5,
-        "date": "2026-08-27",
-        "title": "Replaced my laptop",
-        "text": "For email, browsing and documents it is all I need."
-      },
-      {
-        "author": "Daniel K.",
-        "rating": 5,
-        "date": "2026-06-03",
-        "title": "Very fast",
-        "text": "Handles drawing apps and games without any lag."
-      }
-    ],
-    "inStock": true
-  },
-  {
-    "id": "ipad-512gb-pink",
-    "category": "ipad",
-    "namespaceId": "ipad",
-    "name": "iPad 11-inch 512GB Pink",
-    "modelName": "iPad 11-inch",
-    "year": 2025,
-    "capacityAvailable": [
-      "128GB",
-      "256GB",
-      "512GB"
-    ],
-    "capacity": "512GB",
-    "capacityLabel": "Storage",
-    "priceRegular": 749,
-    "priceDiscount": 749,
-    "colors": [
-      {
-        "slug": "blue",
-        "name": "Blue",
-        "hex": "#a9c3e1"
-      },
-      {
-        "slug": "pink",
-        "name": "Pink",
-        "hex": "#f1c9d1"
-      },
-      {
-        "slug": "silver",
-        "name": "Silver",
-        "hex": "#e3e4e5"
-      },
-      {
-        "slug": "yellow",
-        "name": "Yellow",
-        "hex": "#f6e3a0"
-      }
-    ],
-    "color": "pink",
-    "images": [
-      "img/products/ipad/pink-0.webp"
-    ],
-    "description": [
-      {
-        "title": "Colorful and capable",
-        "text": [
-          "The A16 chip makes everyday tasks, games and creativity fast and fun."
-        ]
-      },
-      {
-        "title": "11-inch Liquid Retina display",
-        "text": [
-          "A big, bright display for movies, notes and video calls."
-        ]
-      },
-      {
-        "title": "Works with your favorite accessories",
-        "text": [
-          "Pair it with Apple Pencil (USB-C) and Magic Keyboard Folio."
-        ]
-      }
-    ],
-    "specs": [
-      {
-        "label": "Display",
-        "value": "11\" Liquid Retina"
-      },
-      {
-        "label": "Resolution",
-        "value": "2360×1640"
-      },
-      {
-        "label": "Chip",
-        "value": "A16"
-      },
-      {
-        "label": "Camera",
-        "value": "12MP Wide, 12MP Center Stage front"
-      },
-      {
-        "label": "Battery",
-        "value": "Up to 10 hours"
-      },
-      {
-        "label": "Connectivity",
-        "value": "Wi-Fi 6"
-      },
-      {
-        "label": "Port",
-        "value": "USB-C"
-      },
-      {
-        "label": "Pencil support",
-        "value": "Apple Pencil (USB-C)"
-      }
-    ],
-    "rating": 4.6,
-    "reviewsCount": 201,
-    "reviews": [
-      {
-        "author": "Sofia R.",
-        "rating": 5,
-        "date": "2026-10-02",
-        "title": "Perfect for notes",
-        "text": "I use it with Apple Pencil every day for university. Works flawlessly."
-      },
-      {
-        "author": "Ethan W.",
-        "rating": 5,
-        "date": "2026-08-27",
-        "title": "Replaced my laptop",
-        "text": "For email, browsing and documents it is all I need."
-      },
-      {
-        "author": "Daniel K.",
-        "rating": 5,
-        "date": "2026-06-03",
-        "title": "Very fast",
-        "text": "Handles drawing apps and games without any lag."
-      }
-    ],
-    "inStock": true
-  },
-  {
-    "id": "ipad-128gb-silver",
-    "category": "ipad",
-    "namespaceId": "ipad",
-    "name": "iPad 11-inch 128GB Silver",
-    "modelName": "iPad 11-inch",
-    "year": 2025,
-    "capacityAvailable": [
-      "128GB",
-      "256GB",
-      "512GB"
-    ],
-    "capacity": "128GB",
-    "capacityLabel": "Storage",
-    "priceRegular": 449,
-    "priceDiscount": 449,
-    "colors": [
-      {
-        "slug": "blue",
-        "name": "Blue",
-        "hex": "#a9c3e1"
-      },
-      {
-        "slug": "pink",
-        "name": "Pink",
-        "hex": "#f1c9d1"
-      },
-      {
-        "slug": "silver",
-        "name": "Silver",
-        "hex": "#e3e4e5"
-      },
-      {
-        "slug": "yellow",
-        "name": "Yellow",
-        "hex": "#f6e3a0"
-      }
-    ],
-    "color": "silver",
-    "images": [
-      "img/products/ipad/silver-0.webp"
-    ],
-    "description": [
-      {
-        "title": "Colorful and capable",
-        "text": [
-          "The A16 chip makes everyday tasks, games and creativity fast and fun."
-        ]
-      },
-      {
-        "title": "11-inch Liquid Retina display",
-        "text": [
-          "A big, bright display for movies, notes and video calls."
-        ]
-      },
-      {
-        "title": "Works with your favorite accessories",
-        "text": [
-          "Pair it with Apple Pencil (USB-C) and Magic Keyboard Folio."
-        ]
-      }
-    ],
-    "specs": [
-      {
-        "label": "Display",
-        "value": "11\" Liquid Retina"
-      },
-      {
-        "label": "Resolution",
-        "value": "2360×1640"
-      },
-      {
-        "label": "Chip",
-        "value": "A16"
-      },
-      {
-        "label": "Camera",
-        "value": "12MP Wide, 12MP Center Stage front"
-      },
-      {
-        "label": "Battery",
-        "value": "Up to 10 hours"
-      },
-      {
-        "label": "Connectivity",
-        "value": "Wi-Fi 6"
-      },
-      {
-        "label": "Port",
-        "value": "USB-C"
-      },
-      {
-        "label": "Pencil support",
-        "value": "Apple Pencil (USB-C)"
-      }
-    ],
-    "rating": 4.6,
-    "reviewsCount": 201,
-    "reviews": [
-      {
-        "author": "Sofia R.",
-        "rating": 5,
-        "date": "2026-10-02",
-        "title": "Perfect for notes",
-        "text": "I use it with Apple Pencil every day for university. Works flawlessly."
-      },
-      {
-        "author": "Ethan W.",
-        "rating": 5,
-        "date": "2026-08-27",
-        "title": "Replaced my laptop",
-        "text": "For email, browsing and documents it is all I need."
-      },
-      {
-        "author": "Daniel K.",
-        "rating": 5,
-        "date": "2026-06-03",
-        "title": "Very fast",
-        "text": "Handles drawing apps and games without any lag."
-      }
-    ],
-    "inStock": true
-  },
-  {
-    "id": "ipad-256gb-silver",
-    "category": "ipad",
-    "namespaceId": "ipad",
-    "name": "iPad 11-inch 256GB Silver",
-    "modelName": "iPad 11-inch",
-    "year": 2025,
-    "capacityAvailable": [
-      "128GB",
-      "256GB",
-      "512GB"
-    ],
-    "capacity": "256GB",
-    "capacityLabel": "Storage",
-    "priceRegular": 549,
-    "priceDiscount": 549,
-    "colors": [
-      {
-        "slug": "blue",
-        "name": "Blue",
-        "hex": "#a9c3e1"
-      },
-      {
-        "slug": "pink",
-        "name": "Pink",
-        "hex": "#f1c9d1"
-      },
-      {
-        "slug": "silver",
-        "name": "Silver",
-        "hex": "#e3e4e5"
-      },
-      {
-        "slug": "yellow",
-        "name": "Yellow",
-        "hex": "#f6e3a0"
-      }
-    ],
-    "color": "silver",
-    "images": [
-      "img/products/ipad/silver-0.webp"
-    ],
-    "description": [
-      {
-        "title": "Colorful and capable",
-        "text": [
-          "The A16 chip makes everyday tasks, games and creativity fast and fun."
-        ]
-      },
-      {
-        "title": "11-inch Liquid Retina display",
-        "text": [
-          "A big, bright display for movies, notes and video calls."
-        ]
-      },
-      {
-        "title": "Works with your favorite accessories",
-        "text": [
-          "Pair it with Apple Pencil (USB-C) and Magic Keyboard Folio."
-        ]
-      }
-    ],
-    "specs": [
-      {
-        "label": "Display",
-        "value": "11\" Liquid Retina"
-      },
-      {
-        "label": "Resolution",
-        "value": "2360×1640"
-      },
-      {
-        "label": "Chip",
-        "value": "A16"
-      },
-      {
-        "label": "Camera",
-        "value": "12MP Wide, 12MP Center Stage front"
-      },
-      {
-        "label": "Battery",
-        "value": "Up to 10 hours"
-      },
-      {
-        "label": "Connectivity",
-        "value": "Wi-Fi 6"
-      },
-      {
-        "label": "Port",
-        "value": "USB-C"
-      },
-      {
-        "label": "Pencil support",
-        "value": "Apple Pencil (USB-C)"
-      }
-    ],
-    "rating": 4.6,
-    "reviewsCount": 201,
-    "reviews": [
-      {
-        "author": "Sofia R.",
-        "rating": 5,
-        "date": "2026-10-02",
-        "title": "Perfect for notes",
-        "text": "I use it with Apple Pencil every day for university. Works flawlessly."
-      },
-      {
-        "author": "Ethan W.",
-        "rating": 5,
-        "date": "2026-08-27",
-        "title": "Replaced my laptop",
-        "text": "For email, browsing and documents it is all I need."
-      },
-      {
-        "author": "Daniel K.",
-        "rating": 5,
-        "date": "2026-06-03",
-        "title": "Very fast",
-        "text": "Handles drawing apps and games without any lag."
-      }
-    ],
-    "inStock": true
-  },
-  {
-    "id": "ipad-512gb-silver",
-    "category": "ipad",
-    "namespaceId": "ipad",
-    "name": "iPad 11-inch 512GB Silver",
-    "modelName": "iPad 11-inch",
-    "year": 2025,
-    "capacityAvailable": [
-      "128GB",
-      "256GB",
-      "512GB"
-    ],
-    "capacity": "512GB",
-    "capacityLabel": "Storage",
-    "priceRegular": 749,
-    "priceDiscount": 749,
-    "colors": [
-      {
-        "slug": "blue",
-        "name": "Blue",
-        "hex": "#a9c3e1"
-      },
-      {
-        "slug": "pink",
-        "name": "Pink",
-        "hex": "#f1c9d1"
-      },
-      {
-        "slug": "silver",
-        "name": "Silver",
-        "hex": "#e3e4e5"
-      },
-      {
-        "slug": "yellow",
-        "name": "Yellow",
-        "hex": "#f6e3a0"
-      }
-    ],
-    "color": "silver",
-    "images": [
-      "img/products/ipad/silver-0.webp"
-    ],
-    "description": [
-      {
-        "title": "Colorful and capable",
-        "text": [
-          "The A16 chip makes everyday tasks, games and creativity fast and fun."
-        ]
-      },
-      {
-        "title": "11-inch Liquid Retina display",
-        "text": [
-          "A big, bright display for movies, notes and video calls."
-        ]
-      },
-      {
-        "title": "Works with your favorite accessories",
-        "text": [
-          "Pair it with Apple Pencil (USB-C) and Magic Keyboard Folio."
-        ]
-      }
-    ],
-    "specs": [
-      {
-        "label": "Display",
-        "value": "11\" Liquid Retina"
-      },
-      {
-        "label": "Resolution",
-        "value": "2360×1640"
-      },
-      {
-        "label": "Chip",
-        "value": "A16"
-      },
-      {
-        "label": "Camera",
-        "value": "12MP Wide, 12MP Center Stage front"
-      },
-      {
-        "label": "Battery",
-        "value": "Up to 10 hours"
-      },
-      {
-        "label": "Connectivity",
-        "value": "Wi-Fi 6"
-      },
-      {
-        "label": "Port",
-        "value": "USB-C"
-      },
-      {
-        "label": "Pencil support",
-        "value": "Apple Pencil (USB-C)"
-      }
-    ],
-    "rating": 4.6,
-    "reviewsCount": 201,
-    "reviews": [
-      {
-        "author": "Sofia R.",
-        "rating": 5,
-        "date": "2026-10-02",
-        "title": "Perfect for notes",
-        "text": "I use it with Apple Pencil every day for university. Works flawlessly."
-      },
-      {
-        "author": "Ethan W.",
-        "rating": 5,
-        "date": "2026-08-27",
-        "title": "Replaced my laptop",
-        "text": "For email, browsing and documents it is all I need."
-      },
-      {
-        "author": "Daniel K.",
-        "rating": 5,
-        "date": "2026-06-03",
-        "title": "Very fast",
-        "text": "Handles drawing apps and games without any lag."
-      }
-    ],
-    "inStock": true
-  },
-  {
     "id": "ipad-128gb-yellow",
     "category": "ipad",
     "namespaceId": "ipad",
@@ -1124,6 +17,11 @@
     "priceDiscount": 449,
     "colors": [
       {
+        "slug": "yellow",
+        "name": "Yellow",
+        "hex": "#f6e3a0"
+      },
+      {
         "slug": "blue",
         "name": "Blue",
         "hex": "#a9c3e1"
@@ -1137,11 +35,6 @@
         "slug": "silver",
         "name": "Silver",
         "hex": "#e3e4e5"
-      },
-      {
-        "slug": "yellow",
-        "name": "Yellow",
-        "hex": "#f6e3a0"
       }
     ],
     "color": "yellow",
@@ -1247,6 +140,11 @@
     "priceDiscount": 549,
     "colors": [
       {
+        "slug": "yellow",
+        "name": "Yellow",
+        "hex": "#f6e3a0"
+      },
+      {
         "slug": "blue",
         "name": "Blue",
         "hex": "#a9c3e1"
@@ -1260,11 +158,6 @@
         "slug": "silver",
         "name": "Silver",
         "hex": "#e3e4e5"
-      },
-      {
-        "slug": "yellow",
-        "name": "Yellow",
-        "hex": "#f6e3a0"
       }
     ],
     "color": "yellow",
@@ -1370,6 +263,11 @@
     "priceDiscount": 749,
     "colors": [
       {
+        "slug": "yellow",
+        "name": "Yellow",
+        "hex": "#f6e3a0"
+      },
+      {
         "slug": "blue",
         "name": "Blue",
         "hex": "#a9c3e1"
@@ -1383,11 +281,6 @@
         "slug": "silver",
         "name": "Silver",
         "hex": "#e3e4e5"
-      },
-      {
-        "slug": "yellow",
-        "name": "Yellow",
-        "hex": "#f6e3a0"
       }
     ],
     "color": "yellow",
@@ -1476,12 +369,12 @@
     "inStock": true
   },
   {
-    "id": "ipad-mini-128gb-midnight",
+    "id": "ipad-128gb-blue",
     "category": "ipad",
-    "namespaceId": "ipad-mini",
-    "name": "iPad mini 128GB Midnight",
-    "modelName": "iPad mini",
-    "year": 2026,
+    "namespaceId": "ipad",
+    "name": "iPad 11-inch 128GB Blue",
+    "modelName": "iPad 11-inch",
+    "year": 2025,
     "capacityAvailable": [
       "128GB",
       "256GB",
@@ -1489,60 +382,70 @@
     ],
     "capacity": "128GB",
     "capacityLabel": "Storage",
-    "priceRegular": 699,
-    "priceDiscount": 699,
+    "priceRegular": 449,
+    "priceDiscount": 449,
     "colors": [
       {
-        "slug": "midnight",
-        "name": "Midnight",
-        "hex": "#2e3641"
+        "slug": "yellow",
+        "name": "Yellow",
+        "hex": "#f6e3a0"
       },
       {
-        "slug": "starlight",
-        "name": "Starlight",
-        "hex": "#f2ece4"
+        "slug": "blue",
+        "name": "Blue",
+        "hex": "#a9c3e1"
+      },
+      {
+        "slug": "pink",
+        "name": "Pink",
+        "hex": "#f1c9d1"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
       }
     ],
-    "color": "midnight",
+    "color": "blue",
     "images": [
-      "img/products/ipad-mini/midnight-0.webp"
+      "img/products/ipad/blue-0.webp"
     ],
     "description": [
       {
-        "title": "Now with OLED",
+        "title": "Colorful and capable",
         "text": [
-          "An 8.5-inch OLED display with deep blacks in the most portable iPad."
+          "The A16 chip makes everyday tasks, games and creativity fast and fun."
         ]
       },
       {
-        "title": "The first water-resistant iPad",
+        "title": "11-inch Liquid Retina display",
         "text": [
-          "IP67 protection means a splash or rain is no problem."
+          "A big, bright display for movies, notes and video calls."
         ]
       },
       {
-        "title": "A20 Pro inside",
+        "title": "Works with your favorite accessories",
         "text": [
-          "The same powerful chip as iPhone 18 Pro, in a tablet that fits in one hand."
+          "Pair it with Apple Pencil (USB-C) and Magic Keyboard Folio."
         ]
       }
     ],
     "specs": [
       {
         "label": "Display",
-        "value": "8.5\" OLED"
+        "value": "11\" Liquid Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "2360×1640"
       },
       {
         "label": "Chip",
-        "value": "A20 Pro"
+        "value": "A16"
       },
       {
         "label": "Camera",
-        "value": "12MP Wide"
-      },
-      {
-        "label": "Water resistance",
-        "value": "IP67"
+        "value": "12MP Wide, 12MP Center Stage front"
       },
       {
         "label": "Battery",
@@ -1550,51 +453,51 @@
       },
       {
         "label": "Connectivity",
-        "value": "Wi-Fi 7 (Apple N1)"
+        "value": "Wi-Fi 6"
       },
       {
         "label": "Port",
-        "value": "USB-C (USB 3)"
+        "value": "USB-C"
       },
       {
         "label": "Pencil support",
-        "value": "Apple Pencil Pro"
+        "value": "Apple Pencil (USB-C)"
       }
     ],
-    "rating": 4.5,
-    "reviewsCount": 112,
+    "rating": 4.6,
+    "reviewsCount": 201,
     "reviews": [
       {
-        "author": "Grace H.",
+        "author": "Sofia R.",
         "rating": 5,
         "date": "2026-10-02",
-        "title": "Very fast",
-        "text": "Handles drawing apps and games without any lag."
+        "title": "Perfect for notes",
+        "text": "I use it with Apple Pencil every day for university. Works flawlessly."
       },
       {
-        "author": "Leo F.",
+        "author": "Ethan W.",
         "rating": 5,
-        "date": "2026-09-18",
+        "date": "2026-08-27",
         "title": "Replaced my laptop",
         "text": "For email, browsing and documents it is all I need."
       },
       {
-        "author": "Mia S.",
+        "author": "Daniel K.",
         "rating": 5,
-        "date": "2026-07-14",
-        "title": "Great for movies",
-        "text": "The display is beautiful and the speakers are surprisingly good."
+        "date": "2026-06-03",
+        "title": "Very fast",
+        "text": "Handles drawing apps and games without any lag."
       }
     ],
     "inStock": true
   },
   {
-    "id": "ipad-mini-256gb-midnight",
+    "id": "ipad-256gb-blue",
     "category": "ipad",
-    "namespaceId": "ipad-mini",
-    "name": "iPad mini 256GB Midnight",
-    "modelName": "iPad mini",
-    "year": 2026,
+    "namespaceId": "ipad",
+    "name": "iPad 11-inch 256GB Blue",
+    "modelName": "iPad 11-inch",
+    "year": 2025,
     "capacityAvailable": [
       "128GB",
       "256GB",
@@ -1602,60 +505,70 @@
     ],
     "capacity": "256GB",
     "capacityLabel": "Storage",
-    "priceRegular": 799,
-    "priceDiscount": 799,
+    "priceRegular": 549,
+    "priceDiscount": 549,
     "colors": [
       {
-        "slug": "midnight",
-        "name": "Midnight",
-        "hex": "#2e3641"
+        "slug": "yellow",
+        "name": "Yellow",
+        "hex": "#f6e3a0"
       },
       {
-        "slug": "starlight",
-        "name": "Starlight",
-        "hex": "#f2ece4"
+        "slug": "blue",
+        "name": "Blue",
+        "hex": "#a9c3e1"
+      },
+      {
+        "slug": "pink",
+        "name": "Pink",
+        "hex": "#f1c9d1"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
       }
     ],
-    "color": "midnight",
+    "color": "blue",
     "images": [
-      "img/products/ipad-mini/midnight-0.webp"
+      "img/products/ipad/blue-0.webp"
     ],
     "description": [
       {
-        "title": "Now with OLED",
+        "title": "Colorful and capable",
         "text": [
-          "An 8.5-inch OLED display with deep blacks in the most portable iPad."
+          "The A16 chip makes everyday tasks, games and creativity fast and fun."
         ]
       },
       {
-        "title": "The first water-resistant iPad",
+        "title": "11-inch Liquid Retina display",
         "text": [
-          "IP67 protection means a splash or rain is no problem."
+          "A big, bright display for movies, notes and video calls."
         ]
       },
       {
-        "title": "A20 Pro inside",
+        "title": "Works with your favorite accessories",
         "text": [
-          "The same powerful chip as iPhone 18 Pro, in a tablet that fits in one hand."
+          "Pair it with Apple Pencil (USB-C) and Magic Keyboard Folio."
         ]
       }
     ],
     "specs": [
       {
         "label": "Display",
-        "value": "8.5\" OLED"
+        "value": "11\" Liquid Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "2360×1640"
       },
       {
         "label": "Chip",
-        "value": "A20 Pro"
+        "value": "A16"
       },
       {
         "label": "Camera",
-        "value": "12MP Wide"
-      },
-      {
-        "label": "Water resistance",
-        "value": "IP67"
+        "value": "12MP Wide, 12MP Center Stage front"
       },
       {
         "label": "Battery",
@@ -1663,51 +576,51 @@
       },
       {
         "label": "Connectivity",
-        "value": "Wi-Fi 7 (Apple N1)"
+        "value": "Wi-Fi 6"
       },
       {
         "label": "Port",
-        "value": "USB-C (USB 3)"
+        "value": "USB-C"
       },
       {
         "label": "Pencil support",
-        "value": "Apple Pencil Pro"
+        "value": "Apple Pencil (USB-C)"
       }
     ],
-    "rating": 4.5,
-    "reviewsCount": 112,
+    "rating": 4.6,
+    "reviewsCount": 201,
     "reviews": [
       {
-        "author": "Grace H.",
+        "author": "Sofia R.",
         "rating": 5,
         "date": "2026-10-02",
-        "title": "Very fast",
-        "text": "Handles drawing apps and games without any lag."
+        "title": "Perfect for notes",
+        "text": "I use it with Apple Pencil every day for university. Works flawlessly."
       },
       {
-        "author": "Leo F.",
+        "author": "Ethan W.",
         "rating": 5,
-        "date": "2026-09-18",
+        "date": "2026-08-27",
         "title": "Replaced my laptop",
         "text": "For email, browsing and documents it is all I need."
       },
       {
-        "author": "Mia S.",
+        "author": "Daniel K.",
         "rating": 5,
-        "date": "2026-07-14",
-        "title": "Great for movies",
-        "text": "The display is beautiful and the speakers are surprisingly good."
+        "date": "2026-06-03",
+        "title": "Very fast",
+        "text": "Handles drawing apps and games without any lag."
       }
     ],
     "inStock": true
   },
   {
-    "id": "ipad-mini-512gb-midnight",
+    "id": "ipad-512gb-blue",
     "category": "ipad",
-    "namespaceId": "ipad-mini",
-    "name": "iPad mini 512GB Midnight",
-    "modelName": "iPad mini",
-    "year": 2026,
+    "namespaceId": "ipad",
+    "name": "iPad 11-inch 512GB Blue",
+    "modelName": "iPad 11-inch",
+    "year": 2025,
     "capacityAvailable": [
       "128GB",
       "256GB",
@@ -1715,60 +628,70 @@
     ],
     "capacity": "512GB",
     "capacityLabel": "Storage",
-    "priceRegular": 999,
-    "priceDiscount": 999,
+    "priceRegular": 749,
+    "priceDiscount": 749,
     "colors": [
       {
-        "slug": "midnight",
-        "name": "Midnight",
-        "hex": "#2e3641"
+        "slug": "yellow",
+        "name": "Yellow",
+        "hex": "#f6e3a0"
       },
       {
-        "slug": "starlight",
-        "name": "Starlight",
-        "hex": "#f2ece4"
+        "slug": "blue",
+        "name": "Blue",
+        "hex": "#a9c3e1"
+      },
+      {
+        "slug": "pink",
+        "name": "Pink",
+        "hex": "#f1c9d1"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
       }
     ],
-    "color": "midnight",
+    "color": "blue",
     "images": [
-      "img/products/ipad-mini/midnight-0.webp"
+      "img/products/ipad/blue-0.webp"
     ],
     "description": [
       {
-        "title": "Now with OLED",
+        "title": "Colorful and capable",
         "text": [
-          "An 8.5-inch OLED display with deep blacks in the most portable iPad."
+          "The A16 chip makes everyday tasks, games and creativity fast and fun."
         ]
       },
       {
-        "title": "The first water-resistant iPad",
+        "title": "11-inch Liquid Retina display",
         "text": [
-          "IP67 protection means a splash or rain is no problem."
+          "A big, bright display for movies, notes and video calls."
         ]
       },
       {
-        "title": "A20 Pro inside",
+        "title": "Works with your favorite accessories",
         "text": [
-          "The same powerful chip as iPhone 18 Pro, in a tablet that fits in one hand."
+          "Pair it with Apple Pencil (USB-C) and Magic Keyboard Folio."
         ]
       }
     ],
     "specs": [
       {
         "label": "Display",
-        "value": "8.5\" OLED"
+        "value": "11\" Liquid Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "2360×1640"
       },
       {
         "label": "Chip",
-        "value": "A20 Pro"
+        "value": "A16"
       },
       {
         "label": "Camera",
-        "value": "12MP Wide"
-      },
-      {
-        "label": "Water resistance",
-        "value": "IP67"
+        "value": "12MP Wide, 12MP Center Stage front"
       },
       {
         "label": "Battery",
@@ -1776,40 +699,778 @@
       },
       {
         "label": "Connectivity",
-        "value": "Wi-Fi 7 (Apple N1)"
+        "value": "Wi-Fi 6"
       },
       {
         "label": "Port",
-        "value": "USB-C (USB 3)"
+        "value": "USB-C"
       },
       {
         "label": "Pencil support",
-        "value": "Apple Pencil Pro"
+        "value": "Apple Pencil (USB-C)"
       }
     ],
-    "rating": 4.5,
-    "reviewsCount": 112,
+    "rating": 4.6,
+    "reviewsCount": 201,
     "reviews": [
       {
-        "author": "Grace H.",
+        "author": "Sofia R.",
         "rating": 5,
         "date": "2026-10-02",
-        "title": "Very fast",
-        "text": "Handles drawing apps and games without any lag."
+        "title": "Perfect for notes",
+        "text": "I use it with Apple Pencil every day for university. Works flawlessly."
       },
       {
-        "author": "Leo F.",
+        "author": "Ethan W.",
         "rating": 5,
-        "date": "2026-09-18",
+        "date": "2026-08-27",
         "title": "Replaced my laptop",
         "text": "For email, browsing and documents it is all I need."
       },
       {
-        "author": "Mia S.",
+        "author": "Daniel K.",
         "rating": 5,
-        "date": "2026-07-14",
-        "title": "Great for movies",
-        "text": "The display is beautiful and the speakers are surprisingly good."
+        "date": "2026-06-03",
+        "title": "Very fast",
+        "text": "Handles drawing apps and games without any lag."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "ipad-128gb-pink",
+    "category": "ipad",
+    "namespaceId": "ipad",
+    "name": "iPad 11-inch 128GB Pink",
+    "modelName": "iPad 11-inch",
+    "year": 2025,
+    "capacityAvailable": [
+      "128GB",
+      "256GB",
+      "512GB"
+    ],
+    "capacity": "128GB",
+    "capacityLabel": "Storage",
+    "priceRegular": 449,
+    "priceDiscount": 449,
+    "colors": [
+      {
+        "slug": "yellow",
+        "name": "Yellow",
+        "hex": "#f6e3a0"
+      },
+      {
+        "slug": "blue",
+        "name": "Blue",
+        "hex": "#a9c3e1"
+      },
+      {
+        "slug": "pink",
+        "name": "Pink",
+        "hex": "#f1c9d1"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "color": "pink",
+    "images": [
+      "img/products/ipad/pink-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Colorful and capable",
+        "text": [
+          "The A16 chip makes everyday tasks, games and creativity fast and fun."
+        ]
+      },
+      {
+        "title": "11-inch Liquid Retina display",
+        "text": [
+          "A big, bright display for movies, notes and video calls."
+        ]
+      },
+      {
+        "title": "Works with your favorite accessories",
+        "text": [
+          "Pair it with Apple Pencil (USB-C) and Magic Keyboard Folio."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "11\" Liquid Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "2360×1640"
+      },
+      {
+        "label": "Chip",
+        "value": "A16"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Wide, 12MP Center Stage front"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 10 hours"
+      },
+      {
+        "label": "Connectivity",
+        "value": "Wi-Fi 6"
+      },
+      {
+        "label": "Port",
+        "value": "USB-C"
+      },
+      {
+        "label": "Pencil support",
+        "value": "Apple Pencil (USB-C)"
+      }
+    ],
+    "rating": 4.6,
+    "reviewsCount": 201,
+    "reviews": [
+      {
+        "author": "Sofia R.",
+        "rating": 5,
+        "date": "2026-10-02",
+        "title": "Perfect for notes",
+        "text": "I use it with Apple Pencil every day for university. Works flawlessly."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Replaced my laptop",
+        "text": "For email, browsing and documents it is all I need."
+      },
+      {
+        "author": "Daniel K.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Very fast",
+        "text": "Handles drawing apps and games without any lag."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "ipad-256gb-pink",
+    "category": "ipad",
+    "namespaceId": "ipad",
+    "name": "iPad 11-inch 256GB Pink",
+    "modelName": "iPad 11-inch",
+    "year": 2025,
+    "capacityAvailable": [
+      "128GB",
+      "256GB",
+      "512GB"
+    ],
+    "capacity": "256GB",
+    "capacityLabel": "Storage",
+    "priceRegular": 549,
+    "priceDiscount": 549,
+    "colors": [
+      {
+        "slug": "yellow",
+        "name": "Yellow",
+        "hex": "#f6e3a0"
+      },
+      {
+        "slug": "blue",
+        "name": "Blue",
+        "hex": "#a9c3e1"
+      },
+      {
+        "slug": "pink",
+        "name": "Pink",
+        "hex": "#f1c9d1"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "color": "pink",
+    "images": [
+      "img/products/ipad/pink-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Colorful and capable",
+        "text": [
+          "The A16 chip makes everyday tasks, games and creativity fast and fun."
+        ]
+      },
+      {
+        "title": "11-inch Liquid Retina display",
+        "text": [
+          "A big, bright display for movies, notes and video calls."
+        ]
+      },
+      {
+        "title": "Works with your favorite accessories",
+        "text": [
+          "Pair it with Apple Pencil (USB-C) and Magic Keyboard Folio."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "11\" Liquid Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "2360×1640"
+      },
+      {
+        "label": "Chip",
+        "value": "A16"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Wide, 12MP Center Stage front"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 10 hours"
+      },
+      {
+        "label": "Connectivity",
+        "value": "Wi-Fi 6"
+      },
+      {
+        "label": "Port",
+        "value": "USB-C"
+      },
+      {
+        "label": "Pencil support",
+        "value": "Apple Pencil (USB-C)"
+      }
+    ],
+    "rating": 4.6,
+    "reviewsCount": 201,
+    "reviews": [
+      {
+        "author": "Sofia R.",
+        "rating": 5,
+        "date": "2026-10-02",
+        "title": "Perfect for notes",
+        "text": "I use it with Apple Pencil every day for university. Works flawlessly."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Replaced my laptop",
+        "text": "For email, browsing and documents it is all I need."
+      },
+      {
+        "author": "Daniel K.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Very fast",
+        "text": "Handles drawing apps and games without any lag."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "ipad-512gb-pink",
+    "category": "ipad",
+    "namespaceId": "ipad",
+    "name": "iPad 11-inch 512GB Pink",
+    "modelName": "iPad 11-inch",
+    "year": 2025,
+    "capacityAvailable": [
+      "128GB",
+      "256GB",
+      "512GB"
+    ],
+    "capacity": "512GB",
+    "capacityLabel": "Storage",
+    "priceRegular": 749,
+    "priceDiscount": 749,
+    "colors": [
+      {
+        "slug": "yellow",
+        "name": "Yellow",
+        "hex": "#f6e3a0"
+      },
+      {
+        "slug": "blue",
+        "name": "Blue",
+        "hex": "#a9c3e1"
+      },
+      {
+        "slug": "pink",
+        "name": "Pink",
+        "hex": "#f1c9d1"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "color": "pink",
+    "images": [
+      "img/products/ipad/pink-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Colorful and capable",
+        "text": [
+          "The A16 chip makes everyday tasks, games and creativity fast and fun."
+        ]
+      },
+      {
+        "title": "11-inch Liquid Retina display",
+        "text": [
+          "A big, bright display for movies, notes and video calls."
+        ]
+      },
+      {
+        "title": "Works with your favorite accessories",
+        "text": [
+          "Pair it with Apple Pencil (USB-C) and Magic Keyboard Folio."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "11\" Liquid Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "2360×1640"
+      },
+      {
+        "label": "Chip",
+        "value": "A16"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Wide, 12MP Center Stage front"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 10 hours"
+      },
+      {
+        "label": "Connectivity",
+        "value": "Wi-Fi 6"
+      },
+      {
+        "label": "Port",
+        "value": "USB-C"
+      },
+      {
+        "label": "Pencil support",
+        "value": "Apple Pencil (USB-C)"
+      }
+    ],
+    "rating": 4.6,
+    "reviewsCount": 201,
+    "reviews": [
+      {
+        "author": "Sofia R.",
+        "rating": 5,
+        "date": "2026-10-02",
+        "title": "Perfect for notes",
+        "text": "I use it with Apple Pencil every day for university. Works flawlessly."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Replaced my laptop",
+        "text": "For email, browsing and documents it is all I need."
+      },
+      {
+        "author": "Daniel K.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Very fast",
+        "text": "Handles drawing apps and games without any lag."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "ipad-128gb-silver",
+    "category": "ipad",
+    "namespaceId": "ipad",
+    "name": "iPad 11-inch 128GB Silver",
+    "modelName": "iPad 11-inch",
+    "year": 2025,
+    "capacityAvailable": [
+      "128GB",
+      "256GB",
+      "512GB"
+    ],
+    "capacity": "128GB",
+    "capacityLabel": "Storage",
+    "priceRegular": 449,
+    "priceDiscount": 449,
+    "colors": [
+      {
+        "slug": "yellow",
+        "name": "Yellow",
+        "hex": "#f6e3a0"
+      },
+      {
+        "slug": "blue",
+        "name": "Blue",
+        "hex": "#a9c3e1"
+      },
+      {
+        "slug": "pink",
+        "name": "Pink",
+        "hex": "#f1c9d1"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "color": "silver",
+    "images": [
+      "img/products/ipad/silver-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Colorful and capable",
+        "text": [
+          "The A16 chip makes everyday tasks, games and creativity fast and fun."
+        ]
+      },
+      {
+        "title": "11-inch Liquid Retina display",
+        "text": [
+          "A big, bright display for movies, notes and video calls."
+        ]
+      },
+      {
+        "title": "Works with your favorite accessories",
+        "text": [
+          "Pair it with Apple Pencil (USB-C) and Magic Keyboard Folio."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "11\" Liquid Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "2360×1640"
+      },
+      {
+        "label": "Chip",
+        "value": "A16"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Wide, 12MP Center Stage front"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 10 hours"
+      },
+      {
+        "label": "Connectivity",
+        "value": "Wi-Fi 6"
+      },
+      {
+        "label": "Port",
+        "value": "USB-C"
+      },
+      {
+        "label": "Pencil support",
+        "value": "Apple Pencil (USB-C)"
+      }
+    ],
+    "rating": 4.6,
+    "reviewsCount": 201,
+    "reviews": [
+      {
+        "author": "Sofia R.",
+        "rating": 5,
+        "date": "2026-10-02",
+        "title": "Perfect for notes",
+        "text": "I use it with Apple Pencil every day for university. Works flawlessly."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Replaced my laptop",
+        "text": "For email, browsing and documents it is all I need."
+      },
+      {
+        "author": "Daniel K.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Very fast",
+        "text": "Handles drawing apps and games without any lag."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "ipad-256gb-silver",
+    "category": "ipad",
+    "namespaceId": "ipad",
+    "name": "iPad 11-inch 256GB Silver",
+    "modelName": "iPad 11-inch",
+    "year": 2025,
+    "capacityAvailable": [
+      "128GB",
+      "256GB",
+      "512GB"
+    ],
+    "capacity": "256GB",
+    "capacityLabel": "Storage",
+    "priceRegular": 549,
+    "priceDiscount": 549,
+    "colors": [
+      {
+        "slug": "yellow",
+        "name": "Yellow",
+        "hex": "#f6e3a0"
+      },
+      {
+        "slug": "blue",
+        "name": "Blue",
+        "hex": "#a9c3e1"
+      },
+      {
+        "slug": "pink",
+        "name": "Pink",
+        "hex": "#f1c9d1"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "color": "silver",
+    "images": [
+      "img/products/ipad/silver-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Colorful and capable",
+        "text": [
+          "The A16 chip makes everyday tasks, games and creativity fast and fun."
+        ]
+      },
+      {
+        "title": "11-inch Liquid Retina display",
+        "text": [
+          "A big, bright display for movies, notes and video calls."
+        ]
+      },
+      {
+        "title": "Works with your favorite accessories",
+        "text": [
+          "Pair it with Apple Pencil (USB-C) and Magic Keyboard Folio."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "11\" Liquid Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "2360×1640"
+      },
+      {
+        "label": "Chip",
+        "value": "A16"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Wide, 12MP Center Stage front"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 10 hours"
+      },
+      {
+        "label": "Connectivity",
+        "value": "Wi-Fi 6"
+      },
+      {
+        "label": "Port",
+        "value": "USB-C"
+      },
+      {
+        "label": "Pencil support",
+        "value": "Apple Pencil (USB-C)"
+      }
+    ],
+    "rating": 4.6,
+    "reviewsCount": 201,
+    "reviews": [
+      {
+        "author": "Sofia R.",
+        "rating": 5,
+        "date": "2026-10-02",
+        "title": "Perfect for notes",
+        "text": "I use it with Apple Pencil every day for university. Works flawlessly."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Replaced my laptop",
+        "text": "For email, browsing and documents it is all I need."
+      },
+      {
+        "author": "Daniel K.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Very fast",
+        "text": "Handles drawing apps and games without any lag."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "ipad-512gb-silver",
+    "category": "ipad",
+    "namespaceId": "ipad",
+    "name": "iPad 11-inch 512GB Silver",
+    "modelName": "iPad 11-inch",
+    "year": 2025,
+    "capacityAvailable": [
+      "128GB",
+      "256GB",
+      "512GB"
+    ],
+    "capacity": "512GB",
+    "capacityLabel": "Storage",
+    "priceRegular": 749,
+    "priceDiscount": 749,
+    "colors": [
+      {
+        "slug": "yellow",
+        "name": "Yellow",
+        "hex": "#f6e3a0"
+      },
+      {
+        "slug": "blue",
+        "name": "Blue",
+        "hex": "#a9c3e1"
+      },
+      {
+        "slug": "pink",
+        "name": "Pink",
+        "hex": "#f1c9d1"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "color": "silver",
+    "images": [
+      "img/products/ipad/silver-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Colorful and capable",
+        "text": [
+          "The A16 chip makes everyday tasks, games and creativity fast and fun."
+        ]
+      },
+      {
+        "title": "11-inch Liquid Retina display",
+        "text": [
+          "A big, bright display for movies, notes and video calls."
+        ]
+      },
+      {
+        "title": "Works with your favorite accessories",
+        "text": [
+          "Pair it with Apple Pencil (USB-C) and Magic Keyboard Folio."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "11\" Liquid Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "2360×1640"
+      },
+      {
+        "label": "Chip",
+        "value": "A16"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Wide, 12MP Center Stage front"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 10 hours"
+      },
+      {
+        "label": "Connectivity",
+        "value": "Wi-Fi 6"
+      },
+      {
+        "label": "Port",
+        "value": "USB-C"
+      },
+      {
+        "label": "Pencil support",
+        "value": "Apple Pencil (USB-C)"
+      }
+    ],
+    "rating": 4.6,
+    "reviewsCount": 201,
+    "reviews": [
+      {
+        "author": "Sofia R.",
+        "rating": 5,
+        "date": "2026-10-02",
+        "title": "Perfect for notes",
+        "text": "I use it with Apple Pencil every day for university. Works flawlessly."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Replaced my laptop",
+        "text": "For email, browsing and documents it is all I need."
+      },
+      {
+        "author": "Daniel K.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Very fast",
+        "text": "Handles drawing apps and games without any lag."
       }
     ],
     "inStock": true
@@ -1832,14 +1493,14 @@
     "priceDiscount": 699,
     "colors": [
       {
-        "slug": "midnight",
-        "name": "Midnight",
-        "hex": "#2e3641"
-      },
-      {
         "slug": "starlight",
         "name": "Starlight",
         "hex": "#f2ece4"
+      },
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
       }
     ],
     "color": "starlight",
@@ -1945,14 +1606,14 @@
     "priceDiscount": 799,
     "colors": [
       {
-        "slug": "midnight",
-        "name": "Midnight",
-        "hex": "#2e3641"
-      },
-      {
         "slug": "starlight",
         "name": "Starlight",
         "hex": "#f2ece4"
+      },
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
       }
     ],
     "color": "starlight",
@@ -2058,14 +1719,14 @@
     "priceDiscount": 999,
     "colors": [
       {
-        "slug": "midnight",
-        "name": "Midnight",
-        "hex": "#2e3641"
-      },
-      {
         "slug": "starlight",
         "name": "Starlight",
         "hex": "#f2ece4"
+      },
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
       }
     ],
     "color": "starlight",
@@ -2154,84 +1815,73 @@
     "inStock": true
   },
   {
-    "id": "ipad-air-11-128gb-blue",
+    "id": "ipad-mini-128gb-midnight",
     "category": "ipad",
-    "namespaceId": "ipad-air-11",
-    "name": "iPad Air 11-inch 128GB Blue",
-    "modelName": "iPad Air 11-inch",
+    "namespaceId": "ipad-mini",
+    "name": "iPad mini 128GB Midnight",
+    "modelName": "iPad mini",
     "year": 2026,
     "capacityAvailable": [
       "128GB",
       "256GB",
-      "512GB",
-      "1TB"
+      "512GB"
     ],
     "capacity": "128GB",
     "capacityLabel": "Storage",
-    "priceRegular": 749,
-    "priceDiscount": 749,
+    "priceRegular": 699,
+    "priceDiscount": 699,
     "colors": [
-      {
-        "slug": "blue",
-        "name": "Blue",
-        "hex": "#b7c9de"
-      },
-      {
-        "slug": "purple",
-        "name": "Purple",
-        "hex": "#cfc3e0"
-      },
-      {
-        "slug": "spacegray",
-        "name": "Space Gray",
-        "hex": "#5c5f63"
-      },
       {
         "slug": "starlight",
         "name": "Starlight",
-        "hex": "#efe9df"
+        "hex": "#f2ece4"
+      },
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
       }
     ],
-    "color": "blue",
+    "color": "midnight",
     "images": [
-      "img/products/ipad-air-11/blue-0.webp"
+      "img/products/ipad-mini/midnight-0.webp"
     ],
     "description": [
       {
-        "title": "Serious performance",
+        "title": "Now with OLED",
         "text": [
-          "The Apple M4 chip handles pro apps, multitasking and Apple Intelligence with ease."
+          "An 8.5-inch OLED display with deep blacks in the most portable iPad."
         ]
       },
       {
-        "title": "11\" of room to create",
+        "title": "The first water-resistant iPad",
         "text": [
-          "A Liquid Retina display perfect for drawing, notes and entertainment."
+          "IP67 protection means a splash or rain is no problem."
         ]
       },
       {
-        "title": "Light and thin",
+        "title": "A20 Pro inside",
         "text": [
-          "Take it anywhere in four beautiful colors."
+          "The same powerful chip as iPhone 18 Pro, in a tablet that fits in one hand."
         ]
       }
     ],
     "specs": [
       {
         "label": "Display",
-        "value": "11\" Liquid Retina"
-      },
-      {
-        "label": "Resolution",
-        "value": "2360×1640"
+        "value": "8.5\" OLED"
       },
       {
         "label": "Chip",
-        "value": "Apple M4"
+        "value": "A20 Pro"
       },
       {
         "label": "Camera",
-        "value": "12MP Wide, 12MP landscape front"
+        "value": "12MP Wide"
+      },
+      {
+        "label": "Water resistance",
+        "value": "IP67"
       },
       {
         "label": "Battery",
@@ -2250,27 +1900,27 @@
         "value": "Apple Pencil Pro"
       }
     ],
-    "rating": 4.3,
-    "reviewsCount": 296,
+    "rating": 4.5,
+    "reviewsCount": 112,
     "reviews": [
       {
-        "author": "Olivia M.",
+        "author": "Grace H.",
         "rating": 5,
         "date": "2026-10-02",
+        "title": "Very fast",
+        "text": "Handles drawing apps and games without any lag."
+      },
+      {
+        "author": "Leo F.",
+        "rating": 5,
+        "date": "2026-09-18",
         "title": "Replaced my laptop",
         "text": "For email, browsing and documents it is all I need."
       },
       {
-        "author": "Chloe D.",
-        "rating": 5,
-        "date": "2026-09-18",
-        "title": "Perfect for notes",
-        "text": "I use it with Apple Pencil every day for university. Works flawlessly."
-      },
-      {
         "author": "Mia S.",
         "rating": 5,
-        "date": "2026-05-21",
+        "date": "2026-07-14",
         "title": "Great for movies",
         "text": "The display is beautiful and the speakers are surprisingly good."
       }
@@ -2278,84 +1928,73 @@
     "inStock": true
   },
   {
-    "id": "ipad-air-11-256gb-blue",
+    "id": "ipad-mini-256gb-midnight",
     "category": "ipad",
-    "namespaceId": "ipad-air-11",
-    "name": "iPad Air 11-inch 256GB Blue",
-    "modelName": "iPad Air 11-inch",
+    "namespaceId": "ipad-mini",
+    "name": "iPad mini 256GB Midnight",
+    "modelName": "iPad mini",
     "year": 2026,
     "capacityAvailable": [
       "128GB",
       "256GB",
-      "512GB",
-      "1TB"
+      "512GB"
     ],
     "capacity": "256GB",
     "capacityLabel": "Storage",
-    "priceRegular": 849,
-    "priceDiscount": 849,
+    "priceRegular": 799,
+    "priceDiscount": 799,
     "colors": [
-      {
-        "slug": "blue",
-        "name": "Blue",
-        "hex": "#b7c9de"
-      },
-      {
-        "slug": "purple",
-        "name": "Purple",
-        "hex": "#cfc3e0"
-      },
-      {
-        "slug": "spacegray",
-        "name": "Space Gray",
-        "hex": "#5c5f63"
-      },
       {
         "slug": "starlight",
         "name": "Starlight",
-        "hex": "#efe9df"
+        "hex": "#f2ece4"
+      },
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
       }
     ],
-    "color": "blue",
+    "color": "midnight",
     "images": [
-      "img/products/ipad-air-11/blue-0.webp"
+      "img/products/ipad-mini/midnight-0.webp"
     ],
     "description": [
       {
-        "title": "Serious performance",
+        "title": "Now with OLED",
         "text": [
-          "The Apple M4 chip handles pro apps, multitasking and Apple Intelligence with ease."
+          "An 8.5-inch OLED display with deep blacks in the most portable iPad."
         ]
       },
       {
-        "title": "11\" of room to create",
+        "title": "The first water-resistant iPad",
         "text": [
-          "A Liquid Retina display perfect for drawing, notes and entertainment."
+          "IP67 protection means a splash or rain is no problem."
         ]
       },
       {
-        "title": "Light and thin",
+        "title": "A20 Pro inside",
         "text": [
-          "Take it anywhere in four beautiful colors."
+          "The same powerful chip as iPhone 18 Pro, in a tablet that fits in one hand."
         ]
       }
     ],
     "specs": [
       {
         "label": "Display",
-        "value": "11\" Liquid Retina"
-      },
-      {
-        "label": "Resolution",
-        "value": "2360×1640"
+        "value": "8.5\" OLED"
       },
       {
         "label": "Chip",
-        "value": "Apple M4"
+        "value": "A20 Pro"
       },
       {
         "label": "Camera",
-        "value": "12MP Wide, 12MP landscape front"
+        "value": "12MP Wide"
+      },
+      {
+        "label": "Water resistance",
+        "value": "IP67"
       },
       {
         "label": "Battery",
@@ -2374,27 +2013,27 @@
         "value": "Apple Pencil Pro"
       }
     ],
-    "rating": 4.3,
-    "reviewsCount": 296,
+    "rating": 4.5,
+    "reviewsCount": 112,
     "reviews": [
       {
-        "author": "Olivia M.",
+        "author": "Grace H.",
         "rating": 5,
         "date": "2026-10-02",
+        "title": "Very fast",
+        "text": "Handles drawing apps and games without any lag."
+      },
+      {
+        "author": "Leo F.",
+        "rating": 5,
+        "date": "2026-09-18",
         "title": "Replaced my laptop",
         "text": "For email, browsing and documents it is all I need."
       },
       {
-        "author": "Chloe D.",
-        "rating": 5,
-        "date": "2026-09-18",
-        "title": "Perfect for notes",
-        "text": "I use it with Apple Pencil every day for university. Works flawlessly."
-      },
-      {
         "author": "Mia S.",
         "rating": 5,
-        "date": "2026-05-21",
+        "date": "2026-07-14",
         "title": "Great for movies",
         "text": "The display is beautiful and the speakers are surprisingly good."
       }
@@ -2402,84 +2041,73 @@
     "inStock": true
   },
   {
-    "id": "ipad-air-11-512gb-blue",
+    "id": "ipad-mini-512gb-midnight",
     "category": "ipad",
-    "namespaceId": "ipad-air-11",
-    "name": "iPad Air 11-inch 512GB Blue",
-    "modelName": "iPad Air 11-inch",
+    "namespaceId": "ipad-mini",
+    "name": "iPad mini 512GB Midnight",
+    "modelName": "iPad mini",
     "year": 2026,
     "capacityAvailable": [
       "128GB",
       "256GB",
-      "512GB",
-      "1TB"
+      "512GB"
     ],
     "capacity": "512GB",
     "capacityLabel": "Storage",
-    "priceRegular": 1049,
-    "priceDiscount": 1049,
+    "priceRegular": 999,
+    "priceDiscount": 999,
     "colors": [
-      {
-        "slug": "blue",
-        "name": "Blue",
-        "hex": "#b7c9de"
-      },
-      {
-        "slug": "purple",
-        "name": "Purple",
-        "hex": "#cfc3e0"
-      },
-      {
-        "slug": "spacegray",
-        "name": "Space Gray",
-        "hex": "#5c5f63"
-      },
       {
         "slug": "starlight",
         "name": "Starlight",
-        "hex": "#efe9df"
+        "hex": "#f2ece4"
+      },
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
       }
     ],
-    "color": "blue",
+    "color": "midnight",
     "images": [
-      "img/products/ipad-air-11/blue-0.webp"
+      "img/products/ipad-mini/midnight-0.webp"
     ],
     "description": [
       {
-        "title": "Serious performance",
+        "title": "Now with OLED",
         "text": [
-          "The Apple M4 chip handles pro apps, multitasking and Apple Intelligence with ease."
+          "An 8.5-inch OLED display with deep blacks in the most portable iPad."
         ]
       },
       {
-        "title": "11\" of room to create",
+        "title": "The first water-resistant iPad",
         "text": [
-          "A Liquid Retina display perfect for drawing, notes and entertainment."
+          "IP67 protection means a splash or rain is no problem."
         ]
       },
       {
-        "title": "Light and thin",
+        "title": "A20 Pro inside",
         "text": [
-          "Take it anywhere in four beautiful colors."
+          "The same powerful chip as iPhone 18 Pro, in a tablet that fits in one hand."
         ]
       }
     ],
     "specs": [
       {
         "label": "Display",
-        "value": "11\" Liquid Retina"
-      },
-      {
-        "label": "Resolution",
-        "value": "2360×1640"
+        "value": "8.5\" OLED"
       },
       {
         "label": "Chip",
-        "value": "Apple M4"
+        "value": "A20 Pro"
       },
       {
         "label": "Camera",
-        "value": "12MP Wide, 12MP landscape front"
+        "value": "12MP Wide"
+      },
+      {
+        "label": "Water resistance",
+        "value": "IP67"
       },
       {
         "label": "Battery",
@@ -2498,151 +2126,27 @@
         "value": "Apple Pencil Pro"
       }
     ],
-    "rating": 4.3,
-    "reviewsCount": 296,
+    "rating": 4.5,
+    "reviewsCount": 112,
     "reviews": [
       {
-        "author": "Olivia M.",
+        "author": "Grace H.",
         "rating": 5,
         "date": "2026-10-02",
+        "title": "Very fast",
+        "text": "Handles drawing apps and games without any lag."
+      },
+      {
+        "author": "Leo F.",
+        "rating": 5,
+        "date": "2026-09-18",
         "title": "Replaced my laptop",
         "text": "For email, browsing and documents it is all I need."
       },
       {
-        "author": "Chloe D.",
-        "rating": 5,
-        "date": "2026-09-18",
-        "title": "Perfect for notes",
-        "text": "I use it with Apple Pencil every day for university. Works flawlessly."
-      },
-      {
         "author": "Mia S.",
         "rating": 5,
-        "date": "2026-05-21",
-        "title": "Great for movies",
-        "text": "The display is beautiful and the speakers are surprisingly good."
-      }
-    ],
-    "inStock": true
-  },
-  {
-    "id": "ipad-air-11-1tb-blue",
-    "category": "ipad",
-    "namespaceId": "ipad-air-11",
-    "name": "iPad Air 11-inch 1TB Blue",
-    "modelName": "iPad Air 11-inch",
-    "year": 2026,
-    "capacityAvailable": [
-      "128GB",
-      "256GB",
-      "512GB",
-      "1TB"
-    ],
-    "capacity": "1TB",
-    "capacityLabel": "Storage",
-    "priceRegular": 1349,
-    "priceDiscount": 1349,
-    "colors": [
-      {
-        "slug": "blue",
-        "name": "Blue",
-        "hex": "#b7c9de"
-      },
-      {
-        "slug": "purple",
-        "name": "Purple",
-        "hex": "#cfc3e0"
-      },
-      {
-        "slug": "spacegray",
-        "name": "Space Gray",
-        "hex": "#5c5f63"
-      },
-      {
-        "slug": "starlight",
-        "name": "Starlight",
-        "hex": "#efe9df"
-      }
-    ],
-    "color": "blue",
-    "images": [
-      "img/products/ipad-air-11/blue-0.webp"
-    ],
-    "description": [
-      {
-        "title": "Serious performance",
-        "text": [
-          "The Apple M4 chip handles pro apps, multitasking and Apple Intelligence with ease."
-        ]
-      },
-      {
-        "title": "11\" of room to create",
-        "text": [
-          "A Liquid Retina display perfect for drawing, notes and entertainment."
-        ]
-      },
-      {
-        "title": "Light and thin",
-        "text": [
-          "Take it anywhere in four beautiful colors."
-        ]
-      }
-    ],
-    "specs": [
-      {
-        "label": "Display",
-        "value": "11\" Liquid Retina"
-      },
-      {
-        "label": "Resolution",
-        "value": "2360×1640"
-      },
-      {
-        "label": "Chip",
-        "value": "Apple M4"
-      },
-      {
-        "label": "Camera",
-        "value": "12MP Wide, 12MP landscape front"
-      },
-      {
-        "label": "Battery",
-        "value": "Up to 10 hours"
-      },
-      {
-        "label": "Connectivity",
-        "value": "Wi-Fi 7 (Apple N1)"
-      },
-      {
-        "label": "Port",
-        "value": "USB-C (USB 3)"
-      },
-      {
-        "label": "Pencil support",
-        "value": "Apple Pencil Pro"
-      }
-    ],
-    "rating": 4.3,
-    "reviewsCount": 296,
-    "reviews": [
-      {
-        "author": "Olivia M.",
-        "rating": 5,
-        "date": "2026-10-02",
-        "title": "Replaced my laptop",
-        "text": "For email, browsing and documents it is all I need."
-      },
-      {
-        "author": "Chloe D.",
-        "rating": 5,
-        "date": "2026-09-18",
-        "title": "Perfect for notes",
-        "text": "I use it with Apple Pencil every day for university. Works flawlessly."
-      },
-      {
-        "author": "Mia S.",
-        "rating": 5,
-        "date": "2026-05-21",
+        "date": "2026-07-14",
         "title": "Great for movies",
         "text": "The display is beautiful and the speakers are surprisingly good."
       }
@@ -2668,14 +2172,14 @@
     "priceDiscount": 749,
     "colors": [
       {
-        "slug": "blue",
-        "name": "Blue",
-        "hex": "#b7c9de"
-      },
-      {
         "slug": "purple",
         "name": "Purple",
         "hex": "#cfc3e0"
+      },
+      {
+        "slug": "blue",
+        "name": "Blue",
+        "hex": "#b7c9de"
       },
       {
         "slug": "spacegray",
@@ -2792,14 +2296,14 @@
     "priceDiscount": 849,
     "colors": [
       {
-        "slug": "blue",
-        "name": "Blue",
-        "hex": "#b7c9de"
-      },
-      {
         "slug": "purple",
         "name": "Purple",
         "hex": "#cfc3e0"
+      },
+      {
+        "slug": "blue",
+        "name": "Blue",
+        "hex": "#b7c9de"
       },
       {
         "slug": "spacegray",
@@ -2916,14 +2420,14 @@
     "priceDiscount": 1049,
     "colors": [
       {
-        "slug": "blue",
-        "name": "Blue",
-        "hex": "#b7c9de"
-      },
-      {
         "slug": "purple",
         "name": "Purple",
         "hex": "#cfc3e0"
+      },
+      {
+        "slug": "blue",
+        "name": "Blue",
+        "hex": "#b7c9de"
       },
       {
         "slug": "spacegray",
@@ -3040,14 +2544,14 @@
     "priceDiscount": 1349,
     "colors": [
       {
-        "slug": "blue",
-        "name": "Blue",
-        "hex": "#b7c9de"
-      },
-      {
         "slug": "purple",
         "name": "Purple",
         "hex": "#cfc3e0"
+      },
+      {
+        "slug": "blue",
+        "name": "Blue",
+        "hex": "#b7c9de"
       },
       {
         "slug": "spacegray",
@@ -3063,6 +2567,502 @@
     "color": "purple",
     "images": [
       "img/products/ipad-air-11/purple-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Serious performance",
+        "text": [
+          "The Apple M4 chip handles pro apps, multitasking and Apple Intelligence with ease."
+        ]
+      },
+      {
+        "title": "11\" of room to create",
+        "text": [
+          "A Liquid Retina display perfect for drawing, notes and entertainment."
+        ]
+      },
+      {
+        "title": "Light and thin",
+        "text": [
+          "Take it anywhere in four beautiful colors."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "11\" Liquid Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "2360×1640"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M4"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Wide, 12MP landscape front"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 10 hours"
+      },
+      {
+        "label": "Connectivity",
+        "value": "Wi-Fi 7 (Apple N1)"
+      },
+      {
+        "label": "Port",
+        "value": "USB-C (USB 3)"
+      },
+      {
+        "label": "Pencil support",
+        "value": "Apple Pencil Pro"
+      }
+    ],
+    "rating": 4.3,
+    "reviewsCount": 296,
+    "reviews": [
+      {
+        "author": "Olivia M.",
+        "rating": 5,
+        "date": "2026-10-02",
+        "title": "Replaced my laptop",
+        "text": "For email, browsing and documents it is all I need."
+      },
+      {
+        "author": "Chloe D.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Perfect for notes",
+        "text": "I use it with Apple Pencil every day for university. Works flawlessly."
+      },
+      {
+        "author": "Mia S.",
+        "rating": 5,
+        "date": "2026-05-21",
+        "title": "Great for movies",
+        "text": "The display is beautiful and the speakers are surprisingly good."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "ipad-air-11-128gb-blue",
+    "category": "ipad",
+    "namespaceId": "ipad-air-11",
+    "name": "iPad Air 11-inch 128GB Blue",
+    "modelName": "iPad Air 11-inch",
+    "year": 2026,
+    "capacityAvailable": [
+      "128GB",
+      "256GB",
+      "512GB",
+      "1TB"
+    ],
+    "capacity": "128GB",
+    "capacityLabel": "Storage",
+    "priceRegular": 749,
+    "priceDiscount": 749,
+    "colors": [
+      {
+        "slug": "purple",
+        "name": "Purple",
+        "hex": "#cfc3e0"
+      },
+      {
+        "slug": "blue",
+        "name": "Blue",
+        "hex": "#b7c9de"
+      },
+      {
+        "slug": "spacegray",
+        "name": "Space Gray",
+        "hex": "#5c5f63"
+      },
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      }
+    ],
+    "color": "blue",
+    "images": [
+      "img/products/ipad-air-11/blue-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Serious performance",
+        "text": [
+          "The Apple M4 chip handles pro apps, multitasking and Apple Intelligence with ease."
+        ]
+      },
+      {
+        "title": "11\" of room to create",
+        "text": [
+          "A Liquid Retina display perfect for drawing, notes and entertainment."
+        ]
+      },
+      {
+        "title": "Light and thin",
+        "text": [
+          "Take it anywhere in four beautiful colors."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "11\" Liquid Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "2360×1640"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M4"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Wide, 12MP landscape front"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 10 hours"
+      },
+      {
+        "label": "Connectivity",
+        "value": "Wi-Fi 7 (Apple N1)"
+      },
+      {
+        "label": "Port",
+        "value": "USB-C (USB 3)"
+      },
+      {
+        "label": "Pencil support",
+        "value": "Apple Pencil Pro"
+      }
+    ],
+    "rating": 4.3,
+    "reviewsCount": 296,
+    "reviews": [
+      {
+        "author": "Olivia M.",
+        "rating": 5,
+        "date": "2026-10-02",
+        "title": "Replaced my laptop",
+        "text": "For email, browsing and documents it is all I need."
+      },
+      {
+        "author": "Chloe D.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Perfect for notes",
+        "text": "I use it with Apple Pencil every day for university. Works flawlessly."
+      },
+      {
+        "author": "Mia S.",
+        "rating": 5,
+        "date": "2026-05-21",
+        "title": "Great for movies",
+        "text": "The display is beautiful and the speakers are surprisingly good."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "ipad-air-11-256gb-blue",
+    "category": "ipad",
+    "namespaceId": "ipad-air-11",
+    "name": "iPad Air 11-inch 256GB Blue",
+    "modelName": "iPad Air 11-inch",
+    "year": 2026,
+    "capacityAvailable": [
+      "128GB",
+      "256GB",
+      "512GB",
+      "1TB"
+    ],
+    "capacity": "256GB",
+    "capacityLabel": "Storage",
+    "priceRegular": 849,
+    "priceDiscount": 849,
+    "colors": [
+      {
+        "slug": "purple",
+        "name": "Purple",
+        "hex": "#cfc3e0"
+      },
+      {
+        "slug": "blue",
+        "name": "Blue",
+        "hex": "#b7c9de"
+      },
+      {
+        "slug": "spacegray",
+        "name": "Space Gray",
+        "hex": "#5c5f63"
+      },
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      }
+    ],
+    "color": "blue",
+    "images": [
+      "img/products/ipad-air-11/blue-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Serious performance",
+        "text": [
+          "The Apple M4 chip handles pro apps, multitasking and Apple Intelligence with ease."
+        ]
+      },
+      {
+        "title": "11\" of room to create",
+        "text": [
+          "A Liquid Retina display perfect for drawing, notes and entertainment."
+        ]
+      },
+      {
+        "title": "Light and thin",
+        "text": [
+          "Take it anywhere in four beautiful colors."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "11\" Liquid Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "2360×1640"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M4"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Wide, 12MP landscape front"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 10 hours"
+      },
+      {
+        "label": "Connectivity",
+        "value": "Wi-Fi 7 (Apple N1)"
+      },
+      {
+        "label": "Port",
+        "value": "USB-C (USB 3)"
+      },
+      {
+        "label": "Pencil support",
+        "value": "Apple Pencil Pro"
+      }
+    ],
+    "rating": 4.3,
+    "reviewsCount": 296,
+    "reviews": [
+      {
+        "author": "Olivia M.",
+        "rating": 5,
+        "date": "2026-10-02",
+        "title": "Replaced my laptop",
+        "text": "For email, browsing and documents it is all I need."
+      },
+      {
+        "author": "Chloe D.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Perfect for notes",
+        "text": "I use it with Apple Pencil every day for university. Works flawlessly."
+      },
+      {
+        "author": "Mia S.",
+        "rating": 5,
+        "date": "2026-05-21",
+        "title": "Great for movies",
+        "text": "The display is beautiful and the speakers are surprisingly good."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "ipad-air-11-512gb-blue",
+    "category": "ipad",
+    "namespaceId": "ipad-air-11",
+    "name": "iPad Air 11-inch 512GB Blue",
+    "modelName": "iPad Air 11-inch",
+    "year": 2026,
+    "capacityAvailable": [
+      "128GB",
+      "256GB",
+      "512GB",
+      "1TB"
+    ],
+    "capacity": "512GB",
+    "capacityLabel": "Storage",
+    "priceRegular": 1049,
+    "priceDiscount": 1049,
+    "colors": [
+      {
+        "slug": "purple",
+        "name": "Purple",
+        "hex": "#cfc3e0"
+      },
+      {
+        "slug": "blue",
+        "name": "Blue",
+        "hex": "#b7c9de"
+      },
+      {
+        "slug": "spacegray",
+        "name": "Space Gray",
+        "hex": "#5c5f63"
+      },
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      }
+    ],
+    "color": "blue",
+    "images": [
+      "img/products/ipad-air-11/blue-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Serious performance",
+        "text": [
+          "The Apple M4 chip handles pro apps, multitasking and Apple Intelligence with ease."
+        ]
+      },
+      {
+        "title": "11\" of room to create",
+        "text": [
+          "A Liquid Retina display perfect for drawing, notes and entertainment."
+        ]
+      },
+      {
+        "title": "Light and thin",
+        "text": [
+          "Take it anywhere in four beautiful colors."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "11\" Liquid Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "2360×1640"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M4"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Wide, 12MP landscape front"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 10 hours"
+      },
+      {
+        "label": "Connectivity",
+        "value": "Wi-Fi 7 (Apple N1)"
+      },
+      {
+        "label": "Port",
+        "value": "USB-C (USB 3)"
+      },
+      {
+        "label": "Pencil support",
+        "value": "Apple Pencil Pro"
+      }
+    ],
+    "rating": 4.3,
+    "reviewsCount": 296,
+    "reviews": [
+      {
+        "author": "Olivia M.",
+        "rating": 5,
+        "date": "2026-10-02",
+        "title": "Replaced my laptop",
+        "text": "For email, browsing and documents it is all I need."
+      },
+      {
+        "author": "Chloe D.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Perfect for notes",
+        "text": "I use it with Apple Pencil every day for university. Works flawlessly."
+      },
+      {
+        "author": "Mia S.",
+        "rating": 5,
+        "date": "2026-05-21",
+        "title": "Great for movies",
+        "text": "The display is beautiful and the speakers are surprisingly good."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "ipad-air-11-1tb-blue",
+    "category": "ipad",
+    "namespaceId": "ipad-air-11",
+    "name": "iPad Air 11-inch 1TB Blue",
+    "modelName": "iPad Air 11-inch",
+    "year": 2026,
+    "capacityAvailable": [
+      "128GB",
+      "256GB",
+      "512GB",
+      "1TB"
+    ],
+    "capacity": "1TB",
+    "capacityLabel": "Storage",
+    "priceRegular": 1349,
+    "priceDiscount": 1349,
+    "colors": [
+      {
+        "slug": "purple",
+        "name": "Purple",
+        "hex": "#cfc3e0"
+      },
+      {
+        "slug": "blue",
+        "name": "Blue",
+        "hex": "#b7c9de"
+      },
+      {
+        "slug": "spacegray",
+        "name": "Space Gray",
+        "hex": "#5c5f63"
+      },
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      }
+    ],
+    "color": "blue",
+    "images": [
+      "img/products/ipad-air-11/blue-0.webp"
     ],
     "description": [
       {
@@ -3164,14 +3164,14 @@
     "priceDiscount": 749,
     "colors": [
       {
-        "slug": "blue",
-        "name": "Blue",
-        "hex": "#b7c9de"
-      },
-      {
         "slug": "purple",
         "name": "Purple",
         "hex": "#cfc3e0"
+      },
+      {
+        "slug": "blue",
+        "name": "Blue",
+        "hex": "#b7c9de"
       },
       {
         "slug": "spacegray",
@@ -3288,14 +3288,14 @@
     "priceDiscount": 849,
     "colors": [
       {
-        "slug": "blue",
-        "name": "Blue",
-        "hex": "#b7c9de"
-      },
-      {
         "slug": "purple",
         "name": "Purple",
         "hex": "#cfc3e0"
+      },
+      {
+        "slug": "blue",
+        "name": "Blue",
+        "hex": "#b7c9de"
       },
       {
         "slug": "spacegray",
@@ -3412,14 +3412,14 @@
     "priceDiscount": 1049,
     "colors": [
       {
-        "slug": "blue",
-        "name": "Blue",
-        "hex": "#b7c9de"
-      },
-      {
         "slug": "purple",
         "name": "Purple",
         "hex": "#cfc3e0"
+      },
+      {
+        "slug": "blue",
+        "name": "Blue",
+        "hex": "#b7c9de"
       },
       {
         "slug": "spacegray",
@@ -3536,14 +3536,14 @@
     "priceDiscount": 1349,
     "colors": [
       {
-        "slug": "blue",
-        "name": "Blue",
-        "hex": "#b7c9de"
-      },
-      {
         "slug": "purple",
         "name": "Purple",
         "hex": "#cfc3e0"
+      },
+      {
+        "slug": "blue",
+        "name": "Blue",
+        "hex": "#b7c9de"
       },
       {
         "slug": "spacegray",
@@ -3660,14 +3660,14 @@
     "priceDiscount": 749,
     "colors": [
       {
-        "slug": "blue",
-        "name": "Blue",
-        "hex": "#b7c9de"
-      },
-      {
         "slug": "purple",
         "name": "Purple",
         "hex": "#cfc3e0"
+      },
+      {
+        "slug": "blue",
+        "name": "Blue",
+        "hex": "#b7c9de"
       },
       {
         "slug": "spacegray",
@@ -3784,14 +3784,14 @@
     "priceDiscount": 849,
     "colors": [
       {
-        "slug": "blue",
-        "name": "Blue",
-        "hex": "#b7c9de"
-      },
-      {
         "slug": "purple",
         "name": "Purple",
         "hex": "#cfc3e0"
+      },
+      {
+        "slug": "blue",
+        "name": "Blue",
+        "hex": "#b7c9de"
       },
       {
         "slug": "spacegray",
@@ -3908,14 +3908,14 @@
     "priceDiscount": 1049,
     "colors": [
       {
-        "slug": "blue",
-        "name": "Blue",
-        "hex": "#b7c9de"
-      },
-      {
         "slug": "purple",
         "name": "Purple",
         "hex": "#cfc3e0"
+      },
+      {
+        "slug": "blue",
+        "name": "Blue",
+        "hex": "#b7c9de"
       },
       {
         "slug": "spacegray",
@@ -4032,14 +4032,14 @@
     "priceDiscount": 1349,
     "colors": [
       {
-        "slug": "blue",
-        "name": "Blue",
-        "hex": "#b7c9de"
-      },
-      {
         "slug": "purple",
         "name": "Purple",
         "hex": "#cfc3e0"
+      },
+      {
+        "slug": "blue",
+        "name": "Blue",
+        "hex": "#b7c9de"
       },
       {
         "slug": "spacegray",

@@ -386,18 +386,23 @@
     "inStock": true
   },
   {
-    "id": "airpods-max-midnight",
+    "id": "airpods-max-2-orange",
     "category": "airpods",
-    "namespaceId": "airpods-max",
-    "name": "AirPods Max Midnight",
-    "modelName": "AirPods Max",
-    "year": 2024,
+    "namespaceId": "airpods-max-2",
+    "name": "AirPods Max 2 Orange",
+    "modelName": "AirPods Max 2",
+    "year": 2026,
     "capacityAvailable": [],
     "capacity": "",
     "capacityLabel": "Storage",
     "priceRegular": 549,
     "priceDiscount": 549,
     "colors": [
+      {
+        "slug": "orange",
+        "name": "Orange",
+        "hex": "#f2b48c"
+      },
       {
         "slug": "midnight",
         "name": "Midnight",
@@ -412,347 +417,6 @@
         "slug": "purple",
         "name": "Purple",
         "hex": "#cbb8dd"
-      },
-      {
-        "slug": "orange",
-        "name": "Orange",
-        "hex": "#f2b48c"
-      },
-      {
-        "slug": "starlight",
-        "name": "Starlight",
-        "hex": "#efe9df"
-      }
-    ],
-    "color": "midnight",
-    "images": [
-      "img/products/airpods-max/midnight-0.webp"
-    ],
-    "description": [
-      {
-        "title": "High-fidelity audio",
-        "text": [
-          "Custom drivers deliver rich, detailed sound."
-        ]
-      },
-      {
-        "title": "Lossless via USB-C",
-        "text": [
-          "Listen in lossless and ultra-low latency audio."
-        ]
-      },
-      {
-        "title": "Five colors",
-        "text": [
-          "A breathable knit mesh canopy and memory foam ear cushions."
-        ]
-      }
-    ],
-    "specs": [
-      {
-        "label": "Chip",
-        "value": "H2 in each ear cup"
-      },
-      {
-        "label": "Noise control",
-        "value": "Active Noise Cancellation, Transparency"
-      },
-      {
-        "label": "Battery",
-        "value": "Up to 20 hours"
-      },
-      {
-        "label": "Audio",
-        "value": "Lossless audio via USB-C"
-      },
-      {
-        "label": "Weight",
-        "value": "386 g"
-      }
-    ],
-    "rating": 4.4,
-    "reviewsCount": 516,
-    "reviews": [
-      {
-        "author": "James T.",
-        "rating": 5,
-        "date": "2026-07-14",
-        "title": "Instant pairing",
-        "text": "Switches between my iPhone and Mac automatically."
-      },
-      {
-        "author": "Grace H.",
-        "rating": 5,
-        "date": "2026-09-18",
-        "title": "Great for calls",
-        "text": "People say my voice sounds clear even outside."
-      },
-      {
-        "author": "Chloe D.",
-        "rating": 5,
-        "date": "2026-06-03",
-        "title": "So comfortable",
-        "text": "I forget I am wearing them."
-      }
-    ],
-    "inStock": true
-  },
-  {
-    "id": "airpods-max-blue",
-    "category": "airpods",
-    "namespaceId": "airpods-max",
-    "name": "AirPods Max Blue",
-    "modelName": "AirPods Max",
-    "year": 2024,
-    "capacityAvailable": [],
-    "capacity": "",
-    "capacityLabel": "Storage",
-    "priceRegular": 549,
-    "priceDiscount": 549,
-    "colors": [
-      {
-        "slug": "midnight",
-        "name": "Midnight",
-        "hex": "#2e3641"
-      },
-      {
-        "slug": "blue",
-        "name": "Blue",
-        "hex": "#a9c3d9"
-      },
-      {
-        "slug": "purple",
-        "name": "Purple",
-        "hex": "#cbb8dd"
-      },
-      {
-        "slug": "orange",
-        "name": "Orange",
-        "hex": "#f2b48c"
-      },
-      {
-        "slug": "starlight",
-        "name": "Starlight",
-        "hex": "#efe9df"
-      }
-    ],
-    "color": "blue",
-    "images": [
-      "img/products/airpods-max/blue-0.webp"
-    ],
-    "description": [
-      {
-        "title": "High-fidelity audio",
-        "text": [
-          "Custom drivers deliver rich, detailed sound."
-        ]
-      },
-      {
-        "title": "Lossless via USB-C",
-        "text": [
-          "Listen in lossless and ultra-low latency audio."
-        ]
-      },
-      {
-        "title": "Five colors",
-        "text": [
-          "A breathable knit mesh canopy and memory foam ear cushions."
-        ]
-      }
-    ],
-    "specs": [
-      {
-        "label": "Chip",
-        "value": "H2 in each ear cup"
-      },
-      {
-        "label": "Noise control",
-        "value": "Active Noise Cancellation, Transparency"
-      },
-      {
-        "label": "Battery",
-        "value": "Up to 20 hours"
-      },
-      {
-        "label": "Audio",
-        "value": "Lossless audio via USB-C"
-      },
-      {
-        "label": "Weight",
-        "value": "386 g"
-      }
-    ],
-    "rating": 4.4,
-    "reviewsCount": 516,
-    "reviews": [
-      {
-        "author": "James T.",
-        "rating": 5,
-        "date": "2026-07-14",
-        "title": "Instant pairing",
-        "text": "Switches between my iPhone and Mac automatically."
-      },
-      {
-        "author": "Grace H.",
-        "rating": 5,
-        "date": "2026-09-18",
-        "title": "Great for calls",
-        "text": "People say my voice sounds clear even outside."
-      },
-      {
-        "author": "Chloe D.",
-        "rating": 5,
-        "date": "2026-06-03",
-        "title": "So comfortable",
-        "text": "I forget I am wearing them."
-      }
-    ],
-    "inStock": true
-  },
-  {
-    "id": "airpods-max-purple",
-    "category": "airpods",
-    "namespaceId": "airpods-max",
-    "name": "AirPods Max Purple",
-    "modelName": "AirPods Max",
-    "year": 2024,
-    "capacityAvailable": [],
-    "capacity": "",
-    "capacityLabel": "Storage",
-    "priceRegular": 549,
-    "priceDiscount": 549,
-    "colors": [
-      {
-        "slug": "midnight",
-        "name": "Midnight",
-        "hex": "#2e3641"
-      },
-      {
-        "slug": "blue",
-        "name": "Blue",
-        "hex": "#a9c3d9"
-      },
-      {
-        "slug": "purple",
-        "name": "Purple",
-        "hex": "#cbb8dd"
-      },
-      {
-        "slug": "orange",
-        "name": "Orange",
-        "hex": "#f2b48c"
-      },
-      {
-        "slug": "starlight",
-        "name": "Starlight",
-        "hex": "#efe9df"
-      }
-    ],
-    "color": "purple",
-    "images": [
-      "img/products/airpods-max/purple-0.webp"
-    ],
-    "description": [
-      {
-        "title": "High-fidelity audio",
-        "text": [
-          "Custom drivers deliver rich, detailed sound."
-        ]
-      },
-      {
-        "title": "Lossless via USB-C",
-        "text": [
-          "Listen in lossless and ultra-low latency audio."
-        ]
-      },
-      {
-        "title": "Five colors",
-        "text": [
-          "A breathable knit mesh canopy and memory foam ear cushions."
-        ]
-      }
-    ],
-    "specs": [
-      {
-        "label": "Chip",
-        "value": "H2 in each ear cup"
-      },
-      {
-        "label": "Noise control",
-        "value": "Active Noise Cancellation, Transparency"
-      },
-      {
-        "label": "Battery",
-        "value": "Up to 20 hours"
-      },
-      {
-        "label": "Audio",
-        "value": "Lossless audio via USB-C"
-      },
-      {
-        "label": "Weight",
-        "value": "386 g"
-      }
-    ],
-    "rating": 4.4,
-    "reviewsCount": 516,
-    "reviews": [
-      {
-        "author": "James T.",
-        "rating": 5,
-        "date": "2026-07-14",
-        "title": "Instant pairing",
-        "text": "Switches between my iPhone and Mac automatically."
-      },
-      {
-        "author": "Grace H.",
-        "rating": 5,
-        "date": "2026-09-18",
-        "title": "Great for calls",
-        "text": "People say my voice sounds clear even outside."
-      },
-      {
-        "author": "Chloe D.",
-        "rating": 5,
-        "date": "2026-06-03",
-        "title": "So comfortable",
-        "text": "I forget I am wearing them."
-      }
-    ],
-    "inStock": true
-  },
-  {
-    "id": "airpods-max-orange",
-    "category": "airpods",
-    "namespaceId": "airpods-max",
-    "name": "AirPods Max Orange",
-    "modelName": "AirPods Max",
-    "year": 2024,
-    "capacityAvailable": [],
-    "capacity": "",
-    "capacityLabel": "Storage",
-    "priceRegular": 549,
-    "priceDiscount": 549,
-    "colors": [
-      {
-        "slug": "midnight",
-        "name": "Midnight",
-        "hex": "#2e3641"
-      },
-      {
-        "slug": "blue",
-        "name": "Blue",
-        "hex": "#a9c3d9"
-      },
-      {
-        "slug": "purple",
-        "name": "Purple",
-        "hex": "#cbb8dd"
-      },
-      {
-        "slug": "orange",
-        "name": "Orange",
-        "hex": "#f2b48c"
       },
       {
         "slug": "starlight",
@@ -762,25 +426,25 @@
     ],
     "color": "orange",
     "images": [
-      "img/products/airpods-max/orange-0.webp"
+      "img/products/airpods-max-2/orange-0.webp"
     ],
     "description": [
       {
-        "title": "High-fidelity audio",
+        "title": "Powered by H2",
         "text": [
-          "Custom drivers deliver rich, detailed sound."
+          "Noise cancellation up to 1.5x more effective than the previous generation."
         ]
       },
       {
-        "title": "Lossless via USB-C",
+        "title": "Smarter listening",
         "text": [
-          "Listen in lossless and ultra-low latency audio."
+          "Adaptive Audio, Conversation Awareness and Live Translation."
         ]
       },
       {
-        "title": "Five colors",
+        "title": "Iconic design",
         "text": [
-          "A breathable knit mesh canopy and memory foam ear cushions."
+          "A knit mesh canopy and memory foam ear cushions in five colors."
         ]
       }
     ],
@@ -791,7 +455,11 @@
       },
       {
         "label": "Noise control",
-        "value": "Active Noise Cancellation, Transparency"
+        "value": "Active Noise Cancellation (up to 1.5x more effective), Adaptive Audio"
+      },
+      {
+        "label": "Features",
+        "value": "Live Translation, Conversation Awareness"
       },
       {
         "label": "Battery",
@@ -799,53 +467,58 @@
       },
       {
         "label": "Audio",
-        "value": "Lossless audio via USB-C"
+        "value": "Lossless audio via USB-C, high dynamic range amplifier"
       },
       {
         "label": "Weight",
         "value": "386 g"
       }
     ],
-    "rating": 4.4,
-    "reviewsCount": 516,
+    "rating": 4.5,
+    "reviewsCount": 656,
     "reviews": [
       {
-        "author": "James T.",
+        "author": "Ava C.",
         "rating": 5,
-        "date": "2026-07-14",
-        "title": "Instant pairing",
-        "text": "Switches between my iPhone and Mac automatically."
-      },
-      {
-        "author": "Grace H.",
-        "rating": 5,
-        "date": "2026-09-18",
-        "title": "Great for calls",
-        "text": "People say my voice sounds clear even outside."
-      },
-      {
-        "author": "Chloe D.",
-        "rating": 5,
-        "date": "2026-06-03",
+        "date": "2026-08-27",
         "title": "So comfortable",
         "text": "I forget I am wearing them."
+      },
+      {
+        "author": "Daniel K.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Amazing sound",
+        "text": "Rich bass and clear vocals. Noise cancellation works great on flights."
+      },
+      {
+        "author": "Lucas P.",
+        "rating": 4,
+        "date": "2026-05-21",
+        "title": "Instant pairing",
+        "text": "Switches between my iPhone and Mac automatically."
       }
     ],
     "inStock": true
   },
   {
-    "id": "airpods-max-starlight",
+    "id": "airpods-max-2-midnight",
     "category": "airpods",
-    "namespaceId": "airpods-max",
-    "name": "AirPods Max Starlight",
-    "modelName": "AirPods Max",
-    "year": 2024,
+    "namespaceId": "airpods-max-2",
+    "name": "AirPods Max 2 Midnight",
+    "modelName": "AirPods Max 2",
+    "year": 2026,
     "capacityAvailable": [],
     "capacity": "",
     "capacityLabel": "Storage",
     "priceRegular": 549,
     "priceDiscount": 549,
     "colors": [
+      {
+        "slug": "orange",
+        "name": "Orange",
+        "hex": "#f2b48c"
+      },
       {
         "slug": "midnight",
         "name": "Midnight",
@@ -862,37 +535,32 @@
         "hex": "#cbb8dd"
       },
       {
-        "slug": "orange",
-        "name": "Orange",
-        "hex": "#f2b48c"
-      },
-      {
         "slug": "starlight",
         "name": "Starlight",
         "hex": "#efe9df"
       }
     ],
-    "color": "starlight",
+    "color": "midnight",
     "images": [
-      "img/products/airpods-max/starlight-0.webp"
+      "img/products/airpods-max-2/midnight-0.webp"
     ],
     "description": [
       {
-        "title": "High-fidelity audio",
+        "title": "Powered by H2",
         "text": [
-          "Custom drivers deliver rich, detailed sound."
+          "Noise cancellation up to 1.5x more effective than the previous generation."
         ]
       },
       {
-        "title": "Lossless via USB-C",
+        "title": "Smarter listening",
         "text": [
-          "Listen in lossless and ultra-low latency audio."
+          "Adaptive Audio, Conversation Awareness and Live Translation."
         ]
       },
       {
-        "title": "Five colors",
+        "title": "Iconic design",
         "text": [
-          "A breathable knit mesh canopy and memory foam ear cushions."
+          "A knit mesh canopy and memory foam ear cushions in five colors."
         ]
       }
     ],
@@ -903,7 +571,11 @@
       },
       {
         "label": "Noise control",
-        "value": "Active Noise Cancellation, Transparency"
+        "value": "Active Noise Cancellation (up to 1.5x more effective), Adaptive Audio"
+      },
+      {
+        "label": "Features",
+        "value": "Live Translation, Conversation Awareness"
       },
       {
         "label": "Battery",
@@ -911,36 +583,384 @@
       },
       {
         "label": "Audio",
-        "value": "Lossless audio via USB-C"
+        "value": "Lossless audio via USB-C, high dynamic range amplifier"
       },
       {
         "label": "Weight",
         "value": "386 g"
       }
     ],
-    "rating": 4.4,
-    "reviewsCount": 516,
+    "rating": 4.5,
+    "reviewsCount": 656,
     "reviews": [
       {
-        "author": "James T.",
+        "author": "Ava C.",
         "rating": 5,
-        "date": "2026-07-14",
-        "title": "Instant pairing",
-        "text": "Switches between my iPhone and Mac automatically."
-      },
-      {
-        "author": "Grace H.",
-        "rating": 5,
-        "date": "2026-09-18",
-        "title": "Great for calls",
-        "text": "People say my voice sounds clear even outside."
-      },
-      {
-        "author": "Chloe D.",
-        "rating": 5,
-        "date": "2026-06-03",
+        "date": "2026-08-27",
         "title": "So comfortable",
         "text": "I forget I am wearing them."
+      },
+      {
+        "author": "Daniel K.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Amazing sound",
+        "text": "Rich bass and clear vocals. Noise cancellation works great on flights."
+      },
+      {
+        "author": "Lucas P.",
+        "rating": 4,
+        "date": "2026-05-21",
+        "title": "Instant pairing",
+        "text": "Switches between my iPhone and Mac automatically."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "airpods-max-2-blue",
+    "category": "airpods",
+    "namespaceId": "airpods-max-2",
+    "name": "AirPods Max 2 Blue",
+    "modelName": "AirPods Max 2",
+    "year": 2026,
+    "capacityAvailable": [],
+    "capacity": "",
+    "capacityLabel": "Storage",
+    "priceRegular": 549,
+    "priceDiscount": 549,
+    "colors": [
+      {
+        "slug": "orange",
+        "name": "Orange",
+        "hex": "#f2b48c"
+      },
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "blue",
+        "name": "Blue",
+        "hex": "#a9c3d9"
+      },
+      {
+        "slug": "purple",
+        "name": "Purple",
+        "hex": "#cbb8dd"
+      },
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      }
+    ],
+    "color": "blue",
+    "images": [
+      "img/products/airpods-max-2/blue-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Powered by H2",
+        "text": [
+          "Noise cancellation up to 1.5x more effective than the previous generation."
+        ]
+      },
+      {
+        "title": "Smarter listening",
+        "text": [
+          "Adaptive Audio, Conversation Awareness and Live Translation."
+        ]
+      },
+      {
+        "title": "Iconic design",
+        "text": [
+          "A knit mesh canopy and memory foam ear cushions in five colors."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Chip",
+        "value": "H2 in each ear cup"
+      },
+      {
+        "label": "Noise control",
+        "value": "Active Noise Cancellation (up to 1.5x more effective), Adaptive Audio"
+      },
+      {
+        "label": "Features",
+        "value": "Live Translation, Conversation Awareness"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 20 hours"
+      },
+      {
+        "label": "Audio",
+        "value": "Lossless audio via USB-C, high dynamic range amplifier"
+      },
+      {
+        "label": "Weight",
+        "value": "386 g"
+      }
+    ],
+    "rating": 4.5,
+    "reviewsCount": 656,
+    "reviews": [
+      {
+        "author": "Ava C.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "So comfortable",
+        "text": "I forget I am wearing them."
+      },
+      {
+        "author": "Daniel K.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Amazing sound",
+        "text": "Rich bass and clear vocals. Noise cancellation works great on flights."
+      },
+      {
+        "author": "Lucas P.",
+        "rating": 4,
+        "date": "2026-05-21",
+        "title": "Instant pairing",
+        "text": "Switches between my iPhone and Mac automatically."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "airpods-max-2-purple",
+    "category": "airpods",
+    "namespaceId": "airpods-max-2",
+    "name": "AirPods Max 2 Purple",
+    "modelName": "AirPods Max 2",
+    "year": 2026,
+    "capacityAvailable": [],
+    "capacity": "",
+    "capacityLabel": "Storage",
+    "priceRegular": 549,
+    "priceDiscount": 549,
+    "colors": [
+      {
+        "slug": "orange",
+        "name": "Orange",
+        "hex": "#f2b48c"
+      },
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "blue",
+        "name": "Blue",
+        "hex": "#a9c3d9"
+      },
+      {
+        "slug": "purple",
+        "name": "Purple",
+        "hex": "#cbb8dd"
+      },
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      }
+    ],
+    "color": "purple",
+    "images": [
+      "img/products/airpods-max-2/purple-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Powered by H2",
+        "text": [
+          "Noise cancellation up to 1.5x more effective than the previous generation."
+        ]
+      },
+      {
+        "title": "Smarter listening",
+        "text": [
+          "Adaptive Audio, Conversation Awareness and Live Translation."
+        ]
+      },
+      {
+        "title": "Iconic design",
+        "text": [
+          "A knit mesh canopy and memory foam ear cushions in five colors."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Chip",
+        "value": "H2 in each ear cup"
+      },
+      {
+        "label": "Noise control",
+        "value": "Active Noise Cancellation (up to 1.5x more effective), Adaptive Audio"
+      },
+      {
+        "label": "Features",
+        "value": "Live Translation, Conversation Awareness"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 20 hours"
+      },
+      {
+        "label": "Audio",
+        "value": "Lossless audio via USB-C, high dynamic range amplifier"
+      },
+      {
+        "label": "Weight",
+        "value": "386 g"
+      }
+    ],
+    "rating": 4.5,
+    "reviewsCount": 656,
+    "reviews": [
+      {
+        "author": "Ava C.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "So comfortable",
+        "text": "I forget I am wearing them."
+      },
+      {
+        "author": "Daniel K.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Amazing sound",
+        "text": "Rich bass and clear vocals. Noise cancellation works great on flights."
+      },
+      {
+        "author": "Lucas P.",
+        "rating": 4,
+        "date": "2026-05-21",
+        "title": "Instant pairing",
+        "text": "Switches between my iPhone and Mac automatically."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "airpods-max-2-starlight",
+    "category": "airpods",
+    "namespaceId": "airpods-max-2",
+    "name": "AirPods Max 2 Starlight",
+    "modelName": "AirPods Max 2",
+    "year": 2026,
+    "capacityAvailable": [],
+    "capacity": "",
+    "capacityLabel": "Storage",
+    "priceRegular": 549,
+    "priceDiscount": 549,
+    "colors": [
+      {
+        "slug": "orange",
+        "name": "Orange",
+        "hex": "#f2b48c"
+      },
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "blue",
+        "name": "Blue",
+        "hex": "#a9c3d9"
+      },
+      {
+        "slug": "purple",
+        "name": "Purple",
+        "hex": "#cbb8dd"
+      },
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      }
+    ],
+    "color": "starlight",
+    "images": [
+      "img/products/airpods-max-2/starlight-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Powered by H2",
+        "text": [
+          "Noise cancellation up to 1.5x more effective than the previous generation."
+        ]
+      },
+      {
+        "title": "Smarter listening",
+        "text": [
+          "Adaptive Audio, Conversation Awareness and Live Translation."
+        ]
+      },
+      {
+        "title": "Iconic design",
+        "text": [
+          "A knit mesh canopy and memory foam ear cushions in five colors."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Chip",
+        "value": "H2 in each ear cup"
+      },
+      {
+        "label": "Noise control",
+        "value": "Active Noise Cancellation (up to 1.5x more effective), Adaptive Audio"
+      },
+      {
+        "label": "Features",
+        "value": "Live Translation, Conversation Awareness"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 20 hours"
+      },
+      {
+        "label": "Audio",
+        "value": "Lossless audio via USB-C, high dynamic range amplifier"
+      },
+      {
+        "label": "Weight",
+        "value": "386 g"
+      }
+    ],
+    "rating": 4.5,
+    "reviewsCount": 656,
+    "reviews": [
+      {
+        "author": "Ava C.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "So comfortable",
+        "text": "I forget I am wearing them."
+      },
+      {
+        "author": "Daniel K.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Amazing sound",
+        "text": "Rich bass and clear vocals. Noise cancellation works great on flights."
+      },
+      {
+        "author": "Lucas P.",
+        "rating": 4,
+        "date": "2026-05-21",
+        "title": "Instant pairing",
+        "text": "Switches between my iPhone and Mac automatically."
       }
     ],
     "inStock": true

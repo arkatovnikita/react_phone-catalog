@@ -1,493 +1,5 @@
 [
   {
-    "id": "macbook-air-13-512gb-midnight",
-    "category": "mac",
-    "namespaceId": "macbook-air-13",
-    "name": "MacBook Air 13-inch M5 512GB Midnight",
-    "modelName": "MacBook Air 13-inch M5",
-    "year": 2026,
-    "capacityAvailable": [
-      "512GB",
-      "1TB"
-    ],
-    "capacity": "512GB",
-    "capacityLabel": "Storage",
-    "priceRegular": 1299,
-    "priceDiscount": 1299,
-    "colors": [
-      {
-        "slug": "midnight",
-        "name": "Midnight",
-        "hex": "#2e3641"
-      },
-      {
-        "slug": "silver",
-        "name": "Silver",
-        "hex": "#e3e4e5"
-      },
-      {
-        "slug": "skyblue",
-        "name": "Sky Blue",
-        "hex": "#bcd0e0"
-      },
-      {
-        "slug": "starlight",
-        "name": "Starlight",
-        "hex": "#efe9df"
-      }
-    ],
-    "color": "midnight",
-    "images": [
-      "img/products/macbook-air-13/midnight-0.webp"
-    ],
-    "description": [
-      {
-        "title": "Supercharged by M5",
-        "text": [
-          "Fast, silent and efficient — there is no fan, and no noise."
-        ]
-      },
-      {
-        "title": "Double the storage",
-        "text": [
-          "Now starts with 512GB of faster SSD storage."
-        ]
-      },
-      {
-        "title": "All-day battery",
-        "text": [
-          "Up to 18 hours of battery life for work and play."
-        ]
-      }
-    ],
-    "specs": [
-      {
-        "label": "Display",
-        "value": "13.6\" Liquid Retina"
-      },
-      {
-        "label": "Resolution",
-        "value": "2560×1664"
-      },
-      {
-        "label": "Chip",
-        "value": "Apple M5, 10-core CPU, 8-core GPU"
-      },
-      {
-        "label": "Memory",
-        "value": "16GB unified memory"
-      },
-      {
-        "label": "Battery",
-        "value": "Up to 18 hours"
-      },
-      {
-        "label": "Camera",
-        "value": "12MP Center Stage"
-      },
-      {
-        "label": "Ports",
-        "value": "2x Thunderbolt 4, MagSafe 3"
-      },
-      {
-        "label": "Weight",
-        "value": "1.24 kg"
-      }
-    ],
-    "rating": 4.5,
-    "reviewsCount": 838,
-    "reviews": [
-      {
-        "author": "Leo F.",
-        "rating": 5,
-        "date": "2026-08-27",
-        "title": "Battery is unreal",
-        "text": "I charge it every two days with normal work."
-      },
-      {
-        "author": "Mia S.",
-        "rating": 5,
-        "date": "2026-07-14",
-        "title": "Beautiful display",
-        "text": "Text is razor sharp and colors are accurate for photo editing."
-      },
-      {
-        "author": "Lucas P.",
-        "rating": 5,
-        "date": "2026-06-03",
-        "title": "Silent and powerful",
-        "text": "Compiles projects in seconds and stays completely quiet."
-      }
-    ],
-    "inStock": true
-  },
-  {
-    "id": "macbook-air-13-1tb-midnight",
-    "category": "mac",
-    "namespaceId": "macbook-air-13",
-    "name": "MacBook Air 13-inch M5 1TB Midnight",
-    "modelName": "MacBook Air 13-inch M5",
-    "year": 2026,
-    "capacityAvailable": [
-      "512GB",
-      "1TB"
-    ],
-    "capacity": "1TB",
-    "capacityLabel": "Storage",
-    "priceRegular": 1499,
-    "priceDiscount": 1499,
-    "colors": [
-      {
-        "slug": "midnight",
-        "name": "Midnight",
-        "hex": "#2e3641"
-      },
-      {
-        "slug": "silver",
-        "name": "Silver",
-        "hex": "#e3e4e5"
-      },
-      {
-        "slug": "skyblue",
-        "name": "Sky Blue",
-        "hex": "#bcd0e0"
-      },
-      {
-        "slug": "starlight",
-        "name": "Starlight",
-        "hex": "#efe9df"
-      }
-    ],
-    "color": "midnight",
-    "images": [
-      "img/products/macbook-air-13/midnight-0.webp"
-    ],
-    "description": [
-      {
-        "title": "Supercharged by M5",
-        "text": [
-          "Fast, silent and efficient — there is no fan, and no noise."
-        ]
-      },
-      {
-        "title": "Double the storage",
-        "text": [
-          "Now starts with 512GB of faster SSD storage."
-        ]
-      },
-      {
-        "title": "All-day battery",
-        "text": [
-          "Up to 18 hours of battery life for work and play."
-        ]
-      }
-    ],
-    "specs": [
-      {
-        "label": "Display",
-        "value": "13.6\" Liquid Retina"
-      },
-      {
-        "label": "Resolution",
-        "value": "2560×1664"
-      },
-      {
-        "label": "Chip",
-        "value": "Apple M5, 10-core CPU, 8-core GPU"
-      },
-      {
-        "label": "Memory",
-        "value": "16GB unified memory"
-      },
-      {
-        "label": "Battery",
-        "value": "Up to 18 hours"
-      },
-      {
-        "label": "Camera",
-        "value": "12MP Center Stage"
-      },
-      {
-        "label": "Ports",
-        "value": "2x Thunderbolt 4, MagSafe 3"
-      },
-      {
-        "label": "Weight",
-        "value": "1.24 kg"
-      }
-    ],
-    "rating": 4.5,
-    "reviewsCount": 838,
-    "reviews": [
-      {
-        "author": "Leo F.",
-        "rating": 5,
-        "date": "2026-08-27",
-        "title": "Battery is unreal",
-        "text": "I charge it every two days with normal work."
-      },
-      {
-        "author": "Mia S.",
-        "rating": 5,
-        "date": "2026-07-14",
-        "title": "Beautiful display",
-        "text": "Text is razor sharp and colors are accurate for photo editing."
-      },
-      {
-        "author": "Lucas P.",
-        "rating": 5,
-        "date": "2026-06-03",
-        "title": "Silent and powerful",
-        "text": "Compiles projects in seconds and stays completely quiet."
-      }
-    ],
-    "inStock": true
-  },
-  {
-    "id": "macbook-air-13-512gb-silver",
-    "category": "mac",
-    "namespaceId": "macbook-air-13",
-    "name": "MacBook Air 13-inch M5 512GB Silver",
-    "modelName": "MacBook Air 13-inch M5",
-    "year": 2026,
-    "capacityAvailable": [
-      "512GB",
-      "1TB"
-    ],
-    "capacity": "512GB",
-    "capacityLabel": "Storage",
-    "priceRegular": 1299,
-    "priceDiscount": 1299,
-    "colors": [
-      {
-        "slug": "midnight",
-        "name": "Midnight",
-        "hex": "#2e3641"
-      },
-      {
-        "slug": "silver",
-        "name": "Silver",
-        "hex": "#e3e4e5"
-      },
-      {
-        "slug": "skyblue",
-        "name": "Sky Blue",
-        "hex": "#bcd0e0"
-      },
-      {
-        "slug": "starlight",
-        "name": "Starlight",
-        "hex": "#efe9df"
-      }
-    ],
-    "color": "silver",
-    "images": [
-      "img/products/macbook-air-13/silver-0.webp"
-    ],
-    "description": [
-      {
-        "title": "Supercharged by M5",
-        "text": [
-          "Fast, silent and efficient — there is no fan, and no noise."
-        ]
-      },
-      {
-        "title": "Double the storage",
-        "text": [
-          "Now starts with 512GB of faster SSD storage."
-        ]
-      },
-      {
-        "title": "All-day battery",
-        "text": [
-          "Up to 18 hours of battery life for work and play."
-        ]
-      }
-    ],
-    "specs": [
-      {
-        "label": "Display",
-        "value": "13.6\" Liquid Retina"
-      },
-      {
-        "label": "Resolution",
-        "value": "2560×1664"
-      },
-      {
-        "label": "Chip",
-        "value": "Apple M5, 10-core CPU, 8-core GPU"
-      },
-      {
-        "label": "Memory",
-        "value": "16GB unified memory"
-      },
-      {
-        "label": "Battery",
-        "value": "Up to 18 hours"
-      },
-      {
-        "label": "Camera",
-        "value": "12MP Center Stage"
-      },
-      {
-        "label": "Ports",
-        "value": "2x Thunderbolt 4, MagSafe 3"
-      },
-      {
-        "label": "Weight",
-        "value": "1.24 kg"
-      }
-    ],
-    "rating": 4.5,
-    "reviewsCount": 838,
-    "reviews": [
-      {
-        "author": "Leo F.",
-        "rating": 5,
-        "date": "2026-08-27",
-        "title": "Battery is unreal",
-        "text": "I charge it every two days with normal work."
-      },
-      {
-        "author": "Mia S.",
-        "rating": 5,
-        "date": "2026-07-14",
-        "title": "Beautiful display",
-        "text": "Text is razor sharp and colors are accurate for photo editing."
-      },
-      {
-        "author": "Lucas P.",
-        "rating": 5,
-        "date": "2026-06-03",
-        "title": "Silent and powerful",
-        "text": "Compiles projects in seconds and stays completely quiet."
-      }
-    ],
-    "inStock": true
-  },
-  {
-    "id": "macbook-air-13-1tb-silver",
-    "category": "mac",
-    "namespaceId": "macbook-air-13",
-    "name": "MacBook Air 13-inch M5 1TB Silver",
-    "modelName": "MacBook Air 13-inch M5",
-    "year": 2026,
-    "capacityAvailable": [
-      "512GB",
-      "1TB"
-    ],
-    "capacity": "1TB",
-    "capacityLabel": "Storage",
-    "priceRegular": 1499,
-    "priceDiscount": 1499,
-    "colors": [
-      {
-        "slug": "midnight",
-        "name": "Midnight",
-        "hex": "#2e3641"
-      },
-      {
-        "slug": "silver",
-        "name": "Silver",
-        "hex": "#e3e4e5"
-      },
-      {
-        "slug": "skyblue",
-        "name": "Sky Blue",
-        "hex": "#bcd0e0"
-      },
-      {
-        "slug": "starlight",
-        "name": "Starlight",
-        "hex": "#efe9df"
-      }
-    ],
-    "color": "silver",
-    "images": [
-      "img/products/macbook-air-13/silver-0.webp"
-    ],
-    "description": [
-      {
-        "title": "Supercharged by M5",
-        "text": [
-          "Fast, silent and efficient — there is no fan, and no noise."
-        ]
-      },
-      {
-        "title": "Double the storage",
-        "text": [
-          "Now starts with 512GB of faster SSD storage."
-        ]
-      },
-      {
-        "title": "All-day battery",
-        "text": [
-          "Up to 18 hours of battery life for work and play."
-        ]
-      }
-    ],
-    "specs": [
-      {
-        "label": "Display",
-        "value": "13.6\" Liquid Retina"
-      },
-      {
-        "label": "Resolution",
-        "value": "2560×1664"
-      },
-      {
-        "label": "Chip",
-        "value": "Apple M5, 10-core CPU, 8-core GPU"
-      },
-      {
-        "label": "Memory",
-        "value": "16GB unified memory"
-      },
-      {
-        "label": "Battery",
-        "value": "Up to 18 hours"
-      },
-      {
-        "label": "Camera",
-        "value": "12MP Center Stage"
-      },
-      {
-        "label": "Ports",
-        "value": "2x Thunderbolt 4, MagSafe 3"
-      },
-      {
-        "label": "Weight",
-        "value": "1.24 kg"
-      }
-    ],
-    "rating": 4.5,
-    "reviewsCount": 838,
-    "reviews": [
-      {
-        "author": "Leo F.",
-        "rating": 5,
-        "date": "2026-08-27",
-        "title": "Battery is unreal",
-        "text": "I charge it every two days with normal work."
-      },
-      {
-        "author": "Mia S.",
-        "rating": 5,
-        "date": "2026-07-14",
-        "title": "Beautiful display",
-        "text": "Text is razor sharp and colors are accurate for photo editing."
-      },
-      {
-        "author": "Lucas P.",
-        "rating": 5,
-        "date": "2026-06-03",
-        "title": "Silent and powerful",
-        "text": "Compiles projects in seconds and stays completely quiet."
-      }
-    ],
-    "inStock": true
-  },
-  {
     "id": "macbook-air-13-512gb-skyblue",
     "category": "mac",
     "namespaceId": "macbook-air-13",
@@ -504,6 +16,11 @@
     "priceDiscount": 1299,
     "colors": [
       {
+        "slug": "skyblue",
+        "name": "Sky Blue",
+        "hex": "#bcd0e0"
+      },
+      {
         "slug": "midnight",
         "name": "Midnight",
         "hex": "#2e3641"
@@ -512,11 +29,6 @@
         "slug": "silver",
         "name": "Silver",
         "hex": "#e3e4e5"
-      },
-      {
-        "slug": "skyblue",
-        "name": "Sky Blue",
-        "hex": "#bcd0e0"
       },
       {
         "slug": "starlight",
@@ -626,6 +138,11 @@
     "priceDiscount": 1499,
     "colors": [
       {
+        "slug": "skyblue",
+        "name": "Sky Blue",
+        "hex": "#bcd0e0"
+      },
+      {
         "slug": "midnight",
         "name": "Midnight",
         "hex": "#2e3641"
@@ -636,11 +153,6 @@
         "hex": "#e3e4e5"
       },
       {
-        "slug": "skyblue",
-        "name": "Sky Blue",
-        "hex": "#bcd0e0"
-      },
-      {
         "slug": "starlight",
         "name": "Starlight",
         "hex": "#efe9df"
@@ -649,6 +161,494 @@
     "color": "skyblue",
     "images": [
       "img/products/macbook-air-13/skyblue-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Supercharged by M5",
+        "text": [
+          "Fast, silent and efficient — there is no fan, and no noise."
+        ]
+      },
+      {
+        "title": "Double the storage",
+        "text": [
+          "Now starts with 512GB of faster SSD storage."
+        ]
+      },
+      {
+        "title": "All-day battery",
+        "text": [
+          "Up to 18 hours of battery life for work and play."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "13.6\" Liquid Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "2560×1664"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M5, 10-core CPU, 8-core GPU"
+      },
+      {
+        "label": "Memory",
+        "value": "16GB unified memory"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 18 hours"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Center Stage"
+      },
+      {
+        "label": "Ports",
+        "value": "2x Thunderbolt 4, MagSafe 3"
+      },
+      {
+        "label": "Weight",
+        "value": "1.24 kg"
+      }
+    ],
+    "rating": 4.5,
+    "reviewsCount": 838,
+    "reviews": [
+      {
+        "author": "Leo F.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "Mia S.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Beautiful display",
+        "text": "Text is razor sharp and colors are accurate for photo editing."
+      },
+      {
+        "author": "Lucas P.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Silent and powerful",
+        "text": "Compiles projects in seconds and stays completely quiet."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "macbook-air-13-512gb-midnight",
+    "category": "mac",
+    "namespaceId": "macbook-air-13",
+    "name": "MacBook Air 13-inch M5 512GB Midnight",
+    "modelName": "MacBook Air 13-inch M5",
+    "year": 2026,
+    "capacityAvailable": [
+      "512GB",
+      "1TB"
+    ],
+    "capacity": "512GB",
+    "capacityLabel": "Storage",
+    "priceRegular": 1299,
+    "priceDiscount": 1299,
+    "colors": [
+      {
+        "slug": "skyblue",
+        "name": "Sky Blue",
+        "hex": "#bcd0e0"
+      },
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      }
+    ],
+    "color": "midnight",
+    "images": [
+      "img/products/macbook-air-13/midnight-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Supercharged by M5",
+        "text": [
+          "Fast, silent and efficient — there is no fan, and no noise."
+        ]
+      },
+      {
+        "title": "Double the storage",
+        "text": [
+          "Now starts with 512GB of faster SSD storage."
+        ]
+      },
+      {
+        "title": "All-day battery",
+        "text": [
+          "Up to 18 hours of battery life for work and play."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "13.6\" Liquid Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "2560×1664"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M5, 10-core CPU, 8-core GPU"
+      },
+      {
+        "label": "Memory",
+        "value": "16GB unified memory"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 18 hours"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Center Stage"
+      },
+      {
+        "label": "Ports",
+        "value": "2x Thunderbolt 4, MagSafe 3"
+      },
+      {
+        "label": "Weight",
+        "value": "1.24 kg"
+      }
+    ],
+    "rating": 4.5,
+    "reviewsCount": 838,
+    "reviews": [
+      {
+        "author": "Leo F.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "Mia S.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Beautiful display",
+        "text": "Text is razor sharp and colors are accurate for photo editing."
+      },
+      {
+        "author": "Lucas P.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Silent and powerful",
+        "text": "Compiles projects in seconds and stays completely quiet."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "macbook-air-13-1tb-midnight",
+    "category": "mac",
+    "namespaceId": "macbook-air-13",
+    "name": "MacBook Air 13-inch M5 1TB Midnight",
+    "modelName": "MacBook Air 13-inch M5",
+    "year": 2026,
+    "capacityAvailable": [
+      "512GB",
+      "1TB"
+    ],
+    "capacity": "1TB",
+    "capacityLabel": "Storage",
+    "priceRegular": 1499,
+    "priceDiscount": 1499,
+    "colors": [
+      {
+        "slug": "skyblue",
+        "name": "Sky Blue",
+        "hex": "#bcd0e0"
+      },
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      }
+    ],
+    "color": "midnight",
+    "images": [
+      "img/products/macbook-air-13/midnight-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Supercharged by M5",
+        "text": [
+          "Fast, silent and efficient — there is no fan, and no noise."
+        ]
+      },
+      {
+        "title": "Double the storage",
+        "text": [
+          "Now starts with 512GB of faster SSD storage."
+        ]
+      },
+      {
+        "title": "All-day battery",
+        "text": [
+          "Up to 18 hours of battery life for work and play."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "13.6\" Liquid Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "2560×1664"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M5, 10-core CPU, 8-core GPU"
+      },
+      {
+        "label": "Memory",
+        "value": "16GB unified memory"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 18 hours"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Center Stage"
+      },
+      {
+        "label": "Ports",
+        "value": "2x Thunderbolt 4, MagSafe 3"
+      },
+      {
+        "label": "Weight",
+        "value": "1.24 kg"
+      }
+    ],
+    "rating": 4.5,
+    "reviewsCount": 838,
+    "reviews": [
+      {
+        "author": "Leo F.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "Mia S.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Beautiful display",
+        "text": "Text is razor sharp and colors are accurate for photo editing."
+      },
+      {
+        "author": "Lucas P.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Silent and powerful",
+        "text": "Compiles projects in seconds and stays completely quiet."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "macbook-air-13-512gb-silver",
+    "category": "mac",
+    "namespaceId": "macbook-air-13",
+    "name": "MacBook Air 13-inch M5 512GB Silver",
+    "modelName": "MacBook Air 13-inch M5",
+    "year": 2026,
+    "capacityAvailable": [
+      "512GB",
+      "1TB"
+    ],
+    "capacity": "512GB",
+    "capacityLabel": "Storage",
+    "priceRegular": 1299,
+    "priceDiscount": 1299,
+    "colors": [
+      {
+        "slug": "skyblue",
+        "name": "Sky Blue",
+        "hex": "#bcd0e0"
+      },
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      }
+    ],
+    "color": "silver",
+    "images": [
+      "img/products/macbook-air-13/silver-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Supercharged by M5",
+        "text": [
+          "Fast, silent and efficient — there is no fan, and no noise."
+        ]
+      },
+      {
+        "title": "Double the storage",
+        "text": [
+          "Now starts with 512GB of faster SSD storage."
+        ]
+      },
+      {
+        "title": "All-day battery",
+        "text": [
+          "Up to 18 hours of battery life for work and play."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "13.6\" Liquid Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "2560×1664"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M5, 10-core CPU, 8-core GPU"
+      },
+      {
+        "label": "Memory",
+        "value": "16GB unified memory"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 18 hours"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Center Stage"
+      },
+      {
+        "label": "Ports",
+        "value": "2x Thunderbolt 4, MagSafe 3"
+      },
+      {
+        "label": "Weight",
+        "value": "1.24 kg"
+      }
+    ],
+    "rating": 4.5,
+    "reviewsCount": 838,
+    "reviews": [
+      {
+        "author": "Leo F.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "Mia S.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Beautiful display",
+        "text": "Text is razor sharp and colors are accurate for photo editing."
+      },
+      {
+        "author": "Lucas P.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Silent and powerful",
+        "text": "Compiles projects in seconds and stays completely quiet."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "macbook-air-13-1tb-silver",
+    "category": "mac",
+    "namespaceId": "macbook-air-13",
+    "name": "MacBook Air 13-inch M5 1TB Silver",
+    "modelName": "MacBook Air 13-inch M5",
+    "year": 2026,
+    "capacityAvailable": [
+      "512GB",
+      "1TB"
+    ],
+    "capacity": "1TB",
+    "capacityLabel": "Storage",
+    "priceRegular": 1499,
+    "priceDiscount": 1499,
+    "colors": [
+      {
+        "slug": "skyblue",
+        "name": "Sky Blue",
+        "hex": "#bcd0e0"
+      },
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      }
+    ],
+    "color": "silver",
+    "images": [
+      "img/products/macbook-air-13/silver-0.webp"
     ],
     "description": [
       {
@@ -748,6 +748,11 @@
     "priceDiscount": 1299,
     "colors": [
       {
+        "slug": "skyblue",
+        "name": "Sky Blue",
+        "hex": "#bcd0e0"
+      },
+      {
         "slug": "midnight",
         "name": "Midnight",
         "hex": "#2e3641"
@@ -756,11 +761,6 @@
         "slug": "silver",
         "name": "Silver",
         "hex": "#e3e4e5"
-      },
-      {
-        "slug": "skyblue",
-        "name": "Sky Blue",
-        "hex": "#bcd0e0"
       },
       {
         "slug": "starlight",
@@ -870,6 +870,11 @@
     "priceDiscount": 1499,
     "colors": [
       {
+        "slug": "skyblue",
+        "name": "Sky Blue",
+        "hex": "#bcd0e0"
+      },
+      {
         "slug": "midnight",
         "name": "Midnight",
         "hex": "#2e3641"
@@ -878,11 +883,6 @@
         "slug": "silver",
         "name": "Silver",
         "hex": "#e3e4e5"
-      },
-      {
-        "slug": "skyblue",
-        "name": "Sky Blue",
-        "hex": "#bcd0e0"
       },
       {
         "slug": "starlight",
@@ -976,738 +976,6 @@
     "inStock": true
   },
   {
-    "id": "macbook-air-15-512gb-midnight",
-    "category": "mac",
-    "namespaceId": "macbook-air-15",
-    "name": "MacBook Air 15-inch M5 512GB Midnight",
-    "modelName": "MacBook Air 15-inch M5",
-    "year": 2026,
-    "capacityAvailable": [
-      "512GB",
-      "1TB"
-    ],
-    "capacity": "512GB",
-    "capacityLabel": "Storage",
-    "priceRegular": 1499,
-    "priceDiscount": 1499,
-    "colors": [
-      {
-        "slug": "midnight",
-        "name": "Midnight",
-        "hex": "#2e3641"
-      },
-      {
-        "slug": "silver",
-        "name": "Silver",
-        "hex": "#e3e4e5"
-      },
-      {
-        "slug": "skyblue",
-        "name": "Sky Blue",
-        "hex": "#bcd0e0"
-      },
-      {
-        "slug": "starlight",
-        "name": "Starlight",
-        "hex": "#efe9df"
-      }
-    ],
-    "color": "midnight",
-    "images": [
-      "img/products/macbook-air-15/midnight-0.webp"
-    ],
-    "description": [
-      {
-        "title": "More room to work",
-        "text": [
-          "A spacious 15-inch display in an incredibly thin design."
-        ]
-      },
-      {
-        "title": "M5 with 10-core GPU",
-        "text": [
-          "Great for photo editing, coding and games."
-        ]
-      },
-      {
-        "title": "Six-speaker sound",
-        "text": [
-          "Immersive audio with Spatial Audio support."
-        ]
-      }
-    ],
-    "specs": [
-      {
-        "label": "Display",
-        "value": "15.3\" Liquid Retina"
-      },
-      {
-        "label": "Resolution",
-        "value": "2880×1864"
-      },
-      {
-        "label": "Chip",
-        "value": "Apple M5, 10-core CPU, 10-core GPU"
-      },
-      {
-        "label": "Memory",
-        "value": "16GB unified memory"
-      },
-      {
-        "label": "Battery",
-        "value": "Up to 18 hours"
-      },
-      {
-        "label": "Camera",
-        "value": "12MP Center Stage"
-      },
-      {
-        "label": "Ports",
-        "value": "2x Thunderbolt 4, MagSafe 3"
-      },
-      {
-        "label": "Weight",
-        "value": "1.51 kg"
-      }
-    ],
-    "rating": 4.6,
-    "reviewsCount": 499,
-    "reviews": [
-      {
-        "author": "Grace H.",
-        "rating": 5,
-        "date": "2026-08-27",
-        "title": "Battery is unreal",
-        "text": "I charge it every two days with normal work."
-      },
-      {
-        "author": "Ethan W.",
-        "rating": 5,
-        "date": "2026-08-27",
-        "title": "Silent and powerful",
-        "text": "Compiles projects in seconds and stays completely quiet."
-      },
-      {
-        "author": "Ethan W.",
-        "rating": 5,
-        "date": "2026-08-27",
-        "title": "Worth every penny",
-        "text": "My best tech purchase in years."
-      }
-    ],
-    "inStock": true
-  },
-  {
-    "id": "macbook-air-15-1tb-midnight",
-    "category": "mac",
-    "namespaceId": "macbook-air-15",
-    "name": "MacBook Air 15-inch M5 1TB Midnight",
-    "modelName": "MacBook Air 15-inch M5",
-    "year": 2026,
-    "capacityAvailable": [
-      "512GB",
-      "1TB"
-    ],
-    "capacity": "1TB",
-    "capacityLabel": "Storage",
-    "priceRegular": 1699,
-    "priceDiscount": 1699,
-    "colors": [
-      {
-        "slug": "midnight",
-        "name": "Midnight",
-        "hex": "#2e3641"
-      },
-      {
-        "slug": "silver",
-        "name": "Silver",
-        "hex": "#e3e4e5"
-      },
-      {
-        "slug": "skyblue",
-        "name": "Sky Blue",
-        "hex": "#bcd0e0"
-      },
-      {
-        "slug": "starlight",
-        "name": "Starlight",
-        "hex": "#efe9df"
-      }
-    ],
-    "color": "midnight",
-    "images": [
-      "img/products/macbook-air-15/midnight-0.webp"
-    ],
-    "description": [
-      {
-        "title": "More room to work",
-        "text": [
-          "A spacious 15-inch display in an incredibly thin design."
-        ]
-      },
-      {
-        "title": "M5 with 10-core GPU",
-        "text": [
-          "Great for photo editing, coding and games."
-        ]
-      },
-      {
-        "title": "Six-speaker sound",
-        "text": [
-          "Immersive audio with Spatial Audio support."
-        ]
-      }
-    ],
-    "specs": [
-      {
-        "label": "Display",
-        "value": "15.3\" Liquid Retina"
-      },
-      {
-        "label": "Resolution",
-        "value": "2880×1864"
-      },
-      {
-        "label": "Chip",
-        "value": "Apple M5, 10-core CPU, 10-core GPU"
-      },
-      {
-        "label": "Memory",
-        "value": "16GB unified memory"
-      },
-      {
-        "label": "Battery",
-        "value": "Up to 18 hours"
-      },
-      {
-        "label": "Camera",
-        "value": "12MP Center Stage"
-      },
-      {
-        "label": "Ports",
-        "value": "2x Thunderbolt 4, MagSafe 3"
-      },
-      {
-        "label": "Weight",
-        "value": "1.51 kg"
-      }
-    ],
-    "rating": 4.6,
-    "reviewsCount": 499,
-    "reviews": [
-      {
-        "author": "Grace H.",
-        "rating": 5,
-        "date": "2026-08-27",
-        "title": "Battery is unreal",
-        "text": "I charge it every two days with normal work."
-      },
-      {
-        "author": "Ethan W.",
-        "rating": 5,
-        "date": "2026-08-27",
-        "title": "Silent and powerful",
-        "text": "Compiles projects in seconds and stays completely quiet."
-      },
-      {
-        "author": "Ethan W.",
-        "rating": 5,
-        "date": "2026-08-27",
-        "title": "Worth every penny",
-        "text": "My best tech purchase in years."
-      }
-    ],
-    "inStock": true
-  },
-  {
-    "id": "macbook-air-15-512gb-silver",
-    "category": "mac",
-    "namespaceId": "macbook-air-15",
-    "name": "MacBook Air 15-inch M5 512GB Silver",
-    "modelName": "MacBook Air 15-inch M5",
-    "year": 2026,
-    "capacityAvailable": [
-      "512GB",
-      "1TB"
-    ],
-    "capacity": "512GB",
-    "capacityLabel": "Storage",
-    "priceRegular": 1499,
-    "priceDiscount": 1499,
-    "colors": [
-      {
-        "slug": "midnight",
-        "name": "Midnight",
-        "hex": "#2e3641"
-      },
-      {
-        "slug": "silver",
-        "name": "Silver",
-        "hex": "#e3e4e5"
-      },
-      {
-        "slug": "skyblue",
-        "name": "Sky Blue",
-        "hex": "#bcd0e0"
-      },
-      {
-        "slug": "starlight",
-        "name": "Starlight",
-        "hex": "#efe9df"
-      }
-    ],
-    "color": "silver",
-    "images": [
-      "img/products/macbook-air-15/silver-0.webp"
-    ],
-    "description": [
-      {
-        "title": "More room to work",
-        "text": [
-          "A spacious 15-inch display in an incredibly thin design."
-        ]
-      },
-      {
-        "title": "M5 with 10-core GPU",
-        "text": [
-          "Great for photo editing, coding and games."
-        ]
-      },
-      {
-        "title": "Six-speaker sound",
-        "text": [
-          "Immersive audio with Spatial Audio support."
-        ]
-      }
-    ],
-    "specs": [
-      {
-        "label": "Display",
-        "value": "15.3\" Liquid Retina"
-      },
-      {
-        "label": "Resolution",
-        "value": "2880×1864"
-      },
-      {
-        "label": "Chip",
-        "value": "Apple M5, 10-core CPU, 10-core GPU"
-      },
-      {
-        "label": "Memory",
-        "value": "16GB unified memory"
-      },
-      {
-        "label": "Battery",
-        "value": "Up to 18 hours"
-      },
-      {
-        "label": "Camera",
-        "value": "12MP Center Stage"
-      },
-      {
-        "label": "Ports",
-        "value": "2x Thunderbolt 4, MagSafe 3"
-      },
-      {
-        "label": "Weight",
-        "value": "1.51 kg"
-      }
-    ],
-    "rating": 4.6,
-    "reviewsCount": 499,
-    "reviews": [
-      {
-        "author": "Grace H.",
-        "rating": 5,
-        "date": "2026-08-27",
-        "title": "Battery is unreal",
-        "text": "I charge it every two days with normal work."
-      },
-      {
-        "author": "Ethan W.",
-        "rating": 5,
-        "date": "2026-08-27",
-        "title": "Silent and powerful",
-        "text": "Compiles projects in seconds and stays completely quiet."
-      },
-      {
-        "author": "Ethan W.",
-        "rating": 5,
-        "date": "2026-08-27",
-        "title": "Worth every penny",
-        "text": "My best tech purchase in years."
-      }
-    ],
-    "inStock": true
-  },
-  {
-    "id": "macbook-air-15-1tb-silver",
-    "category": "mac",
-    "namespaceId": "macbook-air-15",
-    "name": "MacBook Air 15-inch M5 1TB Silver",
-    "modelName": "MacBook Air 15-inch M5",
-    "year": 2026,
-    "capacityAvailable": [
-      "512GB",
-      "1TB"
-    ],
-    "capacity": "1TB",
-    "capacityLabel": "Storage",
-    "priceRegular": 1699,
-    "priceDiscount": 1699,
-    "colors": [
-      {
-        "slug": "midnight",
-        "name": "Midnight",
-        "hex": "#2e3641"
-      },
-      {
-        "slug": "silver",
-        "name": "Silver",
-        "hex": "#e3e4e5"
-      },
-      {
-        "slug": "skyblue",
-        "name": "Sky Blue",
-        "hex": "#bcd0e0"
-      },
-      {
-        "slug": "starlight",
-        "name": "Starlight",
-        "hex": "#efe9df"
-      }
-    ],
-    "color": "silver",
-    "images": [
-      "img/products/macbook-air-15/silver-0.webp"
-    ],
-    "description": [
-      {
-        "title": "More room to work",
-        "text": [
-          "A spacious 15-inch display in an incredibly thin design."
-        ]
-      },
-      {
-        "title": "M5 with 10-core GPU",
-        "text": [
-          "Great for photo editing, coding and games."
-        ]
-      },
-      {
-        "title": "Six-speaker sound",
-        "text": [
-          "Immersive audio with Spatial Audio support."
-        ]
-      }
-    ],
-    "specs": [
-      {
-        "label": "Display",
-        "value": "15.3\" Liquid Retina"
-      },
-      {
-        "label": "Resolution",
-        "value": "2880×1864"
-      },
-      {
-        "label": "Chip",
-        "value": "Apple M5, 10-core CPU, 10-core GPU"
-      },
-      {
-        "label": "Memory",
-        "value": "16GB unified memory"
-      },
-      {
-        "label": "Battery",
-        "value": "Up to 18 hours"
-      },
-      {
-        "label": "Camera",
-        "value": "12MP Center Stage"
-      },
-      {
-        "label": "Ports",
-        "value": "2x Thunderbolt 4, MagSafe 3"
-      },
-      {
-        "label": "Weight",
-        "value": "1.51 kg"
-      }
-    ],
-    "rating": 4.6,
-    "reviewsCount": 499,
-    "reviews": [
-      {
-        "author": "Grace H.",
-        "rating": 5,
-        "date": "2026-08-27",
-        "title": "Battery is unreal",
-        "text": "I charge it every two days with normal work."
-      },
-      {
-        "author": "Ethan W.",
-        "rating": 5,
-        "date": "2026-08-27",
-        "title": "Silent and powerful",
-        "text": "Compiles projects in seconds and stays completely quiet."
-      },
-      {
-        "author": "Ethan W.",
-        "rating": 5,
-        "date": "2026-08-27",
-        "title": "Worth every penny",
-        "text": "My best tech purchase in years."
-      }
-    ],
-    "inStock": true
-  },
-  {
-    "id": "macbook-air-15-512gb-skyblue",
-    "category": "mac",
-    "namespaceId": "macbook-air-15",
-    "name": "MacBook Air 15-inch M5 512GB Sky Blue",
-    "modelName": "MacBook Air 15-inch M5",
-    "year": 2026,
-    "capacityAvailable": [
-      "512GB",
-      "1TB"
-    ],
-    "capacity": "512GB",
-    "capacityLabel": "Storage",
-    "priceRegular": 1499,
-    "priceDiscount": 1499,
-    "colors": [
-      {
-        "slug": "midnight",
-        "name": "Midnight",
-        "hex": "#2e3641"
-      },
-      {
-        "slug": "silver",
-        "name": "Silver",
-        "hex": "#e3e4e5"
-      },
-      {
-        "slug": "skyblue",
-        "name": "Sky Blue",
-        "hex": "#bcd0e0"
-      },
-      {
-        "slug": "starlight",
-        "name": "Starlight",
-        "hex": "#efe9df"
-      }
-    ],
-    "color": "skyblue",
-    "images": [
-      "img/products/macbook-air-15/skyblue-0.webp"
-    ],
-    "description": [
-      {
-        "title": "More room to work",
-        "text": [
-          "A spacious 15-inch display in an incredibly thin design."
-        ]
-      },
-      {
-        "title": "M5 with 10-core GPU",
-        "text": [
-          "Great for photo editing, coding and games."
-        ]
-      },
-      {
-        "title": "Six-speaker sound",
-        "text": [
-          "Immersive audio with Spatial Audio support."
-        ]
-      }
-    ],
-    "specs": [
-      {
-        "label": "Display",
-        "value": "15.3\" Liquid Retina"
-      },
-      {
-        "label": "Resolution",
-        "value": "2880×1864"
-      },
-      {
-        "label": "Chip",
-        "value": "Apple M5, 10-core CPU, 10-core GPU"
-      },
-      {
-        "label": "Memory",
-        "value": "16GB unified memory"
-      },
-      {
-        "label": "Battery",
-        "value": "Up to 18 hours"
-      },
-      {
-        "label": "Camera",
-        "value": "12MP Center Stage"
-      },
-      {
-        "label": "Ports",
-        "value": "2x Thunderbolt 4, MagSafe 3"
-      },
-      {
-        "label": "Weight",
-        "value": "1.51 kg"
-      }
-    ],
-    "rating": 4.6,
-    "reviewsCount": 499,
-    "reviews": [
-      {
-        "author": "Grace H.",
-        "rating": 5,
-        "date": "2026-08-27",
-        "title": "Battery is unreal",
-        "text": "I charge it every two days with normal work."
-      },
-      {
-        "author": "Ethan W.",
-        "rating": 5,
-        "date": "2026-08-27",
-        "title": "Silent and powerful",
-        "text": "Compiles projects in seconds and stays completely quiet."
-      },
-      {
-        "author": "Ethan W.",
-        "rating": 5,
-        "date": "2026-08-27",
-        "title": "Worth every penny",
-        "text": "My best tech purchase in years."
-      }
-    ],
-    "inStock": true
-  },
-  {
-    "id": "macbook-air-15-1tb-skyblue",
-    "category": "mac",
-    "namespaceId": "macbook-air-15",
-    "name": "MacBook Air 15-inch M5 1TB Sky Blue",
-    "modelName": "MacBook Air 15-inch M5",
-    "year": 2026,
-    "capacityAvailable": [
-      "512GB",
-      "1TB"
-    ],
-    "capacity": "1TB",
-    "capacityLabel": "Storage",
-    "priceRegular": 1699,
-    "priceDiscount": 1699,
-    "colors": [
-      {
-        "slug": "midnight",
-        "name": "Midnight",
-        "hex": "#2e3641"
-      },
-      {
-        "slug": "silver",
-        "name": "Silver",
-        "hex": "#e3e4e5"
-      },
-      {
-        "slug": "skyblue",
-        "name": "Sky Blue",
-        "hex": "#bcd0e0"
-      },
-      {
-        "slug": "starlight",
-        "name": "Starlight",
-        "hex": "#efe9df"
-      }
-    ],
-    "color": "skyblue",
-    "images": [
-      "img/products/macbook-air-15/skyblue-0.webp"
-    ],
-    "description": [
-      {
-        "title": "More room to work",
-        "text": [
-          "A spacious 15-inch display in an incredibly thin design."
-        ]
-      },
-      {
-        "title": "M5 with 10-core GPU",
-        "text": [
-          "Great for photo editing, coding and games."
-        ]
-      },
-      {
-        "title": "Six-speaker sound",
-        "text": [
-          "Immersive audio with Spatial Audio support."
-        ]
-      }
-    ],
-    "specs": [
-      {
-        "label": "Display",
-        "value": "15.3\" Liquid Retina"
-      },
-      {
-        "label": "Resolution",
-        "value": "2880×1864"
-      },
-      {
-        "label": "Chip",
-        "value": "Apple M5, 10-core CPU, 10-core GPU"
-      },
-      {
-        "label": "Memory",
-        "value": "16GB unified memory"
-      },
-      {
-        "label": "Battery",
-        "value": "Up to 18 hours"
-      },
-      {
-        "label": "Camera",
-        "value": "12MP Center Stage"
-      },
-      {
-        "label": "Ports",
-        "value": "2x Thunderbolt 4, MagSafe 3"
-      },
-      {
-        "label": "Weight",
-        "value": "1.51 kg"
-      }
-    ],
-    "rating": 4.6,
-    "reviewsCount": 499,
-    "reviews": [
-      {
-        "author": "Grace H.",
-        "rating": 5,
-        "date": "2026-08-27",
-        "title": "Battery is unreal",
-        "text": "I charge it every two days with normal work."
-      },
-      {
-        "author": "Ethan W.",
-        "rating": 5,
-        "date": "2026-08-27",
-        "title": "Silent and powerful",
-        "text": "Compiles projects in seconds and stays completely quiet."
-      },
-      {
-        "author": "Ethan W.",
-        "rating": 5,
-        "date": "2026-08-27",
-        "title": "Worth every penny",
-        "text": "My best tech purchase in years."
-      }
-    ],
-    "inStock": true
-  },
-  {
     "id": "macbook-air-15-512gb-starlight",
     "category": "mac",
     "namespaceId": "macbook-air-15",
@@ -1724,6 +992,11 @@
     "priceDiscount": 1499,
     "colors": [
       {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      },
+      {
         "slug": "midnight",
         "name": "Midnight",
         "hex": "#2e3641"
@@ -1737,11 +1010,6 @@
         "slug": "skyblue",
         "name": "Sky Blue",
         "hex": "#bcd0e0"
-      },
-      {
-        "slug": "starlight",
-        "name": "Starlight",
-        "hex": "#efe9df"
       }
     ],
     "color": "starlight",
@@ -1846,6 +1114,11 @@
     "priceDiscount": 1699,
     "colors": [
       {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      },
+      {
         "slug": "midnight",
         "name": "Midnight",
         "hex": "#2e3641"
@@ -1859,16 +1132,743 @@
         "slug": "skyblue",
         "name": "Sky Blue",
         "hex": "#bcd0e0"
-      },
-      {
-        "slug": "starlight",
-        "name": "Starlight",
-        "hex": "#efe9df"
       }
     ],
     "color": "starlight",
     "images": [
       "img/products/macbook-air-15/starlight-0.webp"
+    ],
+    "description": [
+      {
+        "title": "More room to work",
+        "text": [
+          "A spacious 15-inch display in an incredibly thin design."
+        ]
+      },
+      {
+        "title": "M5 with 10-core GPU",
+        "text": [
+          "Great for photo editing, coding and games."
+        ]
+      },
+      {
+        "title": "Six-speaker sound",
+        "text": [
+          "Immersive audio with Spatial Audio support."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "15.3\" Liquid Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "2880×1864"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M5, 10-core CPU, 10-core GPU"
+      },
+      {
+        "label": "Memory",
+        "value": "16GB unified memory"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 18 hours"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Center Stage"
+      },
+      {
+        "label": "Ports",
+        "value": "2x Thunderbolt 4, MagSafe 3"
+      },
+      {
+        "label": "Weight",
+        "value": "1.51 kg"
+      }
+    ],
+    "rating": 4.6,
+    "reviewsCount": 499,
+    "reviews": [
+      {
+        "author": "Grace H.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Silent and powerful",
+        "text": "Compiles projects in seconds and stays completely quiet."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Worth every penny",
+        "text": "My best tech purchase in years."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "macbook-air-15-512gb-midnight",
+    "category": "mac",
+    "namespaceId": "macbook-air-15",
+    "name": "MacBook Air 15-inch M5 512GB Midnight",
+    "modelName": "MacBook Air 15-inch M5",
+    "year": 2026,
+    "capacityAvailable": [
+      "512GB",
+      "1TB"
+    ],
+    "capacity": "512GB",
+    "capacityLabel": "Storage",
+    "priceRegular": 1499,
+    "priceDiscount": 1499,
+    "colors": [
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      },
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "slug": "skyblue",
+        "name": "Sky Blue",
+        "hex": "#bcd0e0"
+      }
+    ],
+    "color": "midnight",
+    "images": [
+      "img/products/macbook-air-15/midnight-0.webp"
+    ],
+    "description": [
+      {
+        "title": "More room to work",
+        "text": [
+          "A spacious 15-inch display in an incredibly thin design."
+        ]
+      },
+      {
+        "title": "M5 with 10-core GPU",
+        "text": [
+          "Great for photo editing, coding and games."
+        ]
+      },
+      {
+        "title": "Six-speaker sound",
+        "text": [
+          "Immersive audio with Spatial Audio support."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "15.3\" Liquid Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "2880×1864"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M5, 10-core CPU, 10-core GPU"
+      },
+      {
+        "label": "Memory",
+        "value": "16GB unified memory"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 18 hours"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Center Stage"
+      },
+      {
+        "label": "Ports",
+        "value": "2x Thunderbolt 4, MagSafe 3"
+      },
+      {
+        "label": "Weight",
+        "value": "1.51 kg"
+      }
+    ],
+    "rating": 4.6,
+    "reviewsCount": 499,
+    "reviews": [
+      {
+        "author": "Grace H.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Silent and powerful",
+        "text": "Compiles projects in seconds and stays completely quiet."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Worth every penny",
+        "text": "My best tech purchase in years."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "macbook-air-15-1tb-midnight",
+    "category": "mac",
+    "namespaceId": "macbook-air-15",
+    "name": "MacBook Air 15-inch M5 1TB Midnight",
+    "modelName": "MacBook Air 15-inch M5",
+    "year": 2026,
+    "capacityAvailable": [
+      "512GB",
+      "1TB"
+    ],
+    "capacity": "1TB",
+    "capacityLabel": "Storage",
+    "priceRegular": 1699,
+    "priceDiscount": 1699,
+    "colors": [
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      },
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "slug": "skyblue",
+        "name": "Sky Blue",
+        "hex": "#bcd0e0"
+      }
+    ],
+    "color": "midnight",
+    "images": [
+      "img/products/macbook-air-15/midnight-0.webp"
+    ],
+    "description": [
+      {
+        "title": "More room to work",
+        "text": [
+          "A spacious 15-inch display in an incredibly thin design."
+        ]
+      },
+      {
+        "title": "M5 with 10-core GPU",
+        "text": [
+          "Great for photo editing, coding and games."
+        ]
+      },
+      {
+        "title": "Six-speaker sound",
+        "text": [
+          "Immersive audio with Spatial Audio support."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "15.3\" Liquid Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "2880×1864"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M5, 10-core CPU, 10-core GPU"
+      },
+      {
+        "label": "Memory",
+        "value": "16GB unified memory"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 18 hours"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Center Stage"
+      },
+      {
+        "label": "Ports",
+        "value": "2x Thunderbolt 4, MagSafe 3"
+      },
+      {
+        "label": "Weight",
+        "value": "1.51 kg"
+      }
+    ],
+    "rating": 4.6,
+    "reviewsCount": 499,
+    "reviews": [
+      {
+        "author": "Grace H.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Silent and powerful",
+        "text": "Compiles projects in seconds and stays completely quiet."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Worth every penny",
+        "text": "My best tech purchase in years."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "macbook-air-15-512gb-silver",
+    "category": "mac",
+    "namespaceId": "macbook-air-15",
+    "name": "MacBook Air 15-inch M5 512GB Silver",
+    "modelName": "MacBook Air 15-inch M5",
+    "year": 2026,
+    "capacityAvailable": [
+      "512GB",
+      "1TB"
+    ],
+    "capacity": "512GB",
+    "capacityLabel": "Storage",
+    "priceRegular": 1499,
+    "priceDiscount": 1499,
+    "colors": [
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      },
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "slug": "skyblue",
+        "name": "Sky Blue",
+        "hex": "#bcd0e0"
+      }
+    ],
+    "color": "silver",
+    "images": [
+      "img/products/macbook-air-15/silver-0.webp"
+    ],
+    "description": [
+      {
+        "title": "More room to work",
+        "text": [
+          "A spacious 15-inch display in an incredibly thin design."
+        ]
+      },
+      {
+        "title": "M5 with 10-core GPU",
+        "text": [
+          "Great for photo editing, coding and games."
+        ]
+      },
+      {
+        "title": "Six-speaker sound",
+        "text": [
+          "Immersive audio with Spatial Audio support."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "15.3\" Liquid Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "2880×1864"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M5, 10-core CPU, 10-core GPU"
+      },
+      {
+        "label": "Memory",
+        "value": "16GB unified memory"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 18 hours"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Center Stage"
+      },
+      {
+        "label": "Ports",
+        "value": "2x Thunderbolt 4, MagSafe 3"
+      },
+      {
+        "label": "Weight",
+        "value": "1.51 kg"
+      }
+    ],
+    "rating": 4.6,
+    "reviewsCount": 499,
+    "reviews": [
+      {
+        "author": "Grace H.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Silent and powerful",
+        "text": "Compiles projects in seconds and stays completely quiet."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Worth every penny",
+        "text": "My best tech purchase in years."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "macbook-air-15-1tb-silver",
+    "category": "mac",
+    "namespaceId": "macbook-air-15",
+    "name": "MacBook Air 15-inch M5 1TB Silver",
+    "modelName": "MacBook Air 15-inch M5",
+    "year": 2026,
+    "capacityAvailable": [
+      "512GB",
+      "1TB"
+    ],
+    "capacity": "1TB",
+    "capacityLabel": "Storage",
+    "priceRegular": 1699,
+    "priceDiscount": 1699,
+    "colors": [
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      },
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "slug": "skyblue",
+        "name": "Sky Blue",
+        "hex": "#bcd0e0"
+      }
+    ],
+    "color": "silver",
+    "images": [
+      "img/products/macbook-air-15/silver-0.webp"
+    ],
+    "description": [
+      {
+        "title": "More room to work",
+        "text": [
+          "A spacious 15-inch display in an incredibly thin design."
+        ]
+      },
+      {
+        "title": "M5 with 10-core GPU",
+        "text": [
+          "Great for photo editing, coding and games."
+        ]
+      },
+      {
+        "title": "Six-speaker sound",
+        "text": [
+          "Immersive audio with Spatial Audio support."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "15.3\" Liquid Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "2880×1864"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M5, 10-core CPU, 10-core GPU"
+      },
+      {
+        "label": "Memory",
+        "value": "16GB unified memory"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 18 hours"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Center Stage"
+      },
+      {
+        "label": "Ports",
+        "value": "2x Thunderbolt 4, MagSafe 3"
+      },
+      {
+        "label": "Weight",
+        "value": "1.51 kg"
+      }
+    ],
+    "rating": 4.6,
+    "reviewsCount": 499,
+    "reviews": [
+      {
+        "author": "Grace H.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Silent and powerful",
+        "text": "Compiles projects in seconds and stays completely quiet."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Worth every penny",
+        "text": "My best tech purchase in years."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "macbook-air-15-512gb-skyblue",
+    "category": "mac",
+    "namespaceId": "macbook-air-15",
+    "name": "MacBook Air 15-inch M5 512GB Sky Blue",
+    "modelName": "MacBook Air 15-inch M5",
+    "year": 2026,
+    "capacityAvailable": [
+      "512GB",
+      "1TB"
+    ],
+    "capacity": "512GB",
+    "capacityLabel": "Storage",
+    "priceRegular": 1499,
+    "priceDiscount": 1499,
+    "colors": [
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      },
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "slug": "skyblue",
+        "name": "Sky Blue",
+        "hex": "#bcd0e0"
+      }
+    ],
+    "color": "skyblue",
+    "images": [
+      "img/products/macbook-air-15/skyblue-0.webp"
+    ],
+    "description": [
+      {
+        "title": "More room to work",
+        "text": [
+          "A spacious 15-inch display in an incredibly thin design."
+        ]
+      },
+      {
+        "title": "M5 with 10-core GPU",
+        "text": [
+          "Great for photo editing, coding and games."
+        ]
+      },
+      {
+        "title": "Six-speaker sound",
+        "text": [
+          "Immersive audio with Spatial Audio support."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "15.3\" Liquid Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "2880×1864"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M5, 10-core CPU, 10-core GPU"
+      },
+      {
+        "label": "Memory",
+        "value": "16GB unified memory"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 18 hours"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Center Stage"
+      },
+      {
+        "label": "Ports",
+        "value": "2x Thunderbolt 4, MagSafe 3"
+      },
+      {
+        "label": "Weight",
+        "value": "1.51 kg"
+      }
+    ],
+    "rating": 4.6,
+    "reviewsCount": 499,
+    "reviews": [
+      {
+        "author": "Grace H.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Silent and powerful",
+        "text": "Compiles projects in seconds and stays completely quiet."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Worth every penny",
+        "text": "My best tech purchase in years."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "macbook-air-15-1tb-skyblue",
+    "category": "mac",
+    "namespaceId": "macbook-air-15",
+    "name": "MacBook Air 15-inch M5 1TB Sky Blue",
+    "modelName": "MacBook Air 15-inch M5",
+    "year": 2026,
+    "capacityAvailable": [
+      "512GB",
+      "1TB"
+    ],
+    "capacity": "1TB",
+    "capacityLabel": "Storage",
+    "priceRegular": 1699,
+    "priceDiscount": 1699,
+    "colors": [
+      {
+        "slug": "starlight",
+        "name": "Starlight",
+        "hex": "#efe9df"
+      },
+      {
+        "slug": "midnight",
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "slug": "skyblue",
+        "name": "Sky Blue",
+        "hex": "#bcd0e0"
+      }
+    ],
+    "color": "skyblue",
+    "images": [
+      "img/products/macbook-air-15/skyblue-0.webp"
     ],
     "description": [
       {
