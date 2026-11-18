@@ -78,22 +78,24 @@ export const ProductCard = ({ product, showFullPrice = true }: Props) => {
       </div>
 
       <div className={styles.body}>
-        {colors.length > 1 && (
-          <ul className={styles.colors} aria-label="Available colors">
-            {visibleColors.map(color => (
-              <li
-                key={color.name}
-                className={styles.color}
-                style={{ backgroundColor: color.hex }}
-                title={color.name}
-              />
-            ))}
+        <div className={styles.colors}>
+          {colors.length > 1 && (
+            <ul className={styles.colorList} aria-label="Available colors">
+              {visibleColors.map(color => (
+                <li
+                  key={color.name}
+                  className={styles.color}
+                  style={{ backgroundColor: color.hex }}
+                  title={color.name}
+                />
+              ))}
 
-            {hiddenColorsCount > 0 && (
-              <li className={styles.moreColors}>+{hiddenColorsCount}</li>
-            )}
-          </ul>
-        )}
+              {hiddenColorsCount > 0 && (
+                <li className={styles.moreColors}>+{hiddenColorsCount}</li>
+              )}
+            </ul>
+          )}
+        </div>
 
         <Link to={productLink} className={styles.name}>
           {modelName}

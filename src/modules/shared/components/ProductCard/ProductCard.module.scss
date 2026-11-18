@@ -93,10 +93,16 @@
 }
 
 .colors {
+  height: 16px;
+  margin-bottom: 8px;
+}
+
+.colorList {
   display: flex;
   gap: 6px;
   align-items: center;
-  margin: 0 0 8px;
+  height: 100%;
+  margin: 0;
   padding: 0;
   list-style: none;
 }
