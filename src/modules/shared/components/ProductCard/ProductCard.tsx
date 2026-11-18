@@ -8,14 +8,25 @@ import HeartFilledIcon from '../../../../assets/icons/heart-filled.svg?react';
 import PlusIcon from '../../../../assets/icons/plus.svg?react';
 import CheckIcon from '../../../../assets/icons/check.svg?react';
 
+const MAX_COLORS = 5;
+
 type Props = {
   product: Product;
   showFullPrice?: boolean;
 };
 
 export const ProductCard = ({ product, showFullPrice = true }: Props) => {
-  const { itemId, name, image, price, fullPrice, screen, capacity, ram } =
-    product;
+  const {
+    itemId,
+    modelName,
+    image,
+    price,
+    fullPrice,
+    summary,
+    colors,
+    inStock,
+    isNew,
+  } = product;
 
   const { inCart, favorite, handleAddToCart, handleToggleFavorite } =
     useProductActions(product);
@@ -23,21 +34,36 @@ export const ProductCard = ({ product, showFullPrice = true }: Props) => {
   const productLink = `/product/${itemId}`;
   const hasDiscount = showFullPrice && fullPrice > price;
   const discount = Math.round(((fullPrice - price) / fullPrice) * 100);
-  const specs = [screen, capacity, ram && `${ram} RAM`].filter(Boolean);
+  let addLabel = 'Add to cart';
+
+  if (!inStock) {
+    addLabel = 'Out of stock';
+  } else if (inCart) {
+    addLabel = 'Added to cart';
+  }
+
+  const visibleColors = colors.slice(0, MAX_COLORS);
+  const hiddenColorsCount = colors.length - visibleColors.length;
 
   return (
-    <article className={styles.card}>
+    <article
+      className={classNames(styles.card, { [styles.cardOutOfStock]: !inStock })}
+    >
       <div className={styles.media}>
         <Link to={productLink} className={styles.imageLink}>
           <img
             src={`${import.meta.env.BASE_URL}${image}`}
-            alt={name}
+            alt={modelName}
             className={styles.image}
             loading="lazy"
           />
         </Link>
 
         {hasDiscount && <span className={styles.badge}>−{discount}%</span>}
+
+        {!hasDiscount && isNew && (
+          <span className={classNames(styles.badge, styles.badgeNew)}>New</span>
+        )}
 
         <button
           type="button"
@@ -52,11 +78,36 @@ export const ProductCard = ({ product, showFullPrice = true }: Props) => {
       </div>
 
       <div className={styles.body}>
+        {colors.length > 1 && (
+          <ul className={styles.colors} aria-label="Available colors">
+            {visibleColors.map(color => (
+              <li
+                key={color.name}
+                className={styles.color}
+                style={{ backgroundColor: color.hex }}
+                title={color.name}
+              />
+            ))}
+
+            {hiddenColorsCount > 0 && (
+              <li className={styles.moreColors}>+{hiddenColorsCount}</li>
+            )}
+          </ul>
+        )}
+
         <Link to={productLink} className={styles.name}>
-          {name}
+          {modelName}
         </Link>
 
-        <p className={styles.specs}>{specs.join(' · ')}</p>
+        <p className={styles.specs}>{summary}</p>
+
+        <p
+          className={classNames(styles.stock, {
+            [styles.stockOut]: !inStock,
+          })}
+        >
+          {inStock ? 'In stock' : 'Out of stock'}
+        </p>
 
         <div className={styles.footer}>
           <p className={styles.prices}>
@@ -72,8 +123,9 @@ export const ProductCard = ({ product, showFullPrice = true }: Props) => {
             className={classNames(styles.addButton, {
               [styles.addButtonActive]: inCart,
             })}
-            aria-label={inCart ? 'Added to cart' : 'Add to cart'}
-            title={inCart ? 'Added to cart' : 'Add to cart'}
+            aria-label={addLabel}
+            title={addLabel}
+            disabled={!inStock}
             onClick={handleAddToCart}
           >
             {inCart ? <CheckIcon /> : <PlusIcon />}
