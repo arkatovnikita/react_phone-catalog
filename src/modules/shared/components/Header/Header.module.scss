@@ -51,7 +51,7 @@
   display: none;
   margin-inline: auto;
 
-  @include on-tablet {
+  @include on-desktop {
     display: block;
   }
 }
@@ -94,7 +94,7 @@
   align-items: center;
   margin-left: auto;
 
-  @include on-tablet {
+  @include on-desktop {
     margin-left: 0;
   }
 }
@@ -125,7 +125,7 @@
 }
 
 .menuButton {
-  @include on-tablet {
+  @include on-desktop {
     display: none;
   }
 }

@@ -13,16 +13,26 @@
 
 .grid {
   display: grid;
+  grid-template-areas:
+    'iphone iphone'
+    'mac mac'
+    'ipad watch'
+    'airpods accessories';
+  grid-template-columns: repeat(2, 1fr);
   gap: 12px;
 
   @include on-tablet {
-    grid-template-columns: 1fr 1fr;
-    grid-auto-rows: 220px;
+    grid-template-areas:
+      'iphone iphone mac mac'
+      'iphone iphone ipad watch'
+      'airpods airpods accessories accessories';
+    grid-template-columns: repeat(4, 1fr);
+    grid-auto-rows: 200px;
     gap: 16px;
   }
 
   @include on-desktop {
-    grid-auto-rows: 260px;
+    grid-auto-rows: 250px;
   }
 }
 
@@ -47,20 +57,34 @@
   }
 }
 
-.phones {
+.iphone {
+  grid-area: iphone;
   min-height: 340px;
-  background-color: var(--tint-phones);
-
-  @include on-tablet {
-    grid-row: span 2;
-  }
+  background-color: var(--tint-iphone);
 }
 
-.tablets {
-  background-color: var(--tint-tablets);
+.mac {
+  grid-area: mac;
+  background-color: var(--tint-mac);
+}
+
+.ipad {
+  grid-area: ipad;
+  background-color: var(--tint-ipad);
+}
+
+.watch {
+  grid-area: watch;
+  background-color: var(--tint-watch);
+}
+
+.airpods {
+  grid-area: airpods;
+  background-color: var(--tint-airpods);
 }
 
 .accessories {
+  grid-area: accessories;
   background-color: var(--tint-accessories);
 }
 
@@ -70,7 +94,7 @@
   font-weight: 600;
   letter-spacing: -0.01em;
 
-  .phones & {
+  .iphone & {
     font-size: 30px;
     letter-spacing: -0.02em;
 
@@ -123,12 +147,23 @@
   object-position: right bottom;
   transition: transform 0.45s;
 
-  .phones & {
+  .iphone & {
     right: 4%;
     max-width: 78%;
   }
 
   .tile:hover & {
     transform: scale(1.06) translateY(-4px);
+  }
+}
+
+@media (max-width: ($tablet-min-width - 1px)) {
+  .ipad,
+  .watch,
+  .airpods,
+  .accessories {
+    .shop {
+      display: none;
+    }
   }
 }
