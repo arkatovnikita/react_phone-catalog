@@ -25,18 +25,43 @@ export const getProductsByCategory = async (category: Category) => {
 export const getCategoryDetails = (category: Category) =>
   get<ProductDetails[]>(`${category}.json`);
 
+const findCard = (products: Product[], productId: string) =>
+  products
+    .filter(
+      item =>
+        productId === item.namespaceId ||
+        productId.startsWith(`${item.namespaceId}-`),
+    )
+    .sort((a, b) => b.namespaceId.length - a.namespaceId.length)[0];
+
+export const toProduct = (details: ProductDetails, card: Product): Product => ({
+  ...card,
+  itemId: details.id,
+  name: details.name,
+  fullPrice: details.priceRegular,
+  price: details.priceDiscount,
+  color: details.colors.find(color => color.slug === details.color)?.name ?? '',
+  capacity: details.capacity,
+  image: details.images[0],
+  inStock: details.inStock,
+});
+
 export const getProductData = async (productId: string) => {
   const products = await getProducts();
-  const product = products.find(item => item.itemId === productId);
+  const card = findCard(products, productId);
 
-  if (!product) {
+  if (!card) {
     return null;
   }
 
-  const variants = await getCategoryDetails(product.category);
+  const variants = (await getCategoryDetails(card.category)).filter(
+    item => item.namespaceId === card.namespaceId,
+  );
   const details = variants.find(item => item.id === productId);
 
-  return details ? { product, details, variants } : null;
+  return details
+    ? { product: toProduct(details, card), details, variants }
+    : null;
 };
 
 export const getSuggestedProducts = async (count: number) => {

@@ -15,7 +15,10 @@ type Props = {
 };
 
 export const FavoritesProvider = ({ children }: Props) => {
-  const [favorites, setFavorites] = useLocalStorage<Product[]>('favorites', []);
+  const [favorites, setFavorites] = useLocalStorage<Product[]>(
+    'orchard-favorites',
+    [],
+  );
 
   const value = useMemo(() => {
     const toggleFavorite = (product: Product) => {

@@ -4,13 +4,19 @@ export interface Product {
   id: number;
   category: Category;
   itemId: string;
+  namespaceId: string;
   name: string;
+  modelName: string;
   fullPrice: number;
   price: number;
-  screen: string;
-  capacity: string;
   color: string;
-  ram: string;
+  capacity: string;
   year: number;
   image: string;
+  summary: string;
+  colors: { name: string; hex: string }[];
+  rating: number;
+  reviewsCount: number;
+  inStock: boolean;
+  isNew: boolean;
 }

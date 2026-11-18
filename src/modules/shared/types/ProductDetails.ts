@@ -1,8 +1,15 @@
 import { Category } from './Category';
+import { ProductColor } from './ProductColor';
+import { Review } from './Review';
 
 export interface ProductDescription {
   title: string;
   text: string[];
+}
+
+export interface ProductSpec {
+  label: string;
+  value: string;
 }
 
 export interface ProductDetails {
@@ -10,19 +17,20 @@ export interface ProductDetails {
   category: Category;
   namespaceId: string;
   name: string;
+  modelName: string;
+  year: number;
   capacityAvailable: string[];
   capacity: string;
+  capacityLabel: string;
   priceRegular: number;
   priceDiscount: number;
-  colorsAvailable: string[];
+  colors: ProductColor[];
   color: string;
   images: string[];
   description: ProductDescription[];
-  screen: string;
-  resolution: string;
-  processor: string;
-  ram: string;
-  camera?: string;
-  zoom?: string;
-  cell: string[];
+  specs: ProductSpec[];
+  rating: number;
+  reviewsCount: number;
+  reviews: Review[];
+  inStock: boolean;
 }
