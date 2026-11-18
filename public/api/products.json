@@ -1454,42 +1454,92 @@
   {
     "id": 41,
     "category": "mac",
-    "itemId": "macbook-air-13-512gb-skyblue",
-    "namespaceId": "macbook-air-13",
-    "name": "MacBook Air 13-inch M5 512GB Sky Blue",
-    "modelName": "MacBook Air 13-inch M5",
-    "fullPrice": 1299,
-    "price": 1299,
-    "color": "Sky Blue",
-    "capacity": "512GB",
+    "itemId": "macbook-pro-16-oled-1tb-spaceblack",
+    "namespaceId": "macbook-pro-16-oled",
+    "name": "MacBook Pro 16-inch OLED 1TB Space Black",
+    "modelName": "MacBook Pro 16-inch OLED",
+    "fullPrice": 3399,
+    "price": 3399,
+    "color": "Space Black",
+    "capacity": "1TB",
     "year": 2026,
-    "image": "img/products/macbook-air-13/skyblue-0.webp",
-    "summary": "13.6\" Liquid Retina · M5 · 16GB",
+    "image": "img/products/macbook-pro-16-oled/spaceblack-0.webp",
+    "summary": "16.2\" PROLED XDR touch · M5 Pro · 24GB",
     "colors": [
       {
-        "name": "Sky Blue",
-        "hex": "#bcd0e0"
-      },
-      {
-        "name": "Midnight",
-        "hex": "#2e3641"
+        "name": "Space Black",
+        "hex": "#2f2f31"
       },
       {
         "name": "Silver",
         "hex": "#e3e4e5"
-      },
-      {
-        "name": "Starlight",
-        "hex": "#efe9df"
       }
     ],
     "rating": 4.5,
-    "reviewsCount": 838,
+    "reviewsCount": 931,
     "inStock": true,
     "isNew": true
   },
   {
     "id": 42,
+    "category": "mac",
+    "itemId": "macbook-pro-14-oled-1tb-spaceblack",
+    "namespaceId": "macbook-pro-14-oled",
+    "name": "MacBook Pro 14-inch OLED 1TB Space Black",
+    "modelName": "MacBook Pro 14-inch OLED",
+    "fullPrice": 2899,
+    "price": 2899,
+    "color": "Space Black",
+    "capacity": "1TB",
+    "year": 2026,
+    "image": "img/products/macbook-pro-14-oled/spaceblack-0.webp",
+    "summary": "14.2\" PROLED XDR touch · M5 Pro · 24GB",
+    "colors": [
+      {
+        "name": "Space Black",
+        "hex": "#2f2f31"
+      },
+      {
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "rating": 4.4,
+    "reviewsCount": 173,
+    "inStock": true,
+    "isNew": true
+  },
+  {
+    "id": 43,
+    "category": "mac",
+    "itemId": "macbook-pro-14-512gb-spaceblack",
+    "namespaceId": "macbook-pro-14",
+    "name": "MacBook Pro 14-inch M6 512GB Space Black",
+    "modelName": "MacBook Pro 14-inch M6",
+    "fullPrice": 1999,
+    "price": 1999,
+    "color": "Space Black",
+    "capacity": "512GB",
+    "year": 2026,
+    "image": "img/products/macbook-pro-14/spaceblack-0.webp",
+    "summary": "14.2\" Liquid Retina XDR · M6 · 16GB",
+    "colors": [
+      {
+        "name": "Space Black",
+        "hex": "#2f2f31"
+      },
+      {
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "rating": 4.9,
+    "reviewsCount": 251,
+    "inStock": true,
+    "isNew": true
+  },
+  {
+    "id": 44,
     "category": "mac",
     "itemId": "macbook-air-15-512gb-starlight",
     "namespaceId": "macbook-air-15",
@@ -1526,89 +1576,39 @@
     "isNew": true
   },
   {
-    "id": 43,
-    "category": "mac",
-    "itemId": "macbook-pro-14-512gb-spaceblack",
-    "namespaceId": "macbook-pro-14",
-    "name": "MacBook Pro 14-inch M6 512GB Space Black",
-    "modelName": "MacBook Pro 14-inch M6",
-    "fullPrice": 1999,
-    "price": 1999,
-    "color": "Space Black",
-    "capacity": "512GB",
-    "year": 2026,
-    "image": "img/products/macbook-pro-14/spaceblack-0.webp",
-    "summary": "14.2\" Liquid Retina XDR · M6 · 16GB",
-    "colors": [
-      {
-        "name": "Space Black",
-        "hex": "#2f2f31"
-      },
-      {
-        "name": "Silver",
-        "hex": "#e3e4e5"
-      }
-    ],
-    "rating": 4.9,
-    "reviewsCount": 251,
-    "inStock": true,
-    "isNew": true
-  },
-  {
-    "id": 44,
-    "category": "mac",
-    "itemId": "macbook-pro-14-oled-1tb-spaceblack",
-    "namespaceId": "macbook-pro-14-oled",
-    "name": "MacBook Pro 14-inch OLED 1TB Space Black",
-    "modelName": "MacBook Pro 14-inch OLED",
-    "fullPrice": 2899,
-    "price": 2899,
-    "color": "Space Black",
-    "capacity": "1TB",
-    "year": 2026,
-    "image": "img/products/macbook-pro-14-oled/spaceblack-0.webp",
-    "summary": "14.2\" PROLED XDR touch · M5 Pro · 24GB",
-    "colors": [
-      {
-        "name": "Space Black",
-        "hex": "#2f2f31"
-      },
-      {
-        "name": "Silver",
-        "hex": "#e3e4e5"
-      }
-    ],
-    "rating": 4.4,
-    "reviewsCount": 173,
-    "inStock": true,
-    "isNew": true
-  },
-  {
     "id": 45,
     "category": "mac",
-    "itemId": "macbook-pro-16-oled-1tb-spaceblack",
-    "namespaceId": "macbook-pro-16-oled",
-    "name": "MacBook Pro 16-inch OLED 1TB Space Black",
-    "modelName": "MacBook Pro 16-inch OLED",
-    "fullPrice": 3399,
-    "price": 3399,
-    "color": "Space Black",
-    "capacity": "1TB",
+    "itemId": "macbook-air-13-512gb-skyblue",
+    "namespaceId": "macbook-air-13",
+    "name": "MacBook Air 13-inch M5 512GB Sky Blue",
+    "modelName": "MacBook Air 13-inch M5",
+    "fullPrice": 1299,
+    "price": 1299,
+    "color": "Sky Blue",
+    "capacity": "512GB",
     "year": 2026,
-    "image": "img/products/macbook-pro-16-oled/spaceblack-0.webp",
-    "summary": "16.2\" PROLED XDR touch · M5 Pro · 24GB",
+    "image": "img/products/macbook-air-13/skyblue-0.webp",
+    "summary": "13.6\" Liquid Retina · M5 · 16GB",
     "colors": [
       {
-        "name": "Space Black",
-        "hex": "#2f2f31"
+        "name": "Sky Blue",
+        "hex": "#bcd0e0"
+      },
+      {
+        "name": "Midnight",
+        "hex": "#2e3641"
       },
       {
         "name": "Silver",
         "hex": "#e3e4e5"
+      },
+      {
+        "name": "Starlight",
+        "hex": "#efe9df"
       }
     ],
     "rating": 4.5,
-    "reviewsCount": 931,
+    "reviewsCount": 838,
     "inStock": true,
     "isNew": true
   },
@@ -1659,6 +1659,538 @@
   },
   {
     "id": 47,
+    "category": "mac",
+    "itemId": "macbook-pro-14-m5-512gb-silver",
+    "namespaceId": "macbook-pro-14-m5",
+    "name": "MacBook Pro 14-inch M5 512GB Silver",
+    "modelName": "MacBook Pro 14-inch M5",
+    "fullPrice": 1599,
+    "price": 1409,
+    "color": "Silver",
+    "capacity": "512GB",
+    "year": 2025,
+    "image": "img/products/macbook-pro-14-m5/silver-0.webp",
+    "summary": "14.2\" Liquid Retina XDR · M5 · 16GB",
+    "colors": [
+      {
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "name": "Space Black",
+        "hex": "#2f2f31"
+      }
+    ],
+    "rating": 4.6,
+    "reviewsCount": 332,
+    "inStock": true,
+    "isNew": false
+  },
+  {
+    "id": 48,
+    "category": "mac",
+    "itemId": "macbook-air-15-m4-256gb-silver",
+    "namespaceId": "macbook-air-15-m4",
+    "name": "MacBook Air 15-inch M4 256GB Silver",
+    "modelName": "MacBook Air 15-inch M4",
+    "fullPrice": 1199,
+    "price": 1059,
+    "color": "Silver",
+    "capacity": "256GB",
+    "year": 2025,
+    "image": "img/products/macbook-air-15-m4/silver-0.webp",
+    "summary": "15.3\" Liquid Retina · M4 · 16GB",
+    "colors": [
+      {
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "name": "Sky Blue",
+        "hex": "#bcd0e0"
+      },
+      {
+        "name": "Starlight",
+        "hex": "#efe9df"
+      }
+    ],
+    "rating": 4.9,
+    "reviewsCount": 398,
+    "inStock": true,
+    "isNew": false
+  },
+  {
+    "id": 49,
+    "category": "mac",
+    "itemId": "macbook-air-13-m4-256gb-midnight",
+    "namespaceId": "macbook-air-13-m4",
+    "name": "MacBook Air 13-inch M4 256GB Midnight",
+    "modelName": "MacBook Air 13-inch M4",
+    "fullPrice": 999,
+    "price": 879,
+    "color": "Midnight",
+    "capacity": "256GB",
+    "year": 2025,
+    "image": "img/products/macbook-air-13-m4/midnight-0.webp",
+    "summary": "13.6\" Liquid Retina · M4 · 16GB",
+    "colors": [
+      {
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "name": "Sky Blue",
+        "hex": "#bcd0e0"
+      },
+      {
+        "name": "Starlight",
+        "hex": "#efe9df"
+      }
+    ],
+    "rating": 4.6,
+    "reviewsCount": 554,
+    "inStock": true,
+    "isNew": false
+  },
+  {
+    "id": 50,
+    "category": "mac",
+    "itemId": "mac-studio-m4-max-512gb",
+    "namespaceId": "mac-studio-m4-max",
+    "name": "Mac Studio M4 Max 512GB",
+    "modelName": "Mac Studio M4 Max",
+    "fullPrice": 1999,
+    "price": 1759,
+    "color": "Silver",
+    "capacity": "512GB",
+    "year": 2025,
+    "image": "img/products/mac-studio-m4-max/silver-0.webp",
+    "summary": "M4 Max · 36GB · Thunderbolt 5",
+    "colors": [
+      {
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "rating": 4.5,
+    "reviewsCount": 863,
+    "inStock": true,
+    "isNew": false
+  },
+  {
+    "id": 51,
+    "category": "mac",
+    "itemId": "macbook-pro-16-m4-pro-512gb-silver",
+    "namespaceId": "macbook-pro-16-m4-pro",
+    "name": "MacBook Pro 16-inch M4 Pro 512GB Silver",
+    "modelName": "MacBook Pro 16-inch M4 Pro",
+    "fullPrice": 2499,
+    "price": 1999,
+    "color": "Silver",
+    "capacity": "512GB",
+    "year": 2024,
+    "image": "img/products/macbook-pro-16-m4-pro/silver-0.webp",
+    "summary": "16.2\" Liquid Retina XDR · M4 Pro · 24GB",
+    "colors": [
+      {
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "name": "Space Black",
+        "hex": "#2f2f31"
+      }
+    ],
+    "rating": 4.4,
+    "reviewsCount": 512,
+    "inStock": true,
+    "isNew": false
+  },
+  {
+    "id": 52,
+    "category": "mac",
+    "itemId": "macbook-air-13-m3-256gb-spacegray",
+    "namespaceId": "macbook-air-13-m3",
+    "name": "MacBook Air 13-inch M3 256GB Space Gray",
+    "modelName": "MacBook Air 13-inch M3",
+    "fullPrice": 1099,
+    "price": 879,
+    "color": "Space Gray",
+    "capacity": "256GB",
+    "year": 2024,
+    "image": "img/products/macbook-air-13-m3/spacegray-0.webp",
+    "summary": "13.6\" Liquid Retina · M3 · 8GB",
+    "colors": [
+      {
+        "name": "Space Gray",
+        "hex": "#5c5f63"
+      },
+      {
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "name": "Starlight",
+        "hex": "#efe9df"
+      },
+      {
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "rating": 4.6,
+    "reviewsCount": 477,
+    "inStock": true,
+    "isNew": false
+  },
+  {
+    "id": 53,
+    "category": "mac",
+    "itemId": "imac-m4-256gb-silver",
+    "namespaceId": "imac-m4",
+    "name": "iMac 24-inch M4 256GB Silver",
+    "modelName": "iMac 24-inch M4",
+    "fullPrice": 1299,
+    "price": 1039,
+    "color": "Silver",
+    "capacity": "256GB",
+    "year": 2024,
+    "image": "img/products/imac-m4/silver-0.webp",
+    "summary": "24\" 4.5K Retina · M4 · 16GB",
+    "colors": [
+      {
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "name": "Blue",
+        "hex": "#9fbfd9"
+      },
+      {
+        "name": "Green",
+        "hex": "#a9cdb3"
+      },
+      {
+        "name": "Pink",
+        "hex": "#f2b8c6"
+      },
+      {
+        "name": "Yellow",
+        "hex": "#f4d77a"
+      },
+      {
+        "name": "Orange",
+        "hex": "#f2a37a"
+      },
+      {
+        "name": "Purple",
+        "hex": "#c2b4dc"
+      }
+    ],
+    "rating": 4.5,
+    "reviewsCount": 287,
+    "inStock": true,
+    "isNew": false
+  },
+  {
+    "id": 54,
+    "category": "mac",
+    "itemId": "mac-mini-m4-256gb",
+    "namespaceId": "mac-mini-m4",
+    "name": "Mac mini M4 256GB",
+    "modelName": "Mac mini M4",
+    "fullPrice": 599,
+    "price": 479,
+    "color": "Silver",
+    "capacity": "256GB",
+    "year": 2024,
+    "image": "img/products/mac-mini-m4/silver-0.webp",
+    "summary": "M4 · 16GB · 5×5 inch design",
+    "colors": [
+      {
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "rating": 4.8,
+    "reviewsCount": 289,
+    "inStock": true,
+    "isNew": false
+  },
+  {
+    "id": 55,
+    "category": "mac",
+    "itemId": "macbook-pro-14-m3-512gb-spacegray",
+    "namespaceId": "macbook-pro-14-m3",
+    "name": "MacBook Pro 14-inch M3 512GB Space Gray",
+    "modelName": "MacBook Pro 14-inch M3",
+    "fullPrice": 1599,
+    "price": 1149,
+    "color": "Space Gray",
+    "capacity": "512GB",
+    "year": 2023,
+    "image": "img/products/macbook-pro-14-m3/spacegray-0.webp",
+    "summary": "14.2\" Liquid Retina XDR · M3 · 8GB",
+    "colors": [
+      {
+        "name": "Space Gray",
+        "hex": "#5c5f63"
+      },
+      {
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "rating": 4.6,
+    "reviewsCount": 59,
+    "inStock": true,
+    "isNew": false
+  },
+  {
+    "id": 56,
+    "category": "mac",
+    "itemId": "macbook-air-15-m2-256gb-midnight",
+    "namespaceId": "macbook-air-15-m2",
+    "name": "MacBook Air 15-inch M2 256GB Midnight",
+    "modelName": "MacBook Air 15-inch M2",
+    "fullPrice": 1299,
+    "price": 939,
+    "color": "Midnight",
+    "capacity": "256GB",
+    "year": 2023,
+    "image": "img/products/macbook-air-15-m2/midnight-0.webp",
+    "summary": "15.3\" Liquid Retina · M2 · 8GB",
+    "colors": [
+      {
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "name": "Starlight",
+        "hex": "#efe9df"
+      },
+      {
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "name": "Space Gray",
+        "hex": "#5c5f63"
+      }
+    ],
+    "rating": 4.4,
+    "reviewsCount": 767,
+    "inStock": true,
+    "isNew": false
+  },
+  {
+    "id": 57,
+    "category": "mac",
+    "itemId": "mac-mini-m2-256gb",
+    "namespaceId": "mac-mini-m2",
+    "name": "Mac mini M2 256GB",
+    "modelName": "Mac mini M2",
+    "fullPrice": 599,
+    "price": 429,
+    "color": "Silver",
+    "capacity": "256GB",
+    "year": 2023,
+    "image": "img/products/mac-mini-m2/silver-0.webp",
+    "summary": "M2 · 8GB · compact desktop",
+    "colors": [
+      {
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "rating": 4.6,
+    "reviewsCount": 174,
+    "inStock": true,
+    "isNew": false
+  },
+  {
+    "id": 58,
+    "category": "mac",
+    "itemId": "macbook-pro-13-m2-256gb-spacegray",
+    "namespaceId": "macbook-pro-13-m2",
+    "name": "MacBook Pro 13-inch M2 256GB Space Gray",
+    "modelName": "MacBook Pro 13-inch M2",
+    "fullPrice": 1299,
+    "price": 829,
+    "color": "Space Gray",
+    "capacity": "256GB",
+    "year": 2022,
+    "image": "img/products/macbook-pro-13-m2/spacegray-0.webp",
+    "summary": "13.3\" Retina · M2 · Touch Bar",
+    "colors": [
+      {
+        "name": "Space Gray",
+        "hex": "#5c5f63"
+      },
+      {
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "rating": 4.6,
+    "reviewsCount": 325,
+    "inStock": true,
+    "isNew": false
+  },
+  {
+    "id": 59,
+    "category": "mac",
+    "itemId": "macbook-air-13-m2-256gb-starlight",
+    "namespaceId": "macbook-air-13-m2",
+    "name": "MacBook Air 13-inch M2 256GB Starlight",
+    "modelName": "MacBook Air 13-inch M2",
+    "fullPrice": 1199,
+    "price": 769,
+    "color": "Starlight",
+    "capacity": "256GB",
+    "year": 2022,
+    "image": "img/products/macbook-air-13-m2/starlight-0.webp",
+    "summary": "13.6\" Liquid Retina · M2 · 8GB",
+    "colors": [
+      {
+        "name": "Starlight",
+        "hex": "#efe9df"
+      },
+      {
+        "name": "Midnight",
+        "hex": "#2e3641"
+      },
+      {
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "name": "Space Gray",
+        "hex": "#5c5f63"
+      }
+    ],
+    "rating": 4.3,
+    "reviewsCount": 383,
+    "inStock": true,
+    "isNew": false
+  },
+  {
+    "id": 60,
+    "category": "mac",
+    "itemId": "macbook-pro-16-m1-pro-512gb-silver",
+    "namespaceId": "macbook-pro-16-m1-pro",
+    "name": "MacBook Pro 16-inch M1 Pro 512GB Silver",
+    "modelName": "MacBook Pro 16-inch M1 Pro",
+    "fullPrice": 2499,
+    "price": 1369,
+    "color": "Silver",
+    "capacity": "512GB",
+    "year": 2021,
+    "image": "img/products/macbook-pro-16-m1-pro/silver-0.webp",
+    "summary": "16.2\" Liquid Retina XDR · M1 Pro · 16GB",
+    "colors": [
+      {
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "name": "Space Gray",
+        "hex": "#5c5f63"
+      }
+    ],
+    "rating": 4.8,
+    "reviewsCount": 684,
+    "inStock": true,
+    "isNew": false
+  },
+  {
+    "id": 61,
+    "category": "mac",
+    "itemId": "macbook-pro-14-m1-pro-512gb-spacegray",
+    "namespaceId": "macbook-pro-14-m1-pro",
+    "name": "MacBook Pro 14-inch M1 Pro 512GB Space Gray",
+    "modelName": "MacBook Pro 14-inch M1 Pro",
+    "fullPrice": 1999,
+    "price": 1099,
+    "color": "Space Gray",
+    "capacity": "512GB",
+    "year": 2021,
+    "image": "img/products/macbook-pro-14-m1-pro/spacegray-0.webp",
+    "summary": "14.2\" Liquid Retina XDR · M1 Pro · 16GB",
+    "colors": [
+      {
+        "name": "Space Gray",
+        "hex": "#5c5f63"
+      },
+      {
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "rating": 4.8,
+    "reviewsCount": 827,
+    "inStock": true,
+    "isNew": false
+  },
+  {
+    "id": 62,
+    "category": "mac",
+    "itemId": "imac-m1-256gb-purple",
+    "namespaceId": "imac-m1",
+    "name": "iMac 24-inch M1 256GB Purple",
+    "modelName": "iMac 24-inch M1",
+    "fullPrice": 1299,
+    "price": 709,
+    "color": "Purple",
+    "capacity": "256GB",
+    "year": 2021,
+    "image": "img/products/imac-m1/purple-0.webp",
+    "summary": "24\" 4.5K Retina · M1 · 8GB",
+    "colors": [
+      {
+        "name": "Purple",
+        "hex": "#c2b4dc"
+      },
+      {
+        "name": "Blue",
+        "hex": "#9fbfd9"
+      },
+      {
+        "name": "Green",
+        "hex": "#a9cdb3"
+      },
+      {
+        "name": "Pink",
+        "hex": "#f2b8c6"
+      },
+      {
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "name": "Yellow",
+        "hex": "#f4d77a"
+      },
+      {
+        "name": "Orange",
+        "hex": "#f2a37a"
+      }
+    ],
+    "rating": 4.4,
+    "reviewsCount": 363,
+    "inStock": true,
+    "isNew": false
+  },
+  {
+    "id": 63,
     "category": "watch",
     "itemId": "apple-watch-series-12-42mm-darkbronze",
     "namespaceId": "apple-watch-series-12",
@@ -1711,7 +2243,7 @@
     "isNew": true
   },
   {
-    "id": 48,
+    "id": 64,
     "category": "watch",
     "itemId": "apple-watch-ultra-4-49mm-natural",
     "namespaceId": "apple-watch-ultra-4",
@@ -1740,7 +2272,7 @@
     "isNew": true
   },
   {
-    "id": 49,
+    "id": 65,
     "category": "watch",
     "itemId": "apple-watch-series-11-42mm-rosegold",
     "namespaceId": "apple-watch-series-11",
@@ -1789,7 +2321,7 @@
     "isNew": false
   },
   {
-    "id": 50,
+    "id": 66,
     "category": "watch",
     "itemId": "apple-watch-ultra-3-49mm-natural",
     "namespaceId": "apple-watch-ultra-3",
@@ -1818,7 +2350,7 @@
     "isNew": false
   },
   {
-    "id": 51,
+    "id": 67,
     "category": "watch",
     "itemId": "apple-watch-se-3-40mm-midnight",
     "namespaceId": "apple-watch-se-3",
@@ -1847,7 +2379,7 @@
     "isNew": false
   },
   {
-    "id": 52,
+    "id": 68,
     "category": "watch",
     "itemId": "apple-watch-series-10-42mm-jetblack",
     "namespaceId": "apple-watch-series-10",
@@ -1892,7 +2424,7 @@
     "isNew": false
   },
   {
-    "id": 53,
+    "id": 69,
     "category": "watch",
     "itemId": "apple-watch-ultra-2-49mm-natural",
     "namespaceId": "apple-watch-ultra-2",
@@ -1921,7 +2453,7 @@
     "isNew": false
   },
   {
-    "id": 54,
+    "id": 70,
     "category": "watch",
     "itemId": "apple-watch-series-9-41mm",
     "namespaceId": "apple-watch-series-9",
@@ -1946,7 +2478,7 @@
     "isNew": false
   },
   {
-    "id": 55,
+    "id": 71,
     "category": "watch",
     "itemId": "apple-watch-se-2-40mm-midnight",
     "namespaceId": "apple-watch-se-2",
@@ -1979,7 +2511,7 @@
     "isNew": false
   },
   {
-    "id": 56,
+    "id": 72,
     "category": "airpods",
     "itemId": "airpods-pro-3",
     "namespaceId": "airpods-pro-3",
@@ -2004,7 +2536,7 @@
     "isNew": false
   },
   {
-    "id": 57,
+    "id": 73,
     "category": "airpods",
     "itemId": "airpods-5-usb-c-case",
     "namespaceId": "airpods-5",
@@ -2029,7 +2561,7 @@
     "isNew": true
   },
   {
-    "id": 58,
+    "id": 74,
     "category": "airpods",
     "itemId": "airpods-4",
     "namespaceId": "airpods-4",
@@ -2054,7 +2586,7 @@
     "isNew": false
   },
   {
-    "id": 59,
+    "id": 75,
     "category": "airpods",
     "itemId": "airpods-max-2-orange",
     "namespaceId": "airpods-max-2",
@@ -2095,7 +2627,7 @@
     "isNew": true
   },
   {
-    "id": 60,
+    "id": 76,
     "category": "accessories",
     "itemId": "apple-pencil-pro",
     "namespaceId": "apple-pencil-pro",
@@ -2120,7 +2652,7 @@
     "isNew": false
   },
   {
-    "id": 61,
+    "id": 77,
     "category": "accessories",
     "itemId": "magsafe-charger",
     "namespaceId": "magsafe-charger",
@@ -2145,7 +2677,7 @@
     "isNew": false
   },
   {
-    "id": 62,
+    "id": 78,
     "category": "accessories",
     "itemId": "iphone-air-magsafe-battery",
     "namespaceId": "iphone-air-magsafe-battery",
@@ -2170,7 +2702,7 @@
     "isNew": false
   },
   {
-    "id": 63,
+    "id": 79,
     "category": "accessories",
     "itemId": "40w-dynamic-power-adapter",
     "namespaceId": "40w-dynamic-power-adapter",
@@ -2195,7 +2727,7 @@
     "isNew": false
   },
   {
-    "id": 64,
+    "id": 80,
     "category": "accessories",
     "itemId": "20w-usb-c-power-adapter",
     "namespaceId": "20w-usb-c-power-adapter",
@@ -2220,7 +2752,7 @@
     "isNew": false
   },
   {
-    "id": 65,
+    "id": 81,
     "category": "accessories",
     "itemId": "usb-c-to-magsafe-3-cable",
     "namespaceId": "usb-c-to-magsafe-3-cable",
@@ -2245,7 +2777,7 @@
     "isNew": false
   },
   {
-    "id": 66,
+    "id": 82,
     "category": "accessories",
     "itemId": "airtag-4-pack",
     "namespaceId": "airtag-4-pack",
@@ -2270,7 +2802,7 @@
     "isNew": true
   },
   {
-    "id": 67,
+    "id": 83,
     "category": "accessories",
     "itemId": "airtag-finewoven-key-ring-burgundy",
     "namespaceId": "airtag-finewoven-key-ring",
@@ -2299,7 +2831,7 @@
     "isNew": true
   },
   {
-    "id": 68,
+    "id": 84,
     "category": "accessories",
     "itemId": "iphone-18-pro-max-silicone-case",
     "namespaceId": "iphone-18-pro-max-silicone-case",
@@ -2324,7 +2856,7 @@
     "isNew": true
   },
   {
-    "id": 69,
+    "id": 85,
     "category": "accessories",
     "itemId": "iphone-finewoven-wallet",
     "namespaceId": "iphone-finewoven-wallet",
@@ -2349,7 +2881,7 @@
     "isNew": true
   },
   {
-    "id": 70,
+    "id": 86,
     "category": "accessories",
     "itemId": "iphone-duo-case",
     "namespaceId": "iphone-duo-case",
