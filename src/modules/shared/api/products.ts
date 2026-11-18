@@ -43,7 +43,6 @@ export const toProduct = (details: ProductDetails, card: Product): Product => ({
   color: details.colors.find(color => color.slug === details.color)?.name ?? '',
   capacity: details.capacity,
   image: details.images[0],
-  imageCover: false,
   inStock: details.inStock,
 });
 
