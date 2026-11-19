@@ -6,6 +6,7 @@ import { Loader } from '../shared/components/Loader';
 import { ProductsSlider } from '../shared/components/ProductsSlider';
 import { PicturesSlider } from './components/PicturesSlider';
 import { ShopByCategory } from './components/ShopByCategory';
+import { Faq } from './components/Faq';
 import { useRecentlyViewed } from '../shared/hooks/useRecentlyViewed';
 
 const SLIDER_LIMIT = 12;
@@ -79,6 +80,8 @@ export const HomePage = () => {
                 products={recentlyViewed}
               />
             )}
+
+            <Faq />
           </>
         )}
       </div>

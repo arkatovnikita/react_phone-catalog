@@ -1,0 +1,154 @@
+@use '../../../../styles/variables' as *;
+@use '../../../../styles/mixins' as *;
+
+.faq {
+  display: grid;
+  gap: 20px;
+
+  @include on-desktop {
+    grid-template-columns: 1fr 2fr;
+    gap: 48px;
+    align-items: start;
+  }
+}
+
+.title {
+  @include section-title {
+    margin-bottom: 10px;
+  }
+}
+
+.lead {
+  margin: 0;
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--color-secondary);
+
+  @include on-desktop {
+    max-width: 320px;
+  }
+}
+
+.list {
+  margin: 0;
+  padding: 0;
+  border-top: 1px solid var(--color-elements);
+  list-style: none;
+}
+
+.item {
+  border-bottom: 1px solid var(--color-elements);
+}
+
+.heading {
+  margin: 0;
+}
+
+.question {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: 18px 2px;
+  border: none;
+  font-family: inherit;
+  font-size: 16px;
+  font-weight: 600;
+  text-align: left;
+  color: var(--color-primary);
+  background: none;
+  cursor: pointer;
+
+  @include on-tablet {
+    padding: 20px 4px;
+    font-size: 17px;
+  }
+
+  &:focus-visible {
+    outline: 2px solid var(--color-primary);
+    outline-offset: 2px;
+    border-radius: $radius-sm;
+  }
+}
+
+.icon {
+  position: relative;
+  flex: 0 0 32px;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background-color: var(--color-surface);
+  transition: transform $transition-duration;
+
+  &::before,
+  &::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 12px;
+    height: 2px;
+    border-radius: 1px;
+    background-color: var(--color-primary);
+    transform: translate(-50%, -50%);
+  }
+
+  &::after {
+    transform: translate(-50%, -50%) rotate(90deg);
+    transition: transform $transition-duration;
+  }
+}
+
+.answer {
+  display: grid;
+  grid-template-rows: 0fr;
+  transition: grid-template-rows $transition-duration ease;
+}
+
+.answerInner {
+  overflow: hidden;
+}
+
+.answerText {
+  margin: 0;
+  padding: 0 48px 22px 2px;
+  font-size: 15px;
+  line-height: 1.55;
+  color: var(--color-secondary);
+
+  @include on-tablet {
+    padding-left: 4px;
+  }
+}
+
+.code {
+  padding: 2px 8px;
+  border-radius: 6px;
+  font-family: inherit;
+  font-weight: 600;
+  color: var(--color-primary);
+  background-color: var(--color-surface);
+}
+
+.itemOpen {
+  .icon {
+    transform: rotate(180deg);
+  }
+
+  .icon::after {
+    transform: translate(-50%, -50%) rotate(0deg);
+  }
+
+  .answer {
+    grid-template-rows: 1fr;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .icon,
+  .icon::after,
+  .answer {
+    transition: none;
+  }
+}
