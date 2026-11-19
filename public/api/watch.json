@@ -2229,11 +2229,11 @@
       },
       {
         "label": "Health",
-        "value": "ECG, blood oxygen, sleep score"
+        "value": "ECG, blood oxygen, sleep score, sleep apnea and hypertension notifications"
       },
       {
         "label": "Water resistance",
-        "value": "WR100, dive to 40 m"
+        "value": "WR100, dive to 40 m, IP6X"
       },
       {
         "label": "Connectivity",
@@ -2337,11 +2337,11 @@
       },
       {
         "label": "Health",
-        "value": "ECG, blood oxygen, sleep score"
+        "value": "ECG, blood oxygen, sleep score, sleep apnea and hypertension notifications"
       },
       {
         "label": "Water resistance",
-        "value": "WR100, dive to 40 m"
+        "value": "WR100, dive to 40 m, IP6X"
       },
       {
         "label": "Connectivity",
@@ -2467,7 +2467,7 @@
       },
       {
         "label": "Battery",
-        "value": "Up to 24 hours"
+        "value": "Up to 24 hours, 38 hours in Low Power Mode"
       },
       {
         "label": "Health",
@@ -2597,7 +2597,7 @@
       },
       {
         "label": "Battery",
-        "value": "Up to 24 hours"
+        "value": "Up to 24 hours, 38 hours in Low Power Mode"
       },
       {
         "label": "Health",
@@ -2727,7 +2727,7 @@
       },
       {
         "label": "Battery",
-        "value": "Up to 24 hours"
+        "value": "Up to 24 hours, 38 hours in Low Power Mode"
       },
       {
         "label": "Health",
@@ -2857,7 +2857,7 @@
       },
       {
         "label": "Battery",
-        "value": "Up to 24 hours"
+        "value": "Up to 24 hours, 38 hours in Low Power Mode"
       },
       {
         "label": "Health",
@@ -2987,7 +2987,7 @@
       },
       {
         "label": "Battery",
-        "value": "Up to 24 hours"
+        "value": "Up to 24 hours, 38 hours in Low Power Mode"
       },
       {
         "label": "Health",
@@ -3117,7 +3117,7 @@
       },
       {
         "label": "Battery",
-        "value": "Up to 24 hours"
+        "value": "Up to 24 hours, 38 hours in Low Power Mode"
       },
       {
         "label": "Health",
@@ -3247,7 +3247,7 @@
       },
       {
         "label": "Battery",
-        "value": "Up to 24 hours"
+        "value": "Up to 24 hours, 38 hours in Low Power Mode"
       },
       {
         "label": "Health",
@@ -3377,7 +3377,7 @@
       },
       {
         "label": "Battery",
-        "value": "Up to 24 hours"
+        "value": "Up to 24 hours, 38 hours in Low Power Mode"
       },
       {
         "label": "Health",
@@ -3507,7 +3507,7 @@
       },
       {
         "label": "Battery",
-        "value": "Up to 24 hours"
+        "value": "Up to 24 hours, 38 hours in Low Power Mode"
       },
       {
         "label": "Health",
@@ -3637,7 +3637,7 @@
       },
       {
         "label": "Battery",
-        "value": "Up to 24 hours"
+        "value": "Up to 24 hours, 38 hours in Low Power Mode"
       },
       {
         "label": "Health",
@@ -3767,7 +3767,7 @@
       },
       {
         "label": "Battery",
-        "value": "Up to 24 hours"
+        "value": "Up to 24 hours, 38 hours in Low Power Mode"
       },
       {
         "label": "Health",
@@ -3897,7 +3897,7 @@
       },
       {
         "label": "Battery",
-        "value": "Up to 24 hours"
+        "value": "Up to 24 hours, 38 hours in Low Power Mode"
       },
       {
         "label": "Health",
@@ -4027,7 +4027,7 @@
       },
       {
         "label": "Battery",
-        "value": "Up to 24 hours"
+        "value": "Up to 24 hours, 38 hours in Low Power Mode"
       },
       {
         "label": "Health",
@@ -4157,7 +4157,7 @@
       },
       {
         "label": "Battery",
-        "value": "Up to 24 hours"
+        "value": "Up to 24 hours, 38 hours in Low Power Mode"
       },
       {
         "label": "Health",
@@ -4265,11 +4265,11 @@
       },
       {
         "label": "Health",
-        "value": "ECG, blood oxygen, sleep score"
+        "value": "ECG, blood oxygen, sleep score, sleep apnea and hypertension notifications"
       },
       {
         "label": "Water resistance",
-        "value": "WR100, dive to 40 m"
+        "value": "WR100, dive to 40 m, IP6X"
       },
       {
         "label": "Connectivity",
@@ -4373,11 +4373,11 @@
       },
       {
         "label": "Health",
-        "value": "ECG, blood oxygen, sleep score"
+        "value": "ECG, blood oxygen, sleep score, sleep apnea and hypertension notifications"
       },
       {
         "label": "Water resistance",
-        "value": "WR100, dive to 40 m"
+        "value": "WR100, dive to 40 m, IP6X"
       },
       {
         "label": "Connectivity",
@@ -4478,11 +4478,11 @@
       },
       {
         "label": "Battery",
-        "value": "Up to 18 hours"
+        "value": "Up to 18 hours, 32 hours in Low Power Mode"
       },
       {
         "label": "Health",
-        "value": "Heart rate, sleep tracking, Crash Detection"
+        "value": "Heart rate, sleep score, sleep apnea notifications, Crash Detection"
       },
       {
         "label": "Water resistance",
@@ -4583,11 +4583,11 @@
       },
       {
         "label": "Battery",
-        "value": "Up to 18 hours"
+        "value": "Up to 18 hours, 32 hours in Low Power Mode"
       },
       {
         "label": "Health",
-        "value": "Heart rate, sleep tracking, Crash Detection"
+        "value": "Heart rate, sleep score, sleep apnea notifications, Crash Detection"
       },
       {
         "label": "Water resistance",
@@ -4688,11 +4688,11 @@
       },
       {
         "label": "Battery",
-        "value": "Up to 18 hours"
+        "value": "Up to 18 hours, 32 hours in Low Power Mode"
       },
       {
         "label": "Health",
-        "value": "Heart rate, sleep tracking, Crash Detection"
+        "value": "Heart rate, sleep score, sleep apnea notifications, Crash Detection"
       },
       {
         "label": "Water resistance",
@@ -4793,11 +4793,11 @@
       },
       {
         "label": "Battery",
-        "value": "Up to 18 hours"
+        "value": "Up to 18 hours, 32 hours in Low Power Mode"
       },
       {
         "label": "Health",
-        "value": "Heart rate, sleep tracking, Crash Detection"
+        "value": "Heart rate, sleep score, sleep apnea notifications, Crash Detection"
       },
       {
         "label": "Water resistance",
@@ -4926,7 +4926,7 @@
       },
       {
         "label": "Water resistance",
-        "value": "WR50"
+        "value": "WR50, IP6X"
       }
     ],
     "rating": 4.8,
@@ -5051,7 +5051,7 @@
       },
       {
         "label": "Water resistance",
-        "value": "WR50"
+        "value": "WR50, IP6X"
       }
     ],
     "rating": 4.8,
@@ -5176,7 +5176,7 @@
       },
       {
         "label": "Water resistance",
-        "value": "WR50"
+        "value": "WR50, IP6X"
       }
     ],
     "rating": 4.8,
@@ -5301,7 +5301,7 @@
       },
       {
         "label": "Water resistance",
-        "value": "WR50"
+        "value": "WR50, IP6X"
       }
     ],
     "rating": 4.8,
@@ -5426,7 +5426,7 @@
       },
       {
         "label": "Water resistance",
-        "value": "WR50"
+        "value": "WR50, IP6X"
       }
     ],
     "rating": 4.8,
@@ -5551,7 +5551,7 @@
       },
       {
         "label": "Water resistance",
-        "value": "WR50"
+        "value": "WR50, IP6X"
       }
     ],
     "rating": 4.8,
@@ -5676,7 +5676,7 @@
       },
       {
         "label": "Water resistance",
-        "value": "WR50"
+        "value": "WR50, IP6X"
       }
     ],
     "rating": 4.8,
@@ -5801,7 +5801,7 @@
       },
       {
         "label": "Water resistance",
-        "value": "WR50"
+        "value": "WR50, IP6X"
       }
     ],
     "rating": 4.8,
@@ -5926,7 +5926,7 @@
       },
       {
         "label": "Water resistance",
-        "value": "WR50"
+        "value": "WR50, IP6X"
       }
     ],
     "rating": 4.8,
@@ -6051,7 +6051,7 @@
       },
       {
         "label": "Water resistance",
-        "value": "WR50"
+        "value": "WR50, IP6X"
       }
     ],
     "rating": 4.8,
@@ -6176,7 +6176,7 @@
       },
       {
         "label": "Water resistance",
-        "value": "WR50"
+        "value": "WR50, IP6X"
       }
     ],
     "rating": 4.8,
@@ -6301,7 +6301,7 @@
       },
       {
         "label": "Water resistance",
-        "value": "WR50"
+        "value": "WR50, IP6X"
       }
     ],
     "rating": 4.8,
@@ -6405,7 +6405,7 @@
       },
       {
         "label": "Water resistance",
-        "value": "WR100, dive to 40 m"
+        "value": "WR100, dive to 40 m, IP6X"
       },
       {
         "label": "Connectivity",
@@ -6513,7 +6513,7 @@
       },
       {
         "label": "Water resistance",
-        "value": "WR100, dive to 40 m"
+        "value": "WR100, dive to 40 m, IP6X"
       },
       {
         "label": "Connectivity",
@@ -6617,7 +6617,7 @@
       },
       {
         "label": "Water resistance",
-        "value": "WR50"
+        "value": "WR50, IP6X"
       }
     ],
     "rating": 4.7,
@@ -6717,7 +6717,7 @@
       },
       {
         "label": "Water resistance",
-        "value": "WR50"
+        "value": "WR50, IP6X"
       }
     ],
     "rating": 4.7,
