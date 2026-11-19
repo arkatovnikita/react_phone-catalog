@@ -13,6 +13,7 @@ import styles from './SearchPanel.module.scss';
 import { getProducts } from '../../api/products';
 import { Product } from '../../types/Product';
 import { CATEGORY_TITLES } from '../../constants/categories';
+import { POPULAR_SEARCHES } from '../../constants/popularSearches';
 import { useDebounce } from '../../hooks/useDebounce';
 import { getSearchWords, searchProducts } from '../../utils/searchProducts';
 import SearchIcon from '../../../../assets/icons/search.svg?react';
@@ -21,14 +22,6 @@ import CloseIcon from '../../../../assets/icons/close.svg?react';
 type Props = {
   onClose: () => void;
 };
-
-const POPULAR_SEARCHES = [
-  'iPhone 18 Pro',
-  'MacBook Pro',
-  'AirPods',
-  'Apple Watch Ultra',
-  'iPad Air',
-];
 
 const DEBOUNCE_DELAY = 300;
 const MAX_RESULTS = 6;

@@ -1,0 +1,43 @@
+@use '../../styles/mixins' as *;
+
+.page {
+  padding-block: 24px 56px;
+
+  @include page-padding;
+
+  @include on-desktop {
+    padding-block: 32px 80px;
+  }
+}
+
+.title {
+  @include page-title {
+    margin-bottom: 8px;
+    overflow-wrap: anywhere;
+  }
+}
+
+.count {
+  margin: 0 0 28px;
+  font-size: 15px;
+  color: var(--color-secondary);
+
+  @include on-desktop {
+    margin-bottom: 36px;
+  }
+}
+
+.suggestions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  justify-content: center;
+}
+
+.suggestion {
+  @include button-secondary {
+    height: 40px;
+    padding-inline: 18px;
+    font-size: 14px;
+  }
+}
