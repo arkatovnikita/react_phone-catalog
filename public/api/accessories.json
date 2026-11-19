@@ -37,6 +37,12 @@
         "text": [
           "Squeeze to open a tool palette, roll to rotate your brush."
         ]
+      },
+      {
+        "title": "Haptics and Find My",
+        "text": [
+          "Feel a gentle tap when you squeeze or snap to shapes, and locate it with Find My if it goes missing."
+        ]
       }
     ],
     "specs": [
@@ -119,6 +125,12 @@
         "text": [
           "Up to 25W with compatible iPhone models."
         ]
+      },
+      {
+        "title": "Works with AirPods",
+        "text": [
+          "Also charges AirPods in a wireless or MagSafe charging case."
+        ]
       }
     ],
     "specs": [
@@ -199,6 +211,12 @@
         "title": "Charge both",
         "text": [
           "Charges itself and iPhone over USB-C."
+        ]
+      },
+      {
+        "title": "Made for iPhone Air",
+        "text": [
+          "Shaped to sit flush against iPhone Air, and its charge level appears in the Batteries widget."
         ]
       }
     ],
@@ -281,6 +299,12 @@
         "text": [
           "Small enough to take anywhere."
         ]
+      },
+      {
+        "title": "Up to 60W when needed",
+        "text": [
+          "Dynamically delivers up to 60W to charge iPad or MacBook Air quickly."
+        ]
       }
     ],
     "specs": [
@@ -356,6 +380,18 @@
         "text": [
           "Fast charging at home, at the office or on the go."
         ]
+      },
+      {
+        "title": "Fast charge iPhone",
+        "text": [
+          "Charges compatible iPhone models to 50% in around 30 minutes."
+        ]
+      },
+      {
+        "title": "One adapter, many devices",
+        "text": [
+          "Works with iPhone, iPad and AirPods using a USB-C cable."
+        ]
       }
     ],
     "specs": [
@@ -430,6 +466,18 @@
         "title": "Safe and simple",
         "text": [
           "Magnetic connection that releases safely if pulled."
+        ]
+      },
+      {
+        "title": "Fast charging",
+        "text": [
+          "Supports fast charging on compatible MacBook Air and MacBook Pro models with a suitable USB-C power adapter."
+        ]
+      },
+      {
+        "title": "Braided and long",
+        "text": [
+          "A durable 2-meter woven cable that resists tangling."
         ]
       }
     ],
@@ -510,6 +558,12 @@
         "text": [
           "Guides you to your item with arrows and haptics."
         ]
+      },
+      {
+        "title": "Louder and farther",
+        "text": [
+          "A 50 percent louder speaker and second-generation Ultra Wideband help you find items from farther away."
+        ]
       }
     ],
     "specs": [
@@ -589,6 +643,18 @@
         "text": [
           "A soft, durable FineWoven key ring for your AirTag."
         ]
+      },
+      {
+        "title": "FineWoven material",
+        "text": [
+          "A durable microtwill fabric with a soft, suede-like feel."
+        ]
+      },
+      {
+        "title": "Designed for AirTag",
+        "text": [
+          "Holds AirTag securely and clips easily onto your keys."
+        ]
       }
     ],
     "specs": [
@@ -663,6 +729,18 @@
         "title": "Carry it with style",
         "text": [
           "A soft, durable FineWoven key ring for your AirTag."
+        ]
+      },
+      {
+        "title": "FineWoven material",
+        "text": [
+          "A durable microtwill fabric with a soft, suede-like feel."
+        ]
+      },
+      {
+        "title": "Designed for AirTag",
+        "text": [
+          "Holds AirTag securely and clips easily onto your keys."
         ]
       }
     ],
@@ -742,6 +820,12 @@
         "text": [
           "Snaps on to MagSafe chargers and wallets."
         ]
+      },
+      {
+        "title": "Made for iPhone 18 Pro Max",
+        "text": [
+          "Designed to fit snugly around the buttons and camera system."
+        ]
       }
     ],
     "specs": [
@@ -816,7 +900,19 @@
       {
         "title": "Your cards, always with you",
         "text": [
-          "Snaps magnetically to the back of your iPhone."
+          "Snaps magnetically to the back of your iPhone and holds up to three cards."
+        ]
+      },
+      {
+        "title": "Find My support",
+        "text": [
+          "Get notified with its last known location if it is detached from your iPhone."
+        ]
+      },
+      {
+        "title": "FineWoven material",
+        "text": [
+          "A durable microtwill fabric with a soft, suede-like feel."
         ]
       }
     ],
@@ -893,6 +989,18 @@
         "title": "Designed for Duo",
         "text": [
           "Protects both halves of iPhone Duo and stays on when you fold and unfold it."
+        ]
+      },
+      {
+        "title": "Slim profile",
+        "text": [
+          "Adds protection without making iPhone Duo bulky to fold or carry."
+        ]
+      },
+      {
+        "title": "Two colors",
+        "text": [
+          "Available from Apple in Navy Blue and Sand."
         ]
       }
     ],
