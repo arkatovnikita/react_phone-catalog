@@ -10,7 +10,7 @@
   background-color: var(--color-background);
   animation: appear 0.25s ease-out;
 
-  @include on-tablet {
+  @include on-desktop {
     display: none;
   }
 }

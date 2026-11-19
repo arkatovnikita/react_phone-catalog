@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { useParams } from 'react-router-dom';
+import { Link, useParams } from 'react-router-dom';
 import styles from './ProductDetailsPage.module.scss';
 import { getProductData, getSuggestedProducts } from '../shared/api/products';
 import { Product } from '../shared/types/Product';
@@ -11,6 +11,10 @@ import { ProductsSlider } from '../shared/components/ProductsSlider';
 import { ProductGallery } from './components/ProductGallery';
 import { ProductOptions } from './components/ProductOptions';
 import { ProductInfo } from './components/ProductInfo';
+import { ProductReviews } from './components/ProductReviews';
+import { CATEGORY_TITLES } from '../shared/constants/categories';
+import { EmptyState } from '../shared/components/EmptyState';
+import SearchIcon from '../../assets/icons/search.svg?react';
 
 type ProductData = {
   product: Product;
@@ -19,6 +23,10 @@ type ProductData = {
 };
 
 const SUGGESTED_COUNT = 12;
+
+const NOT_FOUND_TEXT =
+  'This product may no longer be available, or the link is incorrect. ' +
+  'Try browsing the catalog instead.';
 
 export const ProductDetailsPage = () => {
   const { productId = '' } = useParams();
@@ -38,13 +46,17 @@ export const ProductDetailsPage = () => {
       .finally(() => setIsLoading(false));
   }, [productId]);
 
+  const namespaceId = data?.details.namespaceId;
+
   useEffect(() => {
-    getSuggestedProducts(SUGGESTED_COUNT)
+    if (!namespaceId) {
+      return;
+    }
+
+    getSuggestedProducts(namespaceId, SUGGESTED_COUNT)
       .then(setSuggested)
       .catch(() => setSuggested([]));
-  }, [productId]);
-
-  const namespaceId = data?.details.namespaceId;
+  }, [namespaceId]);
 
   useEffect(() => {
     window.scrollTo({ top: 0 });
@@ -73,20 +85,26 @@ export const ProductDetailsPage = () => {
       <section className={styles.page}>
         <BackButton />
 
-        <h1 className={styles.title}>Product was not found</h1>
+        <EmptyState
+          isPageTitle
+          icon={<SearchIcon />}
+          title="Product not found"
+          text={NOT_FOUND_TEXT}
+        >
+          <Link to="/" className={styles.primary}>
+            Go to home
+          </Link>
 
-        <img
-          src={`${import.meta.env.BASE_URL}img/product-not-found.png`}
-          alt="Product not found"
-          className={styles.notFoundImage}
-        />
+          <Link to="/iphone" className={styles.secondary}>
+            Browse iPhone
+          </Link>
+        </EmptyState>
       </section>
     );
   }
 
   const { product, details, variants } = data;
-  const categoryTitle =
-    details.category[0].toUpperCase() + details.category.slice(1);
+  const categoryTitle = CATEGORY_TITLES[details.category];
 
   return (
     <section className={styles.page}>
@@ -117,6 +135,14 @@ export const ProductDetailsPage = () => {
 
       <div className={styles.info}>
         <ProductInfo details={details} />
+      </div>
+
+      <div className={styles.info}>
+        <ProductReviews
+          rating={details.rating}
+          count={details.reviewsCount}
+          reviews={details.reviews}
+        />
       </div>
 
       {suggested.length > 0 && (

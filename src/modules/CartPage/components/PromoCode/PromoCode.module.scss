@@ -44,11 +44,11 @@
 }
 
 .apply {
-  @include button-primary;
-
-  height: 44px;
-  padding-inline: 18px;
-  font-size: 14px;
+  @include button-primary {
+    height: 44px;
+    padding-inline: 18px;
+    font-size: 14px;
+  }
 
   &:disabled {
     opacity: 0.4;
@@ -84,10 +84,10 @@
 }
 
 .remove {
-  @include icon-button(32px);
-
-  color: inherit;
-  background-color: transparent;
+  @include icon-button(32px) {
+    color: inherit;
+    background-color: transparent;
+  }
 
   &:hover:not(:disabled) {
     background-color: var(--color-background);

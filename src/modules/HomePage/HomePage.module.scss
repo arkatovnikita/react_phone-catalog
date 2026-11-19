@@ -13,12 +13,12 @@
 }
 
 .content {
-  @include page-padding;
-
   display: flex;
   flex-direction: column;
   gap: 48px;
   margin-top: 40px;
+
+  @include page-padding;
 
   @include on-tablet {
     gap: 64px;

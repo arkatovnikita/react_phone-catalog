@@ -1,1430 +1,1044 @@
 [
   {
-    "id": "apple-watch-series-3-38mm-space-gray",
+    "id": "apple-pencil-pro",
+    "sku": "206967",
     "category": "accessories",
-    "namespaceId": "apple-watch-series-3",
-    "name": "Apple Watch Series 3 38mm Space Gray",
-    "capacityAvailable": ["38mm", "42mm"],
-    "capacity": "38mm",
-    "priceRegular": 329,
-    "priceDiscount": 179,
-    "colorsAvailable": ["space gray", "silver", "gold"],
-    "color": "space gray",
+    "namespaceId": "apple-pencil-pro",
+    "name": "Apple Pencil Pro",
+    "modelName": "Apple Pencil Pro",
+    "year": 2024,
+    "capacityAvailable": [],
+    "capacity": "",
+    "capacityLabel": "Storage",
+    "priceRegular": 129,
+    "priceDiscount": 129,
+    "colors": [
+      {
+        "slug": "default",
+        "name": "Apple Pencil Pro",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "color": "default",
     "images": [
-      "img/accessories/apple-watch-series-3/space-gray/00.webp",
-      "img/accessories/apple-watch-series-3/space-gray/01.webp",
-      "img/accessories/apple-watch-series-3/space-gray/02.webp"
+      "img/products/apple-pencil-pro/default-0.webp",
+      "img/products/apple-pencil-pro/default-1.webp",
+      "img/products/apple-pencil-pro/default-2.webp"
     ],
     "description": [
       {
-        "title": "Monitor your health",
+        "title": "Pro-level precision",
         "text": [
-          "The Apple Watch Series 3 is equipped with sensors to track your heart rate, calories burned, and other fitness metrics throughout the day. It can even track your workouts and suggest personalized fitness goals."
+          "Pixel-perfect accuracy and low latency for drawing and notes."
         ]
       },
       {
-        "title": "Stay connected on the go",
+        "title": "New gestures",
         "text": [
-          "With cellular connectivity, you can make calls and send texts from your wrist even without your iPhone nearby. And with Siri, you can get directions, send messages, and set reminders hands-free."
+          "Squeeze to open a tool palette, roll to rotate your brush."
         ]
       },
       {
-        "title": "Stream your favorite music",
+        "title": "Haptics and Find My",
         "text": [
-          "With Apple Music and Siri, you can stream over 75 million songs on your Apple Watch Series 3. Or listen to your favorite podcasts, audiobooks, and radio stations."
+          "Feel a gentle tap when you squeeze or snap to shapes, and locate it with Find My if it goes missing."
         ]
       }
     ],
-    "screen": "1.3' OLED",
-    "resolution": "272x340",
-    "processor": "Apple S3",
-    "ram": "768MB",
-    "cell": ["Wi-Fi", "Bluetooth", "LTE"]
+    "specs": [
+      {
+        "label": "Compatibility",
+        "value": "iPad Pro (M4, M5), iPad Air (M2+), iPad mini (A17 Pro+)"
+      },
+      {
+        "label": "Connection",
+        "value": "Magnetic pairing and charging"
+      },
+      {
+        "label": "Features",
+        "value": "Squeeze, barrel roll, haptic feedback, Find My"
+      }
+    ],
+    "rating": 4.6,
+    "reviewsCount": 842,
+    "reviews": [
+      {
+        "author": "James T.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Recommend",
+        "text": "A bit pricey, but it just works."
+      },
+      {
+        "author": "Olivia M.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Good quality",
+        "text": "Feels premium and works with all my devices."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 4,
+        "date": "2026-06-03",
+        "title": "Works perfectly",
+        "text": "Exactly what I expected from Apple quality."
+      }
+    ],
+    "inStock": true
   },
   {
-    "id": "apple-watch-series-3-42mm-space-gray",
+    "id": "magsafe-charger",
+    "sku": "380520",
     "category": "accessories",
-    "namespaceId": "apple-watch-series-3",
-    "name": "Apple Watch Series 3 42mm Space Gray",
-    "capacityAvailable": ["38mm", "42mm"],
-    "capacity": "42mm",
-    "priceRegular": 359,
-    "priceDiscount": 199,
-    "colorsAvailable": ["space gray", "silver", "gold"],
-    "color": "space gray",
+    "namespaceId": "magsafe-charger",
+    "name": "MagSafe Charger (1 m)",
+    "modelName": "MagSafe Charger (1 m)",
+    "year": 2025,
+    "capacityAvailable": [],
+    "capacity": "",
+    "capacityLabel": "Storage",
+    "priceRegular": 39,
+    "priceDiscount": 39,
+    "colors": [
+      {
+        "slug": "default",
+        "name": "MagSafe Charger (1 m)",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "color": "default",
     "images": [
-      "img/accessories/apple-watch-series-3/space-gray/00.webp",
-      "img/accessories/apple-watch-series-3/space-gray/01.webp",
-      "img/accessories/apple-watch-series-3/space-gray/02.webp"
+      "img/products/magsafe-charger/default-0.webp",
+      "img/products/magsafe-charger/default-1.webp",
+      "img/products/magsafe-charger/default-2.webp",
+      "img/products/magsafe-charger/default-3.webp"
     ],
     "description": [
       {
-        "title": "Monitor your health",
+        "title": "Snaps right on",
         "text": [
-          "The Apple Watch Series 3 is equipped with sensors to track your heart rate, calories burned, and other fitness metrics throughout the day. It can even track your workouts and suggest personalized fitness goals."
+          "Perfectly aligned magnets for faster wireless charging."
         ]
       },
       {
-        "title": "Stay connected on the go",
+        "title": "Faster charging",
         "text": [
-          "With cellular connectivity, you can make calls and send texts from your wrist even without your iPhone nearby. And with Siri, you can get directions, send messages, and set reminders hands-free."
+          "Up to 25W with compatible iPhone models."
         ]
       },
       {
-        "title": "Stream your favorite music",
+        "title": "Works with AirPods",
         "text": [
-          "With Apple Music and Siri, you can stream over 75 million songs on your Apple Watch Series 3. Or listen to your favorite podcasts, audiobooks, and radio stations."
+          "Also charges AirPods in a wireless or MagSafe charging case."
         ]
       }
     ],
-    "screen": "1.5' OLED",
-    "resolution": "312x390",
-    "processor": "Apple S3",
-    "ram": "768MB",
-    "cell": ["Wi-Fi", "Bluetooth", "LTE"]
+    "specs": [
+      {
+        "label": "Power",
+        "value": "Up to 25W with a 30W adapter"
+      },
+      {
+        "label": "Cable",
+        "value": "1 m, USB-C"
+      },
+      {
+        "label": "Compatibility",
+        "value": "iPhone 12 and later, AirPods"
+      }
+    ],
+    "rating": 4.7,
+    "reviewsCount": 432,
+    "reviews": [
+      {
+        "author": "Lucas P.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Recommend",
+        "text": "A bit pricey, but it just works."
+      },
+      {
+        "author": "Daniel K.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Works perfectly",
+        "text": "Exactly what I expected from Apple quality."
+      },
+      {
+        "author": "Max N.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Good quality",
+        "text": "Feels premium and works with all my devices."
+      }
+    ],
+    "inStock": true
   },
   {
-    "id": "apple-watch-series-3-38mm-gold",
+    "id": "iphone-air-magsafe-battery",
+    "sku": "803288",
     "category": "accessories",
-    "namespaceId": "apple-watch-series-3",
-    "name": "Apple Watch Series 3 38mm Gold",
-    "capacityAvailable": ["38mm", "42mm"],
-    "capacity": "38mm",
-    "priceRegular": 329,
-    "priceDiscount": 179,
-    "colorsAvailable": ["space gray", "silver", "gold"],
-    "color": "gold",
+    "namespaceId": "iphone-air-magsafe-battery",
+    "name": "iPhone Air MagSafe Battery",
+    "modelName": "iPhone Air MagSafe Battery",
+    "year": 2025,
+    "capacityAvailable": [],
+    "capacity": "",
+    "capacityLabel": "Storage",
+    "priceRegular": 99,
+    "priceDiscount": 99,
+    "colors": [
+      {
+        "slug": "default",
+        "name": "iPhone Air MagSafe Battery",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "color": "default",
     "images": [
-      "img/accessories/apple-watch-series-3/gold/00.webp",
-      "img/accessories/apple-watch-series-3/gold/01.webp",
-      "img/accessories/apple-watch-series-3/gold/02.webp"
+      "img/products/iphone-air-magsafe-battery/default-0.webp",
+      "img/products/iphone-air-magsafe-battery/default-1.webp",
+      "img/products/iphone-air-magsafe-battery/default-2.webp"
     ],
     "description": [
       {
-        "title": "Monitor your health",
+        "title": "More power, still thin",
         "text": [
-          "The Apple Watch Series 3 is equipped with sensors to track your heart rate, calories burned, and other fitness metrics throughout the day. It can even track your workouts and suggest personalized fitness goals."
+          "Adds hours of battery life to iPhone Air."
         ]
       },
       {
-        "title": "Stay connected on the go",
+        "title": "Charge both",
         "text": [
-          "With cellular connectivity, you can make calls and send texts from your wrist even without your iPhone nearby. And with Siri, you can get directions, send messages, and set reminders hands-free."
+          "Charges itself and iPhone over USB-C."
         ]
       },
       {
-        "title": "Stream your favorite music",
+        "title": "Made for iPhone Air",
         "text": [
-          "With Apple Music and Siri, you can stream over 75 million songs on your Apple Watch Series 3. Or listen to your favorite podcasts, audiobooks, and radio stations."
+          "Shaped to sit flush against iPhone Air, and its charge level appears in the Batteries widget."
         ]
       }
     ],
-    "screen": "1.3' OLED",
-    "resolution": "272x340",
-    "processor": "Apple S3",
-    "ram": "768MB",
-    "cell": ["Wi-Fi", "Bluetooth", "LTE"]
+    "specs": [
+      {
+        "label": "Compatibility",
+        "value": "iPhone Air"
+      },
+      {
+        "label": "Charging",
+        "value": "USB-C, MagSafe"
+      },
+      {
+        "label": "Design",
+        "value": "Ultra-thin"
+      }
+    ],
+    "rating": 4.8,
+    "reviewsCount": 852,
+    "reviews": [
+      {
+        "author": "Sofia R.",
+        "rating": 5,
+        "date": "2026-10-02",
+        "title": "Recommend",
+        "text": "A bit pricey, but it just works."
+      },
+      {
+        "author": "Daniel K.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Works perfectly",
+        "text": "Exactly what I expected from Apple quality."
+      },
+      {
+        "author": "Leo F.",
+        "rating": 4,
+        "date": "2026-07-14",
+        "title": "Good quality",
+        "text": "Feels premium and works with all my devices."
+      }
+    ],
+    "inStock": true
   },
   {
-    "id": "apple-watch-series-3-42mm-gold",
+    "id": "40w-dynamic-power-adapter",
+    "sku": "849486",
     "category": "accessories",
-    "namespaceId": "apple-watch-series-3",
-    "name": "Apple Watch Series 3 42mm Gold",
-    "capacityAvailable": ["38mm", "42mm"],
-    "capacity": "42mm",
-    "priceRegular": 359,
-    "priceDiscount": 199,
-    "colorsAvailable": ["space gray", "silver", "gold"],
-    "color": "gold",
+    "namespaceId": "40w-dynamic-power-adapter",
+    "name": "40W Dynamic Power Adapter",
+    "modelName": "40W Dynamic Power Adapter",
+    "year": 2025,
+    "capacityAvailable": [],
+    "capacity": "",
+    "capacityLabel": "Storage",
+    "priceRegular": 39,
+    "priceDiscount": 39,
+    "colors": [
+      {
+        "slug": "default",
+        "name": "40W Dynamic Power Adapter",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "color": "default",
     "images": [
-      "img/accessories/apple-watch-series-3/gold/00.webp",
-      "img/accessories/apple-watch-series-3/gold/01.webp",
-      "img/accessories/apple-watch-series-3/gold/02.webp"
+      "img/products/40w-dynamic-power-adapter/default-0.webp",
+      "img/products/40w-dynamic-power-adapter/default-1.webp",
+      "img/products/40w-dynamic-power-adapter/default-2.webp"
     ],
     "description": [
       {
-        "title": "Monitor your health",
+        "title": "Fast charging",
         "text": [
-          "The Apple Watch Series 3 is equipped with sensors to track your heart rate, calories burned, and other fitness metrics throughout the day. It can even track your workouts and suggest personalized fitness goals."
+          "Charge iPhone to 50% in about 20 minutes."
         ]
       },
       {
-        "title": "Stay connected on the go",
+        "title": "Compact",
         "text": [
-          "With cellular connectivity, you can make calls and send texts from your wrist even without your iPhone nearby. And with Siri, you can get directions, send messages, and set reminders hands-free."
+          "Small enough to take anywhere."
         ]
       },
       {
-        "title": "Stream your favorite music",
+        "title": "Up to 60W when needed",
         "text": [
-          "With Apple Music and Siri, you can stream over 75 million songs on your Apple Watch Series 3. Or listen to your favorite podcasts, audiobooks, and radio stations."
+          "Dynamically delivers up to 60W to charge iPad or MacBook Air quickly."
         ]
       }
     ],
-    "screen": "1.5' OLED",
-    "resolution": "312x390",
-    "processor": "Apple S3",
-    "ram": "768MB",
-    "cell": ["Wi-Fi", "Bluetooth", "LTE"]
+    "specs": [
+      {
+        "label": "Power",
+        "value": "40W, up to 60W max"
+      },
+      {
+        "label": "Port",
+        "value": "USB-C"
+      },
+      {
+        "label": "Compatibility",
+        "value": "iPhone, iPad, MacBook Air"
+      }
+    ],
+    "rating": 4.3,
+    "reviewsCount": 97,
+    "reviews": [
+      {
+        "author": "Olivia M.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Good quality",
+        "text": "Feels premium and works with all my devices."
+      },
+      {
+        "author": "Max N.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Recommend",
+        "text": "A bit pricey, but it just works."
+      },
+      {
+        "author": "Lucas P.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Works perfectly",
+        "text": "Exactly what I expected from Apple quality."
+      }
+    ],
+    "inStock": true
   },
   {
-    "id": "apple-watch-series-3-38mm-silver",
+    "id": "20w-usb-c-power-adapter",
+    "sku": "130966",
     "category": "accessories",
-    "namespaceId": "apple-watch-series-3",
-    "name": "Apple Watch Series 3 38mm Silver",
-    "capacityAvailable": ["38mm", "42mm"],
-    "capacity": "38mm",
-    "priceRegular": 329,
-    "priceDiscount": 179,
-    "colorsAvailable": ["space gray", "silver", "gold"],
-    "color": "silver",
+    "namespaceId": "20w-usb-c-power-adapter",
+    "name": "20W USB-C Power Adapter",
+    "modelName": "20W USB-C Power Adapter",
+    "year": 2024,
+    "capacityAvailable": [],
+    "capacity": "",
+    "capacityLabel": "Storage",
+    "priceRegular": 19,
+    "priceDiscount": 19,
+    "colors": [
+      {
+        "slug": "default",
+        "name": "20W USB-C Power Adapter",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "color": "default",
     "images": [
-      "img/accessories/apple-watch-series-3/silver/00.webp",
-      "img/accessories/apple-watch-series-3/silver/01.webp",
-      "img/accessories/apple-watch-series-3/silver/02.webp"
+      "img/products/20w-usb-c-power-adapter/default-0.webp",
+      "img/products/20w-usb-c-power-adapter/default-1.webp",
+      "img/products/20w-usb-c-power-adapter/default-2.webp"
     ],
     "description": [
       {
-        "title": "Monitor your health",
+        "title": "Fast and compact",
         "text": [
-          "The Apple Watch Series 3 is equipped with sensors to track your heart rate, calories burned, and other fitness metrics throughout the day. It can even track your workouts and suggest personalized fitness goals."
+          "Fast charging at home, at the office or on the go."
         ]
       },
       {
-        "title": "Stay connected on the go",
+        "title": "Fast charge iPhone",
         "text": [
-          "With cellular connectivity, you can make calls and send texts from your wrist even without your iPhone nearby. And with Siri, you can get directions, send messages, and set reminders hands-free."
+          "Charges compatible iPhone models to 50% in around 30 minutes."
         ]
       },
       {
-        "title": "Stream your favorite music",
+        "title": "One adapter, many devices",
         "text": [
-          "With Apple Music and Siri, you can stream over 75 million songs on your Apple Watch Series 3. Or listen to your favorite podcasts, audiobooks, and radio stations."
+          "Works with iPhone, iPad and AirPods using a USB-C cable."
         ]
       }
     ],
-    "screen": "1.3' OLED",
-    "resolution": "272x340",
-    "processor": "Apple S3",
-    "ram": "768MB",
-    "cell": ["Wi-Fi", "Bluetooth", "LTE"]
+    "specs": [
+      {
+        "label": "Power",
+        "value": "20W"
+      },
+      {
+        "label": "Port",
+        "value": "USB-C"
+      },
+      {
+        "label": "Compatibility",
+        "value": "iPhone, iPad, AirPods"
+      }
+    ],
+    "rating": 4.6,
+    "reviewsCount": 359,
+    "reviews": [
+      {
+        "author": "Mia S.",
+        "rating": 5,
+        "date": "2026-10-02",
+        "title": "Recommend",
+        "text": "A bit pricey, but it just works."
+      },
+      {
+        "author": "Noah B.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Works perfectly",
+        "text": "Exactly what I expected from Apple quality."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 4,
+        "date": "2026-06-03",
+        "title": "Good quality",
+        "text": "Feels premium and works with all my devices."
+      }
+    ],
+    "inStock": true
   },
   {
-    "id": "apple-watch-series-3-42mm-silver",
+    "id": "usb-c-to-magsafe-3-cable",
+    "sku": "411805",
     "category": "accessories",
-    "namespaceId": "apple-watch-series-3",
-    "name": "Apple Watch Series 3 42mm Silver",
-    "capacityAvailable": ["38mm", "42mm"],
-    "capacity": "42mm",
-    "priceRegular": 359,
-    "priceDiscount": 199,
-    "colorsAvailable": ["space gray", "silver", "gold"],
-    "color": "silver",
+    "namespaceId": "usb-c-to-magsafe-3-cable",
+    "name": "USB-C to MagSafe 3 Cable (2 m)",
+    "modelName": "USB-C to MagSafe 3 Cable (2 m)",
+    "year": 2024,
+    "capacityAvailable": [],
+    "capacity": "",
+    "capacityLabel": "Storage",
+    "priceRegular": 49,
+    "priceDiscount": 49,
+    "colors": [
+      {
+        "slug": "default",
+        "name": "USB-C to MagSafe 3 Cable (2 m)",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "color": "default",
     "images": [
-      "img/accessories/apple-watch-series-3/silver/00.webp",
-      "img/accessories/apple-watch-series-3/silver/01.webp",
-      "img/accessories/apple-watch-series-3/silver/02.webp"
+      "img/products/usb-c-to-magsafe-3-cable/default-0.webp",
+      "img/products/usb-c-to-magsafe-3-cable/default-1.webp",
+      "img/products/usb-c-to-magsafe-3-cable/default-2.webp"
     ],
     "description": [
       {
-        "title": "Monitor your health",
+        "title": "Safe and simple",
         "text": [
-          "The Apple Watch Series 3 is equipped with sensors to track your heart rate, calories burned, and other fitness metrics throughout the day. It can even track your workouts and suggest personalized fitness goals."
+          "Magnetic connection that releases safely if pulled."
         ]
       },
       {
-        "title": "Stay connected on the go",
+        "title": "Fast charging",
         "text": [
-          "With cellular connectivity, you can make calls and send texts from your wrist even without your iPhone nearby. And with Siri, you can get directions, send messages, and set reminders hands-free."
+          "Supports fast charging on compatible MacBook Air and MacBook Pro models with a suitable USB-C power adapter."
         ]
       },
       {
-        "title": "Stream your favorite music",
+        "title": "Braided and long",
         "text": [
-          "With Apple Music and Siri, you can stream over 75 million songs on your Apple Watch Series 3. Or listen to your favorite podcasts, audiobooks, and radio stations."
+          "A durable 2-meter woven cable that resists tangling."
         ]
       }
     ],
-    "screen": "1.5' OLED",
-    "resolution": "312x390",
-    "processor": "Apple S3",
-    "ram": "768MB",
-    "cell": ["Wi-Fi", "Bluetooth", "LTE"]
+    "specs": [
+      {
+        "label": "Length",
+        "value": "2 m"
+      },
+      {
+        "label": "Compatibility",
+        "value": "MacBook Air and MacBook Pro with MagSafe 3"
+      },
+      {
+        "label": "Design",
+        "value": "Braided"
+      }
+    ],
+    "rating": 4.8,
+    "reviewsCount": 846,
+    "reviews": [
+      {
+        "author": "Sofia R.",
+        "rating": 5,
+        "date": "2026-10-02",
+        "title": "Recommend",
+        "text": "A bit pricey, but it just works."
+      },
+      {
+        "author": "Grace H.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Works perfectly",
+        "text": "Exactly what I expected from Apple quality."
+      },
+      {
+        "author": "Max N.",
+        "rating": 4,
+        "date": "2026-05-21",
+        "title": "Good quality",
+        "text": "Feels premium and works with all my devices."
+      }
+    ],
+    "inStock": true
   },
   {
-    "id": "apple-watch-series-6-40mm-space-gray",
+    "id": "airtag-4-pack",
+    "sku": "915813",
     "category": "accessories",
-    "namespaceId": "apple-watch-series-6",
-    "name": "Apple Watch Series 6 40mm Space Gray",
-    "capacityAvailable": ["40mm", "44mm"],
-    "capacity": "40mm",
-    "priceRegular": 399,
-    "priceDiscount": 339,
-    "colorsAvailable": ["space gray", "silver", "gold", "blue", "red"],
-    "color": "space gray",
+    "namespaceId": "airtag-4-pack",
+    "name": "AirTag 4 pack",
+    "modelName": "AirTag 4 pack",
+    "year": 2026,
+    "capacityAvailable": [],
+    "capacity": "",
+    "capacityLabel": "Storage",
+    "priceRegular": 99,
+    "priceDiscount": 99,
+    "colors": [
+      {
+        "slug": "default",
+        "name": "AirTag 4 pack",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "color": "default",
     "images": [
-      "img/accessories/apple-watch-series-6/space-gray/00.webp",
-      "img/accessories/apple-watch-series-6/space-gray/01.webp",
-      "img/accessories/apple-watch-series-6/space-gray/02.webp"
+      "img/products/airtag-4-pack/default-0.webp"
     ],
     "description": [
       {
-        "title": "Always-On Retina display",
+        "title": "Find anything",
         "text": [
-          "The Apple Watch Series 6 features an Always-On Retina display that is 2.5 times brighter outdoors when your wrist is down. So you can see all the information on your watch face at a glance."
+          "Attach to keys, bags and luggage and find them with Find My."
         ]
       },
       {
-        "title": "Blood oxygen sensor",
+        "title": "Precision Finding",
         "text": [
-          "The Blood Oxygen app measures your blood oxygen levels with a revolutionary new sensor and app. You can also take an ECG from your wrist anytime, anywhere."
+          "Guides you to your item with arrows and haptics."
         ]
       },
       {
-        "title": "Track your daily activity",
+        "title": "Louder and farther",
         "text": [
-          "The Apple Watch Series 6 tracks your daily activity including workouts, steps taken, and calories burned. It also has a built-in GPS to track your runs, walks, and hikes."
+          "A 50 percent louder speaker and second-generation Ultra Wideband help you find items from farther away."
         ]
       }
     ],
-    "screen": "1.57' LTPO OLED",
-    "resolution": "324x394",
-    "processor": "Apple S6",
-    "ram": "1GB",
-    "cell": ["Wi-Fi", "Bluetooth", "LTE"]
+    "specs": [
+      {
+        "label": "Precision Finding",
+        "value": "Second-generation Ultra Wideband"
+      },
+      {
+        "label": "Battery",
+        "value": "Replaceable, over a year"
+      },
+      {
+        "label": "Water resistance",
+        "value": "IP67"
+      }
+    ],
+    "rating": 4.6,
+    "reviewsCount": 764,
+    "reviews": [
+      {
+        "author": "Leo F.",
+        "rating": 5,
+        "date": "2026-10-02",
+        "title": "Good quality",
+        "text": "Feels premium and works with all my devices."
+      },
+      {
+        "author": "Daniel K.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Recommend",
+        "text": "A bit pricey, but it just works."
+      },
+      {
+        "author": "Noah B.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Works perfectly",
+        "text": "Exactly what I expected from Apple quality."
+      }
+    ],
+    "inStock": true
   },
   {
-    "id": "apple-watch-series-6-44mm-space-gray",
+    "id": "airtag-finewoven-key-ring-burgundy",
+    "sku": "912194",
     "category": "accessories",
-    "namespaceId": "apple-watch-series-6",
-    "name": "Apple Watch Series 6 44mm Space Gray",
-    "capacityAvailable": ["40mm", "44mm"],
-    "capacity": "44mm",
-    "priceRegular": 429,
-    "priceDiscount": 359,
-    "colorsAvailable": ["space gray", "silver", "gold", "blue", "red"],
-    "color": "space gray",
+    "namespaceId": "airtag-finewoven-key-ring",
+    "name": "AirTag FineWoven Key Ring Burgundy",
+    "modelName": "AirTag FineWoven Key Ring",
+    "year": 2026,
+    "capacityAvailable": [],
+    "capacity": "",
+    "capacityLabel": "Storage",
+    "priceRegular": 35,
+    "priceDiscount": 35,
+    "colors": [
+      {
+        "slug": "burgundy",
+        "name": "Burgundy",
+        "hex": "#6e2b33"
+      },
+      {
+        "slug": "darkolive",
+        "name": "Dark Olive",
+        "hex": "#55583f"
+      }
+    ],
+    "color": "burgundy",
     "images": [
-      "img/accessories/apple-watch-series-6/space-gray/00.webp",
-      "img/accessories/apple-watch-series-6/space-gray/01.webp",
-      "img/accessories/apple-watch-series-6/space-gray/02.webp"
+      "img/products/airtag-finewoven-key-ring/burgundy-0.webp",
+      "img/products/airtag-finewoven-key-ring/burgundy-1.webp"
     ],
     "description": [
       {
-        "title": "Always-On Retina display",
+        "title": "Carry it with style",
         "text": [
-          "The Apple Watch Series 6 features an Always-On Retina display that is 2.5 times brighter outdoors when your wrist is down. So you can see all the information on your watch face at a glance."
+          "A soft, durable FineWoven key ring for your AirTag."
         ]
       },
       {
-        "title": "Blood oxygen sensor",
+        "title": "FineWoven material",
         "text": [
-          "The Blood Oxygen app measures your blood oxygen levels with a revolutionary new sensor and app. You can also take an ECG from your wrist anytime, anywhere."
+          "A durable microtwill fabric with a soft, suede-like feel."
         ]
       },
       {
-        "title": "Track your daily activity",
+        "title": "Designed for AirTag",
         "text": [
-          "The Apple Watch Series 6 tracks your daily activity including workouts, steps taken, and calories burned. It also has a built-in GPS to track your runs, walks, and hikes."
+          "Holds AirTag securely and clips easily onto your keys."
         ]
       }
     ],
-    "screen": "1.78' LTPO OLED",
-    "resolution": "368x448",
-    "processor": "Apple S6",
-    "ram": "1GB",
-    "cell": ["Wi-Fi", "Bluetooth", "LTE"]
+    "specs": [
+      {
+        "label": "Material",
+        "value": "FineWoven"
+      },
+      {
+        "label": "Compatibility",
+        "value": "AirTag"
+      }
+    ],
+    "rating": 4.4,
+    "reviewsCount": 897,
+    "reviews": [
+      {
+        "author": "Noah B.",
+        "rating": 5,
+        "date": "2026-10-02",
+        "title": "Works perfectly",
+        "text": "Exactly what I expected from Apple quality."
+      },
+      {
+        "author": "Chloe D.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Recommend",
+        "text": "A bit pricey, but it just works."
+      },
+      {
+        "author": "Grace H.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Good quality",
+        "text": "Feels premium and works with all my devices."
+      }
+    ],
+    "inStock": true
   },
   {
-    "id": "apple-watch-series-6-40mm-silver",
+    "id": "airtag-finewoven-key-ring-darkolive",
+    "sku": "868721",
     "category": "accessories",
-    "namespaceId": "apple-watch-series-6",
-    "name": "Apple Watch Series 6 40mm Silver",
-    "capacityAvailable": ["40mm", "44mm"],
-    "capacity": "40mm",
-    "priceRegular": 399,
-    "priceDiscount": 339,
-    "colorsAvailable": ["space gray", "silver", "gold", "blue", "red"],
-    "color": "silver",
+    "namespaceId": "airtag-finewoven-key-ring",
+    "name": "AirTag FineWoven Key Ring Dark Olive",
+    "modelName": "AirTag FineWoven Key Ring",
+    "year": 2026,
+    "capacityAvailable": [],
+    "capacity": "",
+    "capacityLabel": "Storage",
+    "priceRegular": 35,
+    "priceDiscount": 35,
+    "colors": [
+      {
+        "slug": "burgundy",
+        "name": "Burgundy",
+        "hex": "#6e2b33"
+      },
+      {
+        "slug": "darkolive",
+        "name": "Dark Olive",
+        "hex": "#55583f"
+      }
+    ],
+    "color": "darkolive",
     "images": [
-      "img/accessories/apple-watch-series-6/silver/00.webp",
-      "img/accessories/apple-watch-series-6/silver/01.webp",
-      "img/accessories/apple-watch-series-6/silver/02.webp"
+      "img/products/airtag-finewoven-key-ring/darkolive-0.webp",
+      "img/products/airtag-finewoven-key-ring/darkolive-1.webp"
     ],
     "description": [
       {
-        "title": "Always-On Retina display",
+        "title": "Carry it with style",
         "text": [
-          "The Apple Watch Series 6 features an Always-On Retina display that is 2.5 times brighter outdoors when your wrist is down. So you can see all the information on your watch face at a glance."
+          "A soft, durable FineWoven key ring for your AirTag."
         ]
       },
       {
-        "title": "Blood oxygen sensor",
+        "title": "FineWoven material",
         "text": [
-          "The Blood Oxygen app measures your blood oxygen levels with a revolutionary new sensor and app. You can also take an ECG from your wrist anytime, anywhere."
+          "A durable microtwill fabric with a soft, suede-like feel."
         ]
       },
       {
-        "title": "Track your daily activity",
+        "title": "Designed for AirTag",
         "text": [
-          "The Apple Watch Series 6 tracks your daily activity including workouts, steps taken, and calories burned. It also has a built-in GPS to track your runs, walks, and hikes."
+          "Holds AirTag securely and clips easily onto your keys."
         ]
       }
     ],
-    "screen": "1.57' LTPO OLED",
-    "resolution": "324x394",
-    "processor": "Apple S6",
-    "ram": "1GB",
-    "cell": ["Wi-Fi", "Bluetooth", "LTE"]
+    "specs": [
+      {
+        "label": "Material",
+        "value": "FineWoven"
+      },
+      {
+        "label": "Compatibility",
+        "value": "AirTag"
+      }
+    ],
+    "rating": 4.4,
+    "reviewsCount": 897,
+    "reviews": [
+      {
+        "author": "Noah B.",
+        "rating": 5,
+        "date": "2026-10-02",
+        "title": "Works perfectly",
+        "text": "Exactly what I expected from Apple quality."
+      },
+      {
+        "author": "Chloe D.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Recommend",
+        "text": "A bit pricey, but it just works."
+      },
+      {
+        "author": "Grace H.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Good quality",
+        "text": "Feels premium and works with all my devices."
+      }
+    ],
+    "inStock": true
   },
   {
-    "id": "apple-watch-series-6-44mm-silver",
+    "id": "iphone-18-pro-max-silicone-case",
+    "sku": "267595",
     "category": "accessories",
-    "namespaceId": "apple-watch-series-6",
-    "name": "Apple Watch Series 6 44mm Silver",
-    "capacityAvailable": ["40mm", "44mm"],
-    "capacity": "44mm",
-    "priceRegular": 429,
-    "priceDiscount": 359,
-    "colorsAvailable": ["space gray", "silver", "gold", "blue", "red"],
-    "color": "silver",
+    "namespaceId": "iphone-18-pro-max-silicone-case",
+    "name": "iPhone 18 Pro Max Silicone Case with MagSafe",
+    "modelName": "iPhone 18 Pro Max Silicone Case with MagSafe",
+    "year": 2026,
+    "capacityAvailable": [],
+    "capacity": "",
+    "capacityLabel": "Storage",
+    "priceRegular": 49,
+    "priceDiscount": 49,
+    "colors": [
+      {
+        "slug": "default",
+        "name": "iPhone 18 Pro Max Silicone Case with MagSafe",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "color": "default",
     "images": [
-      "img/accessories/apple-watch-series-6/silver/00.webp",
-      "img/accessories/apple-watch-series-6/silver/01.webp",
-      "img/accessories/apple-watch-series-6/silver/02.webp"
+      "img/products/iphone-18-pro-max-silicone-case/default-0.webp",
+      "img/products/iphone-18-pro-max-silicone-case/default-1.webp",
+      "img/products/iphone-18-pro-max-silicone-case/default-2.webp",
+      "img/products/iphone-18-pro-max-silicone-case/default-3.webp"
     ],
     "description": [
       {
-        "title": "Always-On Retina display",
+        "title": "Soft to the touch",
         "text": [
-          "The Apple Watch Series 6 features an Always-On Retina display that is 2.5 times brighter outdoors when your wrist is down. So you can see all the information on your watch face at a glance."
+          "A silky silicone exterior with a soft microfiber lining."
         ]
       },
       {
-        "title": "Blood oxygen sensor",
+        "title": "MagSafe ready",
         "text": [
-          "The Blood Oxygen app measures your blood oxygen levels with a revolutionary new sensor and app. You can also take an ECG from your wrist anytime, anywhere."
+          "Snaps on to MagSafe chargers and wallets."
         ]
       },
       {
-        "title": "Track your daily activity",
+        "title": "Made for iPhone 18 Pro Max",
         "text": [
-          "The Apple Watch Series 6 tracks your daily activity including workouts, steps taken, and calories burned. It also has a built-in GPS to track your runs, walks, and hikes."
+          "Designed to fit snugly around the buttons and camera system."
         ]
       }
     ],
-    "screen": "1.78' LTPO OLED",
-    "resolution": "368x448",
-    "processor": "Apple S6",
-    "ram": "1GB",
-    "cell": ["Wi-Fi", "Bluetooth", "LTE"]
+    "specs": [
+      {
+        "label": "Compatibility",
+        "value": "iPhone 18 Pro Max"
+      },
+      {
+        "label": "Material",
+        "value": "Silicone with microfiber lining"
+      },
+      {
+        "label": "MagSafe",
+        "value": "Yes"
+      }
+    ],
+    "rating": 4.7,
+    "reviewsCount": 110,
+    "reviews": [
+      {
+        "author": "Ava C.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Works perfectly",
+        "text": "Exactly what I expected from Apple quality."
+      },
+      {
+        "author": "Grace H.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Good quality",
+        "text": "Feels premium and works with all my devices."
+      },
+      {
+        "author": "Daniel K.",
+        "rating": 4,
+        "date": "2026-08-27",
+        "title": "Recommend",
+        "text": "A bit pricey, but it just works."
+      }
+    ],
+    "inStock": true
   },
   {
-    "id": "apple-watch-series-6-40mm-gold",
+    "id": "iphone-finewoven-wallet",
+    "sku": "355923",
     "category": "accessories",
-    "namespaceId": "apple-watch-series-6",
-    "name": "Apple Watch Series 6 40mm Gold",
-    "capacityAvailable": ["40mm", "44mm"],
-    "capacity": "40mm",
-    "priceRegular": 399,
-    "priceDiscount": 339,
-    "colorsAvailable": ["space gray", "silver", "gold", "blue", "red"],
-    "color": "gold",
+    "namespaceId": "iphone-finewoven-wallet",
+    "name": "iPhone FineWoven Wallet with MagSafe",
+    "modelName": "iPhone FineWoven Wallet with MagSafe",
+    "year": 2026,
+    "capacityAvailable": [],
+    "capacity": "",
+    "capacityLabel": "Storage",
+    "priceRegular": 59,
+    "priceDiscount": 59,
+    "colors": [
+      {
+        "slug": "default",
+        "name": "iPhone FineWoven Wallet with MagSafe",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "color": "default",
     "images": [
-      "img/accessories/apple-watch-series-6/gold/00.webp",
-      "img/accessories/apple-watch-series-6/gold/01.webp",
-      "img/accessories/apple-watch-series-6/gold/02.webp"
+      "img/products/iphone-finewoven-wallet/default-0.webp",
+      "img/products/iphone-finewoven-wallet/default-1.webp",
+      "img/products/iphone-finewoven-wallet/default-2.webp",
+      "img/products/iphone-finewoven-wallet/default-3.webp"
     ],
     "description": [
       {
-        "title": "Always-On Retina display",
+        "title": "Your cards, always with you",
         "text": [
-          "The Apple Watch Series 6 features an Always-On Retina display that is 2.5 times brighter outdoors when your wrist is down. So you can see all the information on your watch face at a glance."
+          "Snaps magnetically to the back of your iPhone and holds up to three cards."
         ]
       },
       {
-        "title": "Blood oxygen sensor",
+        "title": "Find My support",
         "text": [
-          "The Blood Oxygen app measures your blood oxygen levels with a revolutionary new sensor and app. You can also take an ECG from your wrist anytime, anywhere."
+          "Get notified with its last known location if it is detached from your iPhone."
         ]
       },
       {
-        "title": "Track your daily activity",
+        "title": "FineWoven material",
         "text": [
-          "The Apple Watch Series 6 tracks your daily activity including workouts, steps taken, and calories burned. It also has a built-in GPS to track your runs, walks, and hikes."
+          "A durable microtwill fabric with a soft, suede-like feel."
         ]
       }
     ],
-    "screen": "1.57' LTPO OLED",
-    "resolution": "324x394",
-    "processor": "Apple S6",
-    "ram": "1GB",
-    "cell": ["Wi-Fi", "Bluetooth", "LTE"]
+    "specs": [
+      {
+        "label": "Compatibility",
+        "value": "iPhone with MagSafe"
+      },
+      {
+        "label": "Capacity",
+        "value": "Up to 3 cards"
+      },
+      {
+        "label": "Find My",
+        "value": "Yes"
+      }
+    ],
+    "rating": 4.6,
+    "reviewsCount": 268,
+    "reviews": [
+      {
+        "author": "Lucas P.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Recommend",
+        "text": "A bit pricey, but it just works."
+      },
+      {
+        "author": "James T.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Good quality",
+        "text": "Feels premium and works with all my devices."
+      },
+      {
+        "author": "James T.",
+        "rating": 5,
+        "date": "2026-08-27",
+        "title": "Works perfectly",
+        "text": "Exactly what I expected from Apple quality."
+      }
+    ],
+    "inStock": true
   },
   {
-    "id": "apple-watch-series-6-44mm-gold",
+    "id": "iphone-duo-case",
+    "sku": "706618",
     "category": "accessories",
-    "namespaceId": "apple-watch-series-6",
-    "name": "Apple Watch Series 6 44mm Gold",
-    "capacityAvailable": ["40mm", "44mm"],
-    "capacity": "44mm",
-    "priceRegular": 429,
-    "priceDiscount": 359,
-    "colorsAvailable": ["space gray", "silver", "gold", "blue", "red"],
-    "color": "gold",
+    "namespaceId": "iphone-duo-case",
+    "name": "iPhone Duo Case",
+    "modelName": "iPhone Duo Case",
+    "year": 2026,
+    "capacityAvailable": [],
+    "capacity": "",
+    "capacityLabel": "Storage",
+    "priceRegular": 79,
+    "priceDiscount": 79,
+    "colors": [
+      {
+        "slug": "default",
+        "name": "iPhone Duo Case",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "color": "default",
     "images": [
-      "img/accessories/apple-watch-series-6/gold/00.webp",
-      "img/accessories/apple-watch-series-6/gold/01.webp",
-      "img/accessories/apple-watch-series-6/gold/02.webp"
+      "img/products/iphone-duo-case/default-0.webp",
+      "img/products/iphone-duo-case/default-1.webp",
+      "img/products/iphone-duo-case/default-2.webp",
+      "img/products/iphone-duo-case/default-3.webp"
     ],
     "description": [
       {
-        "title": "Always-On Retina display",
+        "title": "Designed for Duo",
         "text": [
-          "The Apple Watch Series 6 features an Always-On Retina display that is 2.5 times brighter outdoors when your wrist is down. So you can see all the information on your watch face at a glance."
+          "Protects both halves of iPhone Duo and stays on when you fold and unfold it."
         ]
       },
       {
-        "title": "Blood oxygen sensor",
+        "title": "Slim profile",
         "text": [
-          "The Blood Oxygen app measures your blood oxygen levels with a revolutionary new sensor and app. You can also take an ECG from your wrist anytime, anywhere."
+          "Adds protection without making iPhone Duo bulky to fold or carry."
         ]
       },
       {
-        "title": "Track your daily activity",
+        "title": "Two colors",
         "text": [
-          "The Apple Watch Series 6 tracks your daily activity including workouts, steps taken, and calories burned. It also has a built-in GPS to track your runs, walks, and hikes."
+          "Available from Apple in Navy Blue and Sand."
         ]
       }
     ],
-    "screen": "1.78' LTPO OLED",
-    "resolution": "368x448",
-    "processor": "Apple S6",
-    "ram": "1GB",
-    "cell": ["Wi-Fi", "Bluetooth", "LTE"]
-  },
-  {
-    "id": "apple-watch-series-6-40mm-blue",
-    "category": "accessories",
-    "namespaceId": "apple-watch-series-6",
-    "name": "Apple Watch Series 6 40mm Blue",
-    "capacityAvailable": ["40mm", "44mm"],
-    "capacity": "40mm",
-    "priceRegular": 399,
-    "priceDiscount": 339,
-    "colorsAvailable": ["space gray", "silver", "gold", "blue", "red"],
-    "color": "blue",
-    "images": [
-      "img/accessories/apple-watch-series-6/blue/00.webp",
-      "img/accessories/apple-watch-series-6/blue/01.webp",
-      "img/accessories/apple-watch-series-6/blue/02.webp"
-    ],
-    "description": [
+    "specs": [
       {
-        "title": "Always-On Retina display",
-        "text": [
-          "The Apple Watch Series 6 features an Always-On Retina display that is 2.5 times brighter outdoors when your wrist is down. So you can see all the information on your watch face at a glance."
-        ]
+        "label": "Compatibility",
+        "value": "iPhone Duo"
       },
       {
-        "title": "Blood oxygen sensor",
-        "text": [
-          "The Blood Oxygen app measures your blood oxygen levels with a revolutionary new sensor and app. You can also take an ECG from your wrist anytime, anywhere."
-        ]
-      },
-      {
-        "title": "Track your daily activity",
-        "text": [
-          "The Apple Watch Series 6 tracks your daily activity including workouts, steps taken, and calories burned. It also has a built-in GPS to track your runs, walks, and hikes."
-        ]
+        "label": "Design",
+        "value": "Two-piece case that covers both halves"
       }
     ],
-    "screen": "1.57' LTPO OLED",
-    "resolution": "324x394",
-    "processor": "Apple S6",
-    "ram": "1GB",
-    "cell": ["Wi-Fi", "Bluetooth", "LTE"]
-  },
-  {
-    "id": "apple-watch-series-6-44mm-blue",
-    "category": "accessories",
-    "namespaceId": "apple-watch-series-6",
-    "name": "Apple Watch Series 6 44mm Blue",
-    "capacityAvailable": ["40mm", "44mm"],
-    "capacity": "44mm",
-    "priceRegular": 429,
-    "priceDiscount": 359,
-    "colorsAvailable": ["space gray", "silver", "gold", "blue", "red"],
-    "color": "blue",
-    "images": [
-      "img/accessories/apple-watch-series-6/blue/00.webp",
-      "img/accessories/apple-watch-series-6/blue/01.webp",
-      "img/accessories/apple-watch-series-6/blue/02.webp"
-    ],
-    "description": [
+    "rating": 4.4,
+    "reviewsCount": 592,
+    "reviews": [
       {
-        "title": "Always-On Retina display",
-        "text": [
-          "The Apple Watch Series 6 features an Always-On Retina display that is 2.5 times brighter outdoors when your wrist is down. So you can see all the information on your watch face at a glance."
-        ]
+        "author": "Max N.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Recommend",
+        "text": "A bit pricey, but it just works."
       },
       {
-        "title": "Blood oxygen sensor",
-        "text": [
-          "The Blood Oxygen app measures your blood oxygen levels with a revolutionary new sensor and app. You can also take an ECG from your wrist anytime, anywhere."
-        ]
+        "author": "Leo F.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Works perfectly",
+        "text": "Exactly what I expected from Apple quality."
       },
       {
-        "title": "Track your daily activity",
-        "text": [
-          "The Apple Watch Series 6 tracks your daily activity including workouts, steps taken, and calories burned. It also has a built-in GPS to track your runs, walks, and hikes."
-        ]
+        "author": "Ethan W.",
+        "rating": 4,
+        "date": "2026-06-03",
+        "title": "Good quality",
+        "text": "Feels premium and works with all my devices."
       }
     ],
-    "screen": "1.78' LTPO OLED",
-    "resolution": "368x448",
-    "processor": "Apple S6",
-    "ram": "1GB",
-    "cell": ["Wi-Fi", "Bluetooth", "LTE"]
-  },
-  {
-    "id": "apple-watch-series-6-40mm-red",
-    "category": "accessories",
-    "namespaceId": "apple-watch-series-6",
-    "name": "Apple Watch Series 6 40mm Red",
-    "capacityAvailable": ["40mm", "44mm"],
-    "capacity": "40mm",
-    "priceRegular": 399,
-    "priceDiscount": 339,
-    "colorsAvailable": ["space gray", "silver", "gold", "blue", "red"],
-    "color": "red",
-    "images": [
-      "img/accessories/apple-watch-series-6/red/00.webp",
-      "img/accessories/apple-watch-series-6/red/01.webp",
-      "img/accessories/apple-watch-series-6/red/02.webp"
-    ],
-    "description": [
-      {
-        "title": "Always-On Retina display",
-        "text": [
-          "The Apple Watch Series 6 features an Always-On Retina display that is 2.5 times brighter outdoors when your wrist is down. So you can see all the information on your watch face at a glance."
-        ]
-      },
-      {
-        "title": "Blood oxygen sensor",
-        "text": [
-          "The Blood Oxygen app measures your blood oxygen levels with a revolutionary new sensor and app. You can also take an ECG from your wrist anytime, anywhere."
-        ]
-      },
-      {
-        "title": "Track your daily activity",
-        "text": [
-          "The Apple Watch Series 6 tracks your daily activity including workouts, steps taken, and calories burned. It also has a built-in GPS to track your runs, walks, and hikes."
-        ]
-      }
-    ],
-    "screen": "1.57' LTPO OLED",
-    "resolution": "324x394",
-    "processor": "Apple S6",
-    "ram": "1GB",
-    "cell": ["Wi-Fi", "Bluetooth", "LTE"]
-  },
-  {
-    "id": "apple-watch-series-6-44mm-red",
-    "category": "accessories",
-    "namespaceId": "apple-watch-series-6",
-    "name": "Apple Watch Series 6 44mm Red",
-    "capacityAvailable": ["40mm", "44mm"],
-    "capacity": "44mm",
-    "priceRegular": 429,
-    "priceDiscount": 359,
-    "colorsAvailable": ["space gray", "silver", "gold", "blue", "red"],
-    "color": "red",
-    "images": [
-      "img/accessories/apple-watch-series-6/red/00.webp",
-      "img/accessories/apple-watch-series-6/red/01.webp",
-      "img/accessories/apple-watch-series-6/red/02.webp"
-    ],
-    "description": [
-      {
-        "title": "Always-On Retina display",
-        "text": [
-          "The Apple Watch Series 6 features an Always-On Retina display that is 2.5 times brighter outdoors when your wrist is down. So you can see all the information on your watch face at a glance."
-        ]
-      },
-      {
-        "title": "Blood oxygen sensor",
-        "text": [
-          "The Blood Oxygen app measures your blood oxygen levels with a revolutionary new sensor and app. You can also take an ECG from your wrist anytime, anywhere."
-        ]
-      },
-      {
-        "title": "Track your daily activity",
-        "text": [
-          "The Apple Watch Series 6 tracks your daily activity including workouts, steps taken, and calories burned. It also has a built-in GPS to track your runs, walks, and hikes."
-        ]
-      }
-    ],
-    "screen": "1.78' LTPO OLED",
-    "resolution": "368x448",
-    "processor": "Apple S6",
-    "ram": "1GB",
-    "cell": ["Wi-Fi", "Bluetooth", "LTE"]
-  },
-  {
-    "id": "apple-watch-series-5-40mm-silver",
-    "category": "accessories",
-    "namespaceId": "apple-watch-series-5",
-    "name": "Apple Watch Series 5 40mm Silver",
-    "capacityAvailable": ["40mm", "44mm"],
-    "capacity": "40mm",
-    "priceRegular": 399,
-    "priceDiscount": 299,
-    "colorsAvailable": ["silver", "gold", "space gray"],
-    "color": "silver",
-    "images": [
-      "img/accessories/apple-watch-series-5/silver/00.webp",
-      "img/accessories/apple-watch-series-5/silver/01.webp",
-      "img/accessories/apple-watch-series-5/silver/02.webp"
-    ],
-    "description": [
-      {
-        "title": "Always-On Retina display",
-        "text": [
-          "With the Always-On Retina display, you can easily see the time and important information without raising your wrist. The display is also 30% larger than the Series 3, making it easier to read and interact with."
-        ]
-      },
-      {
-        "title": "ECG app",
-        "text": [
-          "The ECG app can detect irregular heart rhythms and alert you if something seems amiss. You can also take an ECG anytime, anywhere, right from your wrist."
-        ]
-      },
-      {
-        "title": "Activity tracking",
-        "text": [
-          "The Apple Watch Series 5 tracks your daily activity, including workouts, steps taken, and calories burned. It also has a built-in GPS to track your runs, walks, and hikes."
-        ]
-      }
-    ],
-    "screen": "1.57' LTPO OLED",
-    "resolution": "324x394",
-    "processor": "Apple S5",
-    "ram": "1GB",
-    "cell": ["Wi-Fi", "Bluetooth", "LTE"]
-  },
-  {
-    "id": "apple-watch-series-5-44mm-silver",
-    "category": "accessories",
-    "namespaceId": "apple-watch-series-5",
-    "name": "Apple Watch Series 5 44mm Silver",
-    "capacityAvailable": ["40mm", "44mm"],
-    "capacity": "44mm",
-    "priceRegular": 429,
-    "priceDiscount": 319,
-    "colorsAvailable": ["space gray", "silver", "gold"],
-    "color": "silver",
-    "images": [
-      "img/accessories/apple-watch-series-5/silver/00.webp",
-      "img/accessories/apple-watch-series-5/silver/01.webp",
-      "img/accessories/apple-watch-series-5/silver/02.webp"
-    ],
-    "description": [
-      {
-        "title": "Always-On Retina display",
-        "text": [
-          "The Apple Watch Series 5 features an Always-On Retina display that allows you to glance at your watch without raising your wrist."
-        ]
-      },
-      {
-        "title": "ECG app",
-        "text": [
-          "With the ECG app, you can take an electrocardiogram from your wrist anytime, anywhere. "
-        ]
-      },
-      {
-        "title": "Track your workouts",
-        "text": [
-          "The Apple Watch Series 5 tracks your workouts including running, walking, cycling, and swimming. It also has a built-in GPS to track your location and route."
-        ]
-      }
-    ],
-    "screen": "1.78' LTPO OLED",
-    "resolution": "368x448",
-    "processor": "Apple S5",
-    "ram": "1GB",
-    "cell": ["Wi-Fi", "Bluetooth", "LTE"]
-  },
-  {
-    "id": "apple-watch-series-5-40mm-gold",
-    "category": "accessories",
-    "namespaceId": "apple-watch-series-5",
-    "name": "Apple Watch Series 5 40mm Gold",
-    "capacityAvailable": ["40mm", "44mm"],
-    "capacity": "40mm",
-    "priceRegular": 399,
-    "priceDiscount": 299,
-    "colorsAvailable": ["silver", "gold", "space gray"],
-    "color": "gold",
-    "images": [
-      "img/accessories/apple-watch-series-5/gold/00.webp",
-      "img/accessories/apple-watch-series-5/gold/01.webp",
-      "img/accessories/apple-watch-series-5/gold/02.webp"
-    ],
-    "description": [
-      {
-        "title": "Always-On Retina display",
-        "text": [
-          "With the Always-On Retina display, you can easily see the time and important information without raising your wrist. The display is also 30% larger than the Series 3, making it easier to read and interact with."
-        ]
-      },
-      {
-        "title": "ECG app",
-        "text": [
-          "The ECG app can detect irregular heart rhythms and alert you if something seems amiss. You can also take an ECG anytime, anywhere, right from your wrist."
-        ]
-      },
-      {
-        "title": "Activity tracking",
-        "text": [
-          "The Apple Watch Series 5 tracks your daily activity, including workouts, steps taken, and calories burned. It also has a built-in GPS to track your runs, walks, and hikes."
-        ]
-      }
-    ],
-    "screen": "1.57' LTPO OLED",
-    "resolution": "324x394",
-    "processor": "Apple S5",
-    "ram": "1GB",
-    "cell": ["Wi-Fi", "Bluetooth", "LTE"]
-  },
-  {
-    "id": "apple-watch-series-5-44mm-gold",
-    "category": "accessories",
-    "namespaceId": "apple-watch-series-5",
-    "name": "Apple Watch Series 5 44mm Gold",
-    "capacityAvailable": ["40mm", "44mm"],
-    "capacity": "44mm",
-    "priceRegular": 429,
-    "priceDiscount": 319,
-    "colorsAvailable": ["space gray", "silver", "gold"],
-    "color": "gold",
-    "images": [
-      "img/accessories/apple-watch-series-5/gold/00.webp",
-      "img/accessories/apple-watch-series-5/gold/01.webp",
-      "img/accessories/apple-watch-series-5/gold/02.webp"
-    ],
-    "description": [
-      {
-        "title": "Always-On Retina display",
-        "text": [
-          "The Apple Watch Series 5 features an Always-On Retina display that allows you to glance at your watch without raising your wrist."
-        ]
-      },
-      {
-        "title": "ECG app",
-        "text": [
-          "With the ECG app, you can take an electrocardiogram from your wrist anytime, anywhere. "
-        ]
-      },
-      {
-        "title": "Track your workouts",
-        "text": [
-          "The Apple Watch Series 5 tracks your workouts including running, walking, cycling, and swimming. It also has a built-in GPS to track your location and route."
-        ]
-      }
-    ],
-    "screen": "1.78' LTPO OLED",
-    "resolution": "368x448",
-    "processor": "Apple S5",
-    "ram": "1GB",
-    "cell": ["Wi-Fi", "Bluetooth", "LTE"]
-  },
-  {
-    "id": "apple-watch-series-5-40mm-space-gray",
-    "category": "accessories",
-    "namespaceId": "apple-watch-series-5",
-    "name": "Apple Watch Series 5 40mm Space Gray",
-    "capacityAvailable": ["40mm", "44mm"],
-    "capacity": "40mm",
-    "priceRegular": 399,
-    "priceDiscount": 299,
-    "colorsAvailable": ["silver", "gold", "space gray"],
-    "color": "space gray",
-    "images": [
-      "img/accessories/apple-watch-series-5/space-gray/00.webp",
-      "img/accessories/apple-watch-series-5/space-gray/01.webp",
-      "img/accessories/apple-watch-series-5/space-gray/02.webp"
-    ],
-    "description": [
-      {
-        "title": "Always-On Retina display",
-        "text": [
-          "With the Always-On Retina display, you can easily see the time and important information without raising your wrist. The display is also 30% larger than the Series 3, making it easier to read and interact with."
-        ]
-      },
-      {
-        "title": "ECG app",
-        "text": [
-          "The ECG app can detect irregular heart rhythms and alert you if something seems amiss. You can also take an ECG anytime, anywhere, right from your wrist."
-        ]
-      },
-      {
-        "title": "Activity tracking",
-        "text": [
-          "The Apple Watch Series 5 tracks your daily activity, including workouts, steps taken, and calories burned. It also has a built-in GPS to track your runs, walks, and hikes."
-        ]
-      }
-    ],
-    "screen": "1.57' LTPO OLED",
-    "resolution": "324x394",
-    "processor": "Apple S5",
-    "ram": "1GB",
-    "cell": ["Wi-Fi", "Bluetooth", "LTE"]
-  },
-  {
-    "id": "apple-watch-series-5-44mm-space-gray",
-    "category": "accessories",
-    "namespaceId": "apple-watch-series-5",
-    "name": "Apple Watch Series 5 44mm Space Gray",
-    "capacityAvailable": ["40mm", "44mm"],
-    "capacity": "44mm",
-    "priceRegular": 429,
-    "priceDiscount": 319,
-    "colorsAvailable": ["space gray", "silver", "gold"],
-    "color": "space gray",
-    "images": [
-      "img/accessories/apple-watch-series-5/space-gray/00.webp",
-      "img/accessories/apple-watch-series-5/space-gray/01.webp",
-      "img/accessories/apple-watch-series-5/space-gray/02.webp"
-    ],
-    "description": [
-      {
-        "title": "Always-On Retina display",
-        "text": [
-          "The Apple Watch Series 5 features an Always-On Retina display that allows you to glance at your watch without raising your wrist."
-        ]
-      },
-      {
-        "title": "ECG app",
-        "text": [
-          "With the ECG app, you can take an electrocardiogram from your wrist anytime, anywhere. "
-        ]
-      },
-      {
-        "title": "Track your workouts",
-        "text": [
-          "The Apple Watch Series 5 tracks your workouts including running, walking, cycling, and swimming. It also has a built-in GPS to track your location and route."
-        ]
-      }
-    ],
-    "screen": "1.78' LTPO OLED",
-    "resolution": "368x448",
-    "processor": "Apple S5",
-    "ram": "1GB",
-    "cell": ["Wi-Fi", "Bluetooth", "LTE"]
-  },
-  {
-    "id": "apple-watch-series-4-40mm-silver",
-    "category": "accessories",
-    "namespaceId": "apple-watch-series-4",
-    "name": "Apple Watch Series 4 40mm Silver",
-    "capacityAvailable": ["40mm", "44mm"],
-    "capacity": "40mm",
-    "priceRegular": 399,
-    "priceDiscount": 259,
-    "colorsAvailable": ["silver", "gold", "space gray"],
-    "color": "silver",
-    "images": [
-      "img/accessories/apple-watch-series-4/silver/00.webp",
-      "img/accessories/apple-watch-series-4/silver/01.webp",
-      "img/accessories/apple-watch-series-4/silver/02.webp"
-    ],
-    "description": [
-      {
-        "title": "Larger display",
-        "text": [
-          "The Apple Watch Series 4 has a larger display that lets you see more information at a glance. The display is over 30% larger than the Series 3 and is edge-to-edge with curved corners."
-        ]
-      },
-      {
-        "title": "ECG app",
-        "text": [
-          "With the ECG app, you can take an electrocardiogram right from your wrist. This feature is only available in certain countries and regions."
-        ]
-      },
-      {
-        "title": "Fall detection",
-        "text": [
-          "The Apple Watch Series 4 can detect when you fall and can send an alert to emergency services if you don't respond within a minute. This feature is only available for users over 65 years old."
-        ]
-      }
-    ],
-    "screen": "1.57' LTPO OLED",
-    "resolution": "324x394",
-    "processor": "Apple S4",
-    "ram": "1GB",
-    "cell": ["Wi-Fi", "Bluetooth", "LTE"]
-  },
-  {
-    "id": "apple-watch-series-4-44mm-silver",
-    "category": "accessories",
-    "namespaceId": "apple-watch-series-4",
-    "name": "Apple Watch Series 4 44mm Silver",
-    "capacityAvailable": ["40mm", "44mm"],
-    "capacity": "44mm",
-    "priceRegular": 429,
-    "priceDiscount": 279,
-    "colorsAvailable": ["silver", "gold", "space gray"],
-    "color": "silver",
-    "images": [
-      "img/accessories/apple-watch-series-4/silver/00.webp",
-      "img/accessories/apple-watch-series-4/silver/01.webp",
-      "img/accessories/apple-watch-series-4/silver/02.webp"
-    ],
-    "description": [
-      {
-        "title": "Larger display",
-        "text": [
-          "The Apple Watch Series 4 has a larger display that lets you see more information at a glance. The display is over 30% larger than the Series 3 and is edge-to-edge with curved corners."
-        ]
-      },
-      {
-        "title": "ECG app",
-        "text": [
-          "With the ECG app, you can take an electrocardiogram right from your wrist. This feature is only available in certain countries and regions."
-        ]
-      },
-      {
-        "title": "Fall detection",
-        "text": [
-          "The Apple Watch Series 4 can detect when you fall and can send an alert to emergency services if you don't respond within a minute. This feature is only available for users over 65 years old."
-        ]
-      }
-    ],
-    "screen": "1.78' LTPO OLED",
-    "resolution": "368x448",
-    "processor": "Apple S4",
-    "ram": "1GB",
-    "cell": ["Wi-Fi", "Bluetooth", "LTE"]
-  },
-  {
-    "id": "apple-watch-series-4-40mm-gold",
-    "category": "accessories",
-    "namespaceId": "apple-watch-series-4",
-    "name": "Apple Watch Series 4 40mm Gold",
-    "capacityAvailable": ["40mm", "44mm"],
-    "capacity": "40mm",
-    "priceRegular": 399,
-    "priceDiscount": 259,
-    "colorsAvailable": ["silver", "gold", "space gray"],
-    "color": "gold",
-    "images": [
-      "img/accessories/apple-watch-series-4/gold/00.webp",
-      "img/accessories/apple-watch-series-4/gold/01.webp",
-      "img/accessories/apple-watch-series-4/gold/02.webp"
-    ],
-    "description": [
-      {
-        "title": "Larger display",
-        "text": [
-          "The Apple Watch Series 4 has a larger display that lets you see more information at a glance. The display is over 30% larger than the Series 3 and is edge-to-edge with curved corners."
-        ]
-      },
-      {
-        "title": "ECG app",
-        "text": [
-          "With the ECG app, you can take an electrocardiogram right from your wrist. This feature is only available in certain countries and regions."
-        ]
-      },
-      {
-        "title": "Fall detection",
-        "text": [
-          "The Apple Watch Series 4 can detect when you fall and can send an alert to emergency services if you don't respond within a minute. This feature is only available for users over 65 years old."
-        ]
-      }
-    ],
-    "screen": "1.57' LTPO OLED",
-    "resolution": "324x394",
-    "processor": "Apple S4",
-    "ram": "1GB",
-    "cell": ["Wi-Fi", "Bluetooth", "LTE"]
-  },
-  {
-    "id": "apple-watch-series-4-44mm-gold",
-    "category": "accessories",
-    "namespaceId": "apple-watch-series-4",
-    "name": "Apple Watch Series 4 44mm Gold",
-    "capacityAvailable": ["40mm", "44mm"],
-    "capacity": "44mm",
-    "priceRegular": 429,
-    "priceDiscount": 279,
-    "colorsAvailable": ["silver", "gold", "space gray"],
-    "color": "gold",
-    "images": [
-      "img/accessories/apple-watch-series-4/gold/00.webp",
-      "img/accessories/apple-watch-series-4/gold/01.webp",
-      "img/accessories/apple-watch-series-4/gold/02.webp"
-    ],
-    "description": [
-      {
-        "title": "Larger display",
-        "text": [
-          "The Apple Watch Series 4 has a larger display that lets you see more information at a glance. The display is over 30% larger than the Series 3 and is edge-to-edge with curved corners."
-        ]
-      },
-      {
-        "title": "ECG app",
-        "text": [
-          "With the ECG app, you can take an electrocardiogram right from your wrist. This feature is only available in certain countries and regions."
-        ]
-      },
-      {
-        "title": "Fall detection",
-        "text": [
-          "The Apple Watch Series 4 can detect when you fall and can send an alert to emergency services if you don't respond within a minute. This feature is only available for users over 65 years old."
-        ]
-      }
-    ],
-    "screen": "1.78' LTPO OLED",
-    "resolution": "368x448",
-    "processor": "Apple S4",
-    "ram": "1GB",
-    "cell": ["Wi-Fi", "Bluetooth", "LTE"]
-  },
-  {
-    "id": "apple-watch-series-4-40mm-space-gray",
-    "category": "accessories",
-    "namespaceId": "apple-watch-series-4",
-    "name": "Apple Watch Series 4 40mm Space Gray",
-    "capacityAvailable": ["40mm", "44mm"],
-    "capacity": "40mm",
-    "priceRegular": 399,
-    "priceDiscount": 259,
-    "colorsAvailable": ["silver", "gold", "space gray"],
-    "color": "space gray",
-    "images": [
-      "img/accessories/apple-watch-series-4/space-gray/00.webp",
-      "img/accessories/apple-watch-series-4/space-gray/01.webp",
-      "img/accessories/apple-watch-series-4/space-gray/02.webp"
-    ],
-    "description": [
-      {
-        "title": "Larger display",
-        "text": [
-          "The Apple Watch Series 4 has a larger display that lets you see more information at a glance. The display is over 30% larger than the Series 3 and is edge-to-edge with curved corners."
-        ]
-      },
-      {
-        "title": "ECG app",
-        "text": [
-          "With the ECG app, you can take an electrocardiogram right from your wrist. This feature is only available in certain countries and regions."
-        ]
-      },
-      {
-        "title": "Fall detection",
-        "text": [
-          "The Apple Watch Series 4 can detect when you fall and can send an alert to emergency services if you don't respond within a minute. This feature is only available for users over 65 years old."
-        ]
-      }
-    ],
-    "screen": "1.57' LTPO OLED",
-    "resolution": "324x394",
-    "processor": "Apple S4",
-    "ram": "1GB",
-    "cell": ["Wi-Fi", "Bluetooth", "LTE"]
-  },
-  {
-    "id": "apple-watch-series-4-44mm-space-gray",
-    "category": "accessories",
-    "namespaceId": "apple-watch-series-4",
-    "name": "Apple Watch Series 4 44mm Space Gray",
-    "capacityAvailable": ["40mm", "44mm"],
-    "capacity": "44mm",
-    "priceRegular": 429,
-    "priceDiscount": 279,
-    "colorsAvailable": ["silver", "gold", "space gray"],
-    "color": "space gray",
-    "images": [
-      "img/accessories/apple-watch-series-4/space-gray/00.webp",
-      "img/accessories/apple-watch-series-4/space-gray/01.webp",
-      "img/accessories/apple-watch-series-4/space-gray/02.webp"
-    ],
-    "description": [
-      {
-        "title": "Larger display",
-        "text": [
-          "The Apple Watch Series 4 has a larger display that lets you see more information at a glance. The display is over 30% larger than the Series 3 and is edge-to-edge with curved corners."
-        ]
-      },
-      {
-        "title": "ECG app",
-        "text": [
-          "With the ECG app, you can take an electrocardiogram right from your wrist. This feature is only available in certain countries and regions."
-        ]
-      },
-      {
-        "title": "Fall detection",
-        "text": [
-          "The Apple Watch Series 4 can detect when you fall and can send an alert to emergency services if you don't respond within a minute. This feature is only available for users over 65 years old."
-        ]
-      }
-    ],
-    "screen": "1.78' LTPO OLED",
-    "resolution": "368x448",
-    "processor": "Apple S4",
-    "ram": "1GB",
-    "cell": ["Wi-Fi", "Bluetooth", "LTE"]
-  },
-  {
-    "id": "apple-watch-se-40mm-silver",
-    "category": "accessories",
-    "namespaceId": "apple-watch-se",
-    "name": "Apple Watch SE 40mm Silver",
-    "capacityAvailable": ["40mm", "44mm"],
-    "capacity": "40mm",
-    "priceRegular": 279,
-    "priceDiscount": 239,
-    "colorsAvailable": ["silver", "gold", "space gray"],
-    "color": "silver",
-    "images": [
-      "img/accessories/apple-watch-se/silver/00.webp",
-      "img/accessories/apple-watch-se/silver/01.webp",
-      "img/accessories/apple-watch-se/silver/02.webp"
-    ],
-    "description": [
-      {
-        "title": "Retina display",
-        "text": [
-          "The Apple Watch SE features a Retina display that provides clear and vibrant visuals for easy readability."
-        ]
-      },
-      {
-        "title": "Family Setup",
-        "text": [
-          "With Family Setup, you can pair your Apple Watch SE with a family member's iPhone, so you can stay connected even without owning an iPhone yourself."
-        ]
-      },
-      {
-        "title": "Fitness tracking",
-        "text": [
-          "The Apple Watch SE offers comprehensive fitness tracking features, including activity tracking, heart rate monitoring, and built-in GPS for tracking your outdoor workouts."
-        ]
-      }
-    ],
-    "screen": "1.57' LTPO OLED",
-    "resolution": "324x394",
-    "processor": "Apple S5",
-    "ram": "1GB",
-    "cell": ["Wi-Fi", "Bluetooth", "LTE"]
-  },
-  {
-    "id": "apple-watch-se-44mm-silver",
-    "category": "accessories",
-    "namespaceId": "apple-watch-se",
-    "name": "Apple Watch SE 44mm Silver",
-    "capacityAvailable": ["40mm", "44mm"],
-    "capacity": "44mm",
-    "priceRegular": 309,
-    "priceDiscount": 259,
-    "colorsAvailable": ["silver", "gold", "space gray"],
-    "color": "silver",
-    "images": [
-      "img/accessories/apple-watch-se/silver/00.webp",
-      "img/accessories/apple-watch-se/silver/01.webp",
-      "img/accessories/apple-watch-se/silver/02.webp"
-    ],
-    "description": [
-      {
-        "title": "Retina display",
-        "text": [
-          "The Apple Watch SE features a Retina display that provides clear and vibrant visuals for easy readability."
-        ]
-      },
-      {
-        "title": "Family Setup",
-        "text": [
-          "With Family Setup, you can pair your Apple Watch SE with a family member's iPhone, so you can stay connected even without owning an iPhone yourself."
-        ]
-      },
-      {
-        "title": "Fitness tracking",
-        "text": [
-          "The Apple Watch SE offers comprehensive fitness tracking features, including activity tracking, heart rate monitoring, and built-in GPS for tracking your outdoor workouts."
-        ]
-      }
-    ],
-    "screen": "1.78' LTPO OLED",
-    "resolution": "368x448",
-    "processor": "Apple S5",
-    "ram": "1GB",
-    "cell": ["Wi-Fi", "Bluetooth", "LTE"]
-  },
-  {
-    "id": "apple-watch-se-40mm-gold",
-    "category": "accessories",
-    "namespaceId": "apple-watch-se",
-    "name": "Apple Watch SE 40mm Gold",
-    "capacityAvailable": ["40mm", "44mm"],
-    "capacity": "40mm",
-    "priceRegular": 279,
-    "priceDiscount": 239,
-    "colorsAvailable": ["silver", "space gray", "gold"],
-    "color": "gold",
-    "images": [
-      "img/accessories/apple-watch-se/gold/00.webp",
-      "img/accessories/apple-watch-se/gold/01.webp",
-      "img/accessories/apple-watch-se/gold/02.webp"
-    ],
-    "description": [
-      {
-        "title": "Retina display",
-        "text": [
-          "The Apple Watch SE features a stunning Retina display that is always on, so you can easily see the time and important information without having to raise your wrist."
-        ]
-      },
-      {
-        "title": "Health and fitness tracking",
-        "text": [
-          "The Apple Watch SE has all the features you need to stay healthy and active, including heart rate monitoring, activity tracking, and sleep tracking. It also has built-in GPS so you can track your workouts and outdoor activities."
-        ]
-      },
-      {
-        "title": "Stay connected",
-        "text": [
-          "With cellular and Wi-Fi connectivity, you can stay connected wherever you go. You can make and receive calls, send texts, and stream music directly from your wrist."
-        ]
-      }
-    ],
-    "screen": "1.57' LTPO OLED",
-    "resolution": "324x394",
-    "processor": "Apple S5",
-    "ram": "1GB",
-    "cell": ["Wi-Fi", "Bluetooth", "LTE"]
-  },
-  {
-    "id": "apple-watch-se-44mm-gold",
-    "category": "accessories",
-    "namespaceId": "apple-watch-se",
-    "name": "Apple Watch SE 44mm Gold",
-    "capacityAvailable": ["40mm", "44mm"],
-    "capacity": "44mm",
-    "priceRegular": 309,
-    "priceDiscount": 259,
-    "colorsAvailable": ["space gray", "silver", "gold"],
-    "color": "gold",
-    "images": [
-      "img/accessories/apple-watch-se/gold/00.webp",
-      "img/accessories/apple-watch-se/gold/01.webp",
-      "img/accessories/apple-watch-se/gold/02.webp"
-    ],
-    "description": [
-      {
-        "title": "Retina display",
-        "text": [
-          "The Apple Watch SE features a stunning Retina display that is always on, so you can easily see the time and important information without lifting your wrist."
-        ]
-      },
-      {
-        "title": "Track your daily activity",
-        "text": [
-          "The Apple Watch SE tracks your daily activity including workouts, steps taken, and calories burned. It also has a built-in GPS to track your runs, walks, and hikes."
-        ]
-      },
-      {
-        "title": "Stay connected",
-        "text": [
-          "The Apple Watch SE keeps you connected with the people and information you care about most. With cellular service, you can make and receive calls and texts, stream music, and use Siri, all without your iPhone."
-        ]
-      }
-    ],
-    "screen": "1.78' LTPO OLED",
-    "resolution": "368x448",
-    "processor": "Apple S5",
-    "ram": "1GB",
-    "cell": ["Wi-Fi", "Bluetooth", "LTE"]
-  },
-  {
-    "id": "apple-watch-se-40mm-space-gray",
-    "category": "accessories",
-    "namespaceId": "apple-watch-se",
-    "name": "Apple Watch SE 40mm Space Gray",
-    "capacityAvailable": ["40mm", "44mm"],
-    "capacity": "40mm",
-    "priceRegular": 279,
-    "priceDiscount": 239,
-    "colorsAvailable": ["silver", "space gray", "gold"],
-    "color": "space gray",
-    "images": [
-      "img/accessories/apple-watch-se/space-gray/00.webp",
-      "img/accessories/apple-watch-se/space-gray/01.webp",
-      "img/accessories/apple-watch-se/space-gray/02.webp"
-    ],
-    "description": [
-      {
-        "title": "Retina display",
-        "text": [
-          "The Apple Watch SE features a stunning Retina display that is always on, providing clear and vibrant visuals for easy readability."
-        ]
-      },
-      {
-        "title": "Fitness and health tracking",
-        "text": [
-          "The Apple Watch SE helps you stay active and monitors your health with features like heart rate monitoring, activity tracking, and built-in GPS for tracking your outdoor workouts."
-        ]
-      },
-      {
-        "title": "Stay connected",
-        "text": [
-          "With cellular and Wi-Fi connectivity, you can stay connected on the go. Make and receive calls, send messages, stream music, and access Siri right from your wrist."
-        ]
-      }
-    ],
-    "screen": "1.57' LTPO OLED",
-    "resolution": "324x394",
-    "processor": "Apple S5",
-    "ram": "1GB",
-    "cell": ["Wi-Fi", "Bluetooth", "LTE"]
-  },
-  {
-    "id": "apple-watch-se-44mm-space-gray",
-    "category": "accessories",
-    "namespaceId": "apple-watch-se",
-    "name": "Apple Watch SE 44mm Space Gray",
-    "capacityAvailable": ["40mm", "44mm"],
-    "capacity": "44mm",
-    "priceRegular": 309,
-    "priceDiscount": 259,
-    "colorsAvailable": ["silver", "space gray", "gold"],
-    "color": "space gray",
-    "images": [
-      "img/accessories/apple-watch-se/space-gray/00.webp",
-      "img/accessories/apple-watch-se/space-gray/01.webp",
-      "img/accessories/apple-watch-se/space-gray/02.webp"
-    ],
-    "description": [
-      {
-        "title": "Retina display",
-        "text": [
-          "The Apple Watch SE features a stunning Retina display that is always on, providing clear and vibrant visuals for easy readability."
-        ]
-      },
-      {
-        "title": "Fitness and health tracking",
-        "text": [
-          "The Apple Watch SE helps you stay active and monitors your health with features like heart rate monitoring, activity tracking, and built-in GPS for tracking your outdoor workouts."
-        ]
-      },
-      {
-        "title": "Stay connected",
-        "text": [
-          "With cellular and Wi-Fi connectivity, you can stay connected on the go. Make and receive calls, send messages, stream music, and access Siri right from your wrist."
-        ]
-      }
-    ],
-    "screen": "1.78' LTPO OLED",
-    "resolution": "368x448",
-    "processor": "Apple S5",
-    "ram": "1GB",
-    "cell": ["Wi-Fi", "Bluetooth", "LTE"]
+    "inStock": true
   }
 ]

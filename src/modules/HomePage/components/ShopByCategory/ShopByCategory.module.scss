@@ -2,9 +2,9 @@
 @use '../../../../styles/mixins' as *;
 
 .title {
-  @include section-title;
-
-  margin-bottom: 20px;
+  @include section-title {
+    margin-bottom: 20px;
+  }
 
   @include on-tablet {
     margin-bottom: 24px;
@@ -13,22 +13,30 @@
 
 .grid {
   display: grid;
+  grid-template-areas:
+    'iphone iphone'
+    'mac mac'
+    'ipad watch'
+    'airpods accessories';
+  grid-template-columns: repeat(2, 1fr);
   gap: 12px;
 
   @include on-tablet {
-    grid-template-columns: 1fr 1fr;
-    grid-auto-rows: 220px;
+    grid-template-areas:
+      'iphone iphone mac mac'
+      'iphone iphone ipad watch'
+      'airpods airpods accessories accessories';
+    grid-template-columns: repeat(4, 1fr);
+    grid-auto-rows: 200px;
     gap: 16px;
   }
 
   @include on-desktop {
-    grid-auto-rows: 260px;
+    grid-auto-rows: 250px;
   }
 }
 
 .tile {
-  @include hover-lift;
-
   position: relative;
   display: flex;
   flex-direction: column;
@@ -41,26 +49,42 @@
   overflow: hidden;
   isolation: isolate;
 
+  @include hover-lift;
+
   @include on-tablet {
     min-height: 0;
     padding: 28px;
   }
 }
 
-.phones {
+.iphone {
+  grid-area: iphone;
   min-height: 340px;
-  background-color: var(--tint-phones);
-
-  @include on-tablet {
-    grid-row: span 2;
-  }
+  background-color: var(--tint-iphone);
 }
 
-.tablets {
-  background-color: var(--tint-tablets);
+.mac {
+  grid-area: mac;
+  background-color: var(--tint-mac);
+}
+
+.ipad {
+  grid-area: ipad;
+  background-color: var(--tint-ipad);
+}
+
+.watch {
+  grid-area: watch;
+  background-color: var(--tint-watch);
+}
+
+.airpods {
+  grid-area: airpods;
+  background-color: var(--tint-airpods);
 }
 
 .accessories {
+  grid-area: accessories;
   background-color: var(--tint-accessories);
 }
 
@@ -70,7 +94,7 @@
   font-weight: 600;
   letter-spacing: -0.01em;
 
-  .phones & {
+  .iphone & {
     font-size: 30px;
     letter-spacing: -0.02em;
 
@@ -114,21 +138,44 @@
 
 .image {
   position: absolute;
-  right: -2%;
-  bottom: -4%;
+  right: 16px;
+  bottom: 16px;
   z-index: -1;
-  height: 80%;
-  max-width: 68%;
+  height: 70%;
+  max-width: 58%;
   object-fit: contain;
   object-position: right bottom;
   transition: transform 0.45s;
 
-  .phones & {
-    right: 4%;
-    max-width: 78%;
+  .iphone & {
+    right: 50%;
+    height: min(76%, calc(100% - 120px));
+    max-width: 90%;
+    transform: translateX(50%);
+  }
+
+  .ipad &,
+  .watch & {
+    height: min(70%, calc(100% - 96px));
   }
 
   .tile:hover & {
-    transform: scale(1.06) translateY(-4px);
+    transform: scale(1.05) translateY(-4px);
+  }
+
+  .iphone.tile:hover & {
+    transform: translateX(50%) scale(1.05) translateY(-4px);
+  }
+
+}
+
+@media (max-width: ($tablet-min-width - 1px)) {
+  .ipad,
+  .watch,
+  .airpods,
+  .accessories {
+    .shop {
+      display: none;
+    }
   }
 }

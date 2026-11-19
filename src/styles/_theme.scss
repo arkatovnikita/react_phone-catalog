@@ -15,10 +15,12 @@
   --color-green: #2e9e5b;
   --color-header: rgb(255 255 255 / 80%);
   --shadow-card: 0 12px 32px rgb(0 0 0 / 8%);
-  --illustration-filter: none;
-  --tint-phones: #f6ede2;
-  --tint-tablets: #eeebfa;
-  --tint-accessories: #fbf5e2;
+  --tint-iphone: #f5e6e8;
+  --tint-ipad: #efeaf7;
+  --tint-mac: #e6eef6;
+  --tint-watch: #f2eee7;
+  --tint-airpods: #fbece2;
+  --tint-accessories: #f1f2f4;
 }
 
 [data-theme='dark'] {
@@ -37,10 +39,12 @@
   --color-green: #3ddc84;
   --color-header: rgb(0 0 0 / 72%);
   --shadow-card: 0 12px 32px rgb(0 0 0 / 50%);
-  --illustration-filter: invert(1);
-  --tint-phones: #221c15;
-  --tint-tablets: #1c1a2b;
-  --tint-accessories: #221e10;
+  --tint-iphone: #2a1a1d;
+  --tint-ipad: #1f1b2a;
+  --tint-mac: #16202b;
+  --tint-watch: #24211c;
+  --tint-airpods: #2b1f17;
+  --tint-accessories: #1c1d20;
 
   color-scheme: dark;
 }

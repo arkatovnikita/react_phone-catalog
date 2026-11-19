@@ -6,8 +6,8 @@ import ArrowLeftIcon from '../../../../assets/icons/arrow-left.svg?react';
 import ArrowRightIcon from '../../../../assets/icons/arrow-right.svg?react';
 
 const BANNERS = [
-  { image: 'img/banner-phones.png', alt: 'Phones', link: '/phones' },
-  { image: 'img/banner-tablets.png', alt: 'Tablets', link: '/tablets' },
+  { image: 'img/banner-phones.png', alt: 'Phones', link: '/iphone' },
+  { image: 'img/banner-tablets.png', alt: 'Tablets', link: '/ipad' },
   {
     image: 'img/banner-accessories.png',
     alt: 'Accessories',

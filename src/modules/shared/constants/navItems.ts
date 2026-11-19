@@ -1,6 +1,9 @@
+import { CATEGORIES } from './categories';
+
 export const navItems = [
   { title: 'Home', path: '/' },
-  { title: 'Phones', path: '/phones' },
-  { title: 'Tablets', path: '/tablets' },
-  { title: 'Accessories', path: '/accessories' },
+  ...CATEGORIES.map(({ category, title }) => ({
+    title,
+    path: `/${category}`,
+  })),
 ];

@@ -3,24 +3,13 @@ import { useLocation, useSearchParams } from 'react-router-dom';
 import styles from './CatalogPage.module.scss';
 import { getProductsByCategory } from '../shared/api/products';
 import { Category } from '../shared/types/Category';
+import { CATEGORY_TITLES } from '../shared/constants/categories';
 import { Product } from '../shared/types/Product';
 import { Breadcrumbs } from '../shared/components/Breadcrumbs';
 import { Loader } from '../shared/components/Loader';
 import { ProductsList } from '../shared/components/ProductsList';
 import { Select } from './components/Select';
 import { Pagination } from './components/Pagination';
-
-const TITLES: Record<Category, string> = {
-  phones: 'Mobile phones',
-  tablets: 'Tablets',
-  accessories: 'Accessories',
-};
-
-const BREADCRUMB_TITLES: Record<Category, string> = {
-  phones: 'Phones',
-  tablets: 'Tablets',
-  accessories: 'Accessories',
-};
 
 const SORT_OPTIONS = [
   { value: 'age', label: 'Newest' },
@@ -148,7 +137,11 @@ export const CatalogPage = () => {
     }
 
     if (products.length === 0) {
-      return <p className={styles.messageText}>There are no {category} yet</p>;
+      return (
+        <p className={styles.messageText}>
+          There are no {CATEGORY_TITLES[category]} products yet
+        </p>
+      );
     }
 
     return (
@@ -186,9 +179,9 @@ export const CatalogPage = () => {
 
   return (
     <section className={styles.page}>
-      <Breadcrumbs links={[{ title: BREADCRUMB_TITLES[category] }]} />
+      <Breadcrumbs links={[{ title: CATEGORY_TITLES[category] }]} />
 
-      <h1 className={styles.title}>{TITLES[category]}</h1>
+      <h1 className={styles.title}>{CATEGORY_TITLES[category]}</h1>
 
       {!isLoading && !hasError && (
         <p className={styles.count}>{products.length} models</p>

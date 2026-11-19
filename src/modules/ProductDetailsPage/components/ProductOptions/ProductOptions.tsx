@@ -4,7 +4,7 @@ import styles from './ProductOptions.module.scss';
 import { Product } from '../../../shared/types/Product';
 import { ProductDetails } from '../../../shared/types/ProductDetails';
 import { useProductActions } from '../../../shared/hooks/useProductActions';
-import { COLORS } from '../../../shared/constants/colors';
+import { Rating } from '../../../shared/components/Rating';
 import HeartIcon from '../../../../assets/icons/heart.svg?react';
 import HeartFilledIcon from '../../../../assets/icons/heart-filled.svg?react';
 
@@ -14,100 +14,139 @@ type Props = {
   variants: ProductDetails[];
 };
 
-const formatCapacity = (capacity: string) =>
-  capacity.replace(/(\d)([a-zA-Z])/, '$1 $2');
+const SUMMARY_SPECS_COUNT = 4;
 
 export const ProductOptions = ({ product, details, variants }: Props) => {
   const navigate = useNavigate();
   const { inCart, favorite, handleAddToCart, handleToggleFavorite } =
     useProductActions(product);
 
-  const specs = [
-    { label: 'Screen', value: details.screen },
-    { label: 'Resolution', value: details.resolution },
-    { label: 'Processor', value: details.processor },
-    { label: 'RAM', value: details.ram },
-  ];
+  const findVariant = (color: string, capacity: string) =>
+    variants.find(item => item.color === color && item.capacity === capacity);
+
+  const isColorInStock = (color: string) =>
+    variants.some(item => item.color === color && item.inStock);
 
   const selectVariant = (color: string, capacity: string) => {
-    const variant = variants.find(
-      item =>
-        item.namespaceId === details.namespaceId &&
-        item.color === color &&
-        item.capacity === capacity,
-    );
+    const variant =
+      findVariant(color, capacity) ??
+      variants.find(item => item.color === color);
 
     if (variant) {
       navigate(`/product/${variant.id}`, { replace: true });
     }
   };
 
+  const selectedColor = details.colors.find(
+    color => color.slug === details.color,
+  );
+  const hasDiscount = details.priceDiscount < details.priceRegular;
+
+  let buttonText = 'Add to cart';
+
+  if (!details.inStock) {
+    buttonText = 'Out of stock';
+  } else if (inCart) {
+    buttonText = 'Added to cart';
+  }
+
   return (
     <div className={styles.options}>
-      <div className={styles.group}>
-        <div className={styles.groupHeader}>
-          <p className={styles.label}>Available colors</p>
-          <p className={styles.id}>ID: {product.id}</p>
-        </div>
-
-        <div className={styles.colors}>
-          {details.colorsAvailable.map(color => (
-            <label
-              key={color}
-              className={classNames(styles.color, {
-                [styles.colorActive]: color === details.color,
-              })}
-              title={color}
-            >
-              <input
-                type="radio"
-                name="color"
-                value={color}
-                checked={color === details.color}
-                onChange={() => selectVariant(color, details.capacity)}
-                className="visually-hidden"
-              />
-              <span className="visually-hidden">{color}</span>
-              <span
-                className={styles.swatch}
-                style={{ backgroundColor: COLORS[color] ?? color }}
-              />
-            </label>
-          ))}
-        </div>
+      <div className={styles.top}>
+        <Rating rating={details.rating} count={details.reviewsCount} />
+        <p className={styles.id}>Item no. {details.sku}</p>
       </div>
 
-      <div className={styles.group}>
-        <p className={styles.label}>Select capacity</p>
+      {details.colors.length > 1 && (
+        <div className={styles.group}>
+          <p className={styles.label}>
+            Color: <span className={styles.value}>{selectedColor?.name}</span>
+          </p>
 
-        <div className={styles.capacities}>
-          {details.capacityAvailable.map(capacity => (
-            <label
-              key={capacity}
-              className={classNames(styles.capacity, {
-                [styles.capacityActive]: capacity === details.capacity,
-              })}
-            >
-              <input
-                type="radio"
-                name="capacity"
-                value={capacity}
-                checked={capacity === details.capacity}
-                onChange={() => selectVariant(details.color, capacity)}
-                className="visually-hidden"
-              />
-              {formatCapacity(capacity)}
-            </label>
-          ))}
+          <div className={styles.colors}>
+            {details.colors.map(color => {
+              const inStock = isColorInStock(color.slug);
+
+              return (
+                <label
+                  key={color.slug}
+                  className={classNames(styles.color, {
+                    [styles.colorActive]: color.slug === details.color,
+                    [styles.colorOut]: !inStock,
+                  })}
+                  title={inStock ? color.name : `${color.name} — out of stock`}
+                >
+                  <input
+                    type="radio"
+                    name="color"
+                    value={color.slug}
+                    checked={color.slug === details.color}
+                    disabled={!inStock}
+                    onChange={() => selectVariant(color.slug, details.capacity)}
+                    className="visually-hidden"
+                  />
+                  <span className="visually-hidden">{color.name}</span>
+                  <span
+                    className={styles.swatch}
+                    style={{ backgroundColor: color.hex }}
+                  />
+                </label>
+              );
+            })}
+          </div>
         </div>
-      </div>
+      )}
+
+      {details.capacityAvailable.length > 1 && (
+        <div className={styles.group}>
+          <p className={styles.label}>{details.capacityLabel}</p>
+
+          <div className={styles.capacities}>
+            {details.capacityAvailable.map(capacity => {
+              const variant = findVariant(details.color, capacity);
+              const inStock = Boolean(variant?.inStock);
+
+              return (
+                <label
+                  key={capacity}
+                  className={classNames(styles.capacity, {
+                    [styles.capacityActive]: capacity === details.capacity,
+                    [styles.capacityOut]: !inStock,
+                  })}
+                >
+                  <input
+                    type="radio"
+                    name="capacity"
+                    value={capacity}
+                    checked={capacity === details.capacity}
+                    disabled={!inStock}
+                    onChange={() => selectVariant(details.color, capacity)}
+                    className="visually-hidden"
+                  />
+                  {capacity}
+                </label>
+              );
+            })}
+          </div>
+        </div>
+      )}
 
       <p className={styles.prices}>
         <span className={styles.price}>${details.priceDiscount}</span>
 
-        {details.priceDiscount !== details.priceRegular && (
+        {hasDiscount && (
           <span className={styles.fullPrice}>${details.priceRegular}</span>
         )}
+      </p>
+
+      <p
+        className={classNames(styles.stock, {
+          [styles.stockOut]: !details.inStock,
+        })}
+      >
+        {details.inStock
+          ? 'In stock · Free delivery in 2–3 days'
+          : 'Out of stock · This configuration is unavailable'}
       </p>
 
       <div className={styles.buttons}>
@@ -116,9 +155,10 @@ export const ProductOptions = ({ product, details, variants }: Props) => {
           className={classNames(styles.addButton, {
             [styles.addButtonActive]: inCart,
           })}
+          disabled={!details.inStock}
           onClick={handleAddToCart}
         >
-          {inCart ? 'Added to cart' : 'Add to cart'}
+          {buttonText}
         </button>
 
         <button
@@ -134,7 +174,7 @@ export const ProductOptions = ({ product, details, variants }: Props) => {
       </div>
 
       <dl className={styles.specs}>
-        {specs.map(({ label, value }) => (
+        {details.specs.slice(0, SUMMARY_SPECS_COUNT).map(({ label, value }) => (
           <div key={label} className={styles.spec}>
             <dt className={styles.specLabel}>{label}</dt>
             <dd className={styles.specValue}>{value}</dd>

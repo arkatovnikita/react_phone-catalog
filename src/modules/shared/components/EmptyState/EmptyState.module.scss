@@ -1,0 +1,72 @@
+@use '../../../../styles/variables' as *;
+@use '../../../../styles/mixins' as *;
+
+.state {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-block: 32px 16px;
+  text-align: center;
+  animation: appear 0.4s ease-out;
+
+  @include on-tablet {
+    padding-block: 48px 24px;
+  }
+}
+
+.icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 120px;
+  height: 120px;
+  margin-bottom: 28px;
+  border-radius: 50%;
+  color: var(--color-primary);
+  background-color: var(--color-surface);
+  outline: 1px solid var(--color-elements);
+  outline-offset: 10px;
+
+  svg {
+    width: 44px;
+    height: 44px;
+  }
+}
+
+.art {
+  margin-bottom: 24px;
+}
+
+.title {
+  margin: 0 0 10px;
+  font-size: 26px;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+
+  @include on-tablet {
+    font-size: 32px;
+  }
+}
+
+.text {
+  max-width: 420px;
+  margin: 0;
+  font-size: 15px;
+  line-height: 1.6;
+  color: var(--color-secondary);
+}
+
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: center;
+  margin-top: 28px;
+}
+
+@keyframes appear {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+}

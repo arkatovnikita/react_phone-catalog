@@ -19,9 +19,19 @@
   border-bottom: 1px solid var(--color-elements);
 }
 
-.groupHeader {
+.top {
   display: flex;
+  flex-wrap: wrap;
+  gap: 8px 12px;
+  align-items: center;
   justify-content: space-between;
+  margin-bottom: 24px;
+  padding-bottom: 24px;
+  border-bottom: 1px solid var(--color-elements);
+}
+
+.value {
+  color: var(--color-primary);
 }
 
 .label,
@@ -33,6 +43,7 @@
 }
 
 .id {
+  white-space: nowrap;
   color: var(--color-icons);
 }
 
@@ -63,6 +74,24 @@
 .colorActive,
 .colorActive:hover {
   box-shadow: inset 0 0 0 2px var(--color-primary);
+}
+
+.colorOut {
+  position: relative;
+  cursor: not-allowed;
+  opacity: 0.45;
+
+  &::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 4px;
+    right: 4px;
+    height: 2px;
+    border-radius: 2px;
+    background-color: var(--color-primary);
+    transform: rotate(-45deg);
+  }
 }
 
 .swatch {
@@ -102,6 +131,13 @@
   background-color: var(--color-accent);
 }
 
+.capacityOut {
+  text-decoration: line-through;
+  color: var(--color-secondary);
+  cursor: not-allowed;
+  opacity: 0.6;
+}
+
 .prices {
   display: flex;
   gap: 12px;
@@ -122,6 +158,27 @@
   color: var(--color-secondary);
 }
 
+.stock {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  margin: -8px 0 20px;
+  font-size: 14px;
+  color: var(--color-secondary);
+
+  &::before {
+    content: '';
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background-color: var(--color-green);
+  }
+}
+
+.stockOut::before {
+  background-color: var(--color-red);
+}
+
 .buttons {
   display: flex;
   gap: 8px;
@@ -129,10 +186,17 @@
 }
 
 .addButton {
-  @include button-primary;
+  @include button-primary {
+    flex-grow: 1;
+    height: 52px;
+  }
 
-  flex-grow: 1;
-  height: 52px;
+  &:disabled {
+    color: var(--color-secondary);
+    background-color: var(--color-surface);
+    opacity: 1;
+    cursor: not-allowed;
+  }
 }
 
 .addButtonActive,

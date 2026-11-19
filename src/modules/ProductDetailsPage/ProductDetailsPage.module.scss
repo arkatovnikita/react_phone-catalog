@@ -1,9 +1,9 @@
 @use '../../styles/mixins' as *;
 
 .page {
-  @include page-padding;
-
   padding-block: 24px 56px;
+
+  @include page-padding;
 
   @include on-desktop {
     padding-block: 32px 80px;
@@ -11,9 +11,9 @@
 }
 
 .title {
-  @include section-title;
-
-  margin-block: 16px 28px;
+  @include section-title {
+    margin-block: 16px 28px;
+  }
 
   @include on-desktop {
     margin-bottom: 40px;
@@ -50,9 +50,10 @@
   }
 }
 
-.notFoundImage {
-  display: block;
-  width: 100%;
-  max-width: 400px;
-  filter: var(--illustration-filter);
+.primary {
+  @include button-primary;
+}
+
+.secondary {
+  @include button-secondary;
 }

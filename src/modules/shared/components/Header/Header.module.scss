@@ -11,12 +11,12 @@
 }
 
 .content {
-  @include page-padding;
-
   display: flex;
   gap: 16px;
   align-items: center;
   height: 56px;
+
+  @include page-padding;
 
   @include on-desktop {
     gap: 24px;
@@ -51,7 +51,7 @@
   display: none;
   margin-inline: auto;
 
-  @include on-tablet {
+  @include on-desktop {
     display: block;
   }
 }
@@ -94,7 +94,7 @@
   align-items: center;
   margin-left: auto;
 
-  @include on-tablet {
+  @include on-desktop {
     margin-left: 0;
   }
 }
@@ -109,10 +109,10 @@
 }
 
 .iconButton {
-  @include icon-button;
-
-  color: var(--color-primary);
-  background-color: transparent;
+  @include icon-button {
+    color: var(--color-primary);
+    background-color: transparent;
+  }
 
   svg {
     width: 20px;
@@ -125,7 +125,7 @@
 }
 
 .menuButton {
-  @include on-tablet {
+  @include on-desktop {
     display: none;
   }
 }

@@ -11,6 +11,7 @@ import { NotFoundPage } from './modules/NotFoundPage';
 import { CartProvider } from './modules/shared/context/CartContext';
 import { FavoritesProvider } from './modules/shared/context/FavoritesContext';
 import { ThemeProvider } from './modules/shared/context/ThemeContext';
+import { CATEGORIES } from './modules/shared/constants/categories';
 
 createRoot(document.getElementById('root') as HTMLElement).render(
   <ThemeProvider>
@@ -20,9 +21,13 @@ createRoot(document.getElementById('root') as HTMLElement).render(
           <Routes>
             <Route path="/" element={<App />}>
               <Route index element={<HomePage />} />
-              <Route path="phones" element={<CatalogPage />} />
-              <Route path="tablets" element={<CatalogPage />} />
-              <Route path="accessories" element={<CatalogPage />} />
+              {CATEGORIES.map(({ category }) => (
+                <Route
+                  key={category}
+                  path={category}
+                  element={<CatalogPage />}
+                />
+              ))}
               <Route
                 path="product/:productId"
                 element={<ProductDetailsPage />}

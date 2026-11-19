@@ -83,9 +83,9 @@
 }
 
 .quantityButton {
-  @include icon-button(32px);
-
-  background-color: var(--color-card);
+  @include icon-button(32px) {
+    background-color: var(--color-card);
+  }
 
   &:hover:not(:disabled) {
     background-color: var(--color-elements);
@@ -109,10 +109,10 @@
 }
 
 .remove {
-  @include icon-button(32px);
-
-  color: var(--color-secondary);
-  background-color: transparent;
+  @include icon-button(32px) {
+    color: var(--color-secondary);
+    background-color: transparent;
+  }
 
   &:hover:not(:disabled) {
     color: var(--color-primary);

@@ -2,9 +2,9 @@
 @use '../../styles/mixins' as *;
 
 .page {
-  @include page-padding;
-
   padding-block: 24px 56px;
+
+  @include page-padding;
 
   @include on-desktop {
     padding-block: 32px 80px;
@@ -12,9 +12,9 @@
 }
 
 .title {
-  @include page-title;
-
-  margin-bottom: 8px;
+  @include page-title {
+    margin-bottom: 8px;
+  }
 }
 
 .count {

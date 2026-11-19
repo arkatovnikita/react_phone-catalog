@@ -33,6 +33,8 @@
   line-height: 1.15;
   letter-spacing: -0.03em;
 
+  @content;
+
   @include on-tablet {
     font-size: 44px;
   }
@@ -48,6 +50,8 @@
   font-weight: 700;
   line-height: 1.2;
   letter-spacing: -0.02em;
+
+  @content;
 
   @include on-tablet {
     font-size: 32px;
@@ -78,12 +82,28 @@
     opacity $transition-duration,
     transform $transition-duration;
 
+  @content;
+
   &:hover {
     opacity: 0.88;
   }
 
   &:active {
     transform: scale(0.98);
+  }
+}
+
+@mixin button-secondary {
+  @include button-primary {
+    color: var(--color-primary);
+    background-color: var(--color-surface);
+
+    @content;
+  }
+
+  &:hover {
+    opacity: 1;
+    background-color: var(--color-elements);
   }
 }
 
@@ -104,6 +124,8 @@
     background-color $transition-duration,
     color $transition-duration,
     transform $transition-duration;
+
+  @content;
 
   &:disabled {
     color: var(--color-icons);

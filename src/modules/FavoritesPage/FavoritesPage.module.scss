@@ -1,9 +1,9 @@
 @use '../../styles/mixins' as *;
 
 .page {
-  @include page-padding;
-
   padding-block: 32px 56px;
+
+  @include page-padding;
 
   @include on-desktop {
     padding-block: 40px 80px;
@@ -24,9 +24,6 @@
   }
 }
 
-.empty {
-  margin: 0;
-  font-size: 22px;
-  font-weight: 600;
-  letter-spacing: -0.01em;
+.emptyLink {
+  @include button-primary;
 }

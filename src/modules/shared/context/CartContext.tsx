@@ -27,8 +27,11 @@ type Props = {
 };
 
 export const CartProvider = ({ children }: Props) => {
-  const [cartItems, setCartItems] = useLocalStorage<CartItem[]>('cart', []);
-  const [promoCode, setPromoCode] = useLocalStorage('promoCode', '');
+  const [cartItems, setCartItems] = useLocalStorage<CartItem[]>(
+    'orchard-cart',
+    [],
+  );
+  const [promoCode, setPromoCode] = useLocalStorage('orchard-promo-code', '');
 
   const value = useMemo(() => {
     const addToCart = (product: Product) => {
