@@ -1454,46 +1454,17 @@
   {
     "id": 41,
     "category": "mac",
-    "itemId": "macbook-pro-16-oled-1tb-spaceblack",
-    "namespaceId": "macbook-pro-16-oled",
-    "name": "MacBook Pro 16-inch OLED 1TB Space Black",
-    "modelName": "MacBook Pro 16-inch OLED",
-    "fullPrice": 3399,
-    "price": 3399,
+    "itemId": "macbook-pro-16-m5-pro-1tb-spaceblack",
+    "namespaceId": "macbook-pro-16-m5-pro",
+    "name": "MacBook Pro 16-inch M5 Pro 1TB Space Black",
+    "modelName": "MacBook Pro 16-inch M5 Pro",
+    "fullPrice": 2699,
+    "price": 2699,
     "color": "Space Black",
     "capacity": "1TB",
     "year": 2026,
-    "image": "img/products/macbook-pro-16-oled/spaceblack-0.webp",
-    "summary": "16.2\" PROLED XDR touch · M5 Pro · 24GB",
-    "colors": [
-      {
-        "name": "Space Black",
-        "hex": "#2f2f31"
-      },
-      {
-        "name": "Silver",
-        "hex": "#e3e4e5"
-      }
-    ],
-    "rating": 4.5,
-    "reviewsCount": 931,
-    "inStock": true,
-    "isNew": true
-  },
-  {
-    "id": 42,
-    "category": "mac",
-    "itemId": "macbook-pro-14-oled-1tb-spaceblack",
-    "namespaceId": "macbook-pro-14-oled",
-    "name": "MacBook Pro 14-inch OLED 1TB Space Black",
-    "modelName": "MacBook Pro 14-inch OLED",
-    "fullPrice": 2899,
-    "price": 2899,
-    "color": "Space Black",
-    "capacity": "1TB",
-    "year": 2026,
-    "image": "img/products/macbook-pro-14-oled/spaceblack-0.webp",
-    "summary": "14.2\" PROLED XDR touch · M5 Pro · 24GB",
+    "image": "img/products/macbook-pro-16-m5-pro/spaceblack-0.webp",
+    "summary": "16.2\" Liquid Retina XDR · M5 Pro · 24GB",
     "colors": [
       {
         "name": "Space Black",
@@ -1505,21 +1476,50 @@
       }
     ],
     "rating": 4.4,
-    "reviewsCount": 173,
+    "reviewsCount": 137,
+    "inStock": true,
+    "isNew": true
+  },
+  {
+    "id": 42,
+    "category": "mac",
+    "itemId": "macbook-pro-14-m5-pro-1tb-spaceblack",
+    "namespaceId": "macbook-pro-14-m5-pro",
+    "name": "MacBook Pro 14-inch M5 Pro 1TB Space Black",
+    "modelName": "MacBook Pro 14-inch M5 Pro",
+    "fullPrice": 2399,
+    "price": 2399,
+    "color": "Space Black",
+    "capacity": "1TB",
+    "year": 2026,
+    "image": "img/products/macbook-pro-14-m5-pro/spaceblack-0.webp",
+    "summary": "14.2\" Liquid Retina XDR · M5 Pro · 24GB",
+    "colors": [
+      {
+        "name": "Space Black",
+        "hex": "#2f2f31"
+      },
+      {
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "rating": 4.8,
+    "reviewsCount": 133,
     "inStock": true,
     "isNew": true
   },
   {
     "id": 43,
     "category": "mac",
-    "itemId": "macbook-pro-14-512gb-spaceblack",
+    "itemId": "macbook-pro-14-1tb-spaceblack",
     "namespaceId": "macbook-pro-14",
-    "name": "MacBook Pro 14-inch M6 512GB Space Black",
+    "name": "MacBook Pro 14-inch M6 1TB Space Black",
     "modelName": "MacBook Pro 14-inch M6",
     "fullPrice": 1999,
     "price": 1999,
     "color": "Space Black",
-    "capacity": "512GB",
+    "capacity": "1TB",
     "year": 2026,
     "image": "img/products/macbook-pro-14/spaceblack-0.webp",
     "summary": "14.2\" Liquid Retina XDR · M6 · 16GB",
@@ -1650,6 +1650,10 @@
       {
         "name": "Yellow",
         "hex": "#f4d77a"
+      },
+      {
+        "name": "Silver",
+        "hex": "#e3e4e5"
       }
     ],
     "rating": 4.9,
@@ -1924,8 +1928,8 @@
     "namespaceId": "imac-m4",
     "name": "iMac 24-inch M4 256GB Silver",
     "modelName": "iMac 24-inch M4",
-    "fullPrice": 1299,
-    "price": 1039,
+    "fullPrice": 1499,
+    "price": 1199,
     "color": "Silver",
     "capacity": "256GB",
     "year": 2024,
@@ -2151,8 +2155,8 @@
     "namespaceId": "imac-m3",
     "name": "iMac 24-inch M3 256GB Green",
     "modelName": "iMac 24-inch M3",
-    "fullPrice": 1299,
-    "price": 939,
+    "fullPrice": 1499,
+    "price": 1079,
     "color": "Green",
     "capacity": "256GB",
     "year": 2023,
@@ -2399,8 +2403,8 @@
     "namespaceId": "imac-m1",
     "name": "iMac 24-inch M1 256GB Purple",
     "modelName": "iMac 24-inch M1",
-    "fullPrice": 1299,
-    "price": 709,
+    "fullPrice": 1499,
+    "price": 819,
     "color": "Purple",
     "capacity": "256GB",
     "year": 2021,

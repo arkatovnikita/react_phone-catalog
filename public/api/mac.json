@@ -1,11 +1,11 @@
 [
   {
-    "id": "macbook-pro-16-oled-1tb-spaceblack",
-    "sku": "847784",
+    "id": "macbook-pro-16-m5-pro-1tb-spaceblack",
+    "sku": "773422",
     "category": "mac",
-    "namespaceId": "macbook-pro-16-oled",
-    "name": "MacBook Pro 16-inch OLED 1TB Space Black",
-    "modelName": "MacBook Pro 16-inch OLED",
+    "namespaceId": "macbook-pro-16-m5-pro",
+    "name": "MacBook Pro 16-inch M5 Pro 1TB Space Black",
+    "modelName": "MacBook Pro 16-inch M5 Pro",
     "year": 2026,
     "capacityAvailable": [
       "1TB",
@@ -13,8 +13,8 @@
     ],
     "capacity": "1TB",
     "capacityLabel": "Storage",
-    "priceRegular": 3399,
-    "priceDiscount": 3399,
+    "priceRegular": 2699,
+    "priceDiscount": 2699,
     "colors": [
       {
         "slug": "spaceblack",
@@ -29,36 +29,40 @@
     ],
     "color": "spaceblack",
     "images": [
-      "img/products/macbook-pro-16-oled/spaceblack-0.webp"
+      "img/products/macbook-pro-16-m5-pro/spaceblack-0.webp"
     ],
     "description": [
       {
-        "title": "The biggest pro display",
+        "title": "The biggest Liquid Retina XDR",
         "text": [
-          "A 16-inch PROLED XDR touch display for serious creative work."
+          "A 16.2-inch display with extreme dynamic range for serious creative work."
         ]
       },
       {
         "title": "Up to 24 hours",
         "text": [
-          "The longest battery life ever in a Mac."
+          "All-day battery life, even with demanding pro apps."
         ]
       },
       {
         "title": "Built for pros",
         "text": [
-          "Thunderbolt 5, HDMI and an SD card slot."
+          "Thunderbolt 5, HDMI and an SD card slot built right in."
         ]
       }
     ],
     "specs": [
       {
         "label": "Display",
-        "value": "16.2\" PROLED XDR with touch"
+        "value": "16.2\" Liquid Retina XDR"
+      },
+      {
+        "label": "Resolution",
+        "value": "3456×2234"
       },
       {
         "label": "Chip",
-        "value": "Apple M5 Pro, 15-core CPU, 20-core GPU"
+        "value": "Apple M5 Pro, 18-core CPU, 20-core GPU"
       },
       {
         "label": "Memory",
@@ -70,7 +74,7 @@
       },
       {
         "label": "Camera",
-        "value": "12MP Center Stage, Dynamic Island"
+        "value": "12MP Center Stage"
       },
       {
         "label": "Ports",
@@ -78,18 +82,18 @@
       },
       {
         "label": "Weight",
-        "value": "2.1 kg"
+        "value": "2.14 kg"
       }
     ],
-    "rating": 4.5,
-    "reviewsCount": 931,
+    "rating": 4.4,
+    "reviewsCount": 137,
     "reviews": [
       {
-        "author": "Grace H.",
+        "author": "Daniel K.",
         "rating": 5,
         "date": "2026-08-27",
-        "title": "Battery is unreal",
-        "text": "I charge it every two days with normal work."
+        "title": "Silent and powerful",
+        "text": "Compiles projects in seconds and stays completely quiet."
       },
       {
         "author": "Emma L.",
@@ -99,9 +103,9 @@
         "text": "Text is razor sharp and colors are accurate for photo editing."
       },
       {
-        "author": "Max N.",
-        "rating": 4,
-        "date": "2026-05-21",
+        "author": "Mia S.",
+        "rating": 5,
+        "date": "2026-07-14",
         "title": "Worth every penny",
         "text": "My best tech purchase in years."
       }
@@ -109,12 +113,12 @@
     "inStock": true
   },
   {
-    "id": "macbook-pro-16-oled-2tb-spaceblack",
-    "sku": "697633",
+    "id": "macbook-pro-16-m5-pro-2tb-spaceblack",
+    "sku": "774067",
     "category": "mac",
-    "namespaceId": "macbook-pro-16-oled",
-    "name": "MacBook Pro 16-inch OLED 2TB Space Black",
-    "modelName": "MacBook Pro 16-inch OLED",
+    "namespaceId": "macbook-pro-16-m5-pro",
+    "name": "MacBook Pro 16-inch M5 Pro 2TB Space Black",
+    "modelName": "MacBook Pro 16-inch M5 Pro",
     "year": 2026,
     "capacityAvailable": [
       "1TB",
@@ -122,8 +126,8 @@
     ],
     "capacity": "2TB",
     "capacityLabel": "Storage",
-    "priceRegular": 3799,
-    "priceDiscount": 3799,
+    "priceRegular": 3099,
+    "priceDiscount": 3099,
     "colors": [
       {
         "slug": "spaceblack",
@@ -138,36 +142,40 @@
     ],
     "color": "spaceblack",
     "images": [
-      "img/products/macbook-pro-16-oled/spaceblack-0.webp"
+      "img/products/macbook-pro-16-m5-pro/spaceblack-0.webp"
     ],
     "description": [
       {
-        "title": "The biggest pro display",
+        "title": "The biggest Liquid Retina XDR",
         "text": [
-          "A 16-inch PROLED XDR touch display for serious creative work."
+          "A 16.2-inch display with extreme dynamic range for serious creative work."
         ]
       },
       {
         "title": "Up to 24 hours",
         "text": [
-          "The longest battery life ever in a Mac."
+          "All-day battery life, even with demanding pro apps."
         ]
       },
       {
         "title": "Built for pros",
         "text": [
-          "Thunderbolt 5, HDMI and an SD card slot."
+          "Thunderbolt 5, HDMI and an SD card slot built right in."
         ]
       }
     ],
     "specs": [
       {
         "label": "Display",
-        "value": "16.2\" PROLED XDR with touch"
+        "value": "16.2\" Liquid Retina XDR"
+      },
+      {
+        "label": "Resolution",
+        "value": "3456×2234"
       },
       {
         "label": "Chip",
-        "value": "Apple M5 Pro, 15-core CPU, 20-core GPU"
+        "value": "Apple M5 Pro, 18-core CPU, 20-core GPU"
       },
       {
         "label": "Memory",
@@ -179,7 +187,7 @@
       },
       {
         "label": "Camera",
-        "value": "12MP Center Stage, Dynamic Island"
+        "value": "12MP Center Stage"
       },
       {
         "label": "Ports",
@@ -187,18 +195,18 @@
       },
       {
         "label": "Weight",
-        "value": "2.1 kg"
+        "value": "2.14 kg"
       }
     ],
-    "rating": 4.5,
-    "reviewsCount": 931,
+    "rating": 4.4,
+    "reviewsCount": 137,
     "reviews": [
       {
-        "author": "Grace H.",
+        "author": "Daniel K.",
         "rating": 5,
         "date": "2026-08-27",
-        "title": "Battery is unreal",
-        "text": "I charge it every two days with normal work."
+        "title": "Silent and powerful",
+        "text": "Compiles projects in seconds and stays completely quiet."
       },
       {
         "author": "Emma L.",
@@ -208,9 +216,9 @@
         "text": "Text is razor sharp and colors are accurate for photo editing."
       },
       {
-        "author": "Max N.",
-        "rating": 4,
-        "date": "2026-05-21",
+        "author": "Mia S.",
+        "rating": 5,
+        "date": "2026-07-14",
         "title": "Worth every penny",
         "text": "My best tech purchase in years."
       }
@@ -218,12 +226,12 @@
     "inStock": true
   },
   {
-    "id": "macbook-pro-16-oled-1tb-silver",
-    "sku": "214061",
+    "id": "macbook-pro-16-m5-pro-1tb-silver",
+    "sku": "793251",
     "category": "mac",
-    "namespaceId": "macbook-pro-16-oled",
-    "name": "MacBook Pro 16-inch OLED 1TB Silver",
-    "modelName": "MacBook Pro 16-inch OLED",
+    "namespaceId": "macbook-pro-16-m5-pro",
+    "name": "MacBook Pro 16-inch M5 Pro 1TB Silver",
+    "modelName": "MacBook Pro 16-inch M5 Pro",
     "year": 2026,
     "capacityAvailable": [
       "1TB",
@@ -231,8 +239,8 @@
     ],
     "capacity": "1TB",
     "capacityLabel": "Storage",
-    "priceRegular": 3399,
-    "priceDiscount": 3399,
+    "priceRegular": 2699,
+    "priceDiscount": 2699,
     "colors": [
       {
         "slug": "spaceblack",
@@ -247,36 +255,40 @@
     ],
     "color": "silver",
     "images": [
-      "img/products/macbook-pro-16-oled/silver-0.webp"
+      "img/products/macbook-pro-16-m5-pro/silver-0.webp"
     ],
     "description": [
       {
-        "title": "The biggest pro display",
+        "title": "The biggest Liquid Retina XDR",
         "text": [
-          "A 16-inch PROLED XDR touch display for serious creative work."
+          "A 16.2-inch display with extreme dynamic range for serious creative work."
         ]
       },
       {
         "title": "Up to 24 hours",
         "text": [
-          "The longest battery life ever in a Mac."
+          "All-day battery life, even with demanding pro apps."
         ]
       },
       {
         "title": "Built for pros",
         "text": [
-          "Thunderbolt 5, HDMI and an SD card slot."
+          "Thunderbolt 5, HDMI and an SD card slot built right in."
         ]
       }
     ],
     "specs": [
       {
         "label": "Display",
-        "value": "16.2\" PROLED XDR with touch"
+        "value": "16.2\" Liquid Retina XDR"
+      },
+      {
+        "label": "Resolution",
+        "value": "3456×2234"
       },
       {
         "label": "Chip",
-        "value": "Apple M5 Pro, 15-core CPU, 20-core GPU"
+        "value": "Apple M5 Pro, 18-core CPU, 20-core GPU"
       },
       {
         "label": "Memory",
@@ -288,7 +300,7 @@
       },
       {
         "label": "Camera",
-        "value": "12MP Center Stage, Dynamic Island"
+        "value": "12MP Center Stage"
       },
       {
         "label": "Ports",
@@ -296,18 +308,18 @@
       },
       {
         "label": "Weight",
-        "value": "2.1 kg"
+        "value": "2.14 kg"
       }
     ],
-    "rating": 4.5,
-    "reviewsCount": 931,
+    "rating": 4.4,
+    "reviewsCount": 137,
     "reviews": [
       {
-        "author": "Grace H.",
+        "author": "Daniel K.",
         "rating": 5,
         "date": "2026-08-27",
-        "title": "Battery is unreal",
-        "text": "I charge it every two days with normal work."
+        "title": "Silent and powerful",
+        "text": "Compiles projects in seconds and stays completely quiet."
       },
       {
         "author": "Emma L.",
@@ -317,9 +329,9 @@
         "text": "Text is razor sharp and colors are accurate for photo editing."
       },
       {
-        "author": "Max N.",
-        "rating": 4,
-        "date": "2026-05-21",
+        "author": "Mia S.",
+        "rating": 5,
+        "date": "2026-07-14",
         "title": "Worth every penny",
         "text": "My best tech purchase in years."
       }
@@ -327,12 +339,12 @@
     "inStock": true
   },
   {
-    "id": "macbook-pro-16-oled-2tb-silver",
-    "sku": "197481",
+    "id": "macbook-pro-16-m5-pro-2tb-silver",
+    "sku": "308134",
     "category": "mac",
-    "namespaceId": "macbook-pro-16-oled",
-    "name": "MacBook Pro 16-inch OLED 2TB Silver",
-    "modelName": "MacBook Pro 16-inch OLED",
+    "namespaceId": "macbook-pro-16-m5-pro",
+    "name": "MacBook Pro 16-inch M5 Pro 2TB Silver",
+    "modelName": "MacBook Pro 16-inch M5 Pro",
     "year": 2026,
     "capacityAvailable": [
       "1TB",
@@ -340,8 +352,8 @@
     ],
     "capacity": "2TB",
     "capacityLabel": "Storage",
-    "priceRegular": 3799,
-    "priceDiscount": 3799,
+    "priceRegular": 3099,
+    "priceDiscount": 3099,
     "colors": [
       {
         "slug": "spaceblack",
@@ -356,36 +368,40 @@
     ],
     "color": "silver",
     "images": [
-      "img/products/macbook-pro-16-oled/silver-0.webp"
+      "img/products/macbook-pro-16-m5-pro/silver-0.webp"
     ],
     "description": [
       {
-        "title": "The biggest pro display",
+        "title": "The biggest Liquid Retina XDR",
         "text": [
-          "A 16-inch PROLED XDR touch display for serious creative work."
+          "A 16.2-inch display with extreme dynamic range for serious creative work."
         ]
       },
       {
         "title": "Up to 24 hours",
         "text": [
-          "The longest battery life ever in a Mac."
+          "All-day battery life, even with demanding pro apps."
         ]
       },
       {
         "title": "Built for pros",
         "text": [
-          "Thunderbolt 5, HDMI and an SD card slot."
+          "Thunderbolt 5, HDMI and an SD card slot built right in."
         ]
       }
     ],
     "specs": [
       {
         "label": "Display",
-        "value": "16.2\" PROLED XDR with touch"
+        "value": "16.2\" Liquid Retina XDR"
+      },
+      {
+        "label": "Resolution",
+        "value": "3456×2234"
       },
       {
         "label": "Chip",
-        "value": "Apple M5 Pro, 15-core CPU, 20-core GPU"
+        "value": "Apple M5 Pro, 18-core CPU, 20-core GPU"
       },
       {
         "label": "Memory",
@@ -397,7 +413,7 @@
       },
       {
         "label": "Camera",
-        "value": "12MP Center Stage, Dynamic Island"
+        "value": "12MP Center Stage"
       },
       {
         "label": "Ports",
@@ -405,18 +421,18 @@
       },
       {
         "label": "Weight",
-        "value": "2.1 kg"
+        "value": "2.14 kg"
       }
     ],
-    "rating": 4.5,
-    "reviewsCount": 931,
+    "rating": 4.4,
+    "reviewsCount": 137,
     "reviews": [
       {
-        "author": "Grace H.",
+        "author": "Daniel K.",
         "rating": 5,
         "date": "2026-08-27",
-        "title": "Battery is unreal",
-        "text": "I charge it every two days with normal work."
+        "title": "Silent and powerful",
+        "text": "Compiles projects in seconds and stays completely quiet."
       },
       {
         "author": "Emma L.",
@@ -426,9 +442,9 @@
         "text": "Text is razor sharp and colors are accurate for photo editing."
       },
       {
-        "author": "Max N.",
-        "rating": 4,
-        "date": "2026-05-21",
+        "author": "Mia S.",
+        "rating": 5,
+        "date": "2026-07-14",
         "title": "Worth every penny",
         "text": "My best tech purchase in years."
       }
@@ -436,12 +452,12 @@
     "inStock": true
   },
   {
-    "id": "macbook-pro-14-oled-1tb-spaceblack",
-    "sku": "421245",
+    "id": "macbook-pro-14-m5-pro-1tb-spaceblack",
+    "sku": "601461",
     "category": "mac",
-    "namespaceId": "macbook-pro-14-oled",
-    "name": "MacBook Pro 14-inch OLED 1TB Space Black",
-    "modelName": "MacBook Pro 14-inch OLED",
+    "namespaceId": "macbook-pro-14-m5-pro",
+    "name": "MacBook Pro 14-inch M5 Pro 1TB Space Black",
+    "modelName": "MacBook Pro 14-inch M5 Pro",
     "year": 2026,
     "capacityAvailable": [
       "1TB",
@@ -449,8 +465,8 @@
     ],
     "capacity": "1TB",
     "capacityLabel": "Storage",
-    "priceRegular": 2899,
-    "priceDiscount": 2899,
+    "priceRegular": 2399,
+    "priceDiscount": 2399,
     "colors": [
       {
         "slug": "spaceblack",
@@ -465,32 +481,36 @@
     ],
     "color": "spaceblack",
     "images": [
-      "img/products/macbook-pro-14-oled/spaceblack-0.webp"
+      "img/products/macbook-pro-14-m5-pro/spaceblack-0.webp"
     ],
     "description": [
       {
-        "title": "The first touchscreen Mac",
+        "title": "Apple M5 Pro",
         "text": [
-          "A PROLED XDR display you can touch, with Dynamic Island."
+          "A 15-core CPU and 16-core GPU handle 8K video, 3D and large code builds with ease."
         ]
       },
       {
-        "title": "M5 Pro power",
+        "title": "Thunderbolt 5",
         "text": [
-          "Built for heavy pro workflows like 8K video and 3D."
+          "Three Thunderbolt 5 ports for the fastest external storage and displays."
         ]
       },
       {
-        "title": "Deeper sound",
+        "title": "Liquid Retina XDR",
         "text": [
-          "An updated speaker system with richer bass."
+          "Extreme dynamic range with up to 1600 nits peak HDR brightness."
         ]
       }
     ],
     "specs": [
       {
         "label": "Display",
-        "value": "14.2\" PROLED XDR with touch"
+        "value": "14.2\" Liquid Retina XDR"
+      },
+      {
+        "label": "Resolution",
+        "value": "3024×1964"
       },
       {
         "label": "Chip",
@@ -506,7 +526,7 @@
       },
       {
         "label": "Camera",
-        "value": "12MP Center Stage, Dynamic Island"
+        "value": "12MP Center Stage"
       },
       {
         "label": "Ports",
@@ -517,40 +537,40 @@
         "value": "1.6 kg"
       }
     ],
-    "rating": 4.4,
-    "reviewsCount": 173,
+    "rating": 4.8,
+    "reviewsCount": 133,
     "reviews": [
       {
-        "author": "Ethan W.",
-        "rating": 5,
-        "date": "2026-08-27",
-        "title": "Silent and powerful",
-        "text": "Compiles projects in seconds and stays completely quiet."
-      },
-      {
-        "author": "Emma L.",
-        "rating": 5,
-        "date": "2026-08-27",
-        "title": "Battery is unreal",
-        "text": "I charge it every two days with normal work."
-      },
-      {
-        "author": "James T.",
+        "author": "Olivia M.",
         "rating": 5,
         "date": "2026-07-14",
         "title": "Beautiful display",
         "text": "Text is razor sharp and colors are accurate for photo editing."
+      },
+      {
+        "author": "Mia S.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "Olivia M.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Worth every penny",
+        "text": "My best tech purchase in years."
       }
     ],
     "inStock": true
   },
   {
-    "id": "macbook-pro-14-oled-2tb-spaceblack",
-    "sku": "394411",
+    "id": "macbook-pro-14-m5-pro-2tb-spaceblack",
+    "sku": "577260",
     "category": "mac",
-    "namespaceId": "macbook-pro-14-oled",
-    "name": "MacBook Pro 14-inch OLED 2TB Space Black",
-    "modelName": "MacBook Pro 14-inch OLED",
+    "namespaceId": "macbook-pro-14-m5-pro",
+    "name": "MacBook Pro 14-inch M5 Pro 2TB Space Black",
+    "modelName": "MacBook Pro 14-inch M5 Pro",
     "year": 2026,
     "capacityAvailable": [
       "1TB",
@@ -558,8 +578,8 @@
     ],
     "capacity": "2TB",
     "capacityLabel": "Storage",
-    "priceRegular": 3299,
-    "priceDiscount": 3299,
+    "priceRegular": 2799,
+    "priceDiscount": 2799,
     "colors": [
       {
         "slug": "spaceblack",
@@ -574,32 +594,36 @@
     ],
     "color": "spaceblack",
     "images": [
-      "img/products/macbook-pro-14-oled/spaceblack-0.webp"
+      "img/products/macbook-pro-14-m5-pro/spaceblack-0.webp"
     ],
     "description": [
       {
-        "title": "The first touchscreen Mac",
+        "title": "Apple M5 Pro",
         "text": [
-          "A PROLED XDR display you can touch, with Dynamic Island."
+          "A 15-core CPU and 16-core GPU handle 8K video, 3D and large code builds with ease."
         ]
       },
       {
-        "title": "M5 Pro power",
+        "title": "Thunderbolt 5",
         "text": [
-          "Built for heavy pro workflows like 8K video and 3D."
+          "Three Thunderbolt 5 ports for the fastest external storage and displays."
         ]
       },
       {
-        "title": "Deeper sound",
+        "title": "Liquid Retina XDR",
         "text": [
-          "An updated speaker system with richer bass."
+          "Extreme dynamic range with up to 1600 nits peak HDR brightness."
         ]
       }
     ],
     "specs": [
       {
         "label": "Display",
-        "value": "14.2\" PROLED XDR with touch"
+        "value": "14.2\" Liquid Retina XDR"
+      },
+      {
+        "label": "Resolution",
+        "value": "3024×1964"
       },
       {
         "label": "Chip",
@@ -615,7 +639,7 @@
       },
       {
         "label": "Camera",
-        "value": "12MP Center Stage, Dynamic Island"
+        "value": "12MP Center Stage"
       },
       {
         "label": "Ports",
@@ -626,40 +650,40 @@
         "value": "1.6 kg"
       }
     ],
-    "rating": 4.4,
-    "reviewsCount": 173,
+    "rating": 4.8,
+    "reviewsCount": 133,
     "reviews": [
       {
-        "author": "Ethan W.",
-        "rating": 5,
-        "date": "2026-08-27",
-        "title": "Silent and powerful",
-        "text": "Compiles projects in seconds and stays completely quiet."
-      },
-      {
-        "author": "Emma L.",
-        "rating": 5,
-        "date": "2026-08-27",
-        "title": "Battery is unreal",
-        "text": "I charge it every two days with normal work."
-      },
-      {
-        "author": "James T.",
+        "author": "Olivia M.",
         "rating": 5,
         "date": "2026-07-14",
         "title": "Beautiful display",
         "text": "Text is razor sharp and colors are accurate for photo editing."
+      },
+      {
+        "author": "Mia S.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "Olivia M.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Worth every penny",
+        "text": "My best tech purchase in years."
       }
     ],
     "inStock": true
   },
   {
-    "id": "macbook-pro-14-oled-1tb-silver",
-    "sku": "786774",
+    "id": "macbook-pro-14-m5-pro-1tb-silver",
+    "sku": "630239",
     "category": "mac",
-    "namespaceId": "macbook-pro-14-oled",
-    "name": "MacBook Pro 14-inch OLED 1TB Silver",
-    "modelName": "MacBook Pro 14-inch OLED",
+    "namespaceId": "macbook-pro-14-m5-pro",
+    "name": "MacBook Pro 14-inch M5 Pro 1TB Silver",
+    "modelName": "MacBook Pro 14-inch M5 Pro",
     "year": 2026,
     "capacityAvailable": [
       "1TB",
@@ -667,8 +691,8 @@
     ],
     "capacity": "1TB",
     "capacityLabel": "Storage",
-    "priceRegular": 2899,
-    "priceDiscount": 2899,
+    "priceRegular": 2399,
+    "priceDiscount": 2399,
     "colors": [
       {
         "slug": "spaceblack",
@@ -683,32 +707,36 @@
     ],
     "color": "silver",
     "images": [
-      "img/products/macbook-pro-14-oled/silver-0.webp"
+      "img/products/macbook-pro-14-m5-pro/silver-0.webp"
     ],
     "description": [
       {
-        "title": "The first touchscreen Mac",
+        "title": "Apple M5 Pro",
         "text": [
-          "A PROLED XDR display you can touch, with Dynamic Island."
+          "A 15-core CPU and 16-core GPU handle 8K video, 3D and large code builds with ease."
         ]
       },
       {
-        "title": "M5 Pro power",
+        "title": "Thunderbolt 5",
         "text": [
-          "Built for heavy pro workflows like 8K video and 3D."
+          "Three Thunderbolt 5 ports for the fastest external storage and displays."
         ]
       },
       {
-        "title": "Deeper sound",
+        "title": "Liquid Retina XDR",
         "text": [
-          "An updated speaker system with richer bass."
+          "Extreme dynamic range with up to 1600 nits peak HDR brightness."
         ]
       }
     ],
     "specs": [
       {
         "label": "Display",
-        "value": "14.2\" PROLED XDR with touch"
+        "value": "14.2\" Liquid Retina XDR"
+      },
+      {
+        "label": "Resolution",
+        "value": "3024×1964"
       },
       {
         "label": "Chip",
@@ -724,7 +752,7 @@
       },
       {
         "label": "Camera",
-        "value": "12MP Center Stage, Dynamic Island"
+        "value": "12MP Center Stage"
       },
       {
         "label": "Ports",
@@ -735,40 +763,40 @@
         "value": "1.6 kg"
       }
     ],
-    "rating": 4.4,
-    "reviewsCount": 173,
+    "rating": 4.8,
+    "reviewsCount": 133,
     "reviews": [
       {
-        "author": "Ethan W.",
-        "rating": 5,
-        "date": "2026-08-27",
-        "title": "Silent and powerful",
-        "text": "Compiles projects in seconds and stays completely quiet."
-      },
-      {
-        "author": "Emma L.",
-        "rating": 5,
-        "date": "2026-08-27",
-        "title": "Battery is unreal",
-        "text": "I charge it every two days with normal work."
-      },
-      {
-        "author": "James T.",
+        "author": "Olivia M.",
         "rating": 5,
         "date": "2026-07-14",
         "title": "Beautiful display",
         "text": "Text is razor sharp and colors are accurate for photo editing."
+      },
+      {
+        "author": "Mia S.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "Olivia M.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Worth every penny",
+        "text": "My best tech purchase in years."
       }
     ],
     "inStock": true
   },
   {
-    "id": "macbook-pro-14-oled-2tb-silver",
-    "sku": "519705",
+    "id": "macbook-pro-14-m5-pro-2tb-silver",
+    "sku": "801851",
     "category": "mac",
-    "namespaceId": "macbook-pro-14-oled",
-    "name": "MacBook Pro 14-inch OLED 2TB Silver",
-    "modelName": "MacBook Pro 14-inch OLED",
+    "namespaceId": "macbook-pro-14-m5-pro",
+    "name": "MacBook Pro 14-inch M5 Pro 2TB Silver",
+    "modelName": "MacBook Pro 14-inch M5 Pro",
     "year": 2026,
     "capacityAvailable": [
       "1TB",
@@ -776,8 +804,8 @@
     ],
     "capacity": "2TB",
     "capacityLabel": "Storage",
-    "priceRegular": 3299,
-    "priceDiscount": 3299,
+    "priceRegular": 2799,
+    "priceDiscount": 2799,
     "colors": [
       {
         "slug": "spaceblack",
@@ -792,32 +820,36 @@
     ],
     "color": "silver",
     "images": [
-      "img/products/macbook-pro-14-oled/silver-0.webp"
+      "img/products/macbook-pro-14-m5-pro/silver-0.webp"
     ],
     "description": [
       {
-        "title": "The first touchscreen Mac",
+        "title": "Apple M5 Pro",
         "text": [
-          "A PROLED XDR display you can touch, with Dynamic Island."
+          "A 15-core CPU and 16-core GPU handle 8K video, 3D and large code builds with ease."
         ]
       },
       {
-        "title": "M5 Pro power",
+        "title": "Thunderbolt 5",
         "text": [
-          "Built for heavy pro workflows like 8K video and 3D."
+          "Three Thunderbolt 5 ports for the fastest external storage and displays."
         ]
       },
       {
-        "title": "Deeper sound",
+        "title": "Liquid Retina XDR",
         "text": [
-          "An updated speaker system with richer bass."
+          "Extreme dynamic range with up to 1600 nits peak HDR brightness."
         ]
       }
     ],
     "specs": [
       {
         "label": "Display",
-        "value": "14.2\" PROLED XDR with touch"
+        "value": "14.2\" Liquid Retina XDR"
+      },
+      {
+        "label": "Resolution",
+        "value": "3024×1964"
       },
       {
         "label": "Chip",
@@ -833,7 +865,7 @@
       },
       {
         "label": "Camera",
-        "value": "12MP Center Stage, Dynamic Island"
+        "value": "12MP Center Stage"
       },
       {
         "label": "Ports",
@@ -844,46 +876,46 @@
         "value": "1.6 kg"
       }
     ],
-    "rating": 4.4,
-    "reviewsCount": 173,
+    "rating": 4.8,
+    "reviewsCount": 133,
     "reviews": [
       {
-        "author": "Ethan W.",
-        "rating": 5,
-        "date": "2026-08-27",
-        "title": "Silent and powerful",
-        "text": "Compiles projects in seconds and stays completely quiet."
-      },
-      {
-        "author": "Emma L.",
-        "rating": 5,
-        "date": "2026-08-27",
-        "title": "Battery is unreal",
-        "text": "I charge it every two days with normal work."
-      },
-      {
-        "author": "James T.",
+        "author": "Olivia M.",
         "rating": 5,
         "date": "2026-07-14",
         "title": "Beautiful display",
         "text": "Text is razor sharp and colors are accurate for photo editing."
+      },
+      {
+        "author": "Mia S.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "Olivia M.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Worth every penny",
+        "text": "My best tech purchase in years."
       }
     ],
     "inStock": true
   },
   {
-    "id": "macbook-pro-14-512gb-spaceblack",
-    "sku": "173074",
+    "id": "macbook-pro-14-1tb-spaceblack",
+    "sku": "649300",
     "category": "mac",
     "namespaceId": "macbook-pro-14",
-    "name": "MacBook Pro 14-inch M6 512GB Space Black",
+    "name": "MacBook Pro 14-inch M6 1TB Space Black",
     "modelName": "MacBook Pro 14-inch M6",
     "year": 2026,
     "capacityAvailable": [
-      "512GB",
-      "1TB"
+      "1TB",
+      "2TB"
     ],
-    "capacity": "512GB",
+    "capacity": "1TB",
     "capacityLabel": "Storage",
     "priceRegular": 1999,
     "priceDiscount": 1999,
@@ -985,21 +1017,21 @@
     "inStock": true
   },
   {
-    "id": "macbook-pro-14-1tb-spaceblack",
-    "sku": "649300",
+    "id": "macbook-pro-14-2tb-spaceblack",
+    "sku": "682390",
     "category": "mac",
     "namespaceId": "macbook-pro-14",
-    "name": "MacBook Pro 14-inch M6 1TB Space Black",
+    "name": "MacBook Pro 14-inch M6 2TB Space Black",
     "modelName": "MacBook Pro 14-inch M6",
     "year": 2026,
     "capacityAvailable": [
-      "512GB",
-      "1TB"
+      "1TB",
+      "2TB"
     ],
-    "capacity": "1TB",
+    "capacity": "2TB",
     "capacityLabel": "Storage",
-    "priceRegular": 2199,
-    "priceDiscount": 2199,
+    "priceRegular": 2399,
+    "priceDiscount": 2399,
     "colors": [
       {
         "slug": "spaceblack",
@@ -1098,18 +1130,18 @@
     "inStock": true
   },
   {
-    "id": "macbook-pro-14-512gb-silver",
-    "sku": "808979",
+    "id": "macbook-pro-14-1tb-silver",
+    "sku": "520988",
     "category": "mac",
     "namespaceId": "macbook-pro-14",
-    "name": "MacBook Pro 14-inch M6 512GB Silver",
+    "name": "MacBook Pro 14-inch M6 1TB Silver",
     "modelName": "MacBook Pro 14-inch M6",
     "year": 2026,
     "capacityAvailable": [
-      "512GB",
-      "1TB"
+      "1TB",
+      "2TB"
     ],
-    "capacity": "512GB",
+    "capacity": "1TB",
     "capacityLabel": "Storage",
     "priceRegular": 1999,
     "priceDiscount": 1999,
@@ -1211,21 +1243,21 @@
     "inStock": true
   },
   {
-    "id": "macbook-pro-14-1tb-silver",
-    "sku": "520988",
+    "id": "macbook-pro-14-2tb-silver",
+    "sku": "918594",
     "category": "mac",
     "namespaceId": "macbook-pro-14",
-    "name": "MacBook Pro 14-inch M6 1TB Silver",
+    "name": "MacBook Pro 14-inch M6 2TB Silver",
     "modelName": "MacBook Pro 14-inch M6",
     "year": 2026,
     "capacityAvailable": [
-      "512GB",
-      "1TB"
+      "1TB",
+      "2TB"
     ],
-    "capacity": "1TB",
+    "capacity": "2TB",
     "capacityLabel": "Storage",
-    "priceRegular": 2199,
-    "priceDiscount": 2199,
+    "priceRegular": 2399,
+    "priceDiscount": 2399,
     "colors": [
       {
         "slug": "spaceblack",
@@ -2400,7 +2432,7 @@
       },
       {
         "label": "Weight",
-        "value": "1.24 kg"
+        "value": "1.23 kg"
       }
     ],
     "rating": 4.5,
@@ -2523,7 +2555,7 @@
       },
       {
         "label": "Weight",
-        "value": "1.24 kg"
+        "value": "1.23 kg"
       }
     ],
     "rating": 4.5,
@@ -2646,7 +2678,7 @@
       },
       {
         "label": "Weight",
-        "value": "1.24 kg"
+        "value": "1.23 kg"
       }
     ],
     "rating": 4.5,
@@ -2769,7 +2801,7 @@
       },
       {
         "label": "Weight",
-        "value": "1.24 kg"
+        "value": "1.23 kg"
       }
     ],
     "rating": 4.5,
@@ -2892,7 +2924,7 @@
       },
       {
         "label": "Weight",
-        "value": "1.24 kg"
+        "value": "1.23 kg"
       }
     ],
     "rating": 4.5,
@@ -3015,7 +3047,7 @@
       },
       {
         "label": "Weight",
-        "value": "1.24 kg"
+        "value": "1.23 kg"
       }
     ],
     "rating": 4.5,
@@ -3138,7 +3170,7 @@
       },
       {
         "label": "Weight",
-        "value": "1.24 kg"
+        "value": "1.23 kg"
       }
     ],
     "rating": 4.5,
@@ -3261,7 +3293,7 @@
       },
       {
         "label": "Weight",
-        "value": "1.24 kg"
+        "value": "1.23 kg"
       }
     ],
     "rating": 4.5,
@@ -3337,6 +3369,11 @@
         "slug": "yellow",
         "name": "Yellow",
         "hex": "#f4d77a"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
       }
     ],
     "color": "blue",
@@ -3359,7 +3396,7 @@
       {
         "title": "Colors you love",
         "text": [
-          "Six vibrant finishes with matching accessories."
+          "Seven vibrant finishes with matching accessories."
         ]
       }
     ],
@@ -3374,7 +3411,7 @@
       },
       {
         "label": "Chip",
-        "value": "Apple M6, 10-core CPU, 10-core GPU"
+        "value": "Apple M6, 12-core CPU, 12-core GPU"
       },
       {
         "label": "Memory",
@@ -3390,7 +3427,7 @@
       },
       {
         "label": "Ports",
-        "value": "Thunderbolt / USB 4, 2.5Gb Ethernet"
+        "value": "4x Thunderbolt 4, 2.5Gb Ethernet"
       },
       {
         "label": "Accessories",
@@ -3470,6 +3507,11 @@
         "slug": "yellow",
         "name": "Yellow",
         "hex": "#f4d77a"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
       }
     ],
     "color": "blue",
@@ -3492,7 +3534,7 @@
       {
         "title": "Colors you love",
         "text": [
-          "Six vibrant finishes with matching accessories."
+          "Seven vibrant finishes with matching accessories."
         ]
       }
     ],
@@ -3507,7 +3549,7 @@
       },
       {
         "label": "Chip",
-        "value": "Apple M6, 10-core CPU, 10-core GPU"
+        "value": "Apple M6, 12-core CPU, 12-core GPU"
       },
       {
         "label": "Memory",
@@ -3523,7 +3565,7 @@
       },
       {
         "label": "Ports",
-        "value": "Thunderbolt / USB 4, 2.5Gb Ethernet"
+        "value": "4x Thunderbolt 4, 2.5Gb Ethernet"
       },
       {
         "label": "Accessories",
@@ -3603,6 +3645,11 @@
         "slug": "yellow",
         "name": "Yellow",
         "hex": "#f4d77a"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
       }
     ],
     "color": "green",
@@ -3625,7 +3672,7 @@
       {
         "title": "Colors you love",
         "text": [
-          "Six vibrant finishes with matching accessories."
+          "Seven vibrant finishes with matching accessories."
         ]
       }
     ],
@@ -3640,7 +3687,7 @@
       },
       {
         "label": "Chip",
-        "value": "Apple M6, 10-core CPU, 10-core GPU"
+        "value": "Apple M6, 12-core CPU, 12-core GPU"
       },
       {
         "label": "Memory",
@@ -3656,7 +3703,7 @@
       },
       {
         "label": "Ports",
-        "value": "Thunderbolt / USB 4, 2.5Gb Ethernet"
+        "value": "4x Thunderbolt 4, 2.5Gb Ethernet"
       },
       {
         "label": "Accessories",
@@ -3736,6 +3783,11 @@
         "slug": "yellow",
         "name": "Yellow",
         "hex": "#f4d77a"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
       }
     ],
     "color": "green",
@@ -3758,7 +3810,7 @@
       {
         "title": "Colors you love",
         "text": [
-          "Six vibrant finishes with matching accessories."
+          "Seven vibrant finishes with matching accessories."
         ]
       }
     ],
@@ -3773,7 +3825,7 @@
       },
       {
         "label": "Chip",
-        "value": "Apple M6, 10-core CPU, 10-core GPU"
+        "value": "Apple M6, 12-core CPU, 12-core GPU"
       },
       {
         "label": "Memory",
@@ -3789,7 +3841,7 @@
       },
       {
         "label": "Ports",
-        "value": "Thunderbolt / USB 4, 2.5Gb Ethernet"
+        "value": "4x Thunderbolt 4, 2.5Gb Ethernet"
       },
       {
         "label": "Accessories",
@@ -3869,6 +3921,11 @@
         "slug": "yellow",
         "name": "Yellow",
         "hex": "#f4d77a"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
       }
     ],
     "color": "orange",
@@ -3891,7 +3948,7 @@
       {
         "title": "Colors you love",
         "text": [
-          "Six vibrant finishes with matching accessories."
+          "Seven vibrant finishes with matching accessories."
         ]
       }
     ],
@@ -3906,7 +3963,7 @@
       },
       {
         "label": "Chip",
-        "value": "Apple M6, 10-core CPU, 10-core GPU"
+        "value": "Apple M6, 12-core CPU, 12-core GPU"
       },
       {
         "label": "Memory",
@@ -3922,7 +3979,7 @@
       },
       {
         "label": "Ports",
-        "value": "Thunderbolt / USB 4, 2.5Gb Ethernet"
+        "value": "4x Thunderbolt 4, 2.5Gb Ethernet"
       },
       {
         "label": "Accessories",
@@ -4002,6 +4059,11 @@
         "slug": "yellow",
         "name": "Yellow",
         "hex": "#f4d77a"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
       }
     ],
     "color": "orange",
@@ -4024,7 +4086,7 @@
       {
         "title": "Colors you love",
         "text": [
-          "Six vibrant finishes with matching accessories."
+          "Seven vibrant finishes with matching accessories."
         ]
       }
     ],
@@ -4039,7 +4101,7 @@
       },
       {
         "label": "Chip",
-        "value": "Apple M6, 10-core CPU, 10-core GPU"
+        "value": "Apple M6, 12-core CPU, 12-core GPU"
       },
       {
         "label": "Memory",
@@ -4055,7 +4117,7 @@
       },
       {
         "label": "Ports",
-        "value": "Thunderbolt / USB 4, 2.5Gb Ethernet"
+        "value": "4x Thunderbolt 4, 2.5Gb Ethernet"
       },
       {
         "label": "Accessories",
@@ -4135,6 +4197,11 @@
         "slug": "yellow",
         "name": "Yellow",
         "hex": "#f4d77a"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
       }
     ],
     "color": "pink",
@@ -4157,7 +4224,7 @@
       {
         "title": "Colors you love",
         "text": [
-          "Six vibrant finishes with matching accessories."
+          "Seven vibrant finishes with matching accessories."
         ]
       }
     ],
@@ -4172,7 +4239,7 @@
       },
       {
         "label": "Chip",
-        "value": "Apple M6, 10-core CPU, 10-core GPU"
+        "value": "Apple M6, 12-core CPU, 12-core GPU"
       },
       {
         "label": "Memory",
@@ -4188,7 +4255,7 @@
       },
       {
         "label": "Ports",
-        "value": "Thunderbolt / USB 4, 2.5Gb Ethernet"
+        "value": "4x Thunderbolt 4, 2.5Gb Ethernet"
       },
       {
         "label": "Accessories",
@@ -4268,6 +4335,11 @@
         "slug": "yellow",
         "name": "Yellow",
         "hex": "#f4d77a"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
       }
     ],
     "color": "pink",
@@ -4290,7 +4362,7 @@
       {
         "title": "Colors you love",
         "text": [
-          "Six vibrant finishes with matching accessories."
+          "Seven vibrant finishes with matching accessories."
         ]
       }
     ],
@@ -4305,7 +4377,7 @@
       },
       {
         "label": "Chip",
-        "value": "Apple M6, 10-core CPU, 10-core GPU"
+        "value": "Apple M6, 12-core CPU, 12-core GPU"
       },
       {
         "label": "Memory",
@@ -4321,7 +4393,7 @@
       },
       {
         "label": "Ports",
-        "value": "Thunderbolt / USB 4, 2.5Gb Ethernet"
+        "value": "4x Thunderbolt 4, 2.5Gb Ethernet"
       },
       {
         "label": "Accessories",
@@ -4401,6 +4473,11 @@
         "slug": "yellow",
         "name": "Yellow",
         "hex": "#f4d77a"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
       }
     ],
     "color": "purple",
@@ -4423,7 +4500,7 @@
       {
         "title": "Colors you love",
         "text": [
-          "Six vibrant finishes with matching accessories."
+          "Seven vibrant finishes with matching accessories."
         ]
       }
     ],
@@ -4438,7 +4515,7 @@
       },
       {
         "label": "Chip",
-        "value": "Apple M6, 10-core CPU, 10-core GPU"
+        "value": "Apple M6, 12-core CPU, 12-core GPU"
       },
       {
         "label": "Memory",
@@ -4454,7 +4531,7 @@
       },
       {
         "label": "Ports",
-        "value": "Thunderbolt / USB 4, 2.5Gb Ethernet"
+        "value": "4x Thunderbolt 4, 2.5Gb Ethernet"
       },
       {
         "label": "Accessories",
@@ -4534,6 +4611,11 @@
         "slug": "yellow",
         "name": "Yellow",
         "hex": "#f4d77a"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
       }
     ],
     "color": "purple",
@@ -4556,7 +4638,7 @@
       {
         "title": "Colors you love",
         "text": [
-          "Six vibrant finishes with matching accessories."
+          "Seven vibrant finishes with matching accessories."
         ]
       }
     ],
@@ -4571,7 +4653,7 @@
       },
       {
         "label": "Chip",
-        "value": "Apple M6, 10-core CPU, 10-core GPU"
+        "value": "Apple M6, 12-core CPU, 12-core GPU"
       },
       {
         "label": "Memory",
@@ -4587,7 +4669,7 @@
       },
       {
         "label": "Ports",
-        "value": "Thunderbolt / USB 4, 2.5Gb Ethernet"
+        "value": "4x Thunderbolt 4, 2.5Gb Ethernet"
       },
       {
         "label": "Accessories",
@@ -4667,6 +4749,11 @@
         "slug": "yellow",
         "name": "Yellow",
         "hex": "#f4d77a"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
       }
     ],
     "color": "yellow",
@@ -4689,7 +4776,7 @@
       {
         "title": "Colors you love",
         "text": [
-          "Six vibrant finishes with matching accessories."
+          "Seven vibrant finishes with matching accessories."
         ]
       }
     ],
@@ -4704,7 +4791,7 @@
       },
       {
         "label": "Chip",
-        "value": "Apple M6, 10-core CPU, 10-core GPU"
+        "value": "Apple M6, 12-core CPU, 12-core GPU"
       },
       {
         "label": "Memory",
@@ -4720,7 +4807,7 @@
       },
       {
         "label": "Ports",
-        "value": "Thunderbolt / USB 4, 2.5Gb Ethernet"
+        "value": "4x Thunderbolt 4, 2.5Gb Ethernet"
       },
       {
         "label": "Accessories",
@@ -4800,6 +4887,11 @@
         "slug": "yellow",
         "name": "Yellow",
         "hex": "#f4d77a"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
       }
     ],
     "color": "yellow",
@@ -4822,7 +4914,7 @@
       {
         "title": "Colors you love",
         "text": [
-          "Six vibrant finishes with matching accessories."
+          "Seven vibrant finishes with matching accessories."
         ]
       }
     ],
@@ -4837,7 +4929,7 @@
       },
       {
         "label": "Chip",
-        "value": "Apple M6, 10-core CPU, 10-core GPU"
+        "value": "Apple M6, 12-core CPU, 12-core GPU"
       },
       {
         "label": "Memory",
@@ -4853,7 +4945,283 @@
       },
       {
         "label": "Ports",
-        "value": "Thunderbolt / USB 4, 2.5Gb Ethernet"
+        "value": "4x Thunderbolt 4, 2.5Gb Ethernet"
+      },
+      {
+        "label": "Accessories",
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
+      }
+    ],
+    "rating": 4.9,
+    "reviewsCount": 160,
+    "reviews": [
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Worth every penny",
+        "text": "My best tech purchase in years."
+      },
+      {
+        "author": "Daniel K.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-05-21",
+        "title": "Beautiful display",
+        "text": "Text is razor sharp and colors are accurate for photo editing."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "imac-256gb-silver",
+    "sku": "374161",
+    "category": "mac",
+    "namespaceId": "imac",
+    "name": "iMac 24-inch M6 256GB Silver",
+    "modelName": "iMac 24-inch M6",
+    "year": 2026,
+    "capacityAvailable": [
+      "256GB",
+      "512GB"
+    ],
+    "capacity": "256GB",
+    "capacityLabel": "Storage",
+    "priceRegular": 1499,
+    "priceDiscount": 1499,
+    "colors": [
+      {
+        "slug": "blue",
+        "name": "Blue",
+        "hex": "#9fbfd9"
+      },
+      {
+        "slug": "green",
+        "name": "Green",
+        "hex": "#a9cdb3"
+      },
+      {
+        "slug": "orange",
+        "name": "Orange",
+        "hex": "#f2a37a"
+      },
+      {
+        "slug": "pink",
+        "name": "Pink",
+        "hex": "#f2b8c6"
+      },
+      {
+        "slug": "purple",
+        "name": "Purple",
+        "hex": "#c2b4dc"
+      },
+      {
+        "slug": "yellow",
+        "name": "Yellow",
+        "hex": "#f4d77a"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "color": "silver",
+    "images": [
+      "img/products/imac/silver-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Say hello to M6",
+        "text": [
+          "The all-in-one iMac gets the newest Apple chip."
+        ]
+      },
+      {
+        "title": "A stunning 4.5K display",
+        "text": [
+          "A 24-inch Retina display with over a billion colors."
+        ]
+      },
+      {
+        "title": "Colors you love",
+        "text": [
+          "Seven vibrant finishes with matching accessories."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "24\" 4.5K Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "4480×2520"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M6, 12-core CPU, 12-core GPU"
+      },
+      {
+        "label": "Memory",
+        "value": "16GB unified memory"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Center Stage"
+      },
+      {
+        "label": "Audio",
+        "value": "Six-speaker system"
+      },
+      {
+        "label": "Ports",
+        "value": "4x Thunderbolt 4, 2.5Gb Ethernet"
+      },
+      {
+        "label": "Accessories",
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
+      }
+    ],
+    "rating": 4.9,
+    "reviewsCount": 160,
+    "reviews": [
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Worth every penny",
+        "text": "My best tech purchase in years."
+      },
+      {
+        "author": "Daniel K.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "Ethan W.",
+        "rating": 5,
+        "date": "2026-05-21",
+        "title": "Beautiful display",
+        "text": "Text is razor sharp and colors are accurate for photo editing."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "imac-512gb-silver",
+    "sku": "224566",
+    "category": "mac",
+    "namespaceId": "imac",
+    "name": "iMac 24-inch M6 512GB Silver",
+    "modelName": "iMac 24-inch M6",
+    "year": 2026,
+    "capacityAvailable": [
+      "256GB",
+      "512GB"
+    ],
+    "capacity": "512GB",
+    "capacityLabel": "Storage",
+    "priceRegular": 1699,
+    "priceDiscount": 1699,
+    "colors": [
+      {
+        "slug": "blue",
+        "name": "Blue",
+        "hex": "#9fbfd9"
+      },
+      {
+        "slug": "green",
+        "name": "Green",
+        "hex": "#a9cdb3"
+      },
+      {
+        "slug": "orange",
+        "name": "Orange",
+        "hex": "#f2a37a"
+      },
+      {
+        "slug": "pink",
+        "name": "Pink",
+        "hex": "#f2b8c6"
+      },
+      {
+        "slug": "purple",
+        "name": "Purple",
+        "hex": "#c2b4dc"
+      },
+      {
+        "slug": "yellow",
+        "name": "Yellow",
+        "hex": "#f4d77a"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      }
+    ],
+    "color": "silver",
+    "images": [
+      "img/products/imac/silver-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Say hello to M6",
+        "text": [
+          "The all-in-one iMac gets the newest Apple chip."
+        ]
+      },
+      {
+        "title": "A stunning 4.5K display",
+        "text": [
+          "A 24-inch Retina display with over a billion colors."
+        ]
+      },
+      {
+        "title": "Colors you love",
+        "text": [
+          "Seven vibrant finishes with matching accessories."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "24\" 4.5K Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "4480×2520"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M6, 12-core CPU, 12-core GPU"
+      },
+      {
+        "label": "Memory",
+        "value": "16GB unified memory"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Center Stage"
+      },
+      {
+        "label": "Audio",
+        "value": "Six-speaker system"
+      },
+      {
+        "label": "Ports",
+        "value": "4x Thunderbolt 4, 2.5Gb Ethernet"
       },
       {
         "label": "Accessories",
@@ -10401,8 +10769,8 @@
     ],
     "capacity": "256GB",
     "capacityLabel": "Storage",
-    "priceRegular": 1299,
-    "priceDiscount": 1039,
+    "priceRegular": 1499,
+    "priceDiscount": 1199,
     "colors": [
       {
         "slug": "silver",
@@ -10475,7 +10843,7 @@
       },
       {
         "label": "Chip",
-        "value": "Apple M4, 8-core CPU, 8-core GPU"
+        "value": "Apple M4, 10-core CPU, 10-core GPU"
       },
       {
         "label": "Memory",
@@ -10491,11 +10859,11 @@
       },
       {
         "label": "Ports",
-        "value": "2x Thunderbolt / USB 4"
+        "value": "4x Thunderbolt 4"
       },
       {
         "label": "Accessories",
-        "value": "Magic Keyboard, Magic Mouse"
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
       }
     ],
     "rating": 4.5,
@@ -10539,8 +10907,8 @@
     ],
     "capacity": "512GB",
     "capacityLabel": "Storage",
-    "priceRegular": 1499,
-    "priceDiscount": 1199,
+    "priceRegular": 1699,
+    "priceDiscount": 1359,
     "colors": [
       {
         "slug": "silver",
@@ -10613,7 +10981,7 @@
       },
       {
         "label": "Chip",
-        "value": "Apple M4, 8-core CPU, 8-core GPU"
+        "value": "Apple M4, 10-core CPU, 10-core GPU"
       },
       {
         "label": "Memory",
@@ -10629,11 +10997,11 @@
       },
       {
         "label": "Ports",
-        "value": "2x Thunderbolt / USB 4"
+        "value": "4x Thunderbolt 4"
       },
       {
         "label": "Accessories",
-        "value": "Magic Keyboard, Magic Mouse"
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
       }
     ],
     "rating": 4.5,
@@ -10677,8 +11045,8 @@
     ],
     "capacity": "256GB",
     "capacityLabel": "Storage",
-    "priceRegular": 1299,
-    "priceDiscount": 1039,
+    "priceRegular": 1499,
+    "priceDiscount": 1199,
     "colors": [
       {
         "slug": "silver",
@@ -10751,7 +11119,7 @@
       },
       {
         "label": "Chip",
-        "value": "Apple M4, 8-core CPU, 8-core GPU"
+        "value": "Apple M4, 10-core CPU, 10-core GPU"
       },
       {
         "label": "Memory",
@@ -10767,11 +11135,11 @@
       },
       {
         "label": "Ports",
-        "value": "2x Thunderbolt / USB 4"
+        "value": "4x Thunderbolt 4"
       },
       {
         "label": "Accessories",
-        "value": "Magic Keyboard, Magic Mouse"
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
       }
     ],
     "rating": 4.5,
@@ -10815,8 +11183,8 @@
     ],
     "capacity": "512GB",
     "capacityLabel": "Storage",
-    "priceRegular": 1499,
-    "priceDiscount": 1199,
+    "priceRegular": 1699,
+    "priceDiscount": 1359,
     "colors": [
       {
         "slug": "silver",
@@ -10889,7 +11257,7 @@
       },
       {
         "label": "Chip",
-        "value": "Apple M4, 8-core CPU, 8-core GPU"
+        "value": "Apple M4, 10-core CPU, 10-core GPU"
       },
       {
         "label": "Memory",
@@ -10905,11 +11273,11 @@
       },
       {
         "label": "Ports",
-        "value": "2x Thunderbolt / USB 4"
+        "value": "4x Thunderbolt 4"
       },
       {
         "label": "Accessories",
-        "value": "Magic Keyboard, Magic Mouse"
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
       }
     ],
     "rating": 4.5,
@@ -10953,8 +11321,8 @@
     ],
     "capacity": "256GB",
     "capacityLabel": "Storage",
-    "priceRegular": 1299,
-    "priceDiscount": 1039,
+    "priceRegular": 1499,
+    "priceDiscount": 1199,
     "colors": [
       {
         "slug": "silver",
@@ -11027,7 +11395,7 @@
       },
       {
         "label": "Chip",
-        "value": "Apple M4, 8-core CPU, 8-core GPU"
+        "value": "Apple M4, 10-core CPU, 10-core GPU"
       },
       {
         "label": "Memory",
@@ -11043,11 +11411,11 @@
       },
       {
         "label": "Ports",
-        "value": "2x Thunderbolt / USB 4"
+        "value": "4x Thunderbolt 4"
       },
       {
         "label": "Accessories",
-        "value": "Magic Keyboard, Magic Mouse"
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
       }
     ],
     "rating": 4.5,
@@ -11091,8 +11459,8 @@
     ],
     "capacity": "512GB",
     "capacityLabel": "Storage",
-    "priceRegular": 1499,
-    "priceDiscount": 1199,
+    "priceRegular": 1699,
+    "priceDiscount": 1359,
     "colors": [
       {
         "slug": "silver",
@@ -11165,7 +11533,7 @@
       },
       {
         "label": "Chip",
-        "value": "Apple M4, 8-core CPU, 8-core GPU"
+        "value": "Apple M4, 10-core CPU, 10-core GPU"
       },
       {
         "label": "Memory",
@@ -11181,11 +11549,11 @@
       },
       {
         "label": "Ports",
-        "value": "2x Thunderbolt / USB 4"
+        "value": "4x Thunderbolt 4"
       },
       {
         "label": "Accessories",
-        "value": "Magic Keyboard, Magic Mouse"
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
       }
     ],
     "rating": 4.5,
@@ -11229,8 +11597,8 @@
     ],
     "capacity": "256GB",
     "capacityLabel": "Storage",
-    "priceRegular": 1299,
-    "priceDiscount": 1039,
+    "priceRegular": 1499,
+    "priceDiscount": 1199,
     "colors": [
       {
         "slug": "silver",
@@ -11303,7 +11671,7 @@
       },
       {
         "label": "Chip",
-        "value": "Apple M4, 8-core CPU, 8-core GPU"
+        "value": "Apple M4, 10-core CPU, 10-core GPU"
       },
       {
         "label": "Memory",
@@ -11319,11 +11687,11 @@
       },
       {
         "label": "Ports",
-        "value": "2x Thunderbolt / USB 4"
+        "value": "4x Thunderbolt 4"
       },
       {
         "label": "Accessories",
-        "value": "Magic Keyboard, Magic Mouse"
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
       }
     ],
     "rating": 4.5,
@@ -11367,8 +11735,8 @@
     ],
     "capacity": "512GB",
     "capacityLabel": "Storage",
-    "priceRegular": 1499,
-    "priceDiscount": 1199,
+    "priceRegular": 1699,
+    "priceDiscount": 1359,
     "colors": [
       {
         "slug": "silver",
@@ -11441,7 +11809,7 @@
       },
       {
         "label": "Chip",
-        "value": "Apple M4, 8-core CPU, 8-core GPU"
+        "value": "Apple M4, 10-core CPU, 10-core GPU"
       },
       {
         "label": "Memory",
@@ -11457,11 +11825,11 @@
       },
       {
         "label": "Ports",
-        "value": "2x Thunderbolt / USB 4"
+        "value": "4x Thunderbolt 4"
       },
       {
         "label": "Accessories",
-        "value": "Magic Keyboard, Magic Mouse"
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
       }
     ],
     "rating": 4.5,
@@ -11505,8 +11873,8 @@
     ],
     "capacity": "256GB",
     "capacityLabel": "Storage",
-    "priceRegular": 1299,
-    "priceDiscount": 1039,
+    "priceRegular": 1499,
+    "priceDiscount": 1199,
     "colors": [
       {
         "slug": "silver",
@@ -11579,7 +11947,7 @@
       },
       {
         "label": "Chip",
-        "value": "Apple M4, 8-core CPU, 8-core GPU"
+        "value": "Apple M4, 10-core CPU, 10-core GPU"
       },
       {
         "label": "Memory",
@@ -11595,11 +11963,11 @@
       },
       {
         "label": "Ports",
-        "value": "2x Thunderbolt / USB 4"
+        "value": "4x Thunderbolt 4"
       },
       {
         "label": "Accessories",
-        "value": "Magic Keyboard, Magic Mouse"
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
       }
     ],
     "rating": 4.5,
@@ -11643,8 +12011,8 @@
     ],
     "capacity": "512GB",
     "capacityLabel": "Storage",
-    "priceRegular": 1499,
-    "priceDiscount": 1199,
+    "priceRegular": 1699,
+    "priceDiscount": 1359,
     "colors": [
       {
         "slug": "silver",
@@ -11717,7 +12085,7 @@
       },
       {
         "label": "Chip",
-        "value": "Apple M4, 8-core CPU, 8-core GPU"
+        "value": "Apple M4, 10-core CPU, 10-core GPU"
       },
       {
         "label": "Memory",
@@ -11733,11 +12101,11 @@
       },
       {
         "label": "Ports",
-        "value": "2x Thunderbolt / USB 4"
+        "value": "4x Thunderbolt 4"
       },
       {
         "label": "Accessories",
-        "value": "Magic Keyboard, Magic Mouse"
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
       }
     ],
     "rating": 4.5,
@@ -11781,8 +12149,8 @@
     ],
     "capacity": "256GB",
     "capacityLabel": "Storage",
-    "priceRegular": 1299,
-    "priceDiscount": 1039,
+    "priceRegular": 1499,
+    "priceDiscount": 1199,
     "colors": [
       {
         "slug": "silver",
@@ -11855,7 +12223,7 @@
       },
       {
         "label": "Chip",
-        "value": "Apple M4, 8-core CPU, 8-core GPU"
+        "value": "Apple M4, 10-core CPU, 10-core GPU"
       },
       {
         "label": "Memory",
@@ -11871,11 +12239,11 @@
       },
       {
         "label": "Ports",
-        "value": "2x Thunderbolt / USB 4"
+        "value": "4x Thunderbolt 4"
       },
       {
         "label": "Accessories",
-        "value": "Magic Keyboard, Magic Mouse"
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
       }
     ],
     "rating": 4.5,
@@ -11919,8 +12287,8 @@
     ],
     "capacity": "512GB",
     "capacityLabel": "Storage",
-    "priceRegular": 1499,
-    "priceDiscount": 1199,
+    "priceRegular": 1699,
+    "priceDiscount": 1359,
     "colors": [
       {
         "slug": "silver",
@@ -11993,7 +12361,7 @@
       },
       {
         "label": "Chip",
-        "value": "Apple M4, 8-core CPU, 8-core GPU"
+        "value": "Apple M4, 10-core CPU, 10-core GPU"
       },
       {
         "label": "Memory",
@@ -12009,11 +12377,11 @@
       },
       {
         "label": "Ports",
-        "value": "2x Thunderbolt / USB 4"
+        "value": "4x Thunderbolt 4"
       },
       {
         "label": "Accessories",
-        "value": "Magic Keyboard, Magic Mouse"
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
       }
     ],
     "rating": 4.5,
@@ -12056,144 +12424,6 @@
       "512GB"
     ],
     "capacity": "256GB",
-    "capacityLabel": "Storage",
-    "priceRegular": 1299,
-    "priceDiscount": 1039,
-    "colors": [
-      {
-        "slug": "silver",
-        "name": "Silver",
-        "hex": "#e3e4e5"
-      },
-      {
-        "slug": "blue",
-        "name": "Blue",
-        "hex": "#9fbfd9"
-      },
-      {
-        "slug": "green",
-        "name": "Green",
-        "hex": "#a9cdb3"
-      },
-      {
-        "slug": "pink",
-        "name": "Pink",
-        "hex": "#f2b8c6"
-      },
-      {
-        "slug": "yellow",
-        "name": "Yellow",
-        "hex": "#f4d77a"
-      },
-      {
-        "slug": "orange",
-        "name": "Orange",
-        "hex": "#f2a37a"
-      },
-      {
-        "slug": "purple",
-        "name": "Purple",
-        "hex": "#c2b4dc"
-      }
-    ],
-    "color": "purple",
-    "images": [
-      "img/products/imac-m4/purple-0.webp"
-    ],
-    "description": [
-      {
-        "title": "Apple M4",
-        "text": [
-          "The all-in-one iMac with Apple Intelligence built in."
-        ]
-      },
-      {
-        "title": "Center Stage camera",
-        "text": [
-          "Keeps you in frame during video calls."
-        ]
-      },
-      {
-        "title": "Previous generation, great price",
-        "text": [
-          "A colorful all-in-one for less."
-        ]
-      }
-    ],
-    "specs": [
-      {
-        "label": "Display",
-        "value": "24\" 4.5K Retina"
-      },
-      {
-        "label": "Resolution",
-        "value": "4480×2520"
-      },
-      {
-        "label": "Chip",
-        "value": "Apple M4, 8-core CPU, 8-core GPU"
-      },
-      {
-        "label": "Memory",
-        "value": "16GB unified memory"
-      },
-      {
-        "label": "Camera",
-        "value": "12MP Center Stage"
-      },
-      {
-        "label": "Audio",
-        "value": "Six-speaker system"
-      },
-      {
-        "label": "Ports",
-        "value": "2x Thunderbolt / USB 4"
-      },
-      {
-        "label": "Accessories",
-        "value": "Magic Keyboard, Magic Mouse"
-      }
-    ],
-    "rating": 4.5,
-    "reviewsCount": 287,
-    "reviews": [
-      {
-        "author": "Leo F.",
-        "rating": 5,
-        "date": "2026-07-14",
-        "title": "Battery is unreal",
-        "text": "I charge it every two days with normal work."
-      },
-      {
-        "author": "Grace H.",
-        "rating": 5,
-        "date": "2026-09-18",
-        "title": "Beautiful display",
-        "text": "Text is razor sharp and colors are accurate for photo editing."
-      },
-      {
-        "author": "Max N.",
-        "rating": 5,
-        "date": "2026-05-21",
-        "title": "Silent and powerful",
-        "text": "Compiles projects in seconds and stays completely quiet."
-      }
-    ],
-    "inStock": true
-  },
-  {
-    "id": "imac-m4-512gb-purple",
-    "sku": "539459",
-    "category": "mac",
-    "namespaceId": "imac-m4",
-    "name": "iMac 24-inch M4 512GB Purple",
-    "modelName": "iMac 24-inch M4",
-    "year": 2024,
-    "capacityAvailable": [
-      "256GB",
-      "512GB"
-    ],
-    "capacity": "512GB",
     "capacityLabel": "Storage",
     "priceRegular": 1499,
     "priceDiscount": 1199,
@@ -12269,7 +12499,7 @@
       },
       {
         "label": "Chip",
-        "value": "Apple M4, 8-core CPU, 8-core GPU"
+        "value": "Apple M4, 10-core CPU, 10-core GPU"
       },
       {
         "label": "Memory",
@@ -12285,11 +12515,149 @@
       },
       {
         "label": "Ports",
-        "value": "2x Thunderbolt / USB 4"
+        "value": "4x Thunderbolt 4"
       },
       {
         "label": "Accessories",
-        "value": "Magic Keyboard, Magic Mouse"
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
+      }
+    ],
+    "rating": 4.5,
+    "reviewsCount": 287,
+    "reviews": [
+      {
+        "author": "Leo F.",
+        "rating": 5,
+        "date": "2026-07-14",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "Grace H.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Beautiful display",
+        "text": "Text is razor sharp and colors are accurate for photo editing."
+      },
+      {
+        "author": "Max N.",
+        "rating": 5,
+        "date": "2026-05-21",
+        "title": "Silent and powerful",
+        "text": "Compiles projects in seconds and stays completely quiet."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "imac-m4-512gb-purple",
+    "sku": "539459",
+    "category": "mac",
+    "namespaceId": "imac-m4",
+    "name": "iMac 24-inch M4 512GB Purple",
+    "modelName": "iMac 24-inch M4",
+    "year": 2024,
+    "capacityAvailable": [
+      "256GB",
+      "512GB"
+    ],
+    "capacity": "512GB",
+    "capacityLabel": "Storage",
+    "priceRegular": 1699,
+    "priceDiscount": 1359,
+    "colors": [
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "slug": "blue",
+        "name": "Blue",
+        "hex": "#9fbfd9"
+      },
+      {
+        "slug": "green",
+        "name": "Green",
+        "hex": "#a9cdb3"
+      },
+      {
+        "slug": "pink",
+        "name": "Pink",
+        "hex": "#f2b8c6"
+      },
+      {
+        "slug": "yellow",
+        "name": "Yellow",
+        "hex": "#f4d77a"
+      },
+      {
+        "slug": "orange",
+        "name": "Orange",
+        "hex": "#f2a37a"
+      },
+      {
+        "slug": "purple",
+        "name": "Purple",
+        "hex": "#c2b4dc"
+      }
+    ],
+    "color": "purple",
+    "images": [
+      "img/products/imac-m4/purple-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Apple M4",
+        "text": [
+          "The all-in-one iMac with Apple Intelligence built in."
+        ]
+      },
+      {
+        "title": "Center Stage camera",
+        "text": [
+          "Keeps you in frame during video calls."
+        ]
+      },
+      {
+        "title": "Previous generation, great price",
+        "text": [
+          "A colorful all-in-one for less."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "24\" 4.5K Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "4480×2520"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M4, 10-core CPU, 10-core GPU"
+      },
+      {
+        "label": "Memory",
+        "value": "16GB unified memory"
+      },
+      {
+        "label": "Camera",
+        "value": "12MP Center Stage"
+      },
+      {
+        "label": "Audio",
+        "value": "Six-speaker system"
+      },
+      {
+        "label": "Ports",
+        "value": "4x Thunderbolt 4"
+      },
+      {
+        "label": "Accessories",
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
       }
     ],
     "rating": 4.5,
@@ -15333,8 +15701,8 @@
     ],
     "capacity": "256GB",
     "capacityLabel": "Storage",
-    "priceRegular": 1299,
-    "priceDiscount": 939,
+    "priceRegular": 1499,
+    "priceDiscount": 1079,
     "colors": [
       {
         "slug": "green",
@@ -15407,7 +15775,7 @@
       },
       {
         "label": "Chip",
-        "value": "Apple M3, 8-core CPU, 8-core GPU"
+        "value": "Apple M3, 8-core CPU, 10-core GPU"
       },
       {
         "label": "Memory",
@@ -15423,11 +15791,11 @@
       },
       {
         "label": "Ports",
-        "value": "2x Thunderbolt / USB 4"
+        "value": "2x Thunderbolt / USB 4, 2x USB 3"
       },
       {
         "label": "Accessories",
-        "value": "Magic Keyboard, Magic Mouse"
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
       }
     ],
     "rating": 4.6,
@@ -15471,8 +15839,8 @@
     ],
     "capacity": "512GB",
     "capacityLabel": "Storage",
-    "priceRegular": 1499,
-    "priceDiscount": 1079,
+    "priceRegular": 1699,
+    "priceDiscount": 1219,
     "colors": [
       {
         "slug": "green",
@@ -15545,7 +15913,7 @@
       },
       {
         "label": "Chip",
-        "value": "Apple M3, 8-core CPU, 8-core GPU"
+        "value": "Apple M3, 8-core CPU, 10-core GPU"
       },
       {
         "label": "Memory",
@@ -15561,11 +15929,11 @@
       },
       {
         "label": "Ports",
-        "value": "2x Thunderbolt / USB 4"
+        "value": "2x Thunderbolt / USB 4, 2x USB 3"
       },
       {
         "label": "Accessories",
-        "value": "Magic Keyboard, Magic Mouse"
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
       }
     ],
     "rating": 4.6,
@@ -15609,8 +15977,8 @@
     ],
     "capacity": "256GB",
     "capacityLabel": "Storage",
-    "priceRegular": 1299,
-    "priceDiscount": 939,
+    "priceRegular": 1499,
+    "priceDiscount": 1079,
     "colors": [
       {
         "slug": "green",
@@ -15683,7 +16051,7 @@
       },
       {
         "label": "Chip",
-        "value": "Apple M3, 8-core CPU, 8-core GPU"
+        "value": "Apple M3, 8-core CPU, 10-core GPU"
       },
       {
         "label": "Memory",
@@ -15699,11 +16067,11 @@
       },
       {
         "label": "Ports",
-        "value": "2x Thunderbolt / USB 4"
+        "value": "2x Thunderbolt / USB 4, 2x USB 3"
       },
       {
         "label": "Accessories",
-        "value": "Magic Keyboard, Magic Mouse"
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
       }
     ],
     "rating": 4.6,
@@ -15747,8 +16115,8 @@
     ],
     "capacity": "512GB",
     "capacityLabel": "Storage",
-    "priceRegular": 1499,
-    "priceDiscount": 1079,
+    "priceRegular": 1699,
+    "priceDiscount": 1219,
     "colors": [
       {
         "slug": "green",
@@ -15821,7 +16189,7 @@
       },
       {
         "label": "Chip",
-        "value": "Apple M3, 8-core CPU, 8-core GPU"
+        "value": "Apple M3, 8-core CPU, 10-core GPU"
       },
       {
         "label": "Memory",
@@ -15837,11 +16205,11 @@
       },
       {
         "label": "Ports",
-        "value": "2x Thunderbolt / USB 4"
+        "value": "2x Thunderbolt / USB 4, 2x USB 3"
       },
       {
         "label": "Accessories",
-        "value": "Magic Keyboard, Magic Mouse"
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
       }
     ],
     "rating": 4.6,
@@ -15885,8 +16253,8 @@
     ],
     "capacity": "256GB",
     "capacityLabel": "Storage",
-    "priceRegular": 1299,
-    "priceDiscount": 939,
+    "priceRegular": 1499,
+    "priceDiscount": 1079,
     "colors": [
       {
         "slug": "green",
@@ -15959,7 +16327,7 @@
       },
       {
         "label": "Chip",
-        "value": "Apple M3, 8-core CPU, 8-core GPU"
+        "value": "Apple M3, 8-core CPU, 10-core GPU"
       },
       {
         "label": "Memory",
@@ -15975,11 +16343,11 @@
       },
       {
         "label": "Ports",
-        "value": "2x Thunderbolt / USB 4"
+        "value": "2x Thunderbolt / USB 4, 2x USB 3"
       },
       {
         "label": "Accessories",
-        "value": "Magic Keyboard, Magic Mouse"
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
       }
     ],
     "rating": 4.6,
@@ -16023,8 +16391,8 @@
     ],
     "capacity": "512GB",
     "capacityLabel": "Storage",
-    "priceRegular": 1499,
-    "priceDiscount": 1079,
+    "priceRegular": 1699,
+    "priceDiscount": 1219,
     "colors": [
       {
         "slug": "green",
@@ -16097,7 +16465,7 @@
       },
       {
         "label": "Chip",
-        "value": "Apple M3, 8-core CPU, 8-core GPU"
+        "value": "Apple M3, 8-core CPU, 10-core GPU"
       },
       {
         "label": "Memory",
@@ -16113,11 +16481,11 @@
       },
       {
         "label": "Ports",
-        "value": "2x Thunderbolt / USB 4"
+        "value": "2x Thunderbolt / USB 4, 2x USB 3"
       },
       {
         "label": "Accessories",
-        "value": "Magic Keyboard, Magic Mouse"
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
       }
     ],
     "rating": 4.6,
@@ -16161,8 +16529,8 @@
     ],
     "capacity": "256GB",
     "capacityLabel": "Storage",
-    "priceRegular": 1299,
-    "priceDiscount": 939,
+    "priceRegular": 1499,
+    "priceDiscount": 1079,
     "colors": [
       {
         "slug": "green",
@@ -16235,7 +16603,7 @@
       },
       {
         "label": "Chip",
-        "value": "Apple M3, 8-core CPU, 8-core GPU"
+        "value": "Apple M3, 8-core CPU, 10-core GPU"
       },
       {
         "label": "Memory",
@@ -16251,11 +16619,11 @@
       },
       {
         "label": "Ports",
-        "value": "2x Thunderbolt / USB 4"
+        "value": "2x Thunderbolt / USB 4, 2x USB 3"
       },
       {
         "label": "Accessories",
-        "value": "Magic Keyboard, Magic Mouse"
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
       }
     ],
     "rating": 4.6,
@@ -16299,8 +16667,8 @@
     ],
     "capacity": "512GB",
     "capacityLabel": "Storage",
-    "priceRegular": 1499,
-    "priceDiscount": 1079,
+    "priceRegular": 1699,
+    "priceDiscount": 1219,
     "colors": [
       {
         "slug": "green",
@@ -16373,7 +16741,7 @@
       },
       {
         "label": "Chip",
-        "value": "Apple M3, 8-core CPU, 8-core GPU"
+        "value": "Apple M3, 8-core CPU, 10-core GPU"
       },
       {
         "label": "Memory",
@@ -16389,11 +16757,11 @@
       },
       {
         "label": "Ports",
-        "value": "2x Thunderbolt / USB 4"
+        "value": "2x Thunderbolt / USB 4, 2x USB 3"
       },
       {
         "label": "Accessories",
-        "value": "Magic Keyboard, Magic Mouse"
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
       }
     ],
     "rating": 4.6,
@@ -16437,8 +16805,8 @@
     ],
     "capacity": "256GB",
     "capacityLabel": "Storage",
-    "priceRegular": 1299,
-    "priceDiscount": 939,
+    "priceRegular": 1499,
+    "priceDiscount": 1079,
     "colors": [
       {
         "slug": "green",
@@ -16511,7 +16879,7 @@
       },
       {
         "label": "Chip",
-        "value": "Apple M3, 8-core CPU, 8-core GPU"
+        "value": "Apple M3, 8-core CPU, 10-core GPU"
       },
       {
         "label": "Memory",
@@ -16527,11 +16895,11 @@
       },
       {
         "label": "Ports",
-        "value": "2x Thunderbolt / USB 4"
+        "value": "2x Thunderbolt / USB 4, 2x USB 3"
       },
       {
         "label": "Accessories",
-        "value": "Magic Keyboard, Magic Mouse"
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
       }
     ],
     "rating": 4.6,
@@ -16575,8 +16943,8 @@
     ],
     "capacity": "512GB",
     "capacityLabel": "Storage",
-    "priceRegular": 1499,
-    "priceDiscount": 1079,
+    "priceRegular": 1699,
+    "priceDiscount": 1219,
     "colors": [
       {
         "slug": "green",
@@ -16649,7 +17017,7 @@
       },
       {
         "label": "Chip",
-        "value": "Apple M3, 8-core CPU, 8-core GPU"
+        "value": "Apple M3, 8-core CPU, 10-core GPU"
       },
       {
         "label": "Memory",
@@ -16665,11 +17033,11 @@
       },
       {
         "label": "Ports",
-        "value": "2x Thunderbolt / USB 4"
+        "value": "2x Thunderbolt / USB 4, 2x USB 3"
       },
       {
         "label": "Accessories",
-        "value": "Magic Keyboard, Magic Mouse"
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
       }
     ],
     "rating": 4.6,
@@ -16713,8 +17081,8 @@
     ],
     "capacity": "256GB",
     "capacityLabel": "Storage",
-    "priceRegular": 1299,
-    "priceDiscount": 939,
+    "priceRegular": 1499,
+    "priceDiscount": 1079,
     "colors": [
       {
         "slug": "green",
@@ -16787,7 +17155,7 @@
       },
       {
         "label": "Chip",
-        "value": "Apple M3, 8-core CPU, 8-core GPU"
+        "value": "Apple M3, 8-core CPU, 10-core GPU"
       },
       {
         "label": "Memory",
@@ -16803,11 +17171,11 @@
       },
       {
         "label": "Ports",
-        "value": "2x Thunderbolt / USB 4"
+        "value": "2x Thunderbolt / USB 4, 2x USB 3"
       },
       {
         "label": "Accessories",
-        "value": "Magic Keyboard, Magic Mouse"
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
       }
     ],
     "rating": 4.6,
@@ -16851,8 +17219,8 @@
     ],
     "capacity": "512GB",
     "capacityLabel": "Storage",
-    "priceRegular": 1499,
-    "priceDiscount": 1079,
+    "priceRegular": 1699,
+    "priceDiscount": 1219,
     "colors": [
       {
         "slug": "green",
@@ -16925,7 +17293,7 @@
       },
       {
         "label": "Chip",
-        "value": "Apple M3, 8-core CPU, 8-core GPU"
+        "value": "Apple M3, 8-core CPU, 10-core GPU"
       },
       {
         "label": "Memory",
@@ -16941,11 +17309,11 @@
       },
       {
         "label": "Ports",
-        "value": "2x Thunderbolt / USB 4"
+        "value": "2x Thunderbolt / USB 4, 2x USB 3"
       },
       {
         "label": "Accessories",
-        "value": "Magic Keyboard, Magic Mouse"
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
       }
     ],
     "rating": 4.6,
@@ -16988,144 +17356,6 @@
       "512GB"
     ],
     "capacity": "256GB",
-    "capacityLabel": "Storage",
-    "priceRegular": 1299,
-    "priceDiscount": 939,
-    "colors": [
-      {
-        "slug": "green",
-        "name": "Green",
-        "hex": "#a9cdb3"
-      },
-      {
-        "slug": "blue",
-        "name": "Blue",
-        "hex": "#9fbfd9"
-      },
-      {
-        "slug": "pink",
-        "name": "Pink",
-        "hex": "#f2b8c6"
-      },
-      {
-        "slug": "silver",
-        "name": "Silver",
-        "hex": "#e3e4e5"
-      },
-      {
-        "slug": "yellow",
-        "name": "Yellow",
-        "hex": "#f4d77a"
-      },
-      {
-        "slug": "orange",
-        "name": "Orange",
-        "hex": "#f2a37a"
-      },
-      {
-        "slug": "purple",
-        "name": "Purple",
-        "hex": "#c2b4dc"
-      }
-    ],
-    "color": "purple",
-    "images": [
-      "img/products/imac-m3/purple-0.webp"
-    ],
-    "description": [
-      {
-        "title": "Apple M3",
-        "text": [
-          "Up to twice as fast as iMac with M1."
-        ]
-      },
-      {
-        "title": "A stunning 4.5K display",
-        "text": [
-          "A 24-inch Retina display with over a billion colors."
-        ]
-      },
-      {
-        "title": "Previous generation, great price",
-        "text": [
-          "A colorful all-in-one for less."
-        ]
-      }
-    ],
-    "specs": [
-      {
-        "label": "Display",
-        "value": "24\" 4.5K Retina"
-      },
-      {
-        "label": "Resolution",
-        "value": "4480×2520"
-      },
-      {
-        "label": "Chip",
-        "value": "Apple M3, 8-core CPU, 8-core GPU"
-      },
-      {
-        "label": "Memory",
-        "value": "8GB unified memory"
-      },
-      {
-        "label": "Camera",
-        "value": "1080p FaceTime HD"
-      },
-      {
-        "label": "Audio",
-        "value": "Six-speaker system"
-      },
-      {
-        "label": "Ports",
-        "value": "2x Thunderbolt / USB 4"
-      },
-      {
-        "label": "Accessories",
-        "value": "Magic Keyboard, Magic Mouse"
-      }
-    ],
-    "rating": 4.6,
-    "reviewsCount": 235,
-    "reviews": [
-      {
-        "author": "Emma L.",
-        "rating": 5,
-        "date": "2026-09-18",
-        "title": "Beautiful display",
-        "text": "Text is razor sharp and colors are accurate for photo editing."
-      },
-      {
-        "author": "Emma L.",
-        "rating": 5,
-        "date": "2026-06-03",
-        "title": "Battery is unreal",
-        "text": "I charge it every two days with normal work."
-      },
-      {
-        "author": "Emma L.",
-        "rating": 4,
-        "date": "2026-05-21",
-        "title": "Silent and powerful",
-        "text": "Compiles projects in seconds and stays completely quiet."
-      }
-    ],
-    "inStock": true
-  },
-  {
-    "id": "imac-m3-512gb-purple",
-    "sku": "937707",
-    "category": "mac",
-    "namespaceId": "imac-m3",
-    "name": "iMac 24-inch M3 512GB Purple",
-    "modelName": "iMac 24-inch M3",
-    "year": 2023,
-    "capacityAvailable": [
-      "256GB",
-      "512GB"
-    ],
-    "capacity": "512GB",
     "capacityLabel": "Storage",
     "priceRegular": 1499,
     "priceDiscount": 1079,
@@ -17201,7 +17431,7 @@
       },
       {
         "label": "Chip",
-        "value": "Apple M3, 8-core CPU, 8-core GPU"
+        "value": "Apple M3, 8-core CPU, 10-core GPU"
       },
       {
         "label": "Memory",
@@ -17217,11 +17447,149 @@
       },
       {
         "label": "Ports",
-        "value": "2x Thunderbolt / USB 4"
+        "value": "2x Thunderbolt / USB 4, 2x USB 3"
       },
       {
         "label": "Accessories",
-        "value": "Magic Keyboard, Magic Mouse"
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
+      }
+    ],
+    "rating": 4.6,
+    "reviewsCount": 235,
+    "reviews": [
+      {
+        "author": "Emma L.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "title": "Beautiful display",
+        "text": "Text is razor sharp and colors are accurate for photo editing."
+      },
+      {
+        "author": "Emma L.",
+        "rating": 5,
+        "date": "2026-06-03",
+        "title": "Battery is unreal",
+        "text": "I charge it every two days with normal work."
+      },
+      {
+        "author": "Emma L.",
+        "rating": 4,
+        "date": "2026-05-21",
+        "title": "Silent and powerful",
+        "text": "Compiles projects in seconds and stays completely quiet."
+      }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "imac-m3-512gb-purple",
+    "sku": "937707",
+    "category": "mac",
+    "namespaceId": "imac-m3",
+    "name": "iMac 24-inch M3 512GB Purple",
+    "modelName": "iMac 24-inch M3",
+    "year": 2023,
+    "capacityAvailable": [
+      "256GB",
+      "512GB"
+    ],
+    "capacity": "512GB",
+    "capacityLabel": "Storage",
+    "priceRegular": 1699,
+    "priceDiscount": 1219,
+    "colors": [
+      {
+        "slug": "green",
+        "name": "Green",
+        "hex": "#a9cdb3"
+      },
+      {
+        "slug": "blue",
+        "name": "Blue",
+        "hex": "#9fbfd9"
+      },
+      {
+        "slug": "pink",
+        "name": "Pink",
+        "hex": "#f2b8c6"
+      },
+      {
+        "slug": "silver",
+        "name": "Silver",
+        "hex": "#e3e4e5"
+      },
+      {
+        "slug": "yellow",
+        "name": "Yellow",
+        "hex": "#f4d77a"
+      },
+      {
+        "slug": "orange",
+        "name": "Orange",
+        "hex": "#f2a37a"
+      },
+      {
+        "slug": "purple",
+        "name": "Purple",
+        "hex": "#c2b4dc"
+      }
+    ],
+    "color": "purple",
+    "images": [
+      "img/products/imac-m3/purple-0.webp"
+    ],
+    "description": [
+      {
+        "title": "Apple M3",
+        "text": [
+          "Up to twice as fast as iMac with M1."
+        ]
+      },
+      {
+        "title": "A stunning 4.5K display",
+        "text": [
+          "A 24-inch Retina display with over a billion colors."
+        ]
+      },
+      {
+        "title": "Previous generation, great price",
+        "text": [
+          "A colorful all-in-one for less."
+        ]
+      }
+    ],
+    "specs": [
+      {
+        "label": "Display",
+        "value": "24\" 4.5K Retina"
+      },
+      {
+        "label": "Resolution",
+        "value": "4480×2520"
+      },
+      {
+        "label": "Chip",
+        "value": "Apple M3, 8-core CPU, 10-core GPU"
+      },
+      {
+        "label": "Memory",
+        "value": "8GB unified memory"
+      },
+      {
+        "label": "Camera",
+        "value": "1080p FaceTime HD"
+      },
+      {
+        "label": "Audio",
+        "value": "Six-speaker system"
+      },
+      {
+        "label": "Ports",
+        "value": "2x Thunderbolt / USB 4, 2x USB 3"
+      },
+      {
+        "label": "Accessories",
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
       }
     ],
     "rating": 4.6,
@@ -20229,8 +20597,8 @@
     ],
     "capacity": "256GB",
     "capacityLabel": "Storage",
-    "priceRegular": 1299,
-    "priceDiscount": 709,
+    "priceRegular": 1499,
+    "priceDiscount": 819,
     "colors": [
       {
         "slug": "purple",
@@ -20323,7 +20691,7 @@
       },
       {
         "label": "Accessories",
-        "value": "Magic Keyboard, Magic Mouse"
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
       }
     ],
     "rating": 4.4,
@@ -20461,7 +20829,7 @@
       },
       {
         "label": "Accessories",
-        "value": "Magic Keyboard, Magic Mouse"
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
       }
     ],
     "rating": 4.4,
@@ -20505,8 +20873,8 @@
     ],
     "capacity": "256GB",
     "capacityLabel": "Storage",
-    "priceRegular": 1299,
-    "priceDiscount": 709,
+    "priceRegular": 1499,
+    "priceDiscount": 819,
     "colors": [
       {
         "slug": "purple",
@@ -20599,7 +20967,7 @@
       },
       {
         "label": "Accessories",
-        "value": "Magic Keyboard, Magic Mouse"
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
       }
     ],
     "rating": 4.4,
@@ -20737,7 +21105,7 @@
       },
       {
         "label": "Accessories",
-        "value": "Magic Keyboard, Magic Mouse"
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
       }
     ],
     "rating": 4.4,
@@ -20781,8 +21149,8 @@
     ],
     "capacity": "256GB",
     "capacityLabel": "Storage",
-    "priceRegular": 1299,
-    "priceDiscount": 709,
+    "priceRegular": 1499,
+    "priceDiscount": 819,
     "colors": [
       {
         "slug": "purple",
@@ -20875,7 +21243,7 @@
       },
       {
         "label": "Accessories",
-        "value": "Magic Keyboard, Magic Mouse"
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
       }
     ],
     "rating": 4.4,
@@ -21013,7 +21381,7 @@
       },
       {
         "label": "Accessories",
-        "value": "Magic Keyboard, Magic Mouse"
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
       }
     ],
     "rating": 4.4,
@@ -21057,8 +21425,8 @@
     ],
     "capacity": "256GB",
     "capacityLabel": "Storage",
-    "priceRegular": 1299,
-    "priceDiscount": 709,
+    "priceRegular": 1499,
+    "priceDiscount": 819,
     "colors": [
       {
         "slug": "purple",
@@ -21151,7 +21519,7 @@
       },
       {
         "label": "Accessories",
-        "value": "Magic Keyboard, Magic Mouse"
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
       }
     ],
     "rating": 4.4,
@@ -21289,7 +21657,7 @@
       },
       {
         "label": "Accessories",
-        "value": "Magic Keyboard, Magic Mouse"
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
       }
     ],
     "rating": 4.4,
@@ -21333,8 +21701,8 @@
     ],
     "capacity": "256GB",
     "capacityLabel": "Storage",
-    "priceRegular": 1299,
-    "priceDiscount": 709,
+    "priceRegular": 1499,
+    "priceDiscount": 819,
     "colors": [
       {
         "slug": "purple",
@@ -21427,7 +21795,7 @@
       },
       {
         "label": "Accessories",
-        "value": "Magic Keyboard, Magic Mouse"
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
       }
     ],
     "rating": 4.4,
@@ -21565,7 +21933,7 @@
       },
       {
         "label": "Accessories",
-        "value": "Magic Keyboard, Magic Mouse"
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
       }
     ],
     "rating": 4.4,
@@ -21609,8 +21977,8 @@
     ],
     "capacity": "256GB",
     "capacityLabel": "Storage",
-    "priceRegular": 1299,
-    "priceDiscount": 709,
+    "priceRegular": 1499,
+    "priceDiscount": 819,
     "colors": [
       {
         "slug": "purple",
@@ -21703,7 +22071,7 @@
       },
       {
         "label": "Accessories",
-        "value": "Magic Keyboard, Magic Mouse"
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
       }
     ],
     "rating": 4.4,
@@ -21841,7 +22209,7 @@
       },
       {
         "label": "Accessories",
-        "value": "Magic Keyboard, Magic Mouse"
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
       }
     ],
     "rating": 4.4,
@@ -21885,8 +22253,8 @@
     ],
     "capacity": "256GB",
     "capacityLabel": "Storage",
-    "priceRegular": 1299,
-    "priceDiscount": 709,
+    "priceRegular": 1499,
+    "priceDiscount": 819,
     "colors": [
       {
         "slug": "purple",
@@ -21979,7 +22347,7 @@
       },
       {
         "label": "Accessories",
-        "value": "Magic Keyboard, Magic Mouse"
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
       }
     ],
     "rating": 4.4,
@@ -22117,7 +22485,7 @@
       },
       {
         "label": "Accessories",
-        "value": "Magic Keyboard, Magic Mouse"
+        "value": "Magic Keyboard with Touch ID, Magic Mouse"
       }
     ],
     "rating": 4.4,
