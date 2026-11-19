@@ -10,8 +10,10 @@ import MenuIcon from '../../../../assets/icons/menu.svg?react';
 import CloseIcon from '../../../../assets/icons/close.svg?react';
 import SunIcon from '../../../../assets/icons/sun.svg?react';
 import MoonIcon from '../../../../assets/icons/moon.svg?react';
+import SearchIcon from '../../../../assets/icons/search.svg?react';
 import { BurgerMenu } from '../BurgerMenu';
 import { CartDrawer } from '../CartDrawer';
+import { SearchPanel } from '../SearchPanel';
 import { IconCounter } from '../IconCounter';
 import { useCart } from '../../context/CartContext';
 import { useFavorites } from '../../context/FavoritesContext';
@@ -26,12 +28,14 @@ const getIconLinkClass = ({ isActive }: { isActive: boolean }) =>
 export const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [isCartOpen, setIsCartOpen] = useState(false);
-  const { pathname } = useLocation();
+  const [isSearchOpen, setIsSearchOpen] = useState(false);
+  const { pathname, search } = useLocation();
 
   useEffect(() => {
     setIsMenuOpen(false);
     setIsCartOpen(false);
-  }, [pathname]);
+    setIsSearchOpen(false);
+  }, [pathname, search]);
 
   const { totalQuantity } = useCart();
   const { favorites } = useFavorites();
@@ -47,6 +51,15 @@ export const Header = () => {
 
   const closeCart = useCallback(() => {
     setIsCartOpen(false);
+  }, []);
+
+  const toggleSearch = () => {
+    setIsMenuOpen(false);
+    setIsSearchOpen(prev => !prev);
+  };
+
+  const closeSearch = useCallback(() => {
+    setIsSearchOpen(false);
   }, []);
 
   return (
@@ -75,6 +88,18 @@ export const Header = () => {
           </nav>
 
           <div className={styles.controls}>
+            <button
+              type="button"
+              className={classNames(styles.iconButton, {
+                [styles.iconButtonActive]: isSearchOpen,
+              })}
+              aria-label={isSearchOpen ? 'Close search' : 'Search'}
+              aria-expanded={isSearchOpen}
+              onClick={toggleSearch}
+            >
+              <SearchIcon />
+            </button>
+
             <button
               type="button"
               className={styles.iconButton}
@@ -126,6 +151,8 @@ export const Header = () => {
       {isMenuOpen && <BurgerMenu onClose={closeMenu} />}
 
       {isCartOpen && <CartDrawer onClose={closeCart} />}
+
+      {isSearchOpen && <SearchPanel onClose={closeSearch} />}
     </>
   );
 };
