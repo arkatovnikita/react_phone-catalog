@@ -6,6 +6,8 @@ import { Loader } from '../shared/components/Loader';
 import { ProductsSlider } from '../shared/components/ProductsSlider';
 import { PicturesSlider } from './components/PicturesSlider';
 import { ShopByCategory } from './components/ShopByCategory';
+import { Faq } from './components/Faq';
+import { useRecentlyViewed } from '../shared/hooks/useRecentlyViewed';
 
 const SLIDER_LIMIT = 12;
 
@@ -35,11 +37,21 @@ export const HomePage = () => {
     [products],
   );
 
+  const { viewedIds } = useRecentlyViewed();
+
+  const recentlyViewed = useMemo(
+    () =>
+      viewedIds
+        .map(itemId => products.find(product => product.itemId === itemId))
+        .filter((product): product is Product => Boolean(product)),
+    [products, viewedIds],
+  );
+
   return (
     <div className={styles.page}>
       <h1 className="visually-hidden">Orchard — Apple devices store</h1>
 
-      <PicturesSlider />
+      <PicturesSlider products={products} />
 
       <div className={styles.content}>
         {isLoading && <Loader />}
@@ -61,6 +73,15 @@ export const HomePage = () => {
             <ShopByCategory products={products} />
 
             <ProductsSlider title="Hot prices" products={hotPrices} />
+
+            {recentlyViewed.length > 0 && (
+              <ProductsSlider
+                title="Recently viewed"
+                products={recentlyViewed}
+              />
+            )}
+
+            <Faq />
           </>
         )}
       </div>

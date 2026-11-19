@@ -14,6 +14,7 @@ import { ProductInfo } from './components/ProductInfo';
 import { ProductReviews } from './components/ProductReviews';
 import { CATEGORY_TITLES } from '../shared/constants/categories';
 import { EmptyState } from '../shared/components/EmptyState';
+import { useRecentlyViewed } from '../shared/hooks/useRecentlyViewed';
 import SearchIcon from '../../assets/icons/search.svg?react';
 
 type ProductData = {
@@ -35,6 +36,7 @@ export const ProductDetailsPage = () => {
   const [isLoading, setIsLoading] = useState(true);
   const [hasError, setHasError] = useState(false);
   const [suggested, setSuggested] = useState<Product[]>([]);
+  const { addViewed } = useRecentlyViewed();
 
   useEffect(() => {
     setIsLoading(true);
@@ -47,6 +49,13 @@ export const ProductDetailsPage = () => {
   }, [productId]);
 
   const namespaceId = data?.details.namespaceId;
+  const viewedItemId = data?.product.itemId;
+
+  useEffect(() => {
+    if (viewedItemId) {
+      addViewed(viewedItemId);
+    }
+  }, [viewedItemId, addViewed]);
 
   useEffect(() => {
     if (!namespaceId) {
