@@ -10,6 +10,7 @@
 
 html {
   scrollbar-gutter: stable;
+  -webkit-tap-highlight-color: transparent;
 }
 
 body {
@@ -39,8 +40,18 @@ body:has([data-sticky-bar='visible']) {
   }
 }
 
+::selection {
+  color: var(--color-primary);
+  background-color: var(--color-selection);
+}
+
 button {
   font-family: inherit;
+  user-select: none;
+}
+
+img {
+  user-select: none;
 }
 
 :focus-visible {
