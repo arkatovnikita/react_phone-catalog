@@ -2,6 +2,7 @@
 @use '../../../../styles/mixins' as *;
 
 .bar {
+  user-select: none;
   position: fixed;
   right: 0;
   bottom: 0;
@@ -70,6 +71,7 @@
   font-size: 12px;
   text-decoration: line-through;
   color: var(--color-secondary);
+  user-select: none;
 }
 
 .button {

@@ -20,6 +20,7 @@
   font-size: 14px;
   font-weight: 600;
   color: var(--color-primary);
+  user-select: none;
 }
 
 .price {
@@ -47,6 +48,7 @@
 .currency {
   font-size: 14px;
   color: var(--color-secondary);
+  user-select: none;
 }
 
 .priceInput {
@@ -69,10 +71,15 @@
   &:focus-visible {
     outline: none;
   }
+
+  &:placeholder-shown {
+    user-select: none;
+  }
 }
 
 .dash {
   color: var(--color-secondary);
+  user-select: none;
 }
 
 .chips {

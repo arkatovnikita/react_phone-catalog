@@ -38,6 +38,7 @@
 }
 
 .links {
+  user-select: none;
   display: flex;
   flex-wrap: wrap;
   gap: 8px 24px;

@@ -78,6 +78,7 @@
   color: var(--color-on-accent);
   background-color: var(--color-accent);
   cursor: pointer;
+  user-select: none;
   transition:
     opacity $transition-duration,
     transform $transition-duration;
@@ -120,6 +121,7 @@
   color: var(--color-primary);
   background-color: var(--color-surface);
   cursor: pointer;
+  user-select: none;
   transition:
     background-color $transition-duration,
     color $transition-duration,

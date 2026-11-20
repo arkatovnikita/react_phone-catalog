@@ -30,6 +30,7 @@
 }
 
 .header {
+  user-select: none;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -153,6 +154,7 @@
 }
 
 .quantityValue {
+  user-select: none;
   width: 30px;
   font-size: 14px;
   font-weight: 600;
