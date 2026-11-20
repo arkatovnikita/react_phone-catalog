@@ -27,10 +27,94 @@
   }
 }
 
+.countValue {
+  font-weight: 600;
+  color: var(--color-primary);
+}
+
+.layout {
+  @include on-desktop {
+    display: grid;
+    grid-template-columns: 248px minmax(0, 1fr);
+    gap: 32px;
+    align-items: start;
+  }
+}
+
+.sidebar {
+  display: none;
+
+  @include on-desktop {
+    position: sticky;
+    top: 88px;
+    display: block;
+  }
+}
+
+.main {
+  min-width: 0;
+}
+
+.toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  align-items: flex-end;
+  margin-bottom: 24px;
+}
+
+.filtersButton {
+  @include button-secondary {
+    height: 44px;
+    padding-inline: 18px;
+    font-size: 14px;
+  }
+
+  @include on-desktop {
+    display: none;
+  }
+}
+
+.filtersCount {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 20px;
+  height: 20px;
+  padding: 0 6px;
+  border-radius: $radius-pill;
+  font-size: 12px;
+  color: var(--color-on-accent);
+  background-color: var(--color-accent);
+}
+
+.tags {
+  order: 3;
+  flex-basis: 100%;
+
+  &:empty {
+    display: none;
+  }
+
+  @include on-desktop {
+    flex: 1;
+    flex-basis: auto;
+    order: 0;
+    align-self: center;
+  }
+}
+
 .controls {
   display: flex;
+  flex: 1;
   gap: 12px;
-  margin-bottom: 24px;
+  justify-content: flex-end;
+  min-width: 0;
+
+  @include on-desktop {
+    flex: none;
+    margin-left: auto;
+  }
 }
 
 .sort,

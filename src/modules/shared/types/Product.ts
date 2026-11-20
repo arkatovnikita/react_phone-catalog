@@ -11,6 +11,8 @@ export interface Product {
   price: number;
   color: string;
   capacity: string;
+  capacityAvailable: string[];
+  capacityLabel: string;
   year: number;
   image: string;
   summary: string;
