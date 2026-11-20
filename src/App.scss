@@ -1,4 +1,6 @@
 @use './styles/theme';
+@use './styles/variables' as *;
+@use './styles/mixins' as *;
 
 *,
 *::before,
@@ -19,6 +21,22 @@ body {
     background-color 0.3s,
     color 0.3s;
   -webkit-font-smoothing: antialiased;
+}
+
+body:has([data-sticky-bar]) {
+  padding-bottom: $sticky-bar-height;
+
+  @include on-tablet {
+    padding-bottom: 0;
+  }
+}
+
+body:has([data-sticky-bar='visible']) {
+  --sticky-bar-height: #{$sticky-bar-height};
+
+  @include on-tablet {
+    --sticky-bar-height: 0px;
+  }
 }
 
 button {
