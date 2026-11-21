@@ -1,0 +1,1 @@
+export { FadeImage } from './FadeImage';

@@ -1,0 +1,27 @@
+.placeholder {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  border-radius: 0;
+}
+
+.image {
+  position: relative;
+  opacity: 0;
+}
+
+.imageLoaded {
+  opacity: 1;
+  animation: appear 0.45s ease-out;
+
+  @media (prefers-reduced-motion: reduce) {
+    animation: none;
+  }
+}
+
+@keyframes appear {
+  from {
+    opacity: 0;
+    transform: scale(0.97);
+  }
+}

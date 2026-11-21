@@ -3,6 +3,7 @@ import classNames from 'classnames';
 import styles from './ProductCard.module.scss';
 import { Product } from '../../types/Product';
 import { useProductActions } from '../../hooks/useProductActions';
+import { FadeImage } from '../FadeImage';
 import HeartIcon from '../../../../assets/icons/heart.svg?react';
 import HeartFilledIcon from '../../../../assets/icons/heart-filled.svg?react';
 import PlusIcon from '../../../../assets/icons/plus.svg?react';
@@ -51,7 +52,7 @@ export const ProductCard = ({ product, showFullPrice = true }: Props) => {
     >
       <div className={styles.media}>
         <Link to={productLink} className={styles.imageLink}>
-          <img
+          <FadeImage
             src={`${import.meta.env.BASE_URL}${image}`}
             alt={modelName}
             className={styles.image}

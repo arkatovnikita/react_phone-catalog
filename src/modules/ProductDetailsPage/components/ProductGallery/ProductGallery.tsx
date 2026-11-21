@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import classNames from 'classnames';
 import styles from './ProductGallery.module.scss';
+import { FadeImage } from '../../../shared/components/FadeImage';
 
 type Props = {
   images: string[];
@@ -13,7 +14,7 @@ export const ProductGallery = ({ images, name }: Props) => {
   return (
     <div className={styles.gallery}>
       <div className={styles.main}>
-        <img
+        <FadeImage
           key={images[activeIndex]}
           src={`${import.meta.env.BASE_URL}${images[activeIndex]}`}
           alt={name}
