@@ -10,6 +10,13 @@
     "price": 1999,
     "color": "Night Sky",
     "capacity": "256GB",
+    "capacityAvailable": [
+      "256GB",
+      "512GB",
+      "1TB",
+      "2TB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2026,
     "image": "img/products/iphone-duo/night-sky-0.webp",
     "summary": "7.6\" foldable OLED · A20 Pro",
@@ -39,6 +46,13 @@
     "price": 1299,
     "color": "Glacier",
     "capacity": "256GB",
+    "capacityAvailable": [
+      "256GB",
+      "512GB",
+      "1TB",
+      "2TB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2026,
     "image": "img/products/iphone-18-pro-max/glacier-0.webp",
     "summary": "6.9\" OLED · A20 Pro",
@@ -76,6 +90,13 @@
     "price": 1199,
     "color": "Burgundy",
     "capacity": "256GB",
+    "capacityAvailable": [
+      "256GB",
+      "512GB",
+      "1TB",
+      "2TB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2026,
     "image": "img/products/iphone-18-pro/burgundy-0.webp",
     "summary": "6.3\" OLED · A20 Pro",
@@ -113,6 +134,11 @@
     "price": 699,
     "color": "Soft Pink",
     "capacity": "256GB",
+    "capacityAvailable": [
+      "256GB",
+      "512GB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2026,
     "image": "img/products/iphone-17e/softpink-0.webp",
     "summary": "6.1\" OLED · A19",
@@ -146,6 +172,13 @@
     "price": 1059,
     "color": "Deep Blue",
     "capacity": "256GB",
+    "capacityAvailable": [
+      "256GB",
+      "512GB",
+      "1TB",
+      "2TB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2025,
     "image": "img/products/iphone-17-pro-max/deepblue-0.webp",
     "summary": "6.9\" OLED · A19 Pro",
@@ -179,6 +212,12 @@
     "price": 969,
     "color": "Cosmic Orange",
     "capacity": "256GB",
+    "capacityAvailable": [
+      "256GB",
+      "512GB",
+      "1TB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2025,
     "image": "img/products/iphone-17-pro/cosmicorange-0.webp",
     "summary": "6.3\" OLED · A19 Pro",
@@ -212,6 +251,12 @@
     "price": 1099,
     "color": "Sky Blue",
     "capacity": "256GB",
+    "capacityAvailable": [
+      "256GB",
+      "512GB",
+      "1TB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2025,
     "image": "img/products/iphone-air/skyblue-0.webp",
     "summary": "6.5\" OLED · A19 Pro",
@@ -249,6 +294,11 @@
     "price": 929,
     "color": "Lavender",
     "capacity": "256GB",
+    "capacityAvailable": [
+      "256GB",
+      "512GB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2025,
     "image": "img/products/iphone-17/lavender-0.webp",
     "summary": "6.3\" OLED · A19",
@@ -290,6 +340,12 @@
     "price": 959,
     "color": "Desert Titanium",
     "capacity": "256GB",
+    "capacityAvailable": [
+      "256GB",
+      "512GB",
+      "1TB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2024,
     "image": "img/products/iphone-16-pro-max/deserttitanium-0.webp",
     "summary": "6.9\" OLED · A18 Pro",
@@ -327,6 +383,13 @@
     "price": 799,
     "color": "Desert Titanium",
     "capacity": "128GB",
+    "capacityAvailable": [
+      "128GB",
+      "256GB",
+      "512GB",
+      "1TB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2024,
     "image": "img/products/iphone-16-pro/deserttitanium-0.webp",
     "summary": "6.3\" OLED · A18 Pro",
@@ -364,6 +427,12 @@
     "price": 719,
     "color": "Teal",
     "capacity": "128GB",
+    "capacityAvailable": [
+      "128GB",
+      "256GB",
+      "512GB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2024,
     "image": "img/products/iphone-16-plus/teal-0.webp",
     "summary": "6.7\" OLED · A18",
@@ -405,6 +474,12 @@
     "price": 639,
     "color": "Ultramarine",
     "capacity": "128GB",
+    "capacityAvailable": [
+      "128GB",
+      "256GB",
+      "512GB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2024,
     "image": "img/products/iphone-16/ultramarine-0.webp",
     "summary": "6.1\" OLED · A18",
@@ -446,6 +521,12 @@
     "price": 859,
     "color": "Natural Titanium",
     "capacity": "256GB",
+    "capacityAvailable": [
+      "256GB",
+      "512GB",
+      "1TB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2023,
     "image": "img/products/iphone-15-pro-max/naturaltitanium-0.webp",
     "summary": "6.7\" OLED · A17 Pro",
@@ -483,6 +564,13 @@
     "price": 719,
     "color": "Blue Titanium",
     "capacity": "128GB",
+    "capacityAvailable": [
+      "128GB",
+      "256GB",
+      "512GB",
+      "1TB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2023,
     "image": "img/products/iphone-15-pro/bluetitanium-0.webp",
     "summary": "6.1\" OLED · A17 Pro",
@@ -520,6 +608,12 @@
     "price": 649,
     "color": "Yellow",
     "capacity": "128GB",
+    "capacityAvailable": [
+      "128GB",
+      "256GB",
+      "512GB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2023,
     "image": "img/products/iphone-15-plus/yellow-0.webp",
     "summary": "6.7\" OLED · A16",
@@ -561,6 +655,12 @@
     "price": 579,
     "color": "Pink",
     "capacity": "128GB",
+    "capacityAvailable": [
+      "128GB",
+      "256GB",
+      "512GB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2023,
     "image": "img/products/iphone-15/pink-0.webp",
     "summary": "6.1\" OLED · A16",
@@ -602,6 +702,13 @@
     "price": 699,
     "color": "Gold",
     "capacity": "128GB",
+    "capacityAvailable": [
+      "128GB",
+      "256GB",
+      "512GB",
+      "1TB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2022,
     "image": "img/products/iphone-14-pro-max/gold-0.webp",
     "summary": "6.7\" OLED · A16 Bionic",
@@ -639,6 +746,13 @@
     "price": 639,
     "color": "Deep Purple",
     "capacity": "128GB",
+    "capacityAvailable": [
+      "128GB",
+      "256GB",
+      "512GB",
+      "1TB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2022,
     "image": "img/products/iphone-14-pro/deeppurple-0.webp",
     "summary": "6.1\" OLED · A16 Bionic",
@@ -676,6 +790,12 @@
     "price": 579,
     "color": "Blue",
     "capacity": "128GB",
+    "capacityAvailable": [
+      "128GB",
+      "256GB",
+      "512GB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2022,
     "image": "img/products/iphone-14-plus/blue-0.webp",
     "summary": "6.7\" OLED · A15 Bionic",
@@ -721,6 +841,12 @@
     "price": 509,
     "color": "Purple",
     "capacity": "128GB",
+    "capacityAvailable": [
+      "128GB",
+      "256GB",
+      "512GB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2022,
     "image": "img/products/iphone-14/purple-0.webp",
     "summary": "6.1\" OLED · A15 Bionic",
@@ -766,6 +892,13 @@
     "price": 599,
     "color": "Alpine Green",
     "capacity": "128GB",
+    "capacityAvailable": [
+      "128GB",
+      "256GB",
+      "512GB",
+      "1TB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2021,
     "image": "img/products/iphone-13-pro-max/alpinegreen-0.webp",
     "summary": "6.7\" OLED · A15 Bionic",
@@ -807,6 +940,13 @@
     "price": 549,
     "color": "Sierra Blue",
     "capacity": "128GB",
+    "capacityAvailable": [
+      "128GB",
+      "256GB",
+      "512GB",
+      "1TB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2021,
     "image": "img/products/iphone-13-pro/sierrablue-0.webp",
     "summary": "6.1\" OLED · A15 Bionic",
@@ -848,6 +988,12 @@
     "price": 439,
     "color": "Blue",
     "capacity": "128GB",
+    "capacityAvailable": [
+      "128GB",
+      "256GB",
+      "512GB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2021,
     "image": "img/products/iphone-13/blue-0.webp",
     "summary": "6.1\" OLED · A15 Bionic",
@@ -893,6 +1039,13 @@
     "price": 949,
     "color": "Blue",
     "capacity": "128GB",
+    "capacityAvailable": [
+      "128GB",
+      "256GB",
+      "512GB",
+      "1TB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2026,
     "image": "img/products/ipad-air-13/blue-0.webp",
     "summary": "13\" Liquid Retina · M4",
@@ -930,6 +1083,13 @@
     "price": 749,
     "color": "Purple",
     "capacity": "128GB",
+    "capacityAvailable": [
+      "128GB",
+      "256GB",
+      "512GB",
+      "1TB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2026,
     "image": "img/products/ipad-air-11/purple-0.webp",
     "summary": "11\" Liquid Retina · M4",
@@ -967,6 +1127,12 @@
     "price": 699,
     "color": "Starlight",
     "capacity": "128GB",
+    "capacityAvailable": [
+      "128GB",
+      "256GB",
+      "512GB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2026,
     "image": "img/products/ipad-mini/starlight-0.webp",
     "summary": "8.5\" OLED · A20 Pro",
@@ -996,6 +1162,13 @@
     "price": 1499,
     "color": "Space Black",
     "capacity": "256GB",
+    "capacityAvailable": [
+      "256GB",
+      "512GB",
+      "1TB",
+      "2TB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2025,
     "image": "img/products/ipad-pro-13/spaceblack-0.webp",
     "summary": "13\" Ultra Retina XDR · M5",
@@ -1025,6 +1198,13 @@
     "price": 1199,
     "color": "Space Black",
     "capacity": "256GB",
+    "capacityAvailable": [
+      "256GB",
+      "512GB",
+      "1TB",
+      "2TB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2025,
     "image": "img/products/ipad-pro-11/spaceblack-0.webp",
     "summary": "11\" Ultra Retina XDR · M5",
@@ -1054,6 +1234,13 @@
     "price": 699,
     "color": "Space Gray",
     "capacity": "128GB",
+    "capacityAvailable": [
+      "128GB",
+      "256GB",
+      "512GB",
+      "1TB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2025,
     "image": "img/products/ipad-air-13-m3/spacegray-0.webp",
     "summary": "13\" Liquid Retina · M3",
@@ -1091,6 +1278,13 @@
     "price": 529,
     "color": "Starlight",
     "capacity": "128GB",
+    "capacityAvailable": [
+      "128GB",
+      "256GB",
+      "512GB",
+      "1TB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2025,
     "image": "img/products/ipad-air-11-m3/starlight-0.webp",
     "summary": "11\" Liquid Retina · M3",
@@ -1128,6 +1322,12 @@
     "price": 449,
     "color": "Yellow",
     "capacity": "128GB",
+    "capacityAvailable": [
+      "128GB",
+      "256GB",
+      "512GB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2025,
     "image": "img/products/ipad/yellow-0.webp",
     "summary": "11\" Liquid Retina · A16",
@@ -1165,6 +1365,13 @@
     "price": 1039,
     "color": "Silver",
     "capacity": "256GB",
+    "capacityAvailable": [
+      "256GB",
+      "512GB",
+      "1TB",
+      "2TB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2024,
     "image": "img/products/ipad-pro-13-m4/silver-0.webp",
     "summary": "13\" Ultra Retina XDR · M4",
@@ -1194,6 +1401,13 @@
     "price": 799,
     "color": "Silver",
     "capacity": "256GB",
+    "capacityAvailable": [
+      "256GB",
+      "512GB",
+      "1TB",
+      "2TB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2024,
     "image": "img/products/ipad-pro-11-m4/silver-0.webp",
     "summary": "11\" Ultra Retina XDR · M4",
@@ -1223,6 +1437,12 @@
     "price": 399,
     "color": "Blue",
     "capacity": "128GB",
+    "capacityAvailable": [
+      "128GB",
+      "256GB",
+      "512GB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2024,
     "image": "img/products/ipad-mini-a17-pro/blue-0.webp",
     "summary": "8.3\" Liquid Retina · A17 Pro",
@@ -1260,6 +1480,14 @@
     "price": 699,
     "color": "Space Gray",
     "capacity": "128GB",
+    "capacityAvailable": [
+      "128GB",
+      "256GB",
+      "512GB",
+      "1TB",
+      "2TB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2022,
     "image": "img/products/ipad-pro-12-9-m2/spacegray-0.webp",
     "summary": "12.9\" Liquid Retina · M2",
@@ -1289,6 +1517,14 @@
     "price": 509,
     "color": "Silver",
     "capacity": "128GB",
+    "capacityAvailable": [
+      "128GB",
+      "256GB",
+      "512GB",
+      "1TB",
+      "2TB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2022,
     "image": "img/products/ipad-pro-11-m2/silver-0.webp",
     "summary": "11\" Liquid Retina · M2",
@@ -1318,6 +1554,11 @@
     "price": 379,
     "color": "Pink",
     "capacity": "64GB",
+    "capacityAvailable": [
+      "64GB",
+      "256GB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2022,
     "image": "img/products/ipad-air-5/pink-0.webp",
     "summary": "10.9\" Liquid Retina · M1",
@@ -1359,6 +1600,11 @@
     "price": 289,
     "color": "Blue",
     "capacity": "64GB",
+    "capacityAvailable": [
+      "64GB",
+      "256GB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2022,
     "image": "img/products/ipad-10/blue-0.webp",
     "summary": "10.9\" Liquid Retina · A14",
@@ -1396,6 +1642,11 @@
     "price": 269,
     "color": "Purple",
     "capacity": "64GB",
+    "capacityAvailable": [
+      "64GB",
+      "256GB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2021,
     "image": "img/products/ipad-mini-6/purple-0.webp",
     "summary": "8.3\" Liquid Retina · A15",
@@ -1433,6 +1684,11 @@
     "price": 179,
     "color": "Space Gray",
     "capacity": "64GB",
+    "capacityAvailable": [
+      "64GB",
+      "256GB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2021,
     "image": "img/products/ipad-9/spacegray-0.webp",
     "summary": "10.2\" Retina · A13",
@@ -1462,6 +1718,11 @@
     "price": 2699,
     "color": "Space Black",
     "capacity": "1TB",
+    "capacityAvailable": [
+      "1TB",
+      "2TB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2026,
     "image": "img/products/macbook-pro-16-m5-pro/spaceblack-0.webp",
     "summary": "16.2\" Liquid Retina XDR · M5 Pro · 24GB",
@@ -1491,6 +1752,11 @@
     "price": 2399,
     "color": "Space Black",
     "capacity": "1TB",
+    "capacityAvailable": [
+      "1TB",
+      "2TB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2026,
     "image": "img/products/macbook-pro-14-m5-pro/spaceblack-0.webp",
     "summary": "14.2\" Liquid Retina XDR · M5 Pro · 24GB",
@@ -1520,6 +1786,11 @@
     "price": 1999,
     "color": "Space Black",
     "capacity": "1TB",
+    "capacityAvailable": [
+      "1TB",
+      "2TB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2026,
     "image": "img/products/macbook-pro-14/spaceblack-0.webp",
     "summary": "14.2\" Liquid Retina XDR · M6 · 16GB",
@@ -1549,6 +1820,11 @@
     "price": 1499,
     "color": "Starlight",
     "capacity": "512GB",
+    "capacityAvailable": [
+      "512GB",
+      "1TB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2026,
     "image": "img/products/macbook-air-15/starlight-0.webp",
     "summary": "15.3\" Liquid Retina · M5 · 16GB",
@@ -1586,6 +1862,11 @@
     "price": 1299,
     "color": "Sky Blue",
     "capacity": "512GB",
+    "capacityAvailable": [
+      "512GB",
+      "1TB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2026,
     "image": "img/products/macbook-air-13/skyblue-0.webp",
     "summary": "13.6\" Liquid Retina · M5 · 16GB",
@@ -1623,6 +1904,11 @@
     "price": 1499,
     "color": "Blue",
     "capacity": "256GB",
+    "capacityAvailable": [
+      "256GB",
+      "512GB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2026,
     "image": "img/products/imac/blue-0.webp",
     "summary": "24\" 4.5K Retina · M6 · 16GB",
@@ -1672,6 +1958,11 @@
     "price": 1409,
     "color": "Silver",
     "capacity": "512GB",
+    "capacityAvailable": [
+      "512GB",
+      "1TB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2025,
     "image": "img/products/macbook-pro-14-m5/silver-0.webp",
     "summary": "14.2\" Liquid Retina XDR · M5 · 16GB",
@@ -1701,6 +1992,11 @@
     "price": 1059,
     "color": "Silver",
     "capacity": "256GB",
+    "capacityAvailable": [
+      "256GB",
+      "512GB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2025,
     "image": "img/products/macbook-air-15-m4/silver-0.webp",
     "summary": "15.3\" Liquid Retina · M4 · 16GB",
@@ -1738,6 +2034,11 @@
     "price": 879,
     "color": "Midnight",
     "capacity": "256GB",
+    "capacityAvailable": [
+      "256GB",
+      "512GB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2025,
     "image": "img/products/macbook-air-13-m4/midnight-0.webp",
     "summary": "13.6\" Liquid Retina · M4 · 16GB",
@@ -1775,6 +2076,11 @@
     "price": 1759,
     "color": "Silver",
     "capacity": "512GB",
+    "capacityAvailable": [
+      "512GB",
+      "1TB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2025,
     "image": "img/products/mac-studio-m4-max/silver-0.webp",
     "summary": "M4 Max · 36GB · Thunderbolt 5",
@@ -1800,6 +2106,11 @@
     "price": 1999,
     "color": "Silver",
     "capacity": "512GB",
+    "capacityAvailable": [
+      "512GB",
+      "1TB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2024,
     "image": "img/products/macbook-pro-16-m4-pro/silver-0.webp",
     "summary": "16.2\" Liquid Retina XDR · M4 Pro · 24GB",
@@ -1829,6 +2140,11 @@
     "price": 1279,
     "color": "Space Black",
     "capacity": "512GB",
+    "capacityAvailable": [
+      "512GB",
+      "1TB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2024,
     "image": "img/products/macbook-pro-14-m4/spaceblack-0.webp",
     "summary": "14.2\" Liquid Retina XDR · M4 · 16GB",
@@ -1858,6 +2174,11 @@
     "price": 1039,
     "color": "Starlight",
     "capacity": "256GB",
+    "capacityAvailable": [
+      "256GB",
+      "512GB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2024,
     "image": "img/products/macbook-air-15-m3/starlight-0.webp",
     "summary": "15.3\" Liquid Retina · M3 · 8GB",
@@ -1895,6 +2216,11 @@
     "price": 879,
     "color": "Space Gray",
     "capacity": "256GB",
+    "capacityAvailable": [
+      "256GB",
+      "512GB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2024,
     "image": "img/products/macbook-air-13-m3/spacegray-0.webp",
     "summary": "13.6\" Liquid Retina · M3 · 8GB",
@@ -1932,6 +2258,11 @@
     "price": 1199,
     "color": "Silver",
     "capacity": "256GB",
+    "capacityAvailable": [
+      "256GB",
+      "512GB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2024,
     "image": "img/products/imac-m4/silver-0.webp",
     "summary": "24\" 4.5K Retina · M4 · 16GB",
@@ -1981,6 +2312,11 @@
     "price": 479,
     "color": "Silver",
     "capacity": "256GB",
+    "capacityAvailable": [
+      "256GB",
+      "512GB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2024,
     "image": "img/products/mac-mini-m4/silver-0.webp",
     "summary": "M4 · 16GB · 5×5 inch design",
@@ -2006,6 +2342,11 @@
     "price": 1799,
     "color": "Space Black",
     "capacity": "512GB",
+    "capacityAvailable": [
+      "512GB",
+      "1TB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2023,
     "image": "img/products/macbook-pro-16-m3-pro/spaceblack-0.webp",
     "summary": "16.2\" Liquid Retina XDR · M3 Pro · 18GB",
@@ -2035,6 +2376,11 @@
     "price": 1149,
     "color": "Space Gray",
     "capacity": "512GB",
+    "capacityAvailable": [
+      "512GB",
+      "1TB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2023,
     "image": "img/products/macbook-pro-14-m3/spacegray-0.webp",
     "summary": "14.2\" Liquid Retina XDR · M3 · 8GB",
@@ -2064,6 +2410,11 @@
     "price": 1799,
     "color": "Silver",
     "capacity": "512GB",
+    "capacityAvailable": [
+      "512GB",
+      "1TB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2023,
     "image": "img/products/macbook-pro-16-m2-pro/silver-0.webp",
     "summary": "16.2\" Liquid Retina XDR · M2 Pro · 16GB",
@@ -2093,6 +2444,11 @@
     "price": 1439,
     "color": "Space Gray",
     "capacity": "512GB",
+    "capacityAvailable": [
+      "512GB",
+      "1TB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2023,
     "image": "img/products/macbook-pro-14-m2-pro/spacegray-0.webp",
     "summary": "14.2\" Liquid Retina XDR · M2 Pro · 16GB",
@@ -2122,6 +2478,11 @@
     "price": 939,
     "color": "Midnight",
     "capacity": "256GB",
+    "capacityAvailable": [
+      "256GB",
+      "512GB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2023,
     "image": "img/products/macbook-air-15-m2/midnight-0.webp",
     "summary": "15.3\" Liquid Retina · M2 · 8GB",
@@ -2159,6 +2520,11 @@
     "price": 1079,
     "color": "Green",
     "capacity": "256GB",
+    "capacityAvailable": [
+      "256GB",
+      "512GB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2023,
     "image": "img/products/imac-m3/green-0.webp",
     "summary": "24\" 4.5K Retina · M3 · 8GB",
@@ -2208,6 +2574,11 @@
     "price": 1439,
     "color": "Silver",
     "capacity": "512GB",
+    "capacityAvailable": [
+      "512GB",
+      "1TB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2023,
     "image": "img/products/mac-studio-m2-max/silver-0.webp",
     "summary": "M2 Max · 32GB · compact pro desktop",
@@ -2233,6 +2604,11 @@
     "price": 429,
     "color": "Silver",
     "capacity": "256GB",
+    "capacityAvailable": [
+      "256GB",
+      "512GB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2023,
     "image": "img/products/mac-mini-m2/silver-0.webp",
     "summary": "M2 · 8GB · compact desktop",
@@ -2258,6 +2634,11 @@
     "price": 829,
     "color": "Space Gray",
     "capacity": "256GB",
+    "capacityAvailable": [
+      "256GB",
+      "512GB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2022,
     "image": "img/products/macbook-pro-13-m2/spacegray-0.webp",
     "summary": "13.3\" Retina · M2 · Touch Bar",
@@ -2287,6 +2668,11 @@
     "price": 769,
     "color": "Starlight",
     "capacity": "256GB",
+    "capacityAvailable": [
+      "256GB",
+      "512GB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2022,
     "image": "img/products/macbook-air-13-m2/starlight-0.webp",
     "summary": "13.6\" Liquid Retina · M2 · 8GB",
@@ -2324,6 +2710,11 @@
     "price": 1279,
     "color": "Silver",
     "capacity": "512GB",
+    "capacityAvailable": [
+      "512GB",
+      "1TB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2022,
     "image": "img/products/mac-studio-m1-max/silver-0.webp",
     "summary": "M1 Max · 32GB · compact pro desktop",
@@ -2349,6 +2740,11 @@
     "price": 1369,
     "color": "Silver",
     "capacity": "512GB",
+    "capacityAvailable": [
+      "512GB",
+      "1TB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2021,
     "image": "img/products/macbook-pro-16-m1-pro/silver-0.webp",
     "summary": "16.2\" Liquid Retina XDR · M1 Pro · 16GB",
@@ -2378,6 +2774,11 @@
     "price": 1099,
     "color": "Space Gray",
     "capacity": "512GB",
+    "capacityAvailable": [
+      "512GB",
+      "1TB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2021,
     "image": "img/products/macbook-pro-14-m1-pro/spacegray-0.webp",
     "summary": "14.2\" Liquid Retina XDR · M1 Pro · 16GB",
@@ -2407,6 +2808,11 @@
     "price": 819,
     "color": "Purple",
     "capacity": "256GB",
+    "capacityAvailable": [
+      "256GB",
+      "512GB"
+    ],
+    "capacityLabel": "Storage",
     "year": 2021,
     "image": "img/products/imac-m1/purple-0.webp",
     "summary": "24\" 4.5K Retina · M1 · 8GB",
@@ -2456,6 +2862,11 @@
     "price": 399,
     "color": "Dark Bronze",
     "capacity": "42mm",
+    "capacityAvailable": [
+      "42mm",
+      "46mm"
+    ],
+    "capacityLabel": "Case size",
     "year": 2026,
     "image": "img/products/apple-watch-series-12/darkbronze-0.webp",
     "summary": "Aluminum, titanium or ceramic",
@@ -2509,6 +2920,10 @@
     "price": 799,
     "color": "Natural Titanium",
     "capacity": "49mm",
+    "capacityAvailable": [
+      "49mm"
+    ],
+    "capacityLabel": "Case size",
     "year": 2026,
     "image": "img/products/apple-watch-ultra-4/natural-0.webp",
     "summary": "Titanium · 49mm · up to 50 hours",
@@ -2538,6 +2953,11 @@
     "price": 349,
     "color": "Rose Gold",
     "capacity": "42mm",
+    "capacityAvailable": [
+      "42mm",
+      "46mm"
+    ],
+    "capacityLabel": "Case size",
     "year": 2025,
     "image": "img/products/apple-watch-series-11/rosegold-0.webp",
     "summary": "Aluminum or titanium · up to 24 hours",
@@ -2587,6 +3007,10 @@
     "price": 699,
     "color": "Natural Titanium",
     "capacity": "49mm",
+    "capacityAvailable": [
+      "49mm"
+    ],
+    "capacityLabel": "Case size",
     "year": 2025,
     "image": "img/products/apple-watch-ultra-3/natural-0.webp",
     "summary": "Titanium · 49mm · up to 42 hours",
@@ -2616,6 +3040,11 @@
     "price": 249,
     "color": "Midnight",
     "capacity": "40mm",
+    "capacityAvailable": [
+      "40mm",
+      "44mm"
+    ],
+    "capacityLabel": "Case size",
     "year": 2025,
     "image": "img/products/apple-watch-se-3/midnight-0.webp",
     "summary": "Aluminum · S10 chip · GPS",
@@ -2645,6 +3074,11 @@
     "price": 319,
     "color": "Jet Black",
     "capacity": "42mm",
+    "capacityAvailable": [
+      "42mm",
+      "46mm"
+    ],
+    "capacityLabel": "Case size",
     "year": 2024,
     "image": "img/products/apple-watch-series-10/jetblack-0.webp",
     "summary": "Aluminum or titanium · thinnest design",
@@ -2690,6 +3124,10 @@
     "price": 579,
     "color": "Natural Titanium",
     "capacity": "49mm",
+    "capacityAvailable": [
+      "49mm"
+    ],
+    "capacityLabel": "Case size",
     "year": 2023,
     "image": "img/products/apple-watch-ultra-2/natural-0.webp",
     "summary": "Titanium · 49mm · up to 36 hours",
@@ -2719,6 +3157,11 @@
     "price": 289,
     "color": "Midnight",
     "capacity": "41mm",
+    "capacityAvailable": [
+      "41mm",
+      "45mm"
+    ],
+    "capacityLabel": "Case size",
     "year": 2023,
     "image": "img/products/apple-watch-series-9/midnight-0.webp",
     "summary": "Aluminum · S9 chip · double tap",
@@ -2744,6 +3187,11 @@
     "price": 159,
     "color": "Midnight",
     "capacity": "40mm",
+    "capacityAvailable": [
+      "40mm",
+      "44mm"
+    ],
+    "capacityLabel": "Case size",
     "year": 2022,
     "image": "img/products/apple-watch-se-2/midnight-0.webp",
     "summary": "Aluminum · S8 chip · GPS",
@@ -2777,6 +3225,8 @@
     "price": 549,
     "color": "Orange",
     "capacity": "",
+    "capacityAvailable": [],
+    "capacityLabel": "Storage",
     "year": 2026,
     "image": "img/products/airpods-max-2/orange-0.webp",
     "summary": "Over-ear · H2 · Active Noise Cancellation",
@@ -2818,6 +3268,11 @@
     "price": 129,
     "color": "White",
     "capacity": "USB-C case",
+    "capacityAvailable": [
+      "USB-C case",
+      "Wireless case"
+    ],
+    "capacityLabel": "Charging case",
     "year": 2026,
     "image": "img/products/airpods-5/white-0.webp",
     "summary": "Active Noise Cancellation · H2",
@@ -2843,6 +3298,8 @@
     "price": 249,
     "color": "White",
     "capacity": "",
+    "capacityAvailable": [],
+    "capacityLabel": "Storage",
     "year": 2025,
     "image": "img/products/airpods-pro-3/white-0.webp",
     "summary": "Active Noise Cancellation · H2",
@@ -2868,6 +3325,8 @@
     "price": 439,
     "color": "Midnight",
     "capacity": "",
+    "capacityAvailable": [],
+    "capacityLabel": "Storage",
     "year": 2024,
     "image": "img/products/airpods-max-usb-c/midnight-0.webp",
     "summary": "Over-ear · H1 · Active Noise Cancellation",
@@ -2909,6 +3368,8 @@
     "price": 139,
     "color": "White",
     "capacity": "",
+    "capacityAvailable": [],
+    "capacityLabel": "Storage",
     "year": 2024,
     "image": "img/products/airpods-4-anc/white-0.webp",
     "summary": "Open-ear · H2 · Active Noise Cancellation",
@@ -2934,6 +3395,8 @@
     "price": 99,
     "color": "White",
     "capacity": "",
+    "capacityAvailable": [],
+    "capacityLabel": "Storage",
     "year": 2024,
     "image": "img/products/airpods-4/white-0.webp",
     "summary": "Open-ear · H2",
@@ -2959,6 +3422,11 @@
     "price": 159,
     "color": "White",
     "capacity": "USB-C case",
+    "capacityAvailable": [
+      "USB-C case",
+      "Lightning case"
+    ],
+    "capacityLabel": "Charging case",
     "year": 2022,
     "image": "img/products/airpods-pro-2/white-0.webp",
     "summary": "Active Noise Cancellation · H2",
@@ -2984,6 +3452,11 @@
     "price": 89,
     "color": "White",
     "capacity": "Lightning case",
+    "capacityAvailable": [
+      "Lightning case",
+      "MagSafe case"
+    ],
+    "capacityLabel": "Charging case",
     "year": 2021,
     "image": "img/products/airpods-3/white-0.webp",
     "summary": "Spatial Audio · H1",
@@ -3009,6 +3482,8 @@
     "price": 129,
     "color": "Apple Pencil Pro",
     "capacity": "",
+    "capacityAvailable": [],
+    "capacityLabel": "Storage",
     "year": 2024,
     "image": "img/products/apple-pencil-pro/default-0.webp",
     "summary": "Squeeze, barrel roll, haptics",
@@ -3034,6 +3509,8 @@
     "price": 39,
     "color": "MagSafe Charger (1 m)",
     "capacity": "",
+    "capacityAvailable": [],
+    "capacityLabel": "Storage",
     "year": 2025,
     "image": "img/products/magsafe-charger/default-0.webp",
     "summary": "Up to 25W wireless",
@@ -3059,6 +3536,8 @@
     "price": 99,
     "color": "iPhone Air MagSafe Battery",
     "capacity": "",
+    "capacityAvailable": [],
+    "capacityLabel": "Storage",
     "year": 2025,
     "image": "img/products/iphone-air-magsafe-battery/default-0.webp",
     "summary": "Snap-on battery for iPhone Air",
@@ -3084,6 +3563,8 @@
     "price": 39,
     "color": "40W Dynamic Power Adapter",
     "capacity": "",
+    "capacityAvailable": [],
+    "capacityLabel": "Storage",
     "year": 2025,
     "image": "img/products/40w-dynamic-power-adapter/default-0.webp",
     "summary": "Up to 60W max, USB-C",
@@ -3109,6 +3590,8 @@
     "price": 19,
     "color": "20W USB-C Power Adapter",
     "capacity": "",
+    "capacityAvailable": [],
+    "capacityLabel": "Storage",
     "year": 2024,
     "image": "img/products/20w-usb-c-power-adapter/default-0.webp",
     "summary": "Fast charging, USB-C",
@@ -3134,6 +3617,8 @@
     "price": 49,
     "color": "USB-C to MagSafe 3 Cable (2 m)",
     "capacity": "",
+    "capacityAvailable": [],
+    "capacityLabel": "Storage",
     "year": 2024,
     "image": "img/products/usb-c-to-magsafe-3-cable/default-0.webp",
     "summary": "Braided, Space Black",
@@ -3159,6 +3644,8 @@
     "price": 99,
     "color": "AirTag 4 pack",
     "capacity": "",
+    "capacityAvailable": [],
+    "capacityLabel": "Storage",
     "year": 2026,
     "image": "img/products/airtag-4-pack/default-0.webp",
     "summary": "Find your things with Find My",
@@ -3184,6 +3671,8 @@
     "price": 35,
     "color": "Burgundy",
     "capacity": "",
+    "capacityAvailable": [],
+    "capacityLabel": "Storage",
     "year": 2026,
     "image": "img/products/airtag-finewoven-key-ring/burgundy-0.webp",
     "summary": "FineWoven, two colors",
@@ -3213,6 +3702,8 @@
     "price": 49,
     "color": "iPhone 18 Pro Max Silicone Case with MagSafe",
     "capacity": "",
+    "capacityAvailable": [],
+    "capacityLabel": "Storage",
     "year": 2026,
     "image": "img/products/iphone-18-pro-max-silicone-case/default-0.webp",
     "summary": "Crisp Blue, MagSafe",
@@ -3238,6 +3729,8 @@
     "price": 59,
     "color": "iPhone FineWoven Wallet with MagSafe",
     "capacity": "",
+    "capacityAvailable": [],
+    "capacityLabel": "Storage",
     "year": 2026,
     "image": "img/products/iphone-finewoven-wallet/default-0.webp",
     "summary": "Wildflower Blue, Find My",
@@ -3263,6 +3756,8 @@
     "price": 79,
     "color": "iPhone Duo Case",
     "capacity": "",
+    "capacityAvailable": [],
+    "capacityLabel": "Storage",
     "year": 2026,
     "image": "img/products/iphone-duo-case/default-0.webp",
     "summary": "Navy Blue, covers both halves",

@@ -106,6 +106,7 @@
 }
 
 .heading {
+  user-select: none;
   margin: 22px 0 8px;
   font-size: 12px;
   font-weight: 600;
@@ -115,6 +116,7 @@
 }
 
 .hint {
+  user-select: none;
   margin: 0 0 12px;
   font-size: 15px;
   color: var(--color-secondary);
@@ -153,6 +155,7 @@
 }
 
 .results {
+  user-select: none;
   margin: 0;
   padding: 0;
   list-style: none;
@@ -233,6 +236,7 @@
   font-size: 12px;
   font-weight: 400;
   color: var(--color-secondary);
+  user-select: none;
 }
 
 .all {

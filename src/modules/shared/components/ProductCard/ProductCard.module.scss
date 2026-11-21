@@ -61,6 +61,7 @@
   line-height: 16px;
   color: var(--color-white);
   background-color: var(--color-red);
+  user-select: none;
 }
 
 .badgeNew {
@@ -117,6 +118,7 @@
 .moreColors {
   font-size: 12px;
   color: var(--color-secondary);
+  user-select: none;
 }
 
 .name {
@@ -188,6 +190,7 @@
   font-weight: 500;
   text-decoration: line-through;
   color: var(--color-secondary);
+  user-select: none;
 }
 
 .addButton {

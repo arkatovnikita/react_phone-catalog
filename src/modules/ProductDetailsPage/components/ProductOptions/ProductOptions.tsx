@@ -5,6 +5,8 @@ import { Product } from '../../../shared/types/Product';
 import { ProductDetails } from '../../../shared/types/ProductDetails';
 import { useProductActions } from '../../../shared/hooks/useProductActions';
 import { Rating } from '../../../shared/components/Rating';
+import { useInView } from '../../../shared/hooks/useInView';
+import { StickyBuyBar } from '../StickyBuyBar';
 import HeartIcon from '../../../../assets/icons/heart.svg?react';
 import HeartFilledIcon from '../../../../assets/icons/heart-filled.svg?react';
 
@@ -20,6 +22,7 @@ export const ProductOptions = ({ product, details, variants }: Props) => {
   const navigate = useNavigate();
   const { inCart, favorite, handleAddToCart, handleToggleFavorite } =
     useProductActions(product);
+  const [buttonsRef, areButtonsInView] = useInView<HTMLDivElement>();
 
   const findVariant = (color: string, capacity: string) =>
     variants.find(item => item.color === color && item.capacity === capacity);
@@ -149,7 +152,7 @@ export const ProductOptions = ({ product, details, variants }: Props) => {
           : 'Out of stock · This configuration is unavailable'}
       </p>
 
-      <div className={styles.buttons}>
+      <div className={styles.buttons} ref={buttonsRef}>
         <button
           type="button"
           className={classNames(styles.addButton, {
@@ -181,6 +184,18 @@ export const ProductOptions = ({ product, details, variants }: Props) => {
           </div>
         ))}
       </dl>
+
+      <StickyBuyBar
+        isVisible={!areButtonsInView}
+        image={details.images[0]}
+        title={`${details.modelName} · ${details.capacity}`}
+        price={details.priceDiscount}
+        fullPrice={details.priceRegular}
+        buttonText={buttonText}
+        isAdded={inCart}
+        isDisabled={!details.inStock}
+        onAdd={handleAddToCart}
+      />
     </div>
   );
 };

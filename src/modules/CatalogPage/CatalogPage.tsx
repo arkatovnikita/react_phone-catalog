@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from 'react';
+import { useCallback, useEffect, useMemo, useState } from 'react';
 import { useLocation, useSearchParams } from 'react-router-dom';
 import styles from './CatalogPage.module.scss';
 import { getProductsByCategory } from '../shared/api/products';
@@ -10,6 +10,18 @@ import { Loader } from '../shared/components/Loader';
 import { ProductsList } from '../shared/components/ProductsList';
 import { Select } from './components/Select';
 import { Pagination } from './components/Pagination';
+import { Filters } from './components/Filters';
+import { FiltersSheet } from './components/FiltersSheet';
+import { ActiveFilters, FilterTag } from './components/ActiveFilters';
+import {
+  CatalogFilters,
+  NEW_YEAR,
+  OPTION_FILTERS,
+  countActiveFilters,
+  filterProducts,
+  getFilterCounts,
+  getPriceRange,
+} from './utils/filters';
 
 const SORT_OPTIONS = [
   { value: 'age', label: 'Newest' },
@@ -24,6 +36,10 @@ const PER_PAGE_OPTIONS = [
   { value: '16', label: '16' },
   { value: 'all', label: 'All' },
 ];
+
+const FILTER_PARAMS = ['minPrice', 'maxPrice', 'sale', 'new'];
+
+type ParamValue = string | string[] | null;
 
 const sortProducts = (products: Product[], sort: string) => {
   const sorted = [...products];
@@ -47,6 +63,12 @@ const sortProducts = (products: Product[], sort: string) => {
   }
 };
 
+const parsePrice = (value: string | null) => {
+  const price = Number(value);
+
+  return value && Number.isFinite(price) && price >= 0 ? price : null;
+};
+
 export const CatalogPage = () => {
   const { pathname } = useLocation();
   const category = pathname.slice(1) as Category;
@@ -56,10 +78,23 @@ export const CatalogPage = () => {
   const [isLoading, setIsLoading] = useState(true);
   const [hasError, setHasError] = useState(false);
   const [reloadKey, setReloadKey] = useState(0);
+  const [isSheetOpen, setIsSheetOpen] = useState(false);
 
+  const optionFilter = OPTION_FILTERS[category];
   const sort = searchParams.get('sort') || 'age';
   const perPage = searchParams.get('perPage') || 'all';
   const page = Number(searchParams.get('page')) || 1;
+
+  const filters: CatalogFilters = useMemo(
+    () => ({
+      minPrice: parsePrice(searchParams.get('minPrice')),
+      maxPrice: parsePrice(searchParams.get('maxPrice')),
+      options: optionFilter ? searchParams.getAll(optionFilter.param) : [],
+      sale: searchParams.get('sale') === '1',
+      isNew: searchParams.get('new') === '1',
+    }),
+    [searchParams, optionFilter],
+  );
 
   useEffect(() => {
     setIsLoading(true);
@@ -71,10 +106,24 @@ export const CatalogPage = () => {
       .finally(() => setIsLoading(false));
   }, [category, reloadKey]);
 
-  const sortedProducts = useMemo(
-    () => sortProducts(products, sort),
-    [products, sort],
+  const filteredProducts = useMemo(
+    () => filterProducts(products, filters),
+    [products, filters],
   );
+
+  const sortedProducts = useMemo(
+    () => sortProducts(filteredProducts, sort),
+    [filteredProducts, sort],
+  );
+
+  const counts = useMemo(
+    () => getFilterCounts(products, filters),
+    [products, filters],
+  );
+
+  const priceRange = useMemo(() => getPriceRange(products), [products]);
+  const resultsCount = sortedProducts.length;
+  const activeFiltersCount = countActiveFilters(filters);
 
   const itemsPerPage =
     perPage === 'all' ? sortedProducts.length : Number(perPage);
@@ -88,18 +137,24 @@ export const CatalogPage = () => {
     currentPage * itemsPerPage,
   );
 
-  const updateParams = (params: Record<string, string | null>) => {
+  const updateParams = (params: Record<string, ParamValue>) => {
     const newParams = new URLSearchParams(searchParams);
 
     Object.entries(params).forEach(([key, value]) => {
-      if (value === null) {
-        newParams.delete(key);
-      } else {
+      newParams.delete(key);
+
+      if (Array.isArray(value)) {
+        value.forEach(item => newParams.append(key, item));
+      } else if (value !== null) {
         newParams.set(key, value);
       }
     });
 
     setSearchParams(newParams);
+  };
+
+  const updateFilters = (params: Record<string, ParamValue>) => {
+    updateParams({ ...params, page: null });
   };
 
   const handleSortChange = (value: string) => {
@@ -113,6 +168,121 @@ export const CatalogPage = () => {
   const handlePageChange = (newPage: number) => {
     updateParams({ page: newPage === 1 ? null : String(newPage) });
     window.scrollTo({ top: 0, behavior: 'smooth' });
+  };
+
+  const handlePriceChange = (min: number | null, max: number | null) => {
+    updateFilters({
+      minPrice: min === null ? null : String(min),
+      maxPrice: max === null ? null : String(max),
+    });
+  };
+
+  const setOptions = (options: string[]) => {
+    if (optionFilter) {
+      updateFilters({ [optionFilter.param]: options });
+    }
+  };
+
+  const toggleOption = (option: string) => {
+    setOptions(
+      filters.options.includes(option)
+        ? filters.options.filter(item => item !== option)
+        : [...filters.options, option],
+    );
+  };
+
+  const toggleSale = () => {
+    updateFilters({ sale: filters.sale ? null : '1' });
+  };
+
+  const toggleNew = () => {
+    updateFilters({ new: filters.isNew ? null : '1' });
+  };
+
+  const clearFilters = () => {
+    const params: Record<string, null> = {};
+
+    [...FILTER_PARAMS, optionFilter?.param]
+      .filter((key): key is string => Boolean(key))
+      .forEach(key => {
+        params[key] = null;
+      });
+
+    updateFilters(params);
+  };
+
+  const closeSheet = useCallback(() => setIsSheetOpen(false), []);
+
+  const tags: FilterTag[] = filters.options.map(option => ({
+    key: option,
+    label: option,
+    onRemove: () => toggleOption(option),
+  }));
+
+  if (filters.minPrice !== null || filters.maxPrice !== null) {
+    const min = filters.minPrice ?? priceRange.min;
+    const max = filters.maxPrice ?? priceRange.max;
+
+    tags.unshift({
+      key: 'price',
+      label: `$${min} – $${max}`,
+      onRemove: () => handlePriceChange(null, null),
+    });
+  }
+
+  if (filters.sale) {
+    tags.push({ key: 'sale', label: 'On sale', onRemove: toggleSale });
+  }
+
+  if (filters.isNew) {
+    tags.push({ key: 'new', label: `New in ${NEW_YEAR}`, onRemove: toggleNew });
+  }
+
+  const filtersPanel = (
+    <Filters
+      filters={filters}
+      priceRange={priceRange}
+      optionLabel={optionFilter?.label}
+      options={counts.options}
+      saleCount={counts.sale}
+      newCount={counts.isNew}
+      onPriceChange={handlePriceChange}
+      onToggleOption={toggleOption}
+      onToggleSale={toggleSale}
+      onToggleNew={toggleNew}
+    />
+  );
+
+  const renderProducts = () => {
+    if (sortedProducts.length === 0) {
+      return (
+        <div className={styles.message}>
+          <p className={styles.messageText}>No models match these filters</p>
+
+          <button
+            type="button"
+            className={styles.reload}
+            onClick={clearFilters}
+          >
+            Clear all filters
+          </button>
+        </div>
+      );
+    }
+
+    return (
+      <>
+        <ProductsList products={visibleProducts} />
+
+        {pagesCount > 1 && (
+          <Pagination
+            pagesCount={pagesCount}
+            currentPage={currentPage}
+            onPageChange={handlePageChange}
+          />
+        )}
+      </>
+    );
   };
 
   const renderContent = () => {
@@ -145,35 +315,64 @@ export const CatalogPage = () => {
     }
 
     return (
-      <>
-        <div className={styles.controls}>
-          <Select
-            label="Sort by"
-            value={sort}
-            options={SORT_OPTIONS}
-            onChange={handleSortChange}
-            className={styles.sort}
-          />
+      <div className={styles.layout}>
+        <aside className={styles.sidebar} aria-label="Filters">
+          {filtersPanel}
+        </aside>
 
-          <Select
-            label="Items on page"
-            value={perPage}
-            options={PER_PAGE_OPTIONS}
-            onChange={handlePerPageChange}
-            className={styles.perPage}
-          />
+        <div className={styles.main}>
+          <div className={styles.toolbar}>
+            <button
+              type="button"
+              className={styles.filtersButton}
+              aria-haspopup="dialog"
+              onClick={() => setIsSheetOpen(true)}
+            >
+              Filters
+              {activeFiltersCount > 0 && (
+                <span className={styles.filtersCount}>
+                  {activeFiltersCount}
+                </span>
+              )}
+            </button>
+
+            <div className={styles.tags}>
+              <ActiveFilters tags={tags} onClearAll={clearFilters} />
+            </div>
+
+            <div className={styles.controls}>
+              <Select
+                label="Sort by"
+                value={sort}
+                options={SORT_OPTIONS}
+                onChange={handleSortChange}
+                className={styles.sort}
+              />
+
+              <Select
+                label="Items on page"
+                value={perPage}
+                options={PER_PAGE_OPTIONS}
+                onChange={handlePerPageChange}
+                className={styles.perPage}
+              />
+            </div>
+          </div>
+
+          {renderProducts()}
         </div>
 
-        <ProductsList products={visibleProducts} />
-
-        {pagesCount > 1 && (
-          <Pagination
-            pagesCount={pagesCount}
-            currentPage={currentPage}
-            onPageChange={handlePageChange}
-          />
+        {isSheetOpen && (
+          <FiltersSheet
+            resultsCount={sortedProducts.length}
+            hasFilters={activeFiltersCount > 0}
+            onClearAll={clearFilters}
+            onClose={closeSheet}
+          >
+            {filtersPanel}
+          </FiltersSheet>
         )}
-      </>
+      </div>
     );
   };
 
@@ -184,7 +383,16 @@ export const CatalogPage = () => {
       <h1 className={styles.title}>{CATEGORY_TITLES[category]}</h1>
 
       {!isLoading && !hasError && (
-        <p className={styles.count}>{products.length} models</p>
+        <p className={styles.count}>
+          {activeFiltersCount > 0 ? (
+            <>
+              <span className={styles.countValue}>{resultsCount}</span> of{' '}
+              {products.length} models
+            </>
+          ) : (
+            `${products.length} models`
+          )}
+        </p>
       )}
 
       {renderContent()}

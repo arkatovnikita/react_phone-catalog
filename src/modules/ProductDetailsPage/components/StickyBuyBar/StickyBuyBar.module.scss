@@ -1,0 +1,98 @@
+@use '../../../../styles/variables' as *;
+@use '../../../../styles/mixins' as *;
+
+.bar {
+  user-select: none;
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 15;
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  min-height: $sticky-bar-height;
+  padding: 10px 16px calc(10px + env(safe-area-inset-bottom));
+  border-top: 1px solid var(--color-elements);
+  background-color: var(--color-header);
+  backdrop-filter: saturate(180%) blur(20px);
+  visibility: hidden;
+  transform: translateY(100%);
+  transition:
+    transform $transition-duration,
+    visibility $transition-duration;
+
+  @include on-tablet {
+    display: none;
+  }
+}
+
+.visible {
+  visibility: visible;
+  transform: none;
+}
+
+.image {
+  flex-shrink: 0;
+  width: 44px;
+  height: 44px;
+  border-radius: 10px;
+  object-fit: contain;
+  background-color: var(--color-surface);
+}
+
+.info {
+  flex: 1;
+  min-width: 0;
+}
+
+.title {
+  overflow: hidden;
+  margin: 0;
+  font-size: 13px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  color: var(--color-secondary);
+}
+
+.prices {
+  display: flex;
+  gap: 6px;
+  align-items: baseline;
+  margin: 0;
+}
+
+.price {
+  font-size: 17px;
+  font-weight: 700;
+}
+
+.fullPrice {
+  font-size: 12px;
+  text-decoration: line-through;
+  color: var(--color-secondary);
+  user-select: none;
+}
+
+.button {
+  @include button-primary {
+    flex-shrink: 0;
+    height: 44px;
+    padding-inline: 20px;
+  }
+
+  &:disabled {
+    color: var(--color-secondary);
+    background-color: var(--color-surface);
+    opacity: 1;
+    cursor: not-allowed;
+  }
+}
+
+.buttonAdded,
+.buttonAdded:hover {
+  color: var(--color-green);
+  background-color: var(--color-brand-soft);
+  opacity: 1;
+  cursor: default;
+}

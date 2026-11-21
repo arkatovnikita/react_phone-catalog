@@ -4,9 +4,10 @@
 .toaster {
   position: fixed;
   right: 16px;
-  bottom: 16px;
+  bottom: calc(16px + var(--sticky-bar-height, 0px));
   left: 16px;
   z-index: 30;
+  transition: bottom $transition-duration;
   display: flex;
   flex-direction: column;
   gap: 8px;
@@ -22,6 +23,7 @@
 }
 
 .toast {
+  user-select: none;
   display: flex;
   gap: 12px;
   align-items: center;
