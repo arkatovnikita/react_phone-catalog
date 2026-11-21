@@ -30,6 +30,7 @@ export const Header = () => {
   const [isCartOpen, setIsCartOpen] = useState(false);
   const [isSearchOpen, setIsSearchOpen] = useState(false);
   const { pathname, search } = useLocation();
+  const isCheckout = pathname === '/checkout';
 
   useEffect(() => {
     setIsMenuOpen(false);
@@ -75,30 +76,38 @@ export const Header = () => {
             <Logo />
           </Link>
 
-          <nav className={styles.nav}>
-            <ul className={styles.navList}>
-              {navItems.map(({ title, path }) => (
-                <li key={path}>
-                  <NavLink to={path} className={getNavLinkClass}>
-                    {title}
-                  </NavLink>
-                </li>
-              ))}
-            </ul>
-          </nav>
+          {!isCheckout && (
+            <nav className={styles.nav}>
+              <ul className={styles.navList}>
+                {navItems.map(({ title, path }) => (
+                  <li key={path}>
+                    <NavLink to={path} className={getNavLinkClass}>
+                      {title}
+                    </NavLink>
+                  </li>
+                ))}
+              </ul>
+            </nav>
+          )}
 
-          <div className={styles.controls}>
-            <button
-              type="button"
-              className={classNames(styles.iconButton, {
-                [styles.iconButtonActive]: isSearchOpen,
-              })}
-              aria-label={isSearchOpen ? 'Close search' : 'Search'}
-              aria-expanded={isSearchOpen}
-              onClick={toggleSearch}
-            >
-              <SearchIcon />
-            </button>
+          <div
+            className={classNames(styles.controls, {
+              [styles.controlsEnd]: isCheckout,
+            })}
+          >
+            {!isCheckout && (
+              <button
+                type="button"
+                className={classNames(styles.iconButton, {
+                  [styles.iconButtonActive]: isSearchOpen,
+                })}
+                aria-label={isSearchOpen ? 'Close search' : 'Search'}
+                aria-expanded={isSearchOpen}
+                onClick={toggleSearch}
+              >
+                <SearchIcon />
+              </button>
+            )}
 
             <button
               type="button"
@@ -113,37 +122,44 @@ export const Header = () => {
               {theme === 'light' ? <MoonIcon /> : <SunIcon />}
             </button>
 
-            <div className={styles.actions}>
-              <NavLink
-                to="/favorites"
-                className={getIconLinkClass}
-                aria-label="Favorites"
-              >
-                <IconCounter icon={<HeartIcon />} count={favorites.length} />
-              </NavLink>
+            {!isCheckout && (
+              <>
+                <div className={styles.actions}>
+                  <NavLink
+                    to="/favorites"
+                    className={getIconLinkClass}
+                    aria-label="Favorites"
+                  >
+                    <IconCounter
+                      icon={<HeartIcon />}
+                      count={favorites.length}
+                    />
+                  </NavLink>
 
-              <button
-                type="button"
-                className={classNames(styles.iconButton, {
-                  [styles.iconButtonActive]: pathname === '/cart',
-                })}
-                aria-label="Open cart"
-                aria-haspopup="dialog"
-                onClick={() => setIsCartOpen(true)}
-              >
-                <IconCounter icon={<CartIcon />} count={totalQuantity} />
-              </button>
-            </div>
+                  <button
+                    type="button"
+                    className={classNames(styles.iconButton, {
+                      [styles.iconButtonActive]: pathname === '/cart',
+                    })}
+                    aria-label="Open cart"
+                    aria-haspopup="dialog"
+                    onClick={() => setIsCartOpen(true)}
+                  >
+                    <IconCounter icon={<CartIcon />} count={totalQuantity} />
+                  </button>
+                </div>
 
-            <button
-              type="button"
-              className={classNames(styles.iconButton, styles.menuButton)}
-              aria-label={isMenuOpen ? 'Close menu' : 'Open menu'}
-              aria-expanded={isMenuOpen}
-              onClick={toggleMenu}
-            >
-              {isMenuOpen ? <CloseIcon /> : <MenuIcon />}
-            </button>
+                <button
+                  type="button"
+                  className={classNames(styles.iconButton, styles.menuButton)}
+                  aria-label={isMenuOpen ? 'Close menu' : 'Open menu'}
+                  aria-expanded={isMenuOpen}
+                  onClick={toggleMenu}
+                >
+                  {isMenuOpen ? <CloseIcon /> : <MenuIcon />}
+                </button>
+              </>
+            )}
           </div>
         </div>
       </header>
