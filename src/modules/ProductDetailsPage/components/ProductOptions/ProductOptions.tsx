@@ -148,7 +148,7 @@ export const ProductOptions = ({ product, details, variants }: Props) => {
         })}
       >
         {details.inStock
-          ? 'In stock · Free delivery in 2–3 days'
+          ? 'In stock · Free delivery in 3–5 days'
           : 'Out of stock · This configuration is unavailable'}
       </p>
 

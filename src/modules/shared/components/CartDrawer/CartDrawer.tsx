@@ -149,7 +149,8 @@ export const CartDrawer = ({ onClose }: Props) => {
               </p>
 
               <p className={styles.note}>
-                Free delivery. Promo codes can be applied in the cart.
+                Standard delivery is free. Promo codes can be applied in the
+                cart.
               </p>
 
               <Link to="/cart" className={styles.primary} onClick={onClose}>
