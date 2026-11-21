@@ -1,6 +1,7 @@
 @use '../../../../styles/variables' as *;
 
 .back {
+  user-select: none;
   display: inline-flex;
   gap: 6px;
   align-items: center;
@@ -10,6 +11,7 @@
   border-radius: $radius-pill;
   font-size: 14px;
   font-weight: 500;
+  text-decoration: none;
   color: var(--color-secondary);
   background-color: var(--color-surface);
   cursor: pointer;

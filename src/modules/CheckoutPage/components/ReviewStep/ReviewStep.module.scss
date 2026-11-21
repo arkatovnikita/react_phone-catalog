@@ -1,0 +1,88 @@
+@use '../../../../styles/variables' as *;
+
+.block {
+  display: flex;
+  gap: 16px;
+  justify-content: space-between;
+  padding: 18px 0;
+  border-bottom: 1px solid var(--color-elements);
+
+  &:first-of-type {
+    padding-top: 0;
+  }
+}
+
+.content {
+  min-width: 0;
+}
+
+.label {
+  user-select: none;
+  margin: 0 0 6px;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--color-secondary);
+}
+
+.text,
+.payment {
+  margin: 0;
+  font-size: 15px;
+  line-height: 1.5;
+  overflow-wrap: anywhere;
+}
+
+.payment {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.brand {
+  flex-shrink: 0;
+  width: 34px;
+  height: 22px;
+}
+
+.edit {
+  flex-shrink: 0;
+  align-self: flex-start;
+  padding: 0;
+  border: none;
+  font-family: inherit;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--color-brand);
+  background: none;
+  cursor: pointer;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.notice {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+  margin: 20px 0 0;
+  padding: 14px 16px;
+  border-radius: 16px;
+  font-size: 14px;
+  line-height: 1.45;
+  background-color: var(--color-surface);
+
+  strong {
+    font-weight: 600;
+  }
+}
+
+.noticeIcon {
+  flex-shrink: 0;
+  width: 18px;
+  height: 18px;
+  margin-top: 1px;
+  color: var(--color-secondary);
+}

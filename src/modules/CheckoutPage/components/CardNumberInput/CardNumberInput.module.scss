@@ -1,0 +1,35 @@
+@use '../../../../styles/variables' as *;
+
+.wrapper {
+  position: relative;
+}
+
+.input {
+  padding-right: 100px;
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 0.02em;
+}
+
+.brands {
+  position: absolute;
+  top: 50%;
+  right: 12px;
+  display: flex;
+  gap: 6px;
+  transform: translateY(-50%);
+  pointer-events: none;
+}
+
+.brand {
+  display: block;
+  width: 38px;
+  height: 24px;
+  transition:
+    opacity $transition-duration,
+    filter $transition-duration;
+}
+
+.brandsIdle .brand {
+  opacity: 0.55;
+  filter: grayscale(1);
+}

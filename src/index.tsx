@@ -7,6 +7,7 @@ import { CatalogPage } from './modules/CatalogPage';
 import { ProductDetailsPage } from './modules/ProductDetailsPage';
 import { FavoritesPage } from './modules/FavoritesPage';
 import { CartPage } from './modules/CartPage';
+import { CheckoutPage } from './modules/CheckoutPage';
 import { SearchPage } from './modules/SearchPage';
 import { NotFoundPage } from './modules/NotFoundPage';
 import { CartProvider } from './modules/shared/context/CartContext';
@@ -36,6 +37,7 @@ createRoot(document.getElementById('root') as HTMLElement).render(
               <Route path="search" element={<SearchPage />} />
               <Route path="favorites" element={<FavoritesPage />} />
               <Route path="cart" element={<CartPage />} />
+              <Route path="checkout" element={<CheckoutPage />} />
               <Route path="*" element={<NotFoundPage />} />
             </Route>
           </Routes>

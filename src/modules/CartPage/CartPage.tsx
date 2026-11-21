@@ -12,24 +12,9 @@ const EMPTY_CART_TEXT =
   "Looks like you haven't added anything yet. Explore the latest " +
   'Apple devices and find something you love.';
 
-const CHECKOUT_MESSAGE =
-  'Checkout is not implemented yet. Do you want to clear the Cart?';
-
 export const CartPage = () => {
-  const {
-    cartItems,
-    totalPrice,
-    totalQuantity,
-    discount,
-    finalPrice,
-    clearCart,
-  } = useCart();
-
-  const handleCheckout = () => {
-    if (window.confirm(CHECKOUT_MESSAGE)) {
-      clearCart();
-    }
-  };
+  const { cartItems, totalPrice, totalQuantity, discount, finalPrice } =
+    useCart();
 
   return (
     <section className={styles.page}>
@@ -75,7 +60,7 @@ export const CartPage = () => {
               )}
 
               <div className={styles.row}>
-                <dt>Delivery</dt>
+                <dt>Standard delivery</dt>
                 <dd className={styles.free}>Free</dd>
               </div>
             </dl>
@@ -87,13 +72,9 @@ export const CartPage = () => {
               <span className={styles.totalValue}>${finalPrice}</span>
             </p>
 
-            <button
-              type="button"
-              className={styles.checkout}
-              onClick={handleCheckout}
-            >
+            <Link to="/checkout" className={styles.checkout}>
               Checkout
-            </button>
+            </Link>
           </div>
         </div>
       )}

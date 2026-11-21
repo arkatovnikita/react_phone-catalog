@@ -1,0 +1,80 @@
+@use '../../../../styles/variables' as *;
+@use '../../../../styles/mixins' as *;
+
+.methods {
+  margin-top: 28px;
+}
+
+.title {
+  user-select: none;
+  margin: 0 0 12px;
+  font-size: 17px;
+  font-weight: 700;
+}
+
+.options {
+  display: grid;
+  gap: 12px;
+
+  @include on-tablet {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.option {
+  user-select: none;
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  gap: 4px 12px;
+  align-items: center;
+  padding: 16px;
+  border-radius: 18px;
+  box-shadow: inset 0 0 0 1px var(--color-elements);
+  cursor: pointer;
+  transition: box-shadow $transition-duration;
+
+  &:hover {
+    box-shadow: inset 0 0 0 1px var(--color-icons);
+  }
+
+  &:focus-within {
+    box-shadow: inset 0 0 0 2px var(--color-brand);
+  }
+}
+
+.optionSelected,
+.optionSelected:hover {
+  box-shadow: inset 0 0 0 2px var(--color-primary);
+}
+
+.radio {
+  width: 20px;
+  height: 20px;
+  border: 2px solid var(--color-icons);
+  border-radius: 50%;
+  transition: border $transition-duration;
+
+  .optionSelected & {
+    border: 6px solid var(--color-primary);
+  }
+}
+
+.name,
+.price {
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.price {
+  font-variant-numeric: tabular-nums;
+}
+
+.priceFree {
+  color: var(--color-green);
+}
+
+.time {
+  grid-column: 2 / 4;
+  font-size: 13px;
+  color: var(--color-secondary);
+}

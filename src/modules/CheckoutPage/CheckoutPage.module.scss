@@ -1,0 +1,43 @@
+@use '../../styles/variables' as *;
+@use '../../styles/mixins' as *;
+
+.page {
+  padding-block: 24px 56px;
+
+  @include page-padding;
+
+  @include on-desktop {
+    padding-block: 32px 80px;
+  }
+}
+
+.title {
+  @include page-title {
+    margin-block: 16px 20px;
+  }
+
+  @include on-desktop {
+    margin-bottom: 32px;
+  }
+}
+
+.layout {
+  display: flex;
+  flex-direction: column-reverse;
+  gap: 20px;
+
+  @include on-desktop {
+    flex-direction: row;
+    gap: 32px;
+    align-items: flex-start;
+  }
+}
+
+.main {
+  flex-grow: 1;
+  min-width: 0;
+}
+
+.emptyLink {
+  @include button-primary;
+}
