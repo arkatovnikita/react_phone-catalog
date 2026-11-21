@@ -4,7 +4,7 @@ import styles from './CartPage.module.scss';
 import { useCart } from '../shared/context/CartContext';
 import { BackButton } from '../shared/components/BackButton';
 import { CartItem } from './components/CartItem';
-import { PromoCode } from './components/PromoCode';
+import { PromoCode } from '../shared/components/PromoCode';
 import { EmptyState } from '../shared/components/EmptyState';
 import CartIcon from '../../assets/icons/cart.svg?react';
 

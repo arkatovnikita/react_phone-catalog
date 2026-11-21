@@ -1,8 +1,8 @@
 import { FormEvent, useState } from 'react';
 import classNames from 'classnames';
 import styles from './PromoCode.module.scss';
-import { useCart } from '../../../shared/context/CartContext';
-import { PROMO_CODES } from '../../../shared/constants/promoCodes';
+import { useCart } from '../../context/CartContext';
+import { PROMO_CODES } from '../../constants/promoCodes';
 import CloseIcon from '../../../../assets/icons/close.svg?react';
 
 export const PromoCode = () => {

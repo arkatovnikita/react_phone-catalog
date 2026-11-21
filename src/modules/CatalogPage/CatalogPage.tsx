@@ -8,7 +8,7 @@ import { Product } from '../shared/types/Product';
 import { Breadcrumbs } from '../shared/components/Breadcrumbs';
 import { Loader } from '../shared/components/Loader';
 import { ProductsList } from '../shared/components/ProductsList';
-import { Select } from './components/Select';
+import { Select } from '../shared/components/Select';
 import { Pagination } from './components/Pagination';
 import { Filters } from './components/Filters';
 import { FiltersSheet } from './components/FiltersSheet';
