@@ -2,7 +2,6 @@ import { useEffect, useMemo, useState } from 'react';
 import styles from './HomePage.module.scss';
 import { getProducts } from '../shared/api/products';
 import { Product } from '../shared/types/Product';
-import { Loader } from '../shared/components/Loader';
 import { ProductsSlider } from '../shared/components/ProductsSlider';
 import { PicturesSlider } from './components/PicturesSlider';
 import { ShopByCategory } from './components/ShopByCategory';
@@ -54,25 +53,26 @@ export const HomePage = () => {
       <PicturesSlider products={products} />
 
       <div className={styles.content}>
-        {isLoading && <Loader />}
-
-        {hasError && (
+        {hasError ? (
           <p className={styles.error}>
             Something went wrong. Please reload the page.
           </p>
-        )}
-
-        {!isLoading && !hasError && (
+        ) : (
           <>
             <ProductsSlider
               title="Brand new models"
               products={newModels}
               showFullPrice={false}
+              isLoading={isLoading}
             />
 
-            <ShopByCategory products={products} />
+            <ShopByCategory products={products} isLoading={isLoading} />
 
-            <ProductsSlider title="Hot prices" products={hotPrices} />
+            <ProductsSlider
+              title="Hot prices"
+              products={hotPrices}
+              isLoading={isLoading}
+            />
 
             {recentlyViewed.length > 0 && (
               <ProductsSlider

@@ -1,0 +1,36 @@
+:where(.skeleton) {
+  height: 12px;
+  border-radius: 8px;
+}
+
+.skeleton {
+  display: block;
+  flex-shrink: 0;
+  max-width: 100%;
+  background-color: var(--color-skeleton);
+  background-image: linear-gradient(
+    90deg,
+    transparent 0%,
+    var(--color-skeleton-shine) 50%,
+    transparent 100%
+  );
+  background-repeat: no-repeat;
+  background-size: 50vw 100%;
+  background-attachment: fixed;
+  animation: shimmer 1.6s ease-in-out infinite;
+
+  @media (prefers-reduced-motion: reduce) {
+    background-image: none;
+    animation: none;
+  }
+}
+
+@keyframes shimmer {
+  from {
+    background-position: -50vw 0;
+  }
+
+  to {
+    background-position: 150vw 0;
+  }
+}

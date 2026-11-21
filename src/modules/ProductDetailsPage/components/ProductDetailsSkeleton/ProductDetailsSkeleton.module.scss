@@ -1,0 +1,108 @@
+@use '../../../../styles/variables' as *;
+@use '../../../../styles/mixins' as *;
+
+.breadcrumbs {
+  margin-block: 2px 22px;
+
+  @include on-desktop {
+    margin-bottom: 30px;
+  }
+}
+
+.titleLine {
+  height: 1.1em;
+}
+
+.gallery {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+
+  @include on-tablet {
+    flex-direction: row-reverse;
+    gap: 16px;
+    align-items: flex-start;
+  }
+}
+
+.main {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1;
+  border-radius: $radius-md;
+
+  @include on-tablet {
+    flex: 1;
+    min-width: 0;
+    border-radius: $radius-lg;
+  }
+}
+
+.thumbs {
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+
+  @include on-tablet {
+    flex-direction: column;
+  }
+
+  @include on-desktop {
+    gap: 12px;
+  }
+}
+
+.thumb {
+  width: 56px;
+  height: 56px;
+  border-radius: 14px;
+
+  @include on-desktop {
+    width: 80px;
+    height: 80px;
+    border-radius: 16px;
+  }
+}
+
+.options {
+  display: flex;
+  flex-direction: column;
+
+  @include on-desktop {
+    max-width: 380px;
+  }
+}
+
+.group {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  margin-bottom: 24px;
+  padding-bottom: 24px;
+  border-bottom: 1px solid var(--color-elements);
+}
+
+.row {
+  display: flex;
+  gap: 8px;
+}
+
+.stock {
+  margin-block: 14px 22px;
+}
+
+.button {
+  flex-grow: 1;
+}
+
+.specs {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  margin-top: 32px;
+}
+
+.spec {
+  display: flex;
+  justify-content: space-between;
+}

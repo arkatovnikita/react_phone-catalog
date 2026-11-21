@@ -4,8 +4,11 @@ import styles from './SearchPage.module.scss';
 import { getProducts } from '../shared/api/products';
 import { Product } from '../shared/types/Product';
 import { Breadcrumbs } from '../shared/components/Breadcrumbs';
-import { Loader } from '../shared/components/Loader';
-import { ProductsList } from '../shared/components/ProductsList';
+import { Skeleton } from '../shared/components/Skeleton';
+import {
+  ProductsList,
+  ProductsListSkeleton,
+} from '../shared/components/ProductsList';
 import { EmptyState } from '../shared/components/EmptyState';
 import { POPULAR_SEARCHES } from '../shared/constants/popularSearches';
 import { searchProducts } from '../shared/utils/searchProducts';
@@ -49,8 +52,16 @@ export const SearchPage = () => {
   );
 
   const renderContent = () => {
-    if (isLoading) {
-      return <Loader />;
+    if (isLoading && query) {
+      return (
+        <>
+          <h1 className={styles.title}>Results for “{query}”</h1>
+
+          <Skeleton width={90} height={14} className={styles.countSkeleton} />
+
+          <ProductsListSkeleton />
+        </>
+      );
     }
 
     if (hasError) {

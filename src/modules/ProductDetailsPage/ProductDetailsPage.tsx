@@ -6,12 +6,12 @@ import { Product } from '../shared/types/Product';
 import { ProductDetails } from '../shared/types/ProductDetails';
 import { Breadcrumbs } from '../shared/components/Breadcrumbs';
 import { BackButton } from '../shared/components/BackButton';
-import { Loader } from '../shared/components/Loader';
 import { ProductsSlider } from '../shared/components/ProductsSlider';
 import { ProductGallery } from './components/ProductGallery';
 import { ProductOptions } from './components/ProductOptions';
 import { ProductInfo } from './components/ProductInfo';
 import { ProductReviews } from './components/ProductReviews';
+import { ProductDetailsSkeleton } from './components/ProductDetailsSkeleton';
 import { CATEGORY_TITLES } from '../shared/constants/categories';
 import { EmptyState } from '../shared/components/EmptyState';
 import { useRecentlyViewed } from '../shared/hooks/useRecentlyViewed';
@@ -72,11 +72,7 @@ export const ProductDetailsPage = () => {
   }, [namespaceId]);
 
   if (isLoading && !data) {
-    return (
-      <section className={styles.page}>
-        <Loader />
-      </section>
-    );
+    return <ProductDetailsSkeleton />;
   }
 
   if (hasError) {

@@ -4,10 +4,12 @@ import styles from './ShopByCategory.module.scss';
 import { Category } from '../../../shared/types/Category';
 import { Product } from '../../../shared/types/Product';
 import { CATEGORIES } from '../../../shared/constants/categories';
+import { Skeleton } from '../../../shared/components/Skeleton';
 import ArrowRightIcon from '../../../../assets/icons/arrow-right.svg?react';
 
 type Props = {
   products: Product[];
+  isLoading?: boolean;
 };
 
 const COVERS: Record<Category, string> = {
@@ -19,7 +21,7 @@ const COVERS: Record<Category, string> = {
   accessories: 'img/products/airtag-4-pack/default-0.webp',
 };
 
-export const ShopByCategory = ({ products }: Props) => (
+export const ShopByCategory = ({ products, isLoading = false }: Props) => (
   <section>
     <h2 className={styles.title}>Shop by category</h2>
 
@@ -37,9 +39,17 @@ export const ShopByCategory = ({ products }: Props) => (
           >
             <h3 className={styles.name}>{title}</h3>
 
-            <p className={styles.count}>
-              {count} {count === 1 ? 'model' : 'models'}
-            </p>
+            {isLoading ? (
+              <Skeleton
+                width={64}
+                height={12}
+                className={styles.countSkeleton}
+              />
+            ) : (
+              <p className={styles.count}>
+                {count} {count === 1 ? 'model' : 'models'}
+              </p>
+            )}
 
             <span className={styles.shop}>
               Shop {title}

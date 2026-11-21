@@ -9,3 +9,11 @@
     gap: 24px 16px;
   }
 }
+
+.listSkeleton > :nth-child(n + 4) {
+  display: none;
+
+  @include on-tablet {
+    display: flex;
+  }
+}

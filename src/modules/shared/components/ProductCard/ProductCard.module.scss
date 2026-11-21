@@ -218,3 +218,27 @@
   transform: none;
   cursor: default;
 }
+
+.cardSkeleton,
+.cardSkeleton:hover {
+  box-shadow: inset 0 0 0 1px var(--color-elements);
+  transform: none;
+}
+
+.mediaSkeleton {
+  width: 100%;
+  height: 220px;
+  border-radius: 14px;
+}
+
+.nameSkeleton {
+  margin-block: 3px;
+}
+
+.specsSkeleton {
+  margin-block: 10px 4px;
+}
+
+.stockSkeleton {
+  margin-block: 11px 3px;
+}

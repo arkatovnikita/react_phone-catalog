@@ -1,0 +1,27 @@
+@use '../../../../styles/mixins' as *;
+
+.filters {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.groupTitle {
+  margin-top: 14px;
+}
+
+.chips {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+}
+
+.filtersButton {
+  @include on-desktop {
+    display: none;
+  }
+}
+
+.selectLabel {
+  margin: 3px 0 9px 4px;
+}

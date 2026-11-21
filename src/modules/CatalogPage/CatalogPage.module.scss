@@ -27,6 +27,14 @@
   }
 }
 
+.countSkeleton {
+  margin: 4px 0 32px;
+
+  @include on-desktop {
+    margin-bottom: 40px;
+  }
+}
+
 .countValue {
   font-weight: 600;
   color: var(--color-primary);

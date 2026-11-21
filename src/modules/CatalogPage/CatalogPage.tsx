@@ -6,12 +6,13 @@ import { Category } from '../shared/types/Category';
 import { CATEGORY_TITLES } from '../shared/constants/categories';
 import { Product } from '../shared/types/Product';
 import { Breadcrumbs } from '../shared/components/Breadcrumbs';
-import { Loader } from '../shared/components/Loader';
+import { Skeleton } from '../shared/components/Skeleton';
 import { ProductsList } from '../shared/components/ProductsList';
 import { Select } from '../shared/components/Select';
 import { Pagination } from './components/Pagination';
 import { Filters } from './components/Filters';
 import { FiltersSheet } from './components/FiltersSheet';
+import { CatalogSkeleton } from './components/CatalogSkeleton';
 import { ActiveFilters, FilterTag } from './components/ActiveFilters';
 import {
   CatalogFilters,
@@ -287,7 +288,7 @@ export const CatalogPage = () => {
 
   const renderContent = () => {
     if (isLoading) {
-      return <Loader />;
+      return <CatalogSkeleton />;
     }
 
     if (hasError) {
@@ -381,6 +382,10 @@ export const CatalogPage = () => {
       <Breadcrumbs links={[{ title: CATEGORY_TITLES[category] }]} />
 
       <h1 className={styles.title}>{CATEGORY_TITLES[category]}</h1>
+
+      {isLoading && (
+        <Skeleton width={80} height={14} className={styles.countSkeleton} />
+      )}
 
       {!isLoading && !hasError && (
         <p className={styles.count}>

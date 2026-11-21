@@ -111,6 +111,10 @@
   color: var(--color-secondary);
 }
 
+.countSkeleton {
+  margin-block: 8px 5px;
+}
+
 .shop {
   display: inline-flex;
   gap: 6px;
